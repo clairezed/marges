@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+
+{% include head2.html %}
+
+<body>
+  <div class="mobile__container">
+    <div class="mobile__header">
+      <div class="header__wrapper">
+      <a class="menu__title" href="{{ site.baseurl }}/">
+        {{ site.title }}
+      </a>
+      <div class="menu__slider">
+        <a>☰</a>
+      </div>
+      </div>
+    </div>
+    <nav class="mobile__nav">
+        {% include menu-flex.html %}
+    </nav>
+
+
+    <div class="mobile__main">
+      {{ content }}
+    </div>
+  </div>
+
+</body>
+
+</html>

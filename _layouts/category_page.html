@@ -1,0 +1,28 @@
+---
+layout: default
+---
+<section class="post ui container">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ site.data.categories[page.category].title  | capitalize }}</h1>
+  </header>
+
+  <div class="description">
+    {{ site.data.categories[page.category].description }}
+  </div>
+
+  <hr>
+
+  <div class="post-content">
+  <ul>
+    {% for post in site.categories[page.category] %}
+      <li>
+        <a href="#">{{ post.title }}</a>
+        ({{ post.date | date_to_string }})
+        {{ post.excerpt }}
+      </li>
+    {% endfor %}
+    </ul>
+  </div>
+
+</section>

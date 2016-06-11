@@ -1,0 +1,54 @@
+      <div class="menu">
+
+        <a class="menu__title" href="{{ site.baseurl }}/">
+          {{ site.title }}
+        </a>
+
+        <div class="menu__section">
+          <p><em>Prise de notes des internets</em></p>
+        </div>
+
+        <ul class="menu__section">
+          <li class="menu__header">Format</li>
+          <ul class="menu">
+            <li class="menu__item">
+              <a class="item" href="{{ site.baseurl }}/bafouilles">
+                <i class="home icon"></i>
+                Bafouilles
+              </a>
+            </li>
+            <li class="menu__item">
+              <a class="item" href="{{ site.baseurl }}/dossiers">
+                <i class="block layout icon"></i>
+                Dossiers
+              </a>
+            </li>
+          </ul>
+        </ul>
+
+        <<!-- div class="item">
+          <div class="header">Lubies</div>
+          <div class="menu">
+            {% for category in site.categories %}
+              {% assign lubie_name = category[0] %}
+              <a class="item"  href="{{ site.baseurl }}/lubies/{{category[0]}}">
+               {{ site.data.categories[lubie_name].title  | capitalize}}
+             <div class="ui label">{{ category[1].size }}</div>
+            </a>
+            {% endfor %}
+          </div>
+        </div>
+
+        <div class="item">
+          <div class="header">Tags ({{site.tags.size}})</div>
+          <div class="menu">
+          {% for tag in site.tags %}
+            <a class="item" href="{{ site.baseurl }}/tags/{{tag[0]}}">
+             {{ tag[0] }}
+             <div class="ui label">{{ tag[1].size }}</div>
+            </a>
+            {% endfor %}
+          </div>
+        </div> -->
+
+      </div>

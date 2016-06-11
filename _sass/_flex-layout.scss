@@ -1,0 +1,73 @@
+// Flexbox ----------------------------------------
+.container {
+  display: flex;
+  flex-flow: row;
+  // min-height: 100%;
+}
+
+.desktop__nav {
+  flex: 1;
+  min-width: 118px;
+  max-width: 160px;
+}
+
+.main {
+  order: 1;
+  flex: 1;
+  min-width: 510px;
+}
+
+// Desktop
+// .menu__title {
+//   flex-grow: 1;
+// }
+
+//Mobile ---------------------------------
+
+.mobile__container {
+  // display: flex;
+  // flex-flow: column;
+}
+.mobile__header {
+  position: fixed;
+  width: 100%;
+  background: #ccc;
+}
+  .header__wrapper {
+    display: flex;
+    flex: 1;
+    padding: 10px 15px;
+  }
+  .menu__title {
+    flex-grow: 1;
+  }
+  .menu__icon {
+    display: flex;
+  }
+.mobile__nav {
+  position: fixed;
+  top: 44px;
+  right: 0;
+  padding: 1.375em 0;
+  backface-visibility: hidden;
+  text-align: left;
+  height: 100%;
+  width: 100%;
+  transform: translateX(100%);
+  transition: all 500ms cubic-bezier(0.86, 0.01, 0.77, 0.78);
+  background: #000;
+  z-index: 20;
+  overflow-y: auto;
+  overflow-x: hidden;
+  &.is-open {
+    visibility: visible;
+    transform: translateX(0);
+  }
+}
+
+
+.mobile__main {
+  order: 1;
+  flex: 1;
+  padding-top: 44px;
+}
