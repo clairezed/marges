@@ -4,15 +4,24 @@
 {% include head2.html %}
 
 <body>
-  <div class="container">
-    <nav>
-    {% include menu-flex.html %}
-    </nav>
+
+<div class="container">
+
+  <div class="container__inner">
+
+    <aside>
+      {% include menu-flex.html %}
+    </aside>
+
     <div class="main">
-      {{ content }}
+       {{ content }}
     </div>
+
   </div>
 
-</body>
+</div>
 
+
+
+</body>
 </html>

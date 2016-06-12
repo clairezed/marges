@@ -26,29 +26,33 @@
           </ul>
         </ul>
 
-        <<!-- div class="item">
-          <div class="header">Lubies</div>
-          <div class="menu">
+        <ul class="menu__section">
+        <li class="menu__header">Lubies</li>
+          <ul class="menu">
             {% for category in site.categories %}
               {% assign lubie_name = category[0] %}
+              <li class="menu__item">
               <a class="item"  href="{{ site.baseurl }}/lubies/{{category[0]}}">
-               {{ site.data.categories[lubie_name].title  | capitalize}}
-             <div class="ui label">{{ category[1].size }}</div>
-            </a>
+                {{ site.data.categories[lubie_name].title  | capitalize}}
+               <div class="ui label">{{ category[1].size }}</div>
+              </a>
+              </li>
             {% endfor %}
-          </div>
-        </div>
+          </ul>
+        </ul>
 
-        <div class="item">
-          <div class="header">Tags ({{site.tags.size}})</div>
-          <div class="menu">
+        <ul class="item">
+          <li class="header">Tags ({{site.tags.size}})</li>
+          <ul class="menu">
           {% for tag in site.tags %}
-            <a class="item" href="{{ site.baseurl }}/tags/{{tag[0]}}">
-             {{ tag[0] }}
-             <div class="ui label">{{ tag[1].size }}</div>
-            </a>
+            <li class="menu__item">
+              <a class="item" href="{{ site.baseurl }}/tags/{{tag[0]}}">
+               {{ tag[0] }}
+               <div class="ui label">{{ tag[1].size }}</div>
+              </a>
+            </li>
             {% endfor %}
-          </div>
-        </div> -->
+          </ul>
+        </ul>
 
       </div>
