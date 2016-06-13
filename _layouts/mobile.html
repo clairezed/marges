@@ -5,25 +5,25 @@
 
 <body>
 
-  <div class="mobile__container">
+  <div class="container">
 
-    <div class="mobile__header">
+    <div class="header">
       <div class="header__wrapper">
-      <a class="menu__title" href="{{ site.baseurl }}/">
-        {{ site.title }}
-      </a>
+        <a class="menu__title" href="{{ site.baseurl }}/">
+          {{ site.title }}
+        </a>
 
-      <div class="menu__slider">
-        <a>☰</a>
-      </div>
+        <div class="menu__slider">
+          <a>☰</a>
+        </div>
       </div>
     </div>
 
-    <nav class="mobile__nav">
-        {% include menu-flex.html %}
+    <nav class="nav" data-nav="mobile">
+      {% include menu-mobile.html %}
     </nav>
 
-    <div class="mobile__main">
+    <div class="main">
       {{ content }}
     </div>
 

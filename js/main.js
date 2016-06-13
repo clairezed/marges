@@ -17,7 +17,7 @@ $(function() {
 $(document).ready(function() {
   $('.menu__slider').on('click', function() {
     console.log('click menu__slider');
-    $('.mobile__nav').toggleClass('is-open');
+    $('[data-nav="mobile"]').toggleClass('is-open');
   });
 });
 
