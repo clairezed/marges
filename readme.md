@@ -16,6 +16,18 @@ Tentatives pour un blog - test de Jekyll
 - publishing source on github (useful for plugins) : https://gist.github.com/WouterJ/4945964
 - http://www.sitepoint.com/jekyll-plugins-github/
 
+## Automating
+
+**with npm**
+
+- http://jsforallof.us/2015/02/12/utilising-node-and-npm-for-front-end-development-workflow
+
+
+## Used resources
+
+Design :
+http://webdesign.tutsplus.com/tutorials/how-to-make-responsive-scrollable-panels-with-flexbox--cms-23269
+
 ## Resources
 
 - automatic tag page creation plugin : http://www.raymondcamden.com/2015/03/05/my-experience-working-with-jekyll/
@@ -23,6 +35,7 @@ Tentatives pour un blog - test de Jekyll
 - https://mademistakes.com/articles/using-jekyll-2016/
 - https://github.com/mmistakes/made-mistakes-jekyll
 - get all tags : https://talk.jekyllrb.com/t/get-all-tags-uniques-in-multiple-collection-pages-without-a-plugin/1221/3
+
 
 ``` liquid
 <!-- Create empty arrays -->

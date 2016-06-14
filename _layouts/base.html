@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+
+{% include head.html %}
+
+<body>
+
+  <div class="layout-container">
+
+    <div class="layout-container_inner">
+
+      <aside class="desktop-nav">
+        {% include menu-desktop.html %}
+      </aside>
+
+      <div class="mobile-header">
+        <div class="mobile-header_wrapper">
+          <a class="mobile-menu_title" href="{{ site.baseurl }}/">
+            {{ site.title }}
+          </a>
+
+          <button class="mobile-menu_slider" data-toggle="mobile-nav">
+            <a>☰</a>
+          </button>
+        </div>
+      </div>
+
+      <nav class="mobile-nav" data-toggled="mobile-nav">
+        {% include menu-mobile.html %}
+      </nav>
+
+      <div class="layout-main">
+         {{ content }}
+      </div>
+
+    </div>
+
+  </div>
+
+
+
+</body>
+</html>

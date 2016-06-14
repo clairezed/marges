@@ -15,9 +15,9 @@ $(function() {
   // })
 
 $(document).ready(function() {
-  $('.menu__slider').on('click', function() {
+  $('[data-toggle="mobile-nav"]').on('click', function() {
     console.log('click menu__slider');
-    $('[data-nav="mobile"]').toggleClass('is-open');
+    $('[data-toggled="mobile-nav"]').toggleClass('is-open');
   });
 });
 
