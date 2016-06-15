@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marges</title>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</description>
+    <link>http://yourdomain.com/</link>
+    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 15 Jun 2016 13:49:42 +0200</pubDate>
+    <lastBuildDate>Wed, 15 Jun 2016 13:49:42 +0200</lastBuildDate>
+    <generator>Jekyll v3.1.2</generator>
+    
+      <item>
+        <title>how to be a programmer</title>
+        <description>&lt;p&gt;Super ressource qui s’attache à des conseils et qualités génériques, non liées à un langage, transposable. Je garde sous le coude.&lt;/p&gt;
+
+&lt;p&gt;(créé par la communauté !)&lt;/p&gt;
+
+&lt;p&gt;Source : &lt;a href=&quot;https://github.com/braydie/HowToBeAProgrammer&quot;&gt;Des actions complémentaires pour “hacker” la politique&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 31 May 2016 15:35:44 +0200</pubDate>
+        <link>http://yourdomain.com/binary_transition/2016/05/31/how-to-be-a-programmer.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/binary_transition/2016/05/31/how-to-be-a-programmer.html</guid>
+        
+        <category>professionnalisation</category>
+        
+        
+        <category>binary_transition</category>
+        
+      </item>
+    
+      <item>
+        <title>avenir solidarités</title>
+        <description>&lt;p&gt;7 familles de l’innovation pour Armelle Coz&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Citoyens autonomes&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Caractéristiques :
+- Pronent l’auto-organisation citoyenne : pas besoin des institutions pour trouver des solutions
+- Penser global, agir local
+- Méfiance / défiance vis a vis des institutions
+- L’action avant tout&lt;/p&gt;
+
+&lt;p&gt;Exemples :
+- Colibris
+- Zèbres
+- asso et ESS
+- alternatiba&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Les révolutionnaires&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Caractéristiques :
+- refusent le fonctionnement du système politique et institutionnel actuel
+- cherchent à déstabiliser ou le “hacker” via élections ou pression populaire
+- veulent une autre constitution, id est d’autres règles du jeu&lt;/p&gt;
+
+&lt;p&gt;Exemples :
+- nuit debout
+- les primaires citoyennes
+- les citoyens constituants
+- ma voix&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Les formateurs&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Caractéristiques :
+- forment les citoyens
+- diffusent une culture collaborative, ouverte, pédagogique, basée sur l’épanuissement personnel, l’autonomie et la responsabilité
+- issus de l’éduc pop, du théatre, des pédagogies alternatives, du numérique&lt;/p&gt;
+
+&lt;p&gt;Exemples :
+- université du Nous
+- Accropolis / youtubers (pédagogie vidéo)
+- scop d’educ pop (le pavé)
+- coopcité / lieux et parcours (SuperPublic, CivicHall, Liberté Living Lab, Maison du Citoyen…)
+- Voxe.org (comparateur de programme)&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Les transformateurs&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Caractéristiques :
+- veulent changer le systme de l’intérieur
+- travaillent auprès des institutions et des décideurs
+- formation, changement de méthodes, de modes d’organisation et de postures
+- accompagnement du changement&lt;/p&gt;
+
+&lt;p&gt;Exemples :
+- Elus, agente et territoires précursuers : territoires hautement citoyens, saillans…
+- 27e région (labo d’innovation publique)&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Démocratie participative&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Caractéristiques :
+- origine institutionnelle (à l’initiative des collectivités ou d’administrations)
+- &amp;lt;parfois perçue comme de la simple communication edscendante, parfois efficace et innovante
+- souvent laborieuse&lt;/p&gt;
+
+&lt;p&gt;Exemples :
+- CNDP (consultations réglementaires, avis consultatifs)
+- instances locales, conseils de quartier&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Les civic tech (les geeks)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Caractéristiques :
+- construisent des outils numériques (plateformes, sites, appli, réseaux sociaux)
+- cherchent ergonomie, accessibilité, simplicité mais parfois taxés de gadgets
+- annoncent qu’ils vont révolutionner la politique en lui appliquant les logiques pair à pair / réseau&lt;/p&gt;
+
+&lt;p&gt;Exemples :
+- &lt;strong&gt;transparence et ouverture des données publiques&lt;/strong&gt; : data.gouv.fr, OpenDataSoft
+- &lt;strong&gt;contr^ole de l’action publique&lt;/strong&gt; : nosDéputés.fr, la fabrique de la loi
+- &lt;strong&gt;campagnes électorales et vote&lt;/strong&gt; : voxe.org, DigitaleBox, LMP, Belem
+- &lt;strong&gt;interpellation et dialogue entre élus et citoyens&lt;/strong&gt; : Questionnez vos élus, change.org, we sign it, fluicity, Gov, PopVox, TellMyCity
+- &lt;strong&gt;plateformes participatives&lt;/strong&gt; : parlement et citoyens, democracy os, assembl
+- &lt;strong&gt;encouragement au bénévolat&lt;/strong&gt; : Fullmobs, bénévoles at home, communecter
+- &lt;strong&gt;plateformes de mise en relation&lt;/strong&gt; : singa, comme à la maison, voisin-age
+- &lt;strong&gt;financement participatif&lt;/strong&gt; : bulb in town, kisskissbankbank, helloAsso, microDon
+- &lt;strong&gt;science collaborative&lt;/strong&gt; : seintinelles
+- avaaz, , civocracy, le drenche, open dialog, , baztille, loomio, , stig&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Les fédérateurs&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Caractéristiques :
+- chaerchant à fédérer les initiatives qui poussent à + et mieux de démocratie
+- organisent événements, rencontres, débats
+- acculturent acteurs et décideurs&lt;/p&gt;
+
+&lt;p&gt;Exemples :
+- démocratie ouverte, institut de la concertation, Unadel, GNIAC, synergies démocratiques, pouvoir citoyen en marche&lt;/p&gt;
+
+&lt;p&gt;Source : &lt;a href=&quot;https://prezi.com/siukx_zakf-4/les-7-familles-de-linnovation-democratique/?utm_campaign=share&amp;amp;utm_medium=copy&quot;&gt;Des actions complémentaires pour “hacker” la politique&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 31 May 2016 15:35:44 +0200</pubDate>
+        <link>http://yourdomain.com/binary_transition/2016/05/31/7-familles_innovation.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/binary_transition/2016/05/31/7-familles_innovation.html</guid>
+        
+        <category>professionnalisation</category>
+        
+        
+        <category>binary_transition</category>
+        
+      </item>
+    
+      <item>
+        <title>avenir solidarités</title>
+        <description>&lt;p&gt;“les solidarités se sont créées pour répondre aux défis de la production de masse, en défendant la protection sociale via des syndicats d’autant plus puissants qu’ils étaient le reflet de très grandes entreprises et de métiers très organisés. Mais pas adapté à une société de service et aux nouvelles aspirations.” -&amp;gt; + d’entrepreneurs et de freelance, avec protection sociale de merde ?&lt;/p&gt;
+
+&lt;p&gt;“Dans une société de services, les travailleurs du savoir, qui s’identifient à leur travail, vivent les conflits sociaux et le mécontentement comme des échecs personnels qui ruinent l’estime de soi et les empêchent de construire des formes collectives en dehors des limites de leur seul travail. La fragmentation du travail et la compétition ont fini d’achever la solidarité comme un recours ou une alternative. Ils en ont patiemment été dépossédés !”&lt;/p&gt;
+
+&lt;p&gt;“Pour Laetitia Vitaud, l’absence de solidarité dans les entreprises d’aujourd’hui pousse les gens à se tourner vers des organisations comme Switch Collective. De plus en plus de gens cherchent une réponse à leur quête de sens dans de nouvelles formes de travail, qui vont de l’entrepreneuriat, à l’indépendance ou aux formes plus coopératives”&lt;/p&gt;
+
+&lt;p&gt;En commentaire :
+“Mais… ce sont des entreprises privées (« startups ») qui prétendent faire du profit sur ce qui était auparavant géré par des services publics et syndicats ! C’est honteux : la privatisation de la solidarité me fait gerber. Une contribution donnée à l’Etat n’a rien à voir avec ke paiement d’un service qu’une entreprise pourrait faire, c’est le marqueur de l’adhésion à une nation commune et l’inscription dans un qyqtème redistributif (on donne selon ses capacités, on reçoit selon ses besoins). Notre époque est vraiment devenu la caricature du libérakisme. Une fois qu’ils auront privatisés les luttes sociales et la solidarité, que privatiseront-ils ?”&lt;/p&gt;
+
+&lt;p&gt;Des sociétés :
+- &lt;a href=&quot;http://www.meetmangrove.com/&quot;&gt;mangrove&lt;/a&gt;, entreprise qui promeut de nouvelles façons de travailler
+- - &lt;a href=&quot;http://rocunited.org/&quot;&gt;ROC Union&lt;/a&gt;, un syndicat dédié aux métiers de la restauration
+-&lt;a href=&quot;http://www.wemind.io/&quot;&gt;WeMind&lt;/a&gt;, un collectif de freelance qui apporte une mutuelle santé adaptée et qui envisage de développer un comité d’entreprise et une solution pour les aider à accéder au logement.&lt;/p&gt;
+
+&lt;p&gt;Source : &lt;a href=&quot;http://internetactu.blog.lemonde.fr/2016/06/04/lavenir-des-solidarites-bouleversees-par-le-numerique/#xtor=RSS-32280322&quot;&gt;Des actions complémentaires pour “hacker” la politique&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 31 May 2016 15:35:44 +0200</pubDate>
+        <link>http://yourdomain.com/binary_transition/2016/05/31/avenir-solidarit%C3%A9.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/binary_transition/2016/05/31/avenir-solidarit%C3%A9.html</guid>
+        
+        <category>professionnalisation</category>
+        
+        
+        <category>binary_transition</category>
+        
+      </item>
+    
+      <item>
+        <title>asso versus entrepreneurs socaiux</title>
+        <description>&lt;p&gt;Cet article, partagé sur fb par Armel Le Coz (LaPrimaire.org) lequel en dit : “Intéressant cet article “ESS vs Entrepreneuriat social” mais je ne sais pas quoi en penser…
+Je connais beaucoup d’entrepreneurs sociaux, au moins autant que de responsables associatifs et acteurs de l’ESS. …et presque tous ceux que je connais remettent en question le fonctionnement économique actuel. Je trouve le clivage proposé par l’auteur plutôt manichéen et donc caricatural. J’ai l’impression plutôt d’un réaction de peur de la part d’un domaine face à un autre qui n’a pas les mêmes codes ni les mêmes méthodes …mais qui me semble quand-même partager un objectif : construire une autre société, plus durable, plus juste, plus égalitaire, plus démocratique.
+Et vous, qu’en pensez-vous ?”&lt;/p&gt;
+
+&lt;p&gt;Pour ma part, effectivement j’ai l’impression que peu d’entreprises planche aussi sur une réforme de leur mode de financement. Beaucoup cherchent simplement le fric là où il est pour avoir les moyens de mener des projets qui vont dans le bon sens, mais ça me laisse un go^ut d’inachevé en bouche.&lt;/p&gt;
+
+&lt;p&gt;Source : &lt;a href=&quot;http://www.revue-ballast.fr/associations-face-a-loffensive-des-entrepreneurs-sociaux/&quot;&gt;Des actions complémentaires pour “hacker” la politique&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 31 May 2016 15:35:44 +0200</pubDate>
+        <link>http://yourdomain.com/binary_transition/2016/05/31/asso-vs-entrepreneurs-sociaux.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/binary_transition/2016/05/31/asso-vs-entrepreneurs-sociaux.html</guid>
+        
+        <category>professionnalisation</category>
+        
+        
+        <category>binary_transition</category>
+        
+      </item>
+    
+      <item>
+        <title>HOW MUCH DOES A WEBSITE COST</title>
+        <description>&lt;p&gt;“But there is a bit of a trap in venture capital. Once you start taking other people’s money, it becomes very difficult to stop taking other people’s money. So, you start by taking a little bit of money from your friends and your family so you can build a product so that you can go raise your seed round so you can show that people want to use this product so you can raise an A round to show that lots of people like to use the product so you can raise your B round so scale the team to build the product. And that’s kind of how venture capital works.&lt;/p&gt;
+
+&lt;p&gt;It’s this interesting cycle to watch as an outsider where the things that people are building, they are building for investors and not necessarily building for customers.”&lt;/p&gt;
+
+&lt;p&gt;“We’ve create archetypes for entrepreneurs and narratives about ambition for what these Unicorns are supposed to look like. And, if you don’t fit the profile you don’t get venture capital because you have no chance of delivering that kind of return. So, you have entrepreneurs building companies, building customer bases, designing interactions with their users in order to make themselves appealing to venture capital.”&lt;/p&gt;
+
+&lt;p&gt;Source : &lt;a href=&quot;http://bryce.vc/post/130071493425/my-xoxo-talk&quot;&gt;Des actions complémentaires pour “hacker” la politique&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 09 Apr 2016 15:35:44 +0200</pubDate>
+        <link>http://yourdomain.com/binary_transition/2016/04/09/on-venture-capital.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/binary_transition/2016/04/09/on-venture-capital.html</guid>
+        
+        <category>professionnalisation</category>
+        
+        
+        <category>binary_transition</category>
+        
+      </item>
+    
+      <item>
+        <title>HOW MUCH DOES A WEBSITE COST</title>
+        <description>&lt;p&gt;Source : &lt;a href=&quot;http://fr.slideshare.net/openscop/modles-conomiques-des-tiers-lieux-bilan-openscop&quot;&gt;Des actions complémentaires pour “hacker” la politique&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 09 Apr 2016 15:35:44 +0200</pubDate>
+        <link>http://yourdomain.com/binary_transition/2016/04/09/modeles-economiques-tiers-lieu.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/binary_transition/2016/04/09/modeles-economiques-tiers-lieu.html</guid>
+        
+        <category>professionnalisation</category>
+        
+        
+        <category>binary_transition</category>
+        
+      </item>
+    
+      <item>
+        <title>HOW MUCH DOES A WEBSITE COST</title>
+        <description>&lt;p&gt;Source : &lt;a href=&quot;http://fr.slideshare.net/openscop/modles-conomiques-des-tiers-lieux-bilan-openscop&quot;&gt;Des actions complémentaires pour “hacker” la politique&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 09 Apr 2016 15:35:44 +0200</pubDate>
+        <link>http://yourdomain.com/binary_transition/2016/04/09/professionnalisation-civic-tech.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/binary_transition/2016/04/09/professionnalisation-civic-tech.html</guid>
+        
+        <category>professionnalisation</category>
+        
+        
+        <category>binary_transition</category>
+        
+      </item>
+    
+      <item>
+        <title>HOW MUCH DOES A WEBSITE COST</title>
+        <description>&lt;p&gt;A l’inverse d’un Uber ou Airbnb, où c’est l’intermédiaire qui possède l’outil, en décide les orientations et en tire les bénéfices en se prenant une marge sur chaque transaction, la coopérative plateforme distribue la valeurs créées aux utilisateurs sur lesquels elle repose.&lt;/p&gt;
+
+&lt;p&gt;Shareable co-founder Neal Gorenflo writes in How Platform Co-ops Can Beat Death Stars Like Uber to Create a Real Sharing Economy explique (traduction maison) : comme si Uber était possédé et gouverné par ses chauffeurs, ou airbnb par ses h^otes.&lt;/p&gt;
+
+&lt;p&gt;Quelques services connus et leur “équivalent” coopératif
+- ebay -&amp;gt; fairmondo. Financé par une série de campagnes de crowdfunding&lt;/p&gt;
+
+&lt;p&gt;“Il plaide pour « un modèle économique qui repose sur un accompagnement technique ou méthodologique. La plus-value c’est d’apporter un service de conseil avec des équipes dédiées », explique le jeune entrepreneur.”&lt;/p&gt;
+
+&lt;p&gt;La clientèle potentielle serait variée.
+- ONG, implantées dans plusieurs pays, adeptes des décisions collégiales.
+- le modèle économique passe en partie par la commande publique au niveau local ou à celui de l’Etat, ou par les partis. Ce sont les clients prêts à investir dans ces projets
+- ces systèmes pourraient s’avérer utiles dans le privé lors des référendums d’entreprises, inscrits dans le projet de loi Travail débattu en ce moment.&lt;/p&gt;
+
+&lt;p&gt;Source : &lt;a href=&quot;http://www.challenges.fr/challenges-soir/20160524.CHA9603/comment-les-civic-tech-veulent-reinventer-la-democratie-en-france.html&quot;&gt;Des actions complémentaires pour “hacker” la politique&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 09 Apr 2016 15:35:44 +0200</pubDate>
+        <link>http://yourdomain.com/binary_transition/2016/04/09/platform-cooperatives.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/binary_transition/2016/04/09/platform-cooperatives.html</guid>
+        
+        <category>plateforme</category>
+        
+        <category>cooperative</category>
+        
+        
+        <category>binary_transition</category>
+        
+      </item>
+    
+      <item>
+        <title>HOW MUCH DOES A WEBSITE COST</title>
+        <description>&lt;p&gt;“Lorsque, insatisfait des institutions, on tâche de s’engager politiquement, plusieurs voies sont possibles :
+- l’action directe ( ZAD, manifestations, désobéissance civile…) ;
+- le lobbying (les associations de promotion auprès des élus, généralement spécialisée, telle que l’ADMD, ou jusqu’à il y a peu de temps la Quadrature du Net)
+- la construction de modèles alternatifs (coopératives, cantines communautaires, alternatiba…), de contre pouvoirs
+- la participation institutionnelle (participation aux conseils de quartier, au budget participatif, aux élections, hacking de la politique)
+- l’éducation populaire (crypto party, vélorution, maîtres ignorants…)”&lt;/p&gt;
+
+&lt;p&gt;Source : &lt;a href=&quot;http://www.huffingtonpost.fr/thomas-watanabevermorel/democratie-participative-parti-pirate_b_10128596.html&quot;&gt;Des actions complémentaires pour “hacker” la politique&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 09 Apr 2016 15:35:44 +0200</pubDate>
+        <link>http://yourdomain.com/binary_transition/2016/04/09/formes-engagement.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/binary_transition/2016/04/09/formes-engagement.html</guid>
+        
+        <category>money</category>
+        
+        
+        <category>binary_transition</category>
+        
+      </item>
+    
+      <item>
+        <title>HOW MUCH DOES A WEBSITE COST</title>
+        <description>&lt;p&gt;Sur la blanchitude du public
+“These corporations (reinforcing tendencies of hacker cultures) have little interest in seeing FLOSS become accessible to non-hacker users. As a result, it has been very rare that, for all my enthusiasm, I succeed in persuading friends to use such tools. And since the economic rewards for FLOSS use and contributions are usually indirect (i.e., social capital that aids in securing a lucrative tech job), people with less free time (disproportionately women) or extra income (disproportionately people of color) face barriers to participation. “&lt;/p&gt;
+
+&lt;p&gt;Ajouter du controle démocratique et le partage équitable des bénéfice
+“The platform co-op movement has close affinities with FLOSS […] But what we seek to add is democratic control and equitable enjoyment of the benefits. We call for solidarity with workers at all levels of the platform economy and data sovereignty for user-contributors. It’s an economic-justice layer atop—or, better, at the root of—the FLOSS stack.”&lt;/p&gt;
+
+&lt;p&gt;Penser les communs pour les commoners, contre le capitalisme
+“In capitalism, commons that don’t challenge capital will end up serving capital. Our digital commons are doing little to aid low-wage workers who lack control over their platform labor markets, or precarious consumers targeted for scams due to corporate surveillance of their online habits. We need commons that serve commoners.”&lt;/p&gt;
+
+&lt;p&gt;Source : [(Building an Open-Source Commun][internetofownership]&lt;/p&gt;
+
+&lt;p&gt;[internetofownership: http://internetofownership.net/2016/05/21/platform-cooperativism-as-a-critique-of-open-source/&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 09 Apr 2016 15:35:44 +0200</pubDate>
+        <link>http://yourdomain.com/binary_transition/2016/04/09/floss-discrimination.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/binary_transition/2016/04/09/floss-discrimination.html</guid>
+        
+        <category>money</category>
+        
+        
+        <category>binary_transition</category>
+        
+      </item>
+    
+  </channel>
+</rss>
