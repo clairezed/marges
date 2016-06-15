@@ -35,7 +35,12 @@ Tentatives pour un blog - test de Jekyll
 ## Used resources
 
 Design :
-http://webdesign.tutsplus.com/tutorials/how-to-make-responsive-scrollable-panels-with-flexbox--cms-23269
+
+- http://webdesign.tutsplus.com/tutorials/how-to-make-responsive-scrollable-panels-with-flexbox--cms-23269
+
+Process
+
+- http://sarahcassady.com/2015/07/17/jekyll-on-github-pages/
 
 ## Resources
 
