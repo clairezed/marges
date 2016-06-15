@@ -1,10 +1,18 @@
 
 title: Marges
 description: joli blog
-baseurl: "" # the subpath of your site, e.g. /blog
-url: https://clairezed.github.io/marges/ # the base hostname & protocol for your site
-# Build settings
+baseurl: /marges # the subpath of your site, e.g. /blog
+url: https://clairezed.github.io # the base hostname & protocol for your site
+
 markdown: kramdown
+timezone: Europe/Paris
+encoding: utf-8
+locale: fr
+
+
+sass:
+  sass_dir: _sass
+  style: compressed
 
 # source:
 # destination:
@@ -13,8 +21,6 @@ markdown: kramdown
 include:
   - _pages
 # keep_files: []
-timezone: Europe/Paris
-encoding: utf-8
 # permalink: /:categories/:title/
 
 defaults:
