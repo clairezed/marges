@@ -1,6 +1,6 @@
 namespace :git do
   SOURCE_BRANCH = "source"
-  DEPLOY_BRANCH = "master"
+  DEPLOY_BRANCH = "gh-pages"
   DESTINATION_FOLDER = "_site"
 
   def git_source_branch?

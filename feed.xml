@@ -2,12 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Marges</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
-</description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 15 Jun 2016 13:49:42 +0200</pubDate>
-    <lastBuildDate>Wed, 15 Jun 2016 13:49:42 +0200</lastBuildDate>
+    <description>joli blog</description>
+    <link>https://clairezed.github.io/marges//</link>
+    <atom:link href="https://clairezed.github.io/marges//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 15 Jun 2016 14:23:53 +0200</pubDate>
+    <lastBuildDate>Wed, 15 Jun 2016 14:23:53 +0200</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
@@ -20,8 +19,8 @@
 
 </description>
         <pubDate>Tue, 31 May 2016 15:35:44 +0200</pubDate>
-        <link>http://yourdomain.com/binary_transition/2016/05/31/how-to-be-a-programmer.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/binary_transition/2016/05/31/how-to-be-a-programmer.html</guid>
+        <link>https://clairezed.github.io/marges//binary_transition/2016/05/31/how-to-be-a-programmer.html</link>
+        <guid isPermaLink="true">https://clairezed.github.io/marges//binary_transition/2016/05/31/how-to-be-a-programmer.html</guid>
         
         <category>professionnalisation</category>
         
@@ -145,8 +144,8 @@
 
 </description>
         <pubDate>Tue, 31 May 2016 15:35:44 +0200</pubDate>
-        <link>http://yourdomain.com/binary_transition/2016/05/31/7-familles_innovation.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/binary_transition/2016/05/31/7-familles_innovation.html</guid>
+        <link>https://clairezed.github.io/marges//binary_transition/2016/05/31/7-familles_innovation.html</link>
+        <guid isPermaLink="true">https://clairezed.github.io/marges//binary_transition/2016/05/31/7-familles_innovation.html</guid>
         
         <category>professionnalisation</category>
         
@@ -175,8 +174,8 @@
 
 </description>
         <pubDate>Tue, 31 May 2016 15:35:44 +0200</pubDate>
-        <link>http://yourdomain.com/binary_transition/2016/05/31/avenir-solidarit%C3%A9.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/binary_transition/2016/05/31/avenir-solidarit%C3%A9.html</guid>
+        <link>https://clairezed.github.io/marges//binary_transition/2016/05/31/avenir-solidarit%C3%A9.html</link>
+        <guid isPermaLink="true">https://clairezed.github.io/marges//binary_transition/2016/05/31/avenir-solidarit%C3%A9.html</guid>
         
         <category>professionnalisation</category>
         
@@ -197,8 +196,8 @@ Et vous, qu’en pensez-vous ?”&lt;/p&gt;
 
 </description>
         <pubDate>Tue, 31 May 2016 15:35:44 +0200</pubDate>
-        <link>http://yourdomain.com/binary_transition/2016/05/31/asso-vs-entrepreneurs-sociaux.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/binary_transition/2016/05/31/asso-vs-entrepreneurs-sociaux.html</guid>
+        <link>https://clairezed.github.io/marges//binary_transition/2016/05/31/asso-vs-entrepreneurs-sociaux.html</link>
+        <guid isPermaLink="true">https://clairezed.github.io/marges//binary_transition/2016/05/31/asso-vs-entrepreneurs-sociaux.html</guid>
         
         <category>professionnalisation</category>
         
@@ -219,8 +218,8 @@ Et vous, qu’en pensez-vous ?”&lt;/p&gt;
 
 </description>
         <pubDate>Sat, 09 Apr 2016 15:35:44 +0200</pubDate>
-        <link>http://yourdomain.com/binary_transition/2016/04/09/on-venture-capital.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/binary_transition/2016/04/09/on-venture-capital.html</guid>
+        <link>https://clairezed.github.io/marges//binary_transition/2016/04/09/on-venture-capital.html</link>
+        <guid isPermaLink="true">https://clairezed.github.io/marges//binary_transition/2016/04/09/on-venture-capital.html</guid>
         
         <category>professionnalisation</category>
         
@@ -235,8 +234,8 @@ Et vous, qu’en pensez-vous ?”&lt;/p&gt;
 
 </description>
         <pubDate>Sat, 09 Apr 2016 15:35:44 +0200</pubDate>
-        <link>http://yourdomain.com/binary_transition/2016/04/09/modeles-economiques-tiers-lieu.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/binary_transition/2016/04/09/modeles-economiques-tiers-lieu.html</guid>
+        <link>https://clairezed.github.io/marges//binary_transition/2016/04/09/modeles-economiques-tiers-lieu.html</link>
+        <guid isPermaLink="true">https://clairezed.github.io/marges//binary_transition/2016/04/09/modeles-economiques-tiers-lieu.html</guid>
         
         <category>professionnalisation</category>
         
@@ -251,8 +250,8 @@ Et vous, qu’en pensez-vous ?”&lt;/p&gt;
 
 </description>
         <pubDate>Sat, 09 Apr 2016 15:35:44 +0200</pubDate>
-        <link>http://yourdomain.com/binary_transition/2016/04/09/professionnalisation-civic-tech.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/binary_transition/2016/04/09/professionnalisation-civic-tech.html</guid>
+        <link>https://clairezed.github.io/marges//binary_transition/2016/04/09/professionnalisation-civic-tech.html</link>
+        <guid isPermaLink="true">https://clairezed.github.io/marges//binary_transition/2016/04/09/professionnalisation-civic-tech.html</guid>
         
         <category>professionnalisation</category>
         
@@ -281,8 +280,8 @@ Et vous, qu’en pensez-vous ?”&lt;/p&gt;
 
 </description>
         <pubDate>Sat, 09 Apr 2016 15:35:44 +0200</pubDate>
-        <link>http://yourdomain.com/binary_transition/2016/04/09/platform-cooperatives.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/binary_transition/2016/04/09/platform-cooperatives.html</guid>
+        <link>https://clairezed.github.io/marges//binary_transition/2016/04/09/platform-cooperatives.html</link>
+        <guid isPermaLink="true">https://clairezed.github.io/marges//binary_transition/2016/04/09/platform-cooperatives.html</guid>
         
         <category>plateforme</category>
         
@@ -306,8 +305,8 @@ Et vous, qu’en pensez-vous ?”&lt;/p&gt;
 
 </description>
         <pubDate>Sat, 09 Apr 2016 15:35:44 +0200</pubDate>
-        <link>http://yourdomain.com/binary_transition/2016/04/09/formes-engagement.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/binary_transition/2016/04/09/formes-engagement.html</guid>
+        <link>https://clairezed.github.io/marges//binary_transition/2016/04/09/formes-engagement.html</link>
+        <guid isPermaLink="true">https://clairezed.github.io/marges//binary_transition/2016/04/09/formes-engagement.html</guid>
         
         <category>money</category>
         
@@ -333,8 +332,8 @@ Et vous, qu’en pensez-vous ?”&lt;/p&gt;
 
 </description>
         <pubDate>Sat, 09 Apr 2016 15:35:44 +0200</pubDate>
-        <link>http://yourdomain.com/binary_transition/2016/04/09/floss-discrimination.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/binary_transition/2016/04/09/floss-discrimination.html</guid>
+        <link>https://clairezed.github.io/marges//binary_transition/2016/04/09/floss-discrimination.html</link>
+        <guid isPermaLink="true">https://clairezed.github.io/marges//binary_transition/2016/04/09/floss-discrimination.html</guid>
         
         <category>money</category>
         
