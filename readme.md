@@ -15,12 +15,21 @@ Tentatives pour un blog - test de Jekyll
 - https://5apps.com/deploy/home
 - publishing source on github (useful for plugins) : https://gist.github.com/WouterJ/4945964
 - http://www.sitepoint.com/jekyll-plugins-github/
+- https://www.pubstorm.com/
+- https://community.nitrous.io/posts/using-jekyll-plugins-on-github-pages
+- codeship
 
 ## Automating
 
 **with npm**
 
 - http://jsforallof.us/2015/02/12/utilising-node-and-npm-for-front-end-development-workflow
+
+**deploy plugins on github pages**
+
+- https://www.sitepoint.com/jekyll-plugins-github/
+- http://tongueroo.com/articles/how-to-use-any-jekyll-plugins-on-github-pages-with-circleci/
+- https://shitao.github.io/use-jekyll-plugin-on-gitpage/
 
 
 ## Used resources
