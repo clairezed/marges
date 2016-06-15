@@ -23,7 +23,7 @@ markdown: kramdown
 # source:
 # destination:
 # safe: true
-# exclude: []
+exclude: [Gemfile, Rakefile, README]
 include:
   - _pages
 # keep_files: []
