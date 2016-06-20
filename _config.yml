@@ -2,8 +2,8 @@
 title: Marges
 description: joli blog
 ## prod conf
-# baseurl: /marges # the subpath of your site, e.g. /blog
-# url: https://clairezed.github.io # the base hostname & protocol for your site
+baseurl: /marges # the subpath of your site, e.g. /blog
+url: https://clairezed.github.io # the base hostname & protocol for your site
 
 markdown: kramdown
 timezone: Europe/Paris
