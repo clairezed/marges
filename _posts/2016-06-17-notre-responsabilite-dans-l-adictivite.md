@@ -12,14 +12,15 @@ Rue89 pointe 10 stratégie mises en plce par les professionnels du web pour cré
 Rappel succint pour de ces mécanismes, histoire de faciliter la vigilance :
 
 1. Orienter nos choix, en mettant ou ne mettant pas certaines possibilités dans la liste des options possibles
-2.  Jouer sur l'effet jackpot nous amenant à rafraichir constamment les pages ("gagnera ou gagnera pas de nouvelles notifications ? "")
-3.  La peur de rater quelque chose
-4.  Renforcer la mécanique de l'approbation sociale (en incitant à tagguer les photos, par exemple)
-5.  Inciter à la réciprocité sociale (je te follow, tu me follow back, du coup on est de retour tous els deux sur le site)
-6.  Ne jamais arr^eter le flux de contenu (principe du scroll infini, des videos qui s'enchainent...)
-7.  Interrompre constamment pour ramener vers l'application (notifications push)
-8.  Obliger à faire des détours pour accéder à ce qu'on veut (comme le cheminement dans ikea alors qu'on veut juste la boutique au fond)
-9.
+2. Jouer sur l'effet jackpot nous amenant à rafraichir constamment les pages ("gagnera ou gagnera pas de nouvelles notifications ? "")
+3. La peur de rater quelque chose
+4. Renforcer la mécanique de l'approbation sociale (en incitant à tagguer les photos, par exemple)
+5. Inciter à la réciprocité sociale (je te follow, tu me follow back, du coup on est de retour tous els deux sur le site)
+6. Ne jamais arr^eter le flux de contenu (principe du scroll infini, des videos qui s'enchainent...)
+7. Interrompre constamment pour ramener vers l'application (notifications push)
+8. Obliger à faire des détours pour accéder à ce qu'on veut (comme le cheminement dans ikea alors qu'on veut juste la boutique au fond)
+9. Rendre compliquée la désinscription du service (enfin, "service"... On se comprend, quoi)
+10. Faire croire qu'une manipulation ne prendra pas de temps (cliquer sur une note, etre redirigé vers 3 pages de questionnaire)
 
 Et je me prends à rever, à l'instar d'un (lien article) qui veut créer des applications qui fassent regagner du temps à ses utilisateurs plutot que de le leur faire perdre, de plancher sur des outils qui redonnent du pouvoir et qui libèrent.
 
