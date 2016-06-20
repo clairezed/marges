@@ -3,11 +3,122 @@
   <channel>
     <title>Marges</title>
     <description>joli blog</description>
-    <link>https://clairezed.github.io/marges/</link>
-    <atom:link href="https://clairezed.github.io/marges/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 15 Jun 2016 14:33:46 +0200</pubDate>
-    <lastBuildDate>Wed, 15 Jun 2016 14:33:46 +0200</lastBuildDate>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 20 Jun 2016 21:11:41 +0200</pubDate>
+    <lastBuildDate>Mon, 20 Jun 2016 21:11:41 +0200</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
+    
+      <item>
+        <title>Responsables de l&#39;addictivité des outils que l&#39;on conçoit</title>
+        <description>&lt;p&gt;http://spectrum.ieee.org/view-from-the-valley/telecom/internet/the-fathers-of-the-internet-revolution-urge-todays-pioneers-to-reinvent-the-web&lt;/p&gt;
+
+&lt;p&gt;-&amp;gt; faire un récap des défis, de ce qui va pas&lt;/p&gt;
+
+&lt;p&gt;Source : &lt;a href=&quot;http://spectrum.ieee.org/view-from-the-valley/telecom/internet/the-fathers-of-the-internet-revolution-urge-todays-pioneers-to-reinvent-the-web&quot;&gt;The Fathers of the Internet Revolution Urge Today’s Software Engineers to Reinvent the Web&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 20 Jun 2016 00:00:00 +0200</pubDate>
+        <link>/sustainable_code/2016/06/20/reinvent-web.html</link>
+        <guid isPermaLink="true">/sustainable_code/2016/06/20/reinvent-web.html</guid>
+        
+        <category>utopie</category>
+        
+        
+        <category>sustainable_code</category>
+        
+      </item>
+    
+      <item>
+        <title>Responsables de l&#39;addictivité des outils que l&#39;on conçoit</title>
+        <description>&lt;p&gt;Le pdg d’une bo^ite informatique du Michigan a planché sur différent moyen de rendre ses salariés heureux (en partant du principe que qui dit content, dit plus créatifs et plus productifs).&lt;/p&gt;
+
+&lt;p&gt;Quelques trucs et astuces à garder sous le coude (ça pourrait servir meme en solo ? ) :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;“Les développeurs travaillent tous en binôme. Chaque semaine, les binômes changent. Et toute la semaine, les développeurs partagent un ordinateur pour deux.”&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;Des réunions “show and tell” avec le client : c’est le client qui &lt;em&gt;“est invité à manipuler le logiciel”&lt;/em&gt; et &lt;em&gt;“montre aux équipes le travail qu’elles ont réalisé pendant la semaine”&lt;/em&gt;.&lt;/li&gt;
+  &lt;li&gt;Faire le planning de développement avec le client, et un jeu de cartes : chaque carte représente un bloc à développer, selon un laps de temps spécifique selon sa complexité (4, 8 ou 16h). Le client choisi les cartons en fonction de son budget. Les cartes sont écrites à la main, pour bien avoir conscience de ce qui est ajouté ou enlevé.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Source : &lt;a href=&quot;http://www.internetactu.net/2016/06/10/comment-construire-des-lieux-de-travail-ou-les-gens-sont-heureux&quot;&gt;Comment construire des lieux de travail où les gens sont heureux ?&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 20 Jun 2016 00:00:00 +0200</pubDate>
+        <link>/sustainable_code/2016/06/20/joy-company.html</link>
+        <guid isPermaLink="true">/sustainable_code/2016/06/20/joy-company.html</guid>
+        
+        <category>utopie</category>
+        
+        
+        <category>sustainable_code</category>
+        
+      </item>
+    
+      <item>
+        <title>Responsables de l&#39;addictivité des outils que l&#39;on conçoit</title>
+        <description>&lt;p&gt;Rue89 pointe 10 stratégie mises en plce par les professionnels du web pour créer et perpétuer l’addiction à leur produit. Ce sont les types de mécanismes que nous sommes nombreux autour de moi à mettre en place, parfois à nos corps défendant. Et je les exècre d’autant plus que j’en suis bien évidemment moi-meme victime.&lt;/p&gt;
+
+&lt;p&gt;Rappel succint pour de ces mécanismes, histoire de faciliter la vigilance :&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Orienter nos choix, en mettant ou ne mettant pas certaines possibilités dans la liste des options possibles&lt;/li&gt;
+  &lt;li&gt;Jouer sur l’effet jackpot nous amenant à rafraichir constamment les pages (“gagnera ou gagnera pas de nouvelles notifications ? “”)&lt;/li&gt;
+  &lt;li&gt;La peur de rater quelque chose&lt;/li&gt;
+  &lt;li&gt;Renforcer la mécanique de l’approbation sociale (en incitant à tagguer les photos, par exemple)&lt;/li&gt;
+  &lt;li&gt;Inciter à la réciprocité sociale (je te follow, tu me follow back, du coup on est de retour tous els deux sur le site)&lt;/li&gt;
+  &lt;li&gt;Ne jamais arr^eter le flux de contenu (principe du scroll infini, des videos qui s’enchainent…)&lt;/li&gt;
+  &lt;li&gt;Interrompre constamment pour ramener vers l’application (notifications push)&lt;/li&gt;
+  &lt;li&gt;Obliger à faire des détours pour accéder à ce qu’on veut (comme le cheminement dans ikea alors qu’on veut juste la boutique au fond)&lt;/li&gt;
+  &lt;li&gt;Rendre compliquée la désinscription du service (enfin, “service”… On se comprend, quoi)&lt;/li&gt;
+  &lt;li&gt;Faire croire qu’une manipulation ne prendra pas de temps (cliquer sur une note, etre redirigé vers 3 pages de questionnaire)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Et je me prends à rever, à l’instar d’un (lien article) qui veut créer des applications qui fassent regagner du temps à ses utilisateurs plutot que de le leur faire perdre, de plancher sur des outils qui redonnent du pouvoir et qui libèrent.&lt;/p&gt;
+
+&lt;p&gt;Mais c’est quoi, le modèle économique d’un outil qui a notamment pour objectif d’etre le moins possible utiliser ?&lt;/p&gt;
+
+&lt;p&gt;Source : &lt;a href=&quot;http://rue89.nouvelobs.com/2016/06/16/10-facons-dont-technologie-manipule-264364&quot;&gt;Dix façons dont la technologie nous manipule&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 17 Jun 2016 00:00:00 +0200</pubDate>
+        <link>/sustainable_code/2016/06/17/notre-responsabilite-dans-l-adictivite.html</link>
+        <guid isPermaLink="true">/sustainable_code/2016/06/17/notre-responsabilite-dans-l-adictivite.html</guid>
+        
+        <category>utopie</category>
+        
+        
+        <category>sustainable_code</category>
+        
+      </item>
+    
+      <item>
+        <title>Socialiser le numérique ?</title>
+        <description>&lt;p&gt;Jean-Philippe Courtois, notamment président de Microsoft International parle de la pénétration des outils numériques dans l’Economie Sociale et Solidaire pour faire la promotion d’un programme destiné -quelle surprise- à lacher dans un écosystème qui n’en demandait pas tant une nouvelle poignée de start up à connotation sociale.&lt;/p&gt;
+
+&lt;p&gt;Son analyse d’introduction est que le numérique tarde à irriguer l’ESS pour les raisons suivantes :
+- une question de génération : un pan de l’ESS, “old school”, n’est pas acculturée au numérique (à contrario des nouvelles générations type Ticket for Change, MakeSense ou OuiShare).
+- il y a encore trop peu de développeurs à fricoter avec ce secteur.&lt;/p&gt;
+
+&lt;p&gt;Sa proposition est donc, non pas d’accompagner et fortifier les structures existantes et militantes, mais de planter des jeunes pousses avec de l’engrais entrepreneurial à base de business plan, de mentorat de grosses sociétés (Microsoft, Adecco, Partech Ventures…) qui placeront habilement leurs produits (&lt;em&gt;“Cette plateforme open source sera hébergée sur le cloud Azur.”&lt;/em&gt;).&lt;/p&gt;
+
+&lt;p&gt;Il est possible que de cette démarche émergent de temps à autres des projets intéressants ; on n’est jamais à l’abri d’accidents heureux. Mais encore une fois j’ai l’impression qu’on se préoccupe bien plus d’outiller, d’injecter du numérique et de la culture business à un “social” un peu prétexte, fantasmé et déconnecté; plutot que repenser de façon + sociale et solidaire la culture entrepreneuriale, ou d’outiller les initiatives de terrain.&lt;/p&gt;
+
+&lt;p&gt;Source : &lt;a href=&quot;http://magazine.ouishare.net/fr/2016/05/numeriser-le-social-socialiser-le-numerique-entretien-avec-jean-philippe-courtois/&quot;&gt;Numériser le social, socialiser le numérique - entretien avec Jean-Philippe Courtois&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 16 Jun 2016 00:00:00 +0200</pubDate>
+        <link>/binary_transition/2016/06/16/du-numerique-dans-le-social.html</link>
+        <guid isPermaLink="true">/binary_transition/2016/06/16/du-numerique-dans-le-social.html</guid>
+        
+        <category>ess</category>
+        
+        <category>start up</category>
+        
+        
+        <category>binary_transition</category>
+        
+      </item>
     
       <item>
         <title>how to be a programmer</title>
@@ -19,8 +130,8 @@
 
 </description>
         <pubDate>Tue, 31 May 2016 15:35:44 +0200</pubDate>
-        <link>https://clairezed.github.io/marges/binary_transition/2016/05/31/how-to-be-a-programmer.html</link>
-        <guid isPermaLink="true">https://clairezed.github.io/marges/binary_transition/2016/05/31/how-to-be-a-programmer.html</guid>
+        <link>/binary_transition/2016/05/31/how-to-be-a-programmer.html</link>
+        <guid isPermaLink="true">/binary_transition/2016/05/31/how-to-be-a-programmer.html</guid>
         
         <category>professionnalisation</category>
         
@@ -144,8 +255,8 @@
 
 </description>
         <pubDate>Tue, 31 May 2016 15:35:44 +0200</pubDate>
-        <link>https://clairezed.github.io/marges/binary_transition/2016/05/31/7-familles_innovation.html</link>
-        <guid isPermaLink="true">https://clairezed.github.io/marges/binary_transition/2016/05/31/7-familles_innovation.html</guid>
+        <link>/binary_transition/2016/05/31/7-familles_innovation.html</link>
+        <guid isPermaLink="true">/binary_transition/2016/05/31/7-familles_innovation.html</guid>
         
         <category>professionnalisation</category>
         
@@ -174,8 +285,8 @@
 
 </description>
         <pubDate>Tue, 31 May 2016 15:35:44 +0200</pubDate>
-        <link>https://clairezed.github.io/marges/binary_transition/2016/05/31/avenir-solidarit%C3%A9.html</link>
-        <guid isPermaLink="true">https://clairezed.github.io/marges/binary_transition/2016/05/31/avenir-solidarit%C3%A9.html</guid>
+        <link>/binary_transition/2016/05/31/avenir-solidarit%C3%A9.html</link>
+        <guid isPermaLink="true">/binary_transition/2016/05/31/avenir-solidarit%C3%A9.html</guid>
         
         <category>professionnalisation</category>
         
@@ -196,8 +307,8 @@ Et vous, qu’en pensez-vous ?”&lt;/p&gt;
 
 </description>
         <pubDate>Tue, 31 May 2016 15:35:44 +0200</pubDate>
-        <link>https://clairezed.github.io/marges/binary_transition/2016/05/31/asso-vs-entrepreneurs-sociaux.html</link>
-        <guid isPermaLink="true">https://clairezed.github.io/marges/binary_transition/2016/05/31/asso-vs-entrepreneurs-sociaux.html</guid>
+        <link>/binary_transition/2016/05/31/asso-vs-entrepreneurs-sociaux.html</link>
+        <guid isPermaLink="true">/binary_transition/2016/05/31/asso-vs-entrepreneurs-sociaux.html</guid>
         
         <category>professionnalisation</category>
         
@@ -218,8 +329,8 @@ Et vous, qu’en pensez-vous ?”&lt;/p&gt;
 
 </description>
         <pubDate>Sat, 09 Apr 2016 15:35:44 +0200</pubDate>
-        <link>https://clairezed.github.io/marges/binary_transition/2016/04/09/on-venture-capital.html</link>
-        <guid isPermaLink="true">https://clairezed.github.io/marges/binary_transition/2016/04/09/on-venture-capital.html</guid>
+        <link>/binary_transition/2016/04/09/on-venture-capital.html</link>
+        <guid isPermaLink="true">/binary_transition/2016/04/09/on-venture-capital.html</guid>
         
         <category>professionnalisation</category>
         
@@ -234,108 +345,10 @@ Et vous, qu’en pensez-vous ?”&lt;/p&gt;
 
 </description>
         <pubDate>Sat, 09 Apr 2016 15:35:44 +0200</pubDate>
-        <link>https://clairezed.github.io/marges/binary_transition/2016/04/09/modeles-economiques-tiers-lieu.html</link>
-        <guid isPermaLink="true">https://clairezed.github.io/marges/binary_transition/2016/04/09/modeles-economiques-tiers-lieu.html</guid>
+        <link>/binary_transition/2016/04/09/modeles-economiques-tiers-lieu.html</link>
+        <guid isPermaLink="true">/binary_transition/2016/04/09/modeles-economiques-tiers-lieu.html</guid>
         
         <category>professionnalisation</category>
-        
-        
-        <category>binary_transition</category>
-        
-      </item>
-    
-      <item>
-        <title>HOW MUCH DOES A WEBSITE COST</title>
-        <description>&lt;p&gt;Source : &lt;a href=&quot;http://fr.slideshare.net/openscop/modles-conomiques-des-tiers-lieux-bilan-openscop&quot;&gt;Des actions complémentaires pour “hacker” la politique&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Sat, 09 Apr 2016 15:35:44 +0200</pubDate>
-        <link>https://clairezed.github.io/marges/binary_transition/2016/04/09/professionnalisation-civic-tech.html</link>
-        <guid isPermaLink="true">https://clairezed.github.io/marges/binary_transition/2016/04/09/professionnalisation-civic-tech.html</guid>
-        
-        <category>professionnalisation</category>
-        
-        
-        <category>binary_transition</category>
-        
-      </item>
-    
-      <item>
-        <title>HOW MUCH DOES A WEBSITE COST</title>
-        <description>&lt;p&gt;A l’inverse d’un Uber ou Airbnb, où c’est l’intermédiaire qui possède l’outil, en décide les orientations et en tire les bénéfices en se prenant une marge sur chaque transaction, la coopérative plateforme distribue la valeurs créées aux utilisateurs sur lesquels elle repose.&lt;/p&gt;
-
-&lt;p&gt;Shareable co-founder Neal Gorenflo writes in How Platform Co-ops Can Beat Death Stars Like Uber to Create a Real Sharing Economy explique (traduction maison) : comme si Uber était possédé et gouverné par ses chauffeurs, ou airbnb par ses h^otes.&lt;/p&gt;
-
-&lt;p&gt;Quelques services connus et leur “équivalent” coopératif
-- ebay -&amp;gt; fairmondo. Financé par une série de campagnes de crowdfunding&lt;/p&gt;
-
-&lt;p&gt;“Il plaide pour « un modèle économique qui repose sur un accompagnement technique ou méthodologique. La plus-value c’est d’apporter un service de conseil avec des équipes dédiées », explique le jeune entrepreneur.”&lt;/p&gt;
-
-&lt;p&gt;La clientèle potentielle serait variée.
-- ONG, implantées dans plusieurs pays, adeptes des décisions collégiales.
-- le modèle économique passe en partie par la commande publique au niveau local ou à celui de l’Etat, ou par les partis. Ce sont les clients prêts à investir dans ces projets
-- ces systèmes pourraient s’avérer utiles dans le privé lors des référendums d’entreprises, inscrits dans le projet de loi Travail débattu en ce moment.&lt;/p&gt;
-
-&lt;p&gt;Source : &lt;a href=&quot;http://www.challenges.fr/challenges-soir/20160524.CHA9603/comment-les-civic-tech-veulent-reinventer-la-democratie-en-france.html&quot;&gt;Des actions complémentaires pour “hacker” la politique&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Sat, 09 Apr 2016 15:35:44 +0200</pubDate>
-        <link>https://clairezed.github.io/marges/binary_transition/2016/04/09/platform-cooperatives.html</link>
-        <guid isPermaLink="true">https://clairezed.github.io/marges/binary_transition/2016/04/09/platform-cooperatives.html</guid>
-        
-        <category>plateforme</category>
-        
-        <category>cooperative</category>
-        
-        
-        <category>binary_transition</category>
-        
-      </item>
-    
-      <item>
-        <title>HOW MUCH DOES A WEBSITE COST</title>
-        <description>&lt;p&gt;“Lorsque, insatisfait des institutions, on tâche de s’engager politiquement, plusieurs voies sont possibles :
-- l’action directe ( ZAD, manifestations, désobéissance civile…) ;
-- le lobbying (les associations de promotion auprès des élus, généralement spécialisée, telle que l’ADMD, ou jusqu’à il y a peu de temps la Quadrature du Net)
-- la construction de modèles alternatifs (coopératives, cantines communautaires, alternatiba…), de contre pouvoirs
-- la participation institutionnelle (participation aux conseils de quartier, au budget participatif, aux élections, hacking de la politique)
-- l’éducation populaire (crypto party, vélorution, maîtres ignorants…)”&lt;/p&gt;
-
-&lt;p&gt;Source : &lt;a href=&quot;http://www.huffingtonpost.fr/thomas-watanabevermorel/democratie-participative-parti-pirate_b_10128596.html&quot;&gt;Des actions complémentaires pour “hacker” la politique&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Sat, 09 Apr 2016 15:35:44 +0200</pubDate>
-        <link>https://clairezed.github.io/marges/binary_transition/2016/04/09/formes-engagement.html</link>
-        <guid isPermaLink="true">https://clairezed.github.io/marges/binary_transition/2016/04/09/formes-engagement.html</guid>
-        
-        <category>money</category>
-        
-        
-        <category>binary_transition</category>
-        
-      </item>
-    
-      <item>
-        <title>HOW MUCH DOES A WEBSITE COST</title>
-        <description>&lt;p&gt;Sur la blanchitude du public
-“These corporations (reinforcing tendencies of hacker cultures) have little interest in seeing FLOSS become accessible to non-hacker users. As a result, it has been very rare that, for all my enthusiasm, I succeed in persuading friends to use such tools. And since the economic rewards for FLOSS use and contributions are usually indirect (i.e., social capital that aids in securing a lucrative tech job), people with less free time (disproportionately women) or extra income (disproportionately people of color) face barriers to participation. “&lt;/p&gt;
-
-&lt;p&gt;Ajouter du controle démocratique et le partage équitable des bénéfice
-“The platform co-op movement has close affinities with FLOSS […] But what we seek to add is democratic control and equitable enjoyment of the benefits. We call for solidarity with workers at all levels of the platform economy and data sovereignty for user-contributors. It’s an economic-justice layer atop—or, better, at the root of—the FLOSS stack.”&lt;/p&gt;
-
-&lt;p&gt;Penser les communs pour les commoners, contre le capitalisme
-“In capitalism, commons that don’t challenge capital will end up serving capital. Our digital commons are doing little to aid low-wage workers who lack control over their platform labor markets, or precarious consumers targeted for scams due to corporate surveillance of their online habits. We need commons that serve commoners.”&lt;/p&gt;
-
-&lt;p&gt;Source : [(Building an Open-Source Commun][internetofownership]&lt;/p&gt;
-
-&lt;p&gt;[internetofownership: http://internetofownership.net/2016/05/21/platform-cooperativism-as-a-critique-of-open-source/&lt;/p&gt;
-
-</description>
-        <pubDate>Sat, 09 Apr 2016 15:35:44 +0200</pubDate>
-        <link>https://clairezed.github.io/marges/binary_transition/2016/04/09/floss-discrimination.html</link>
-        <guid isPermaLink="true">https://clairezed.github.io/marges/binary_transition/2016/04/09/floss-discrimination.html</guid>
-        
-        <category>money</category>
         
         
         <category>binary_transition</category>
