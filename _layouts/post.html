@@ -1,11 +1,11 @@
 ---
 layout: base
 ---
-<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+<article class="post card" itemscope itemtype="http://schema.org/BlogPosting">
 
-  <header class="post-header">
+  <header class="post-header card-header">
     <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
-    <p class="post-meta">
+    <p class="post-meta card-meta">
       <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>
       {% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person">
         <span itemprop="name">{{ page.author }}</span>
@@ -13,18 +13,26 @@ layout: base
     </p>
   </header>
 
-  <div class="post-content" itemprop="articleBody">
+  <div class="post-content card-body" itemprop="articleBody">
     {{ content }}
   </div>
 
-  <ul>
+  <div class="card-footer">
+
+  <div>
     {% for tag in page.tags %}
-      <li>{{ tag }}</li>
+      <a href="{{ site.baseurl }}/tags/{{tag}}">
+        <span class="post-meta label">{{ tag }}</span>
+      </a>
     {% endfor %}
-  </ul>
+  </div>
 
 
-  <a class="post-link" href="{{ page.previous.url | prepend: site.baseurl }}">Article précédent : {{ page.previous.title }}</a>
-  <a class="post-link" href="{{ page.next.url | prepend: site.baseurl }}">Article suivant : {{ page.next.title }}</a>
+  {% if page.previous.url %}
+    <a class="post-link" href="{{ page.previous.url | prepend: site.baseurl }}">Article précédent : {{ page.previous.title }}</a>
+  {% endif %}
+  {% if page.next.url %}
+    <a class="post-link float-right" href="{{ page.next.url | prepend: site.baseurl }}">Article suivant : {{ page.next.title }}</a>
+  {% endif %}
 
 </article>

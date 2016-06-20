@@ -16,11 +16,7 @@ layout: base
   <div class="post-content">
   <ul>
     {% for post in site.categories[page.category] %}
-      <li>
-        <a href="#">{{ post.title }}</a>
-        ({{ post.date | date_to_string }})
-        {{ post.excerpt }}
-      </li>
+      {% include _post-card-excerpt.html %}
     {% endfor %}
     </ul>
   </div>
