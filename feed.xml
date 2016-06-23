@@ -3,15 +3,81 @@
   <channel>
     <title>Marges</title>
     <description>joli blog</description>
-    <link>https://clairezed.github.io/marges/</link>
-    <atom:link href="https://clairezed.github.io/marges/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 20 Jun 2016 21:13:05 +0200</pubDate>
-    <lastBuildDate>Mon, 20 Jun 2016 21:13:05 +0200</lastBuildDate>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 23 Jun 2016 13:51:01 +0200</pubDate>
+    <lastBuildDate>Thu, 23 Jun 2016 13:51:01 +0200</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
+        <title>De la responsabilité sociale et environnementale dans ton code</title>
+        <description>&lt;p&gt;Est-ce que le concept de responsabilité sociale et environnementale (RSE) peut s’appliquer au code ? C’est ce qu’affirme Danah Boyd, et je veux bien la suivre là dessus.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Code is key to civic life, but we need to start looking under the hood and thinking about the externalities of our coding practices, especially as we’re building code as fast as possible with few checks and balances.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Coté environnemental, nous avons construit un système qui nous sur-sollicite ()&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I don’t care what your politics are. If you’re building a data-driven system and you’re not actively seeking to combat prejudice, you’re building a discriminatory system.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Et cet article est écrit par… une femme. Coincidence ?&lt;/p&gt;
+
+&lt;p&gt;Source : &lt;a href=&quot;https://points.datasociety.net/be-careful-what-you-code-for-c8e9f3f6f55e#.vy2vay2dm&quot;&gt;Be Careful What You Code For&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 21 Jun 2016 00:00:00 +0200</pubDate>
+        <link>/sustainable_code/2016/06/21/renvironement-social-resposability.html</link>
+        <guid isPermaLink="true">/sustainable_code/2016/06/21/renvironement-social-resposability.html</guid>
+        
+        <category>utopie</category>
+        
+        
+        <category>sustainable_code</category>
+        
+      </item>
+    
+      <item>
         <title>Responsables de l&#39;addictivité des outils que l&#39;on conçoit</title>
-        <description>&lt;p&gt;http://spectrum.ieee.org/view-from-the-valley/telecom/internet/the-fathers-of-the-internet-revolution-urge-todays-pioneers-to-reinvent-the-web&lt;/p&gt;
+        <description>&lt;p&gt;Petit retour sur le Decentralized Web Summit, qui explique les problèmes actuels déterminés par les vétérans d web ouvert :&lt;/p&gt;
+
+&lt;p&gt;Controle du net :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;the kind of surveillance uncovered by Edward Snowden’s revelations&lt;/li&gt;
+  &lt;li&gt;the ability to block access, like China’s Great Firewall.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Structure du net :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;instead of being a true, interconnected web, it has become a collection of silos : pas d’interconnexion possible entre les données partagées sur flickr, facebook ou linkedin, par exemple&lt;/li&gt;
+  &lt;li&gt;a key problem of the Web today is its ephemeral nature. The fact that web pages “blink on and offline,” when businesses close or web sites move, breaking hyperlinks, means the web is not reliable.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Controle des données personnelles&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;model of trading privacy for free access to things on the Internet&lt;/li&gt;
+  &lt;li&gt;the sketchy privacy controls that leave users unsure about who and what is monitoring their activity and data.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“We hoped everyone would be making their own web sites—turns out people are afraid to.”
+Tim Berners-Lee&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;we’re all using the Web because, Kahle acknowledged, “It is fun. It’s a jungle out there, but it’s a fun jungle to go play in.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“The reason the web ceases to be decentralized,” Cory Doctorow said, “is that there are a lot of short-term gains to centralizing things. The Web is centralized today because people like you make compromises.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Les conseils et pistes donnés en fin d’articles me semblent un peu hors de portée pour une simple développeuse, je vous invite donc à aller voir le détail vous meme. Idée de faire un web décentralizé et entièrement archivé (avec aussi authentification des sites web, utilisation de blockchain, chiffrement…)&lt;/p&gt;
 
 &lt;p&gt;-&amp;gt; faire un récap des défis, de ce qui va pas&lt;/p&gt;
 
@@ -19,13 +85,61 @@
 
 </description>
         <pubDate>Mon, 20 Jun 2016 00:00:00 +0200</pubDate>
-        <link>https://clairezed.github.io/marges/sustainable_code/2016/06/20/reinvent-web.html</link>
-        <guid isPermaLink="true">https://clairezed.github.io/marges/sustainable_code/2016/06/20/reinvent-web.html</guid>
+        <link>/sustainable_code/2016/06/20/reinvent-web.html</link>
+        <guid isPermaLink="true">/sustainable_code/2016/06/20/reinvent-web.html</guid>
         
         <category>utopie</category>
         
         
         <category>sustainable_code</category>
+        
+      </item>
+    
+      <item>
+        <title>Musette</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;“Nous sommes en train de passer d’une société de l’emploi à l’ère de l’activité :&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;ul&gt;
+    &lt;li&gt;économiquement, en particulier via les plateformes de “l’économie collaborative”, même si la valeur qu’y créent les individus profite en général de manière disproportionnée aux exploitants des plateformes. Mais aussi via -       d’autres dispositifs tels que les réseaux d’échange de service, les monnaies complémentaires, etc. Ce nouveau rapport à l’activité met en tension l’engagement[5] requis normalement dans le travail. Il serait utile pour l’individu de mieux comprendre ce qu’il retire de ses différentes activités, et la manière dont il capitalise sur ses expériences. La multi-activité ne va pas de soi (en particulier quand elle est subie), et nécessite beaucoup de discernement personnel (qu’est-ce que j’attends de cette expérience, et éventuellement combien de temps et d’investissement vais-je y consacrer ?) ainsi qu’une gestion habile de son temps.”&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;La musette, qui en est au tout début de l’expérimentation et de la construction, entend bosser sur 3 aspects :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;réflexivité sur soi et son parcours&lt;/strong&gt; : faire en sorte que les individus ne laissent pas les outils de profiling aux mains des recruteurs, que les données exploitées de façon concurrente sur différents réseaux sociaux puissent etre combinées pour &lt;em&gt;“faciliter la gestion de l’ensemble de mes activités professionnelles, associatives, militantes, personnelles…”&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;dispositif de projection de soi et de dialogue&lt;/strong&gt;, avec des organisations, employeurs, platformes (rapatrier les productions de données et le &lt;em&gt;digital labor&lt;/em&gt; réalisées gratos)&lt;/li&gt;
+  &lt;li&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;strong&gt;support de nouvelles revendications&lt;/strong&gt; : mutations de la protection sociale, collectivisme…&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Initiatives intéressantes que l’article mentionne :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://mesinfos.fing.org/&quot;&gt;MesInfos&lt;/a&gt;, programme de la Fing qui &lt;em&gt;“explore et expérimente les conditions d’un retour des données personnelles aux individus, via le stockage des données sur des serveurs personnels (comme &lt;a href=&quot;https://cozy.io/fr/&quot;&gt;Cozy Cloud&lt;/a&gt;), pour qu’ils puissent les exploiter à leurs propres fins via une couche applicative (comme, par exemple, la Musette).”&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Source : &lt;a href=&quot;http://spectrum.ieee.org/view-from-the-valley/telecom/internet/the-fathers-of-the-internet-revolution-urge-todays-pioneers-to-reinvent-the-web&quot;&gt;The Fathers of the Internet Revolution Urge Today’s Software Engineers to Reinvent the Web&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 20 Jun 2016 00:00:00 +0200</pubDate>
+        <link>/good_job/2016/06/20/musette.html</link>
+        <guid isPermaLink="true">/good_job/2016/06/20/musette.html</guid>
+        
+        <category>économie collaborative</category>
+        
+        <category>plateforme coopérative</category>
+        
+        <category>données personnelles</category>
+        
+        
+        <category>good_job</category>
         
       </item>
     
@@ -37,21 +151,24 @@
 
 &lt;ul&gt;
   &lt;li&gt;&lt;em&gt;“Les développeurs travaillent tous en binôme. Chaque semaine, les binômes changent. Et toute la semaine, les développeurs partagent un ordinateur pour deux.”&lt;/em&gt;&lt;/li&gt;
-  &lt;li&gt;Des réunions “show and tell” avec le client : c’est le client qui &lt;em&gt;“est invité à manipuler le logiciel”&lt;/em&gt; et &lt;em&gt;“montre aux équipes le travail qu’elles ont réalisé pendant la semaine”&lt;/em&gt;.&lt;/li&gt;
-  &lt;li&gt;Faire le planning de développement avec le client, et un jeu de cartes : chaque carte représente un bloc à développer, selon un laps de temps spécifique selon sa complexité (4, 8 ou 16h). Le client choisi les cartons en fonction de son budget. Les cartes sont écrites à la main, pour bien avoir conscience de ce qui est ajouté ou enlevé.&lt;/li&gt;
+  &lt;li&gt;Des &lt;strong&gt;réunions “show and tell” avec le client&lt;/strong&gt; : c’est le client qui &lt;em&gt;“est invité à manipuler le logiciel”&lt;/em&gt; et &lt;em&gt;“montre aux équipes le travail qu’elles ont réalisé pendant la semaine”&lt;/em&gt;.&lt;/li&gt;
+  &lt;li&gt;Etablir le &lt;strong&gt;planning de développement avec le client, et un jeu de cartes&lt;/strong&gt; : chaque carte représente un bloc à développer, selon un laps de temps spécifique selon sa complexité (4, 8 ou 16h). Le client choisi les cartons en fonction de son budget. Les cartes sont écrites à la main, pour bien avoir conscience de ce qui est ajouté ou enlevé.&lt;/li&gt;
+  &lt;li&gt;Utiliser des &lt;strong&gt;cartographies d’utilisateur&lt;/strong&gt; (à ce que je comprends, des genres de &lt;a href=&quot;https://fr.wikipedia.org/wiki/Persona_(ergonomie)&quot;&gt;“persona”&lt;/a&gt;, quoi ; rien de bien nouveau)&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;Dernière astuce : amener des bébés au boulot. &lt;em&gt;“On a constaté par exemple que les clients se comportaient d’une manière bien plus respectueuse en présence des bébés…”&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;Source : &lt;a href=&quot;http://www.internetactu.net/2016/06/10/comment-construire-des-lieux-de-travail-ou-les-gens-sont-heureux&quot;&gt;Comment construire des lieux de travail où les gens sont heureux ?&lt;/a&gt;&lt;/p&gt;
 
 </description>
         <pubDate>Mon, 20 Jun 2016 00:00:00 +0200</pubDate>
-        <link>https://clairezed.github.io/marges/sustainable_code/2016/06/20/joy-company.html</link>
-        <guid isPermaLink="true">https://clairezed.github.io/marges/sustainable_code/2016/06/20/joy-company.html</guid>
+        <link>/good_job/2016/06/20/joy-company.html</link>
+        <guid isPermaLink="true">/good_job/2016/06/20/joy-company.html</guid>
         
-        <category>utopie</category>
+        <category>bonheur</category>
         
         
-        <category>sustainable_code</category>
+        <category>good_job</category>
         
       </item>
     
@@ -82,8 +199,8 @@
 
 </description>
         <pubDate>Fri, 17 Jun 2016 00:00:00 +0200</pubDate>
-        <link>https://clairezed.github.io/marges/sustainable_code/2016/06/17/notre-responsabilite-dans-l-adictivite.html</link>
-        <guid isPermaLink="true">https://clairezed.github.io/marges/sustainable_code/2016/06/17/notre-responsabilite-dans-l-adictivite.html</guid>
+        <link>/sustainable_code/2016/06/17/notre-responsabilite-dans-l-adictivite.html</link>
+        <guid isPermaLink="true">/sustainable_code/2016/06/17/notre-responsabilite-dans-l-adictivite.html</guid>
         
         <category>utopie</category>
         
@@ -108,8 +225,8 @@
 
 </description>
         <pubDate>Thu, 16 Jun 2016 00:00:00 +0200</pubDate>
-        <link>https://clairezed.github.io/marges/binary_transition/2016/06/16/du-numerique-dans-le-social.html</link>
-        <guid isPermaLink="true">https://clairezed.github.io/marges/binary_transition/2016/06/16/du-numerique-dans-le-social.html</guid>
+        <link>/binary_transition/2016/06/16/du-numerique-dans-le-social.html</link>
+        <guid isPermaLink="true">/binary_transition/2016/06/16/du-numerique-dans-le-social.html</guid>
         
         <category>ess</category>
         
@@ -130,8 +247,8 @@
 
 </description>
         <pubDate>Tue, 31 May 2016 15:35:44 +0200</pubDate>
-        <link>https://clairezed.github.io/marges/binary_transition/2016/05/31/how-to-be-a-programmer.html</link>
-        <guid isPermaLink="true">https://clairezed.github.io/marges/binary_transition/2016/05/31/how-to-be-a-programmer.html</guid>
+        <link>/binary_transition/2016/05/31/how-to-be-a-programmer.html</link>
+        <guid isPermaLink="true">/binary_transition/2016/05/31/how-to-be-a-programmer.html</guid>
         
         <category>professionnalisation</category>
         
@@ -255,8 +372,8 @@
 
 </description>
         <pubDate>Tue, 31 May 2016 15:35:44 +0200</pubDate>
-        <link>https://clairezed.github.io/marges/binary_transition/2016/05/31/7-familles_innovation.html</link>
-        <guid isPermaLink="true">https://clairezed.github.io/marges/binary_transition/2016/05/31/7-familles_innovation.html</guid>
+        <link>/binary_transition/2016/05/31/7-familles_innovation.html</link>
+        <guid isPermaLink="true">/binary_transition/2016/05/31/7-familles_innovation.html</guid>
         
         <category>professionnalisation</category>
         
@@ -285,8 +402,8 @@
 
 </description>
         <pubDate>Tue, 31 May 2016 15:35:44 +0200</pubDate>
-        <link>https://clairezed.github.io/marges/binary_transition/2016/05/31/avenir-solidarit%C3%A9.html</link>
-        <guid isPermaLink="true">https://clairezed.github.io/marges/binary_transition/2016/05/31/avenir-solidarit%C3%A9.html</guid>
+        <link>/binary_transition/2016/05/31/avenir-solidarit%C3%A9.html</link>
+        <guid isPermaLink="true">/binary_transition/2016/05/31/avenir-solidarit%C3%A9.html</guid>
         
         <category>professionnalisation</category>
         
@@ -307,46 +424,8 @@ Et vous, qu’en pensez-vous ?”&lt;/p&gt;
 
 </description>
         <pubDate>Tue, 31 May 2016 15:35:44 +0200</pubDate>
-        <link>https://clairezed.github.io/marges/binary_transition/2016/05/31/asso-vs-entrepreneurs-sociaux.html</link>
-        <guid isPermaLink="true">https://clairezed.github.io/marges/binary_transition/2016/05/31/asso-vs-entrepreneurs-sociaux.html</guid>
-        
-        <category>professionnalisation</category>
-        
-        
-        <category>binary_transition</category>
-        
-      </item>
-    
-      <item>
-        <title>HOW MUCH DOES A WEBSITE COST</title>
-        <description>&lt;p&gt;“But there is a bit of a trap in venture capital. Once you start taking other people’s money, it becomes very difficult to stop taking other people’s money. So, you start by taking a little bit of money from your friends and your family so you can build a product so that you can go raise your seed round so you can show that people want to use this product so you can raise an A round to show that lots of people like to use the product so you can raise your B round so scale the team to build the product. And that’s kind of how venture capital works.&lt;/p&gt;
-
-&lt;p&gt;It’s this interesting cycle to watch as an outsider where the things that people are building, they are building for investors and not necessarily building for customers.”&lt;/p&gt;
-
-&lt;p&gt;“We’ve create archetypes for entrepreneurs and narratives about ambition for what these Unicorns are supposed to look like. And, if you don’t fit the profile you don’t get venture capital because you have no chance of delivering that kind of return. So, you have entrepreneurs building companies, building customer bases, designing interactions with their users in order to make themselves appealing to venture capital.”&lt;/p&gt;
-
-&lt;p&gt;Source : &lt;a href=&quot;http://bryce.vc/post/130071493425/my-xoxo-talk&quot;&gt;Des actions complémentaires pour “hacker” la politique&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Sat, 09 Apr 2016 15:35:44 +0200</pubDate>
-        <link>https://clairezed.github.io/marges/binary_transition/2016/04/09/on-venture-capital.html</link>
-        <guid isPermaLink="true">https://clairezed.github.io/marges/binary_transition/2016/04/09/on-venture-capital.html</guid>
-        
-        <category>professionnalisation</category>
-        
-        
-        <category>binary_transition</category>
-        
-      </item>
-    
-      <item>
-        <title>HOW MUCH DOES A WEBSITE COST</title>
-        <description>&lt;p&gt;Source : &lt;a href=&quot;http://fr.slideshare.net/openscop/modles-conomiques-des-tiers-lieux-bilan-openscop&quot;&gt;Des actions complémentaires pour “hacker” la politique&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Sat, 09 Apr 2016 15:35:44 +0200</pubDate>
-        <link>https://clairezed.github.io/marges/binary_transition/2016/04/09/modeles-economiques-tiers-lieu.html</link>
-        <guid isPermaLink="true">https://clairezed.github.io/marges/binary_transition/2016/04/09/modeles-economiques-tiers-lieu.html</guid>
+        <link>/binary_transition/2016/05/31/asso-vs-entrepreneurs-sociaux.html</link>
+        <guid isPermaLink="true">/binary_transition/2016/05/31/asso-vs-entrepreneurs-sociaux.html</guid>
         
         <category>professionnalisation</category>
         

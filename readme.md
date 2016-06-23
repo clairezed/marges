@@ -3,36 +3,82 @@ Marges
 
 Tentatives pour un blog - test de Jekyll
 
-## Themes sur lesquels garder un oeil
+## Comment ça marche ?
+
+
+## Resources
+
+### Themes sur lesquels garder un oeil
 
 - https://mmistakes.github.io/hpstr-jekyll-theme/tags/ : comptage d'occurences de tags
 - http://themeforest.net/item/writer-a-minimal-blog-for-jekyll/full_screen_preview/10562560 : mise en forme générale, css posts / categories
 
 
-## Hosting
+### General workflow
+
+- https://borisschapira.com/2016/02/jekyll-codeship/
+  - gemfile
+  - i18n
+  - vitesse lecture
+  - moteur rendu markdown
+  - précédent/suivant dans une meme categorie
+  - node, gulp, browsersync
+  - hooks github interfacé à caodeship (ac rspec)
+  - html-proofer
+  - accessibilité : 2 chargements fonts, abrr-touch
+  - algolia
+  - instantClick pour impression vitesse
+  - content security policy avec log des infractions
+- https://mademistakes.com/articles/using-jekyll-2016/
+  - plugin jekyll-tagging-related_posts for related articles
+  - improve build time : --incremental regeneration || Liquid Profiler
+- https://github.com/mmistakes/made-mistakes-jekyll
+- https://robwise.github.io/blog/jekyll-and-gulp
+- clear tuto : http://theblog.unpixel.fr/2015-11-15-better-jekyll-workflow-with-gulp/
+
+### Hosting
+
+#### Github pages
+
+- publishing source on github (useful for plugins) : https://gist.github.com/WouterJ/4945964
+- https://community.nitrous.io/posts/using-jekyll-plugins-on-github-pages
+- deploy a directory as a git branch : https://github.com/X1011/git-directory-deploy
+- http://alexcican.com/post/guide-hosting-website-dropbox-github/
+- https://www.sitepoint.com/jekyll-plugins-github/
+- https://www.sitepoint.com/jekyll-plugins-github/
+- http://tongueroo.com/articles/how-to-use-any-jekyll-plugins-on-github-pages-with-circleci/
+- https://shitao.github.io/use-jekyll-plugin-on-gitpage/
+
+#### Other host
 
 - Surge ?
 - https://5apps.com/deploy/home
-- publishing source on github (useful for plugins) : https://gist.github.com/WouterJ/4945964
 - http://www.sitepoint.com/jekyll-plugins-github/
 - https://www.pubstorm.com/
-- https://community.nitrous.io/posts/using-jekyll-plugins-on-github-pages
 - codeship
+- alwaysdata https://www.alwaysdata.com/fr/ (utilisé par Schapira)
 
-## Automating
+### Automating
 
 **with npm**
 
 - http://jsforallof.us/2015/02/12/utilising-node-and-npm-for-front-end-development-workflow
 
-**deploy plugins on github pages**
+**with rake**
 
-- https://www.sitepoint.com/jekyll-plugins-github/
-- http://tongueroo.com/articles/how-to-use-any-jekyll-plugins-on-github-pages-with-circleci/
-- https://shitao.github.io/use-jekyll-plugin-on-gitpage/
+- https://github.com/avillafiorita/jekyll-rakefile
+
+### Plugins
+
+- automatic tag page creation plugin : http://www.raymondcamden.com/2015/03/05/my-experience-working-with-jekyll/
 
 
-## Used resources
+### Diverses helpers
+
+- get all tags : https://talk.jekyllrb.com/t/get-all-tags-uniques-in-multiple-collection-pages-without-a-plugin/1221/3
+- faciliter post, publish, etc : https://github.com/jekyll/jekyll-compose
+
+### Used resources
 
 Design :
 
@@ -42,14 +88,7 @@ Process
 
 - http://sarahcassady.com/2015/07/17/jekyll-on-github-pages/
 
-## Resources
-
-- automatic tag page creation plugin : http://www.raymondcamden.com/2015/03/05/my-experience-working-with-jekyll/
-- http://alexcican.com/post/guide-hosting-website-dropbox-github/
-- https://mademistakes.com/articles/using-jekyll-2016/
-- https://github.com/mmistakes/made-mistakes-jekyll
-- get all tags : https://talk.jekyllrb.com/t/get-all-tags-uniques-in-multiple-collection-pages-without-a-plugin/1221/3
-
+### Liquid
 
 ``` liquid
 <!-- Create empty arrays -->
@@ -105,13 +144,5 @@ Process
 - https://www.smashingmagazine.com/2016/05/content-first-prototyping/
 -
 
-## A tester
 
-- faciliter post, publish, etc : https://github.com/jekyll/jekyll-compose
-- deploy a directory as a git branch : https://github.com/X1011/git-directory-deploy
 
-Gulp :
-
-cf https://robwise.github.io/blog/jekyll-and-gulp
-
-- clear tuto : http://theblog.unpixel.fr/2015-11-15-better-jekyll-workflow-with-gulp/
