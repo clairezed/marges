@@ -2,6 +2,7 @@ namespace :git do
   SOURCE_BRANCH = "source"
   DEPLOY_BRANCH = "gh-pages"
   DESTINATION_FOLDER = "_site"
+  PROD_CONFIG_FILE = "_config_prod.yml"
 
   def git_source_branch?
     git_head = `git rev-parse --abbrev-ref HEAD`
@@ -33,7 +34,7 @@ namespace :git do
   desc "Deploy to remote origin"
   task :deploy => [:check_branch, :check_git] do
     puts "Building Jekyll site"
-    system "jekyll build --config _config.yml,_config_prod.yml"
+    system "jekyll build --config _config.yml, #{PROD_CONFIG_FILE}"
 
     system "git checkout #{DEPLOY_BRANCH}"
 
