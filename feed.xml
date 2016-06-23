@@ -3,10 +3,10 @@
   <channel>
     <title>Marges</title>
     <description>joli blog</description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 23 Jun 2016 13:51:01 +0200</pubDate>
-    <lastBuildDate>Thu, 23 Jun 2016 13:51:01 +0200</lastBuildDate>
+    <link>https://clairezed.github.io/marges/</link>
+    <atom:link href="https://clairezed.github.io/marges/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 23 Jun 2016 13:59:26 +0200</pubDate>
+    <lastBuildDate>Thu, 23 Jun 2016 13:59:26 +0200</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
@@ -29,8 +29,8 @@
 
 </description>
         <pubDate>Tue, 21 Jun 2016 00:00:00 +0200</pubDate>
-        <link>/sustainable_code/2016/06/21/renvironement-social-resposability.html</link>
-        <guid isPermaLink="true">/sustainable_code/2016/06/21/renvironement-social-resposability.html</guid>
+        <link>https://clairezed.github.io/marges/sustainable_code/2016/06/21/renvironement-social-resposability.html</link>
+        <guid isPermaLink="true">https://clairezed.github.io/marges/sustainable_code/2016/06/21/renvironement-social-resposability.html</guid>
         
         <category>utopie</category>
         
@@ -85,8 +85,8 @@ Tim Berners-Lee&lt;/p&gt;
 
 </description>
         <pubDate>Mon, 20 Jun 2016 00:00:00 +0200</pubDate>
-        <link>/sustainable_code/2016/06/20/reinvent-web.html</link>
-        <guid isPermaLink="true">/sustainable_code/2016/06/20/reinvent-web.html</guid>
+        <link>https://clairezed.github.io/marges/sustainable_code/2016/06/20/reinvent-web.html</link>
+        <guid isPermaLink="true">https://clairezed.github.io/marges/sustainable_code/2016/06/20/reinvent-web.html</guid>
         
         <category>utopie</category>
         
@@ -129,8 +129,8 @@ Tim Berners-Lee&lt;/p&gt;
 
 </description>
         <pubDate>Mon, 20 Jun 2016 00:00:00 +0200</pubDate>
-        <link>/good_job/2016/06/20/musette.html</link>
-        <guid isPermaLink="true">/good_job/2016/06/20/musette.html</guid>
+        <link>https://clairezed.github.io/marges/good_job/2016/06/20/musette.html</link>
+        <guid isPermaLink="true">https://clairezed.github.io/marges/good_job/2016/06/20/musette.html</guid>
         
         <category>économie collaborative</category>
         
@@ -162,8 +162,8 @@ Tim Berners-Lee&lt;/p&gt;
 
 </description>
         <pubDate>Mon, 20 Jun 2016 00:00:00 +0200</pubDate>
-        <link>/good_job/2016/06/20/joy-company.html</link>
-        <guid isPermaLink="true">/good_job/2016/06/20/joy-company.html</guid>
+        <link>https://clairezed.github.io/marges/good_job/2016/06/20/joy-company.html</link>
+        <guid isPermaLink="true">https://clairezed.github.io/marges/good_job/2016/06/20/joy-company.html</guid>
         
         <category>bonheur</category>
         
@@ -199,8 +199,8 @@ Tim Berners-Lee&lt;/p&gt;
 
 </description>
         <pubDate>Fri, 17 Jun 2016 00:00:00 +0200</pubDate>
-        <link>/sustainable_code/2016/06/17/notre-responsabilite-dans-l-adictivite.html</link>
-        <guid isPermaLink="true">/sustainable_code/2016/06/17/notre-responsabilite-dans-l-adictivite.html</guid>
+        <link>https://clairezed.github.io/marges/sustainable_code/2016/06/17/notre-responsabilite-dans-l-adictivite.html</link>
+        <guid isPermaLink="true">https://clairezed.github.io/marges/sustainable_code/2016/06/17/notre-responsabilite-dans-l-adictivite.html</guid>
         
         <category>utopie</category>
         
@@ -225,8 +225,8 @@ Tim Berners-Lee&lt;/p&gt;
 
 </description>
         <pubDate>Thu, 16 Jun 2016 00:00:00 +0200</pubDate>
-        <link>/binary_transition/2016/06/16/du-numerique-dans-le-social.html</link>
-        <guid isPermaLink="true">/binary_transition/2016/06/16/du-numerique-dans-le-social.html</guid>
+        <link>https://clairezed.github.io/marges/binary_transition/2016/06/16/du-numerique-dans-le-social.html</link>
+        <guid isPermaLink="true">https://clairezed.github.io/marges/binary_transition/2016/06/16/du-numerique-dans-le-social.html</guid>
         
         <category>ess</category>
         
@@ -247,8 +247,8 @@ Tim Berners-Lee&lt;/p&gt;
 
 </description>
         <pubDate>Tue, 31 May 2016 15:35:44 +0200</pubDate>
-        <link>/binary_transition/2016/05/31/how-to-be-a-programmer.html</link>
-        <guid isPermaLink="true">/binary_transition/2016/05/31/how-to-be-a-programmer.html</guid>
+        <link>https://clairezed.github.io/marges/binary_transition/2016/05/31/how-to-be-a-programmer.html</link>
+        <guid isPermaLink="true">https://clairezed.github.io/marges/binary_transition/2016/05/31/how-to-be-a-programmer.html</guid>
         
         <category>professionnalisation</category>
         
@@ -372,8 +372,8 @@ Tim Berners-Lee&lt;/p&gt;
 
 </description>
         <pubDate>Tue, 31 May 2016 15:35:44 +0200</pubDate>
-        <link>/binary_transition/2016/05/31/7-familles_innovation.html</link>
-        <guid isPermaLink="true">/binary_transition/2016/05/31/7-familles_innovation.html</guid>
+        <link>https://clairezed.github.io/marges/binary_transition/2016/05/31/7-familles_innovation.html</link>
+        <guid isPermaLink="true">https://clairezed.github.io/marges/binary_transition/2016/05/31/7-familles_innovation.html</guid>
         
         <category>professionnalisation</category>
         
@@ -402,8 +402,8 @@ Tim Berners-Lee&lt;/p&gt;
 
 </description>
         <pubDate>Tue, 31 May 2016 15:35:44 +0200</pubDate>
-        <link>/binary_transition/2016/05/31/avenir-solidarit%C3%A9.html</link>
-        <guid isPermaLink="true">/binary_transition/2016/05/31/avenir-solidarit%C3%A9.html</guid>
+        <link>https://clairezed.github.io/marges/binary_transition/2016/05/31/avenir-solidarit%C3%A9.html</link>
+        <guid isPermaLink="true">https://clairezed.github.io/marges/binary_transition/2016/05/31/avenir-solidarit%C3%A9.html</guid>
         
         <category>professionnalisation</category>
         
@@ -424,8 +424,8 @@ Et vous, qu’en pensez-vous ?”&lt;/p&gt;
 
 </description>
         <pubDate>Tue, 31 May 2016 15:35:44 +0200</pubDate>
-        <link>/binary_transition/2016/05/31/asso-vs-entrepreneurs-sociaux.html</link>
-        <guid isPermaLink="true">/binary_transition/2016/05/31/asso-vs-entrepreneurs-sociaux.html</guid>
+        <link>https://clairezed.github.io/marges/binary_transition/2016/05/31/asso-vs-entrepreneurs-sociaux.html</link>
+        <guid isPermaLink="true">https://clairezed.github.io/marges/binary_transition/2016/05/31/asso-vs-entrepreneurs-sociaux.html</guid>
         
         <category>professionnalisation</category>
         
