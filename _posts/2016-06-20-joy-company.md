@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Responsables de l'addictivité des outils que l'on conçoit"
-category: sustainable_code
-tags: [utopie]
+category: good_job
+tags: [bonheur]
 
 ---
 
