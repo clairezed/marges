@@ -14,11 +14,14 @@ $(function() {
   //   .sidebar('toggle')
   // })
 
-$(document).ready(function() {
-  $('[data-toggle="mobile-nav"]').on('click', function() {
-    console.log('click menu__slider');
-    $('[data-toggled="mobile-nav"]').toggleClass('is-open');
+  $(document).ready(function() {
+
+    $('[data-toggle="mobile-nav"]').on('click', function() {
+      console.log('click menu__slider');
+      $('[data-toggled="mobile-nav"]').toggleClass('is-open');
+    });
   });
-});
 
 });
+
+// document.getElementsByClassName
