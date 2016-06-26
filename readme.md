@@ -13,6 +13,35 @@ Tentatives pour un blog - test de Jekyll
 - https://mmistakes.github.io/hpstr-jekyll-theme/tags/ : comptage d'occurences de tags
 - http://themeforest.net/item/writer-a-minimal-blog-for-jekyll/full_screen_preview/10562560 : mise en forme générale, css posts / categories
 
+Design inspiration
+
+- https://wordpress.org/themes/scrawl/
+- https://wordpress.org/themes/simplenotes/
+- https://wordpress.org/themes/tracks/
+- https://wordpress.org/themes/chunk/
+- https://wordpress.org/themes/hexa/
+- REPERTOIRE : https://www.designernews.co/stories/54330-textonly-sites
+- REPERTOIRE : http://www.webgeekly.com/inspiration/37-inspiring-examples-of-super-clean-text-based-website-designs/
+- REPERTOIRE : https://www.typewolf.com/
+- REPERTOIRE : https://www.siteinspire.com/websites?page=4
+- REPERTOIRE : http://www.webgeekly.com/inspiration/37-inspiring-examples-of-super-clean-text-based-website-designs/
+- http://harvardlawreview.org/
+- http://elbowsydney.com.au/what/
+- https://makingmusic.ableton.com/
+- https://www.siteinspire.com/websites/6557-google-fonts  https://fonts.google.com/
+- http://v1.jontangerine.com/log/
+- http://jakebarry.us/ : for links
+- http://www.thrivesolo.com/index.html
+
+Text experiments (write a note !)
+- http://www.fullstopnewparagraph.co.uk/
+- http://greaterthanorequalto.net/
+
+Patterns :
+http://lea.verou.me/css3patterns/#lined-paper
+http://www.awwwards.com/background-patterns-designs-and-resources-for-websites.html
+http://www.designbolts.com/2012/12/22/50-free-simple-white-seamless-patterns-for-website-backgrounds/
+
 
 ### General workflow
 
@@ -32,6 +61,10 @@ Tentatives pour un blog - test de Jekyll
 - https://mademistakes.com/articles/using-jekyll-2016/
   - plugin jekyll-tagging-related_posts for related articles
   - improve build time : --incremental regeneration || Liquid Profiler
+  - bundler
+  - rsync task to deploy on own server
+  - task to notify pingomatic, bing, google of changes
+  - Jekyll-Assets plugin : cache busting and inlining assets + autoprefixer
 - https://github.com/mmistakes/made-mistakes-jekyll
 - https://robwise.github.io/blog/jekyll-and-gulp
 - clear tuto : http://theblog.unpixel.fr/2015-11-15-better-jekyll-workflow-with-gulp/

@@ -23,6 +23,12 @@ $desktop-width: 1024px;
   }
 }
 
+@mixin mobile-tablet {
+  @media (max-width: #{$desktop-width - 1px}) {
+    @content;
+  }
+}
+
 
 // // tablet + desktop
 // @media only screen and (min-width: $mobile-break) {

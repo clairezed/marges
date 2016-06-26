@@ -1,3 +1,23 @@
+// Commun (ou presque)
+
+.site-title {
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 2.8rem;
+  color: #fff;
+  @include computer {
+    font-size: 4.5rem;
+  }
+}
+
+.nav {
+  background-color: $brand-primary;
+  color: #fff;
+}
+
+
+
+
 // Desktop 2 ------------------------------
  @include computer {
   html,
@@ -17,11 +37,11 @@
   .desktop-nav,
   .layout-main {
     overflow-y: scroll;
-    padding: 2em;
+    padding: 2rem;
   }
   .desktop-nav {
     flex: 1;
-    background: #f7f7f7;
+    // background: #f7f7f7;
     max-width: 250px;
   }
   .layout-main {
@@ -36,11 +56,11 @@
 
 
 //Mobile ---------------------------------
-@include tablet {
+@include mobile-tablet {
   .mobile-header {
     position: fixed;
     width: 100%;
-    background: #ccc;
+    // background: #ccc;
   }
     .mobile-header_wrapper {
       display: flex;
@@ -55,16 +75,15 @@
     // }
   .mobile-nav {
     position: fixed;
-    top: 44px;
+    top: 62px;
     right: 0;
-    padding: 1.375em 0;
+    padding: 1rem 2rem;
     backface-visibility: hidden;
     text-align: left;
     height: 100%;
     width: 100%;
     transform: translateX(100%);
     transition: all 500ms cubic-bezier(0.86, 0.01, 0.77, 0.78);
-    background: #000;
     z-index: 20;
     overflow-y: auto;
     overflow-x: hidden;
@@ -83,3 +102,5 @@
     display: none;
   }
 }
+
+@import "menu"

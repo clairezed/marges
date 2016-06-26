@@ -1,0 +1,13 @@
+.label {
+  background: $brand-primary;
+  border-radius: .2rem;
+  color: $white;
+  display: inline;
+  font-size: 1em;
+  padding: 0.1em 0.3em;
+  vertical-align: baseline;
+  &.label-inverted {
+    background: $white;
+    color: $brand-primary;
+  }
+}

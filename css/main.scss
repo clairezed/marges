@@ -3,6 +3,9 @@
 ---
 @charset "utf-8";
 
+$brand-primary:         #ef451a;
+$brand-primary-light:   lighten($brand-primary, 5%);
+$brand-primary-dark:    darken($brand-primary, 5%);
 
 
 // Our variables
@@ -18,9 +21,12 @@ $text-color:       #111;
 $background-color: #fdfdfd;
 $brand-color:      #2a7ae2;
 
+
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
+
+$white:             #efefef;
 
 // Width of the content area
 $content-width:    800px;
@@ -50,7 +56,10 @@ $on-tablet:        992px;
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "base",
+        "link",
         "responsive",
-        "layout"
+        "layout",
+        "label",
+        "post-card"
         // "syntax-highlighting"
 ;

@@ -9,20 +9,20 @@
 
     <div class="layout-container_inner">
 
-      <aside class="desktop-nav">
+      <aside class="nav desktop-nav">
         {% include menu-desktop.html %}
       </aside>
 
-      <div class="mobile-header">
+      <div class="nav mobile-header">
         <div class="mobile-header_wrapper">
-          <a class="mobile-menu_title" href="{{ site.baseurl }}/">
+          <a class="mobile-menu_title site-title" href="{{ site.baseurl }}/">
             {{ site.title }}
           </a>
           <a href="javascript:void(0)" class="btn btn-link btn-lg" data-toggle="mobile-nav"><i class="icon icon-menu"></i></a>
         </div>
       </div>
 
-      <nav class="mobile-nav" data-toggled="mobile-nav">
+      <nav class="nav mobile-nav" data-toggled="mobile-nav">
         {% include menu-mobile.html %}
       </nav>
 
