@@ -5,6 +5,18 @@ Tentatives pour un blog - test de Jekyll
 
 ## Comment ça marche ?
 
+Pour checker toutes les commandes :
+
+```bash
+rake -T
+```
+
+Pour déployer direct (après avoir poussé la branche source) :
+
+```bash
+rake git:deploy
+```
+
 
 ## Resources
 
