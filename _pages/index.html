@@ -3,17 +3,10 @@ layout: base
 permalink: /
 ---
 
-<div class="home">
 
-  <!-- <h1 class="page-heading">Posts</h1> -->
+<div class="post-list">
+  {% for post in site.posts %}
+    {% include _post-card-excerpt.html %}
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      {% include _post-card-excerpt.html %}
-
-    {% endfor %}
-  </ul>
-
-
-
+  {% endfor %}
 </div>

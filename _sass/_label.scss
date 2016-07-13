@@ -6,6 +6,10 @@
   font-size: 1em;
   padding: 0.1em 0.3em;
   vertical-align: baseline;
+  @include transition (all 0.7s ease-in-out);
+  &:hover {
+    background: darken($brand-primary, 10%)
+  }
   &.label-inverted {
     background: $white;
     color: $brand-primary;

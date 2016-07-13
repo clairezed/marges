@@ -4,9 +4,16 @@
   text-decoration: none;
   font-weight: bold;
   font-size: 2.8rem;
-  color: #fff;
+  color: $white;
+  @include transition (all 0.5s ease-in-out);
   @include computer {
     font-size: 4.5rem;
+  }
+  &:hover {
+    color: $white;
+    // color: $brand-primary;
+    // border-bottom: 5px solid $white;
+    // background-color: lighten($brand-primary, 5%);
   }
 }
 
@@ -15,10 +22,18 @@
   color: #fff;
 }
 
+.content-wrapper {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.layout-main {
+  padding: 2rem;
+      background: #f0eeee;
+}
 
 
-
-// Desktop 2 ------------------------------
+// Desktop ------------------------------
  @include computer {
   html,
   body {
@@ -37,16 +52,15 @@
   .desktop-nav,
   .layout-main {
     overflow-y: scroll;
-    padding: 2rem;
   }
   .desktop-nav {
     flex: 1;
+    padding: 2rem;
     // background: #f7f7f7;
     max-width: 250px;
   }
   .layout-main {
     flex: 3;
-    background: #f0eeee;
   }
   .mobile-nav, .mobile-header {
     display: none;
@@ -60,6 +74,7 @@
   .mobile-header {
     position: fixed;
     width: 100%;
+    z-index: 10;
     // background: #ccc;
   }
     .mobile-header_wrapper {
@@ -95,7 +110,7 @@
   .layout-main {
     order: 1;
     flex: 1;
-    padding-top: 44px;
+    padding-top: 62px;
   }
 
   .desktop-nav {

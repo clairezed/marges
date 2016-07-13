@@ -1,0 +1,18 @@
+---
+layout: page
+title: Dépêches
+permalink: /depeches
+---
+
+
+<p>Veille express, extraits courts, bafouilles et dépêches</p>
+<hr>
+<br>
+
+
+
+<div class="post-list">
+  {% for post in site.posts %}
+    {% include _post-card-excerpt.html %}
+  {% endfor %}
+</div>

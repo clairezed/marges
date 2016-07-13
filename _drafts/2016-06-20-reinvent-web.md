@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Responsables de l'addictivité des outils que l'on conçoit"
+title: "Redécentraliser le web, demandent les papas"
 category: sustainable_code
 tags: [utopie]
 

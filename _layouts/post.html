@@ -19,7 +19,7 @@ layout: base
 
   <div class="card-footer">
 
-  <div>
+  <div class="card-labels">
     {% for tag in page.tags %}
       <a href="{{ site.baseurl }}/tags/{{tag}}">
         <span class="post-meta label">{{ tag }}</span>
@@ -29,10 +29,10 @@ layout: base
 
 
   {% if page.previous.url %}
-    <a class="post-link" href="{{ page.previous.url | prepend: site.baseurl }}">Article précédent : {{ page.previous.title }}</a>
+    <a class="post-link" href="{{ page.previous.url | prepend: site.baseurl }}">Avant : {{ page.previous.title }}</a>
   {% endif %}
   {% if page.next.url %}
-    <a class="post-link float-right" href="{{ page.next.url | prepend: site.baseurl }}">Article suivant : {{ page.next.title }}</a>
+    <a class="post-link float-right" href="{{ page.next.url | prepend: site.baseurl }}">Après : {{ page.next.title }}</a>
   {% endif %}
 
 </article>

@@ -1,0 +1,8 @@
+.btn.btn-link {
+    background: 0 0;
+    border-color: transparent;
+    color: inherit;
+    &:hover, &:active {
+      color: inherit;
+    }
+}

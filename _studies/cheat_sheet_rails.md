@@ -1,11 +1,13 @@
 ---
-layout: default
+layout: base
 title:  "Cheat sheet ruby"
-date:   2016-04-09 15:35:44 +0200
 permalink: cheat-sheet-ruby
-tags: ruby
-category: code decroissant
+tags: [ruby, rails]
+category: sustainable_code
 ---
+
+Essaye de garder  tout ça en tete, Claire ! T'écriras du meilleur code !
+
 
 ## DONT / DO
 
@@ -26,3 +28,9 @@ Post.where(published: true).find_each do |post|
   post.archive!
 end
 ```
+
+
+## Ressources
+
+- https://robots.thoughtbot.com/sandi-metz-rules-for-developers
+- https://medium.com/imenlo/ruby-on-rails-the-imenlo-way-d29965618630#.ewxo0q9al

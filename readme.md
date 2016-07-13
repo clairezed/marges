@@ -162,7 +162,10 @@ Process
 
 - priority medium
   - use jade !
-  - ease of post (post title)
+  - ease of post (post title, post date)
+  - pagination
+  - updated_at on studies (dernière modification)
+  - mixer les categories et tags des depeches et dossiers
 
 - priority low
   - es2015 ?

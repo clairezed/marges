@@ -1,14 +1,13 @@
 ---
-layout: default
+layout: base
 title:  "Jekyll workflow"
-date:   2016-04-09 15:35:44 +0200
 permalink: kekyll-workflow
-tags: ruby
-category: code decroissant
+tags: [jekyll]
+category: sustainable_code
 ---
 
 
-##Commandes pour accéler workflow de rédaction
+## Commandes pour accéler workflow de rédaction
 
 Jekyll::Compose :
 ```

@@ -1,75 +1,3 @@
-/* For all the scrollbars */
-::-webkit-scrollbar {
-    width: 5px;
-    // background-color: #555;
-    background-color: transparent;
-}
-
-::-webkit-scrollbar-thumb {
-    width: 5px;
-    background-color: red;
-}
-
-html, body, p {
-    position: relative;
-    z-index: 1; /* needed for setting pseudo-element z-index */
-    // overflow: hidden;
-    backface-visibility: hidden;
-    -webkit-backface-visibility: hidden;
-    backface-visibility: hidden;
-}
-
-
-section a {
-    position: relative;
-    display: inline-block;
-    outline: none;
-    color: #404d5b;
-    vertical-align: bottom;
-    text-decoration: none;
-    white-space: nowrap;
-}
-
-section a::before,
-section a::after {
-    pointer-events: none;
-    -webkit-backface-visibility: hidden;
-    backface-visibility: hidden;
-    -webkit-font-smoothing: antialiased;
-    font-smoothing: antialiased;
-}
-
-
-
-
-// ::-webkit-scrollbar-track {
-//     -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
-//     border: 1px solid black;
-//     background-color: #F5F5F5;
-// }
-
-// ::-webkit-scrollbar-button {
-//     background-color: #7c2929;
-// }
-
-// ::-webkit-scrollbar-corner {
-//     background-color: yellow;
-// }
-
-
-
-
-// /**
-//  * Reset some basic elements
-//  */
-// body, h1, h2, h3, h4, h5, h6,
-// p, blockquote, pre, hr,
-// dl, dd, ol, ul, figure {
-//     margin: 0;
-//     padding: 0;
-// }
-
-
 
 // /**
 //  * Basic styling
@@ -87,6 +15,46 @@ section a::after {
 // }
 
 
+/*
+SCROLLBARS =============================================
+*/
+
+/* For all the scrollbars */
+::-webkit-scrollbar {
+    width: 5px;
+    // background-color: #555;
+    background-color: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+    width: 5px;
+    background-color: darken($brand-primary, 10%);
+}
+
+// html, body, p {
+//     position: relative;
+//     z-index: 1; /* needed for setting pseudo-element z-index */
+//     // overflow: hidden;
+//     backface-visibility: hidden;
+//     -webkit-backface-visibility: hidden;
+//     backface-visibility: hidden;
+// }
+
+
+
+// /**
+//  * Reset some basic elements
+//  */
+// body, h1, h2, h3, h4, h5, h6,
+// p, blockquote, pre, hr,
+// dl, dd, ol, ul, figure {
+//     margin: 0;
+//     padding: 0;
+// }
+
+
+
+
 
 // /**
 //  * Set `margin-bottom` to maintain vertical rhythm
@@ -100,13 +68,13 @@ section a::after {
 
 
 
-// /**
-//  * Images
-//  */
-// img {
-//     max-width: 100%;
-//     vertical-align: middle;
-// }
+/**
+ * Images
+ */
+img {
+    max-width: 100%;
+    vertical-align: middle;
+}
 
 
 
@@ -148,40 +116,40 @@ section a::after {
 
 
 
-// /**
-//  * Links
-//  */
-// a {
-//     color: $brand-color;
-//     text-decoration: none;
+/**
+ * Links
+ */
+a {
+    color: inherit;
+    text-decoration: none;
 
-//     &:visited {
-//         color: darken($brand-color, 15%);
-//     }
+    &:visited {
+        // color: darken($brand-color, 15%);
+    }
 
-//     &:hover {
-//         color: $text-color;
-//         text-decoration: underline;
-//     }
-// }
+    &:hover {
+        color: $text-color;
+        // text-decoration: underline;
+    }
+}
 
 
 
-// /**
-//  * Blockquotes
-//  */
-// blockquote {
-//     color: $grey-color;
-//     border-left: 4px solid $grey-color-light;
-//     padding-left: $spacing-unit / 2;
-//     font-size: 18px;
-//     letter-spacing: -1px;
-//     font-style: italic;
+/**
+ * Blockquotes
+ */
+blockquote {
+    color: $grey-color;
+    border-left: 4px solid $grey-color-light;
+    padding-left: $spacing-unit / 2;
+    font-size: 18px;
+    letter-spacing: -1px;
+    font-style: italic;
 
-//     > :last-child {
-//         margin-bottom: 0;
-//     }
-// }
+    > :last-child {
+        margin-bottom: 0;
+    }
+}
 
 
 
@@ -269,3 +237,13 @@ section a::after {
 // .context.example{
 //   height: 100%;
 // }
+
+
+ @include mobile {
+    h1 {
+        font-size: 2.5rem;
+    }
+    blockquote {
+        font-size: 1.5rem;
+    }
+ }
