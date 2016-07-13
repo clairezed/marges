@@ -5,6 +5,18 @@ Tentatives pour un blog - test de Jekyll
 
 ## Comment ça marche ?
 
+Pour checker toutes les commandes :
+
+```bash
+rake -T
+```
+
+Pour déployer direct (après avoir poussé la branche source) :
+
+```bash
+rake git:deploy
+```
+
 
 ## Resources
 
@@ -162,7 +174,10 @@ Process
 
 - priority medium
   - use jade !
-  - ease of post (post title)
+  - ease of post (post title, post date)
+  - pagination
+  - updated_at on studies (dernière modification)
+  - mixer les categories et tags des depeches et dossiers
 
 - priority low
   - es2015 ?

@@ -1,0 +1,836 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>wappalizer</title>
+  <meta name="description" content="Ca faisait quelques temps que je cherchais un moyen de deviner l’infra derrière un site (ausculter le code en console ), c’est chose faite !">
+
+  <link rel="stylesheet" href="/marges/css/normalize.css">
+  <link rel="stylesheet" href="/marges/css/spectre.min.css">
+  <link rel="stylesheet" href="/marges/css/main.css">
+  <link rel="stylesheet" href="/marges/css/icomoon.css">
+  <link rel="canonical" href="https://clairezed.github.io/marges/sustainable_code/2016/07/08/wappalizer.html">
+  <link rel="alternate" type="application/rss+xml" title="Marges" href="https://clairezed.github.io/marges/feed.xml">
+  <script src="/marges/js/jquery-2.2.3.min.js" type="text/javascript"></script>
+  <script src="/marges/js/main.js" type="text/javascript"></script>
+
+</head>
+
+
+<body>
+
+  <div class="layout-container">
+
+    <div class="layout-container_inner">
+
+      <aside class="nav desktop-nav">
+        <div class="menu-wrapper">
+
+  <a class="menu-title  site-title" href="/marges/">
+    Marges
+  </a>
+
+  <div class="menu-section">
+    <p><em>Prise de notes des internets</em></p>
+  </div>
+
+  <ul class="menu">
+    <li class="menu-header">
+      Format
+    </li>
+    <li class="menu-item">
+      <a class="item" href="/marges/depeches">
+        <i class="home icon"></i>
+        Dépêches
+      </a>
+    </li>
+    <li class="menu-item">
+      <a class="item" href="/marges/dossiers">
+        <!-- <i class="icon icon-link"></i> -->
+        Dossiers
+      </a>
+    </li>
+  </ul>
+
+  <ul class="menu">
+  <li class="menu-header"> Lubies </li>
+  
+    
+    <li class="menu-item">
+      <a class="item"  href="/marges/lubies/binary_transition">
+        Transition binaire
+       <div class="label label-inverted ">6</div>
+      </a>
+    </li>
+  
+    
+    <li class="menu-item">
+      <a class="item"  href="/marges/lubies/sustainable_code">
+        Code décroissant
+       <div class="label label-inverted ">5</div>
+      </a>
+    </li>
+  
+    
+    <li class="menu-item">
+      <a class="item"  href="/marges/lubies/good_job">
+        Good job
+       <div class="label label-inverted ">1</div>
+      </a>
+    </li>
+  
+  </ul>
+
+  <ul class="menu">
+    <li class="menu-header"> Tags (17) </li>
+    
+      <li class="menu-item">
+        <a class="item" href="/marges/tags/professionnalisation">
+         professionnalisation
+         <div class="label label-inverted">1</div>
+        </a>
+      </li>
+    
+      <li class="menu-item">
+        <a class="item" href="/marges/tags/ess">
+         ess
+         <div class="label label-inverted">4</div>
+        </a>
+      </li>
+    
+      <li class="menu-item">
+        <a class="item" href="/marges/tags/start up">
+         start up
+         <div class="label label-inverted">1</div>
+        </a>
+      </li>
+    
+      <li class="menu-item">
+        <a class="item" href="/marges/tags/utopie">
+         utopie
+         <div class="label label-inverted">1</div>
+        </a>
+      </li>
+    
+      <li class="menu-item">
+        <a class="item" href="/marges/tags/bonheur">
+         bonheur
+         <div class="label label-inverted">1</div>
+        </a>
+      </li>
+    
+      <li class="menu-item">
+        <a class="item" href="/marges/tags/public">
+         public
+         <div class="label label-inverted">3</div>
+        </a>
+      </li>
+    
+      <li class="menu-item">
+        <a class="item" href="/marges/tags/tools">
+         tools
+         <div class="label label-inverted">3</div>
+        </a>
+      </li>
+    
+      <li class="menu-item">
+        <a class="item" href="/marges/tags/a lire">
+         a lire
+         <div class="label label-inverted">1</div>
+        </a>
+      </li>
+    
+      <li class="menu-item">
+        <a class="item" href="/marges/tags/animation">
+         animation
+         <div class="label label-inverted">1</div>
+        </a>
+      </li>
+    
+      <li class="menu-item">
+        <a class="item" href="/marges/tags/communaute">
+         communaute
+         <div class="label label-inverted">1</div>
+        </a>
+      </li>
+    
+      <li class="menu-item">
+        <a class="item" href="/marges/tags/faire ensemble">
+         faire ensemble
+         <div class="label label-inverted">1</div>
+        </a>
+      </li>
+    
+      <li class="menu-item">
+        <a class="item" href="/marges/tags/scaling">
+         scaling
+         <div class="label label-inverted">2</div>
+        </a>
+      </li>
+    
+      <li class="menu-item">
+        <a class="item" href="/marges/tags/devops">
+         devops
+         <div class="label label-inverted">2</div>
+        </a>
+      </li>
+    
+      <li class="menu-item">
+        <a class="item" href="/marges/tags/nginx">
+         nginx
+         <div class="label label-inverted">2</div>
+        </a>
+      </li>
+    
+      <li class="menu-item">
+        <a class="item" href="/marges/tags/toolkit">
+         toolkit
+         <div class="label label-inverted">1</div>
+        </a>
+      </li>
+    
+      <li class="menu-item">
+        <a class="item" href="/marges/tags/design">
+         design
+         <div class="label label-inverted">1</div>
+        </a>
+      </li>
+    
+      <li class="menu-item">
+        <a class="item" href="/marges/tags/color">
+         color
+         <div class="label label-inverted">1</div>
+        </a>
+      </li>
+    
+  </ul>
+
+</div>
+      </aside>
+
+      <div class="nav mobile-header">
+        <div class="mobile-header_wrapper">
+          <a class="mobile-menu_title site-title" href="/marges/">
+            Marges
+          </a>
+          <a href="javascript:void(0)" class="btn btn-link btn-lg" data-toggle="mobile-nav"><i class="icon icon-menu"></i></a>
+        </div>
+      </div>
+
+      <nav class="nav mobile-nav" data-toggled="mobile-nav">
+              <div class="menu-wrapper">
+        <ul class="menu">
+          <li class="menu-header">Format</li>
+          <li class="menu-item">
+            <a class="item" href="/marges/depeches">
+              <i class="home icon"></i>
+              Dépêches
+            </a>
+          </li>
+          <li class="menu-item">
+            <a class="item" href="/marges/dossiers">
+              <i class="block layout icon"></i>
+              Dossiers
+            </a>
+          </li>
+        </ul>
+
+        <ul class="menu">
+        <li class="menu-header">Lubies</li>
+            
+              
+              <li class="menu-item">
+              <a class="item"  href="/marges/lubies/binary_transition">
+                Transition binaire
+               <div class="label label-inverted">6</div>
+              </a>
+              </li>
+            
+              
+              <li class="menu-item">
+              <a class="item"  href="/marges/lubies/sustainable_code">
+                Code décroissant
+               <div class="label label-inverted">5</div>
+              </a>
+              </li>
+            
+              
+              <li class="menu-item">
+              <a class="item"  href="/marges/lubies/good_job">
+                Good job
+               <div class="label label-inverted">1</div>
+              </a>
+              </li>
+            
+        </ul>
+
+        <ul class="menu">
+          <li class="menu-header">Tags (17)</li>
+          
+            <li class="menu-item">
+              <a class="item" href="/marges/tags/professionnalisation">
+               professionnalisation
+               <div class="label label-inverted">1</div>
+              </a>
+            </li>
+            
+            <li class="menu-item">
+              <a class="item" href="/marges/tags/ess">
+               ess
+               <div class="label label-inverted">4</div>
+              </a>
+            </li>
+            
+            <li class="menu-item">
+              <a class="item" href="/marges/tags/start up">
+               start up
+               <div class="label label-inverted">1</div>
+              </a>
+            </li>
+            
+            <li class="menu-item">
+              <a class="item" href="/marges/tags/utopie">
+               utopie
+               <div class="label label-inverted">1</div>
+              </a>
+            </li>
+            
+            <li class="menu-item">
+              <a class="item" href="/marges/tags/bonheur">
+               bonheur
+               <div class="label label-inverted">1</div>
+              </a>
+            </li>
+            
+            <li class="menu-item">
+              <a class="item" href="/marges/tags/public">
+               public
+               <div class="label label-inverted">3</div>
+              </a>
+            </li>
+            
+            <li class="menu-item">
+              <a class="item" href="/marges/tags/tools">
+               tools
+               <div class="label label-inverted">3</div>
+              </a>
+            </li>
+            
+            <li class="menu-item">
+              <a class="item" href="/marges/tags/a lire">
+               a lire
+               <div class="label label-inverted">1</div>
+              </a>
+            </li>
+            
+            <li class="menu-item">
+              <a class="item" href="/marges/tags/animation">
+               animation
+               <div class="label label-inverted">1</div>
+              </a>
+            </li>
+            
+            <li class="menu-item">
+              <a class="item" href="/marges/tags/communaute">
+               communaute
+               <div class="label label-inverted">1</div>
+              </a>
+            </li>
+            
+            <li class="menu-item">
+              <a class="item" href="/marges/tags/faire ensemble">
+               faire ensemble
+               <div class="label label-inverted">1</div>
+              </a>
+            </li>
+            
+            <li class="menu-item">
+              <a class="item" href="/marges/tags/scaling">
+               scaling
+               <div class="label label-inverted">2</div>
+              </a>
+            </li>
+            
+            <li class="menu-item">
+              <a class="item" href="/marges/tags/devops">
+               devops
+               <div class="label label-inverted">2</div>
+              </a>
+            </li>
+            
+            <li class="menu-item">
+              <a class="item" href="/marges/tags/nginx">
+               nginx
+               <div class="label label-inverted">2</div>
+              </a>
+            </li>
+            
+            <li class="menu-item">
+              <a class="item" href="/marges/tags/toolkit">
+               toolkit
+               <div class="label label-inverted">1</div>
+              </a>
+            </li>
+            
+            <li class="menu-item">
+              <a class="item" href="/marges/tags/design">
+               design
+               <div class="label label-inverted">1</div>
+              </a>
+            </li>
+            
+            <li class="menu-item">
+              <a class="item" href="/marges/tags/color">
+               color
+               <div class="label label-inverted">1</div>
+              </a>
+            </li>
+            
+        </ul>
+
+      </div>
+      </nav>
+
+      <div class="layout-main">
+        <div class="content-wrapper">
+          <article class="post card" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header card-header">
+    <h1 class="post-title" itemprop="name headline">wappalizer</h1>
+    <p class="post-meta card-meta">
+      <time datetime="2016-07-08T00:00:00+02:00" itemprop="datePublished">Jul 8, 2016</time>
+      
+    </p>
+  </header>
+
+  <div class="post-content card-body" itemprop="articleBody">
+    <p>Ca faisait quelques temps que je cherchais un moyen de deviner l’infra derrière un site (ausculter le code en console ), c’est chose faite !</p>
+
+<p>https://wappalyzer.com/applications</p>
+
+<p>existe aussi en extension</p>
+
+<p>Pas sage en Seine, j’y étais passée il y a un paquet d’années, à un moment où c’était en plein coeur de Paris et où Owni existait encore. Ca m’avait eu l’air plein de gens hyper intéressants mais incompréhensibles.</p>
+
+<p>J’ai gagné quelques niveaux en technique entre temps, et cette année, au niveau des dates ça pouvait coller. Quand j’ai vu le programme, je me suis dit que ça avait l’air bigrement intéressant. Alors j’ai retenté le coup.</p>
+
+<p>Récit d’une moitié de Pas sage en Seine / Hacker Space Festival.</p>
+
+<h2 id="jour-1-pour-moi---samedi-2-juillet">Jour 1 (pour moi) - Samedi 2 juillet</h2>
+
+<h3 id="avec-ethereum-privilgier-les-dumb-contracts-">Avec ethereum, privilégier les dumb contracts ?</h3>
+
+<p>J’arrive direct en début d’après-midi sur une conférence de <strong>@bortzmeyer</strong>, sur un des sujets que j’ai le plus vu abordé dans les milieux tech cette année : <em>“Développer un contrat/programme sur Ethereum”</em>. Je fais justement encore un blocage cognitif sur la blockchain, j’ai donc peur de pas panner grand chose et me dis que  c’est idéal pour me rappeler les sensations de mon premier festival (sic). ça fera une très bonne transition avec ma précédente expérience du festival.</p>
+
+<p>En fait, meme si ça a été en partie le cas, j’ai quand meme retiré un paquet d’infos et d’enseignements assez inspirants de cette conférence ; plutot sur des bonnes pratiques en termes de développement et de sécurité :</p>
+
+<blockquote>
+  <p>“Vouloir résoudre des bogues en traitant du logiciel, c’est pas toujours une bonne idée.”</p>
+</blockquote>
+
+<p>Bortzmeyer analyse l’erreur du DAO (bug entrainant la perte de l’équivalent de XXXXXX euros) comme étant du à une trop forte anticipation de problèmes potentiels. En prévoyant trop de cas critiques potentiels et en les corrigeant, les développeurs ont créé malgré eux de nouvelles fragilités à leur programme.</p>
+
+<p><em>“le problème avec le DAO, c’est qu’on a utilisé les mêmes méthodes de productivité que le web”</em>, c’est à dire coder vite, beaucoup, en se disant que tant que ça marche dans les grandes lignes, c’est bon. Dans les milieux ultrasécurisés, on écrit du code hyper simple, hyper lentement, au contraire. il aurait selon lui fallu coder, non comme pour un site web, mais comme pour une centrale nucléaire.</p>
+
+<p>C’est aussi peut etre un problème de syndrome un peu cowboy chez les devs (j’avoue moi y avoir parfois succombé) : les programmeurs ont tendance à aimer faire du code compliqué. Or, plus un contrat est simple et trivial, plus il est compliqué d’y introduire des bugs.</p>
+
+<p>Pour Bortzmeyer, l’appellation smart contracts serait très avantageusement remplacée par celle de  <strong>“Dumb contracts”</strong>.
+Et il ne faut pas oublier de tester ses codes de retour, aussi.</p>
+
+<p>Ce n’est pas la première fois que j’entends parler des avantages à coder simple, limite un peu grossier. Plus le temps passe et plus je comprends qu’il n’y a vraiment pas de honte à coder façon paysan (un peu rustique, mais c’est du solide), et c’est une façon de faire dans laquelle je me retrouve de plus en plus.</p>
+
+<!-- mais... mais pourquoi "bog" est féminin pour @bortzmeyer ? Il doit me manquer une info
+"il faut privilégier les dumb contracts aux smart contracts. Pas écrire pour le web, mais pour une centrale nucléaire"
+
+grâce à @bortzmeyer , et même si y'a tjs des choses qui m'échappent ds la blockchain, je révise de bons principes de sécurité
+
+"dans ces conditions, programmer de manière sûre, c'est assez yolo" -->
+
+<h3 id="lergonomie-indispensable--ladoption-massive-du-libre">L’ergonomie, indispensable à l’adoption massive du libre</h3>
+
+<p>L’intitulé de la conférence qui suit est une affirmation à laquelle j’adhère massivement : <em>“L’ergonomie, indispensable à l’adoption massive du libre”</em>. L’intéret pour moi était donc plutot d’avoir des éléments de diagnostic (pourquoi est-ce que le design peche dans le libre ?), des pistes de résolution, et voir un peu comment la communauté “hacker / libriste / engagée” (comment on définit la “communauté” de ce festival, en fait ?) recevait ce genre de discours.</p>
+
+<p>Qu’est-ce que ça donne ?</p>
+
+<blockquote>
+  <p>“pour une adoption de masse, il faut rendre le produit accessible au maximum”</p>
+</blockquote>
+
+<p>Là-dessus, les deux intervenants, venus de Cozy Cloud, prechent une convaincue. Mais ils enfoncent le clou et insistent, en parlant au sujet du développement de produits open source de <em>“relation egosexuelle”</em>, travers par lequel on se retrouve à réaliser un produit pour soi, ses usages, sa communauté. Une manière de rappeler que, lorsqu’on bosse pour de l’open source et qu’on essaye de se positionner en alternative aux GAFA, la logique veut qu’on soit accessible au plus grand nombre.</p>
+
+<blockquote>
+  <p>“Si tout ce qu’on arrive a libérer, c’est que de la ligne de code, et bien on aura perdu.”</p>
+</blockquote>
+
+<p>Comment fait-on ? Les méthodes décrites et appliquées par l’équipe de Cozy sont finalement relativement connues, mais c’est souvent pas inutile de répéter les bonnes pratiques : connaitre ses utilisateurs, savoir à qui on s’adresse, et avoir conscience qu’on est <em>“qu’un utilisateur parmi d’autre”</em> (et meme pas un utilisateur représentatif, vu qu’on connait son produit dans les moindres détails).</p>
+
+<p>Ca a parlé ensuite pas mal de “se focuser”, “user experience”, “user centric”… Beaucoup de vocables anglo ou franglo-saxons (c’est le domaine qui veut ça, hein), et notamment des mots que j’avais ces derniers temps principalement vu utilisés pour camoufler des concepts fumeux, et faire passer des projets rempli de vent pour des projets innovants. Je découvre donc que ces mots sont aussi utilisés sans chichi dans la communauté open source. Mes repères anti-bullshit s’effondrent.</p>
+
+<p>En fin d’intervention, un retour sur la distinction entre ergonomie et design ; tout le monde pouvant contribuer à la première et donner des conseils pour l’améliorer, le design devant rester entre les mains du designer. Malgré tout, rien n’oblige à suivre strictement les conseils et avis des utilisateurs. “si j’avais demandé aux gens ce qu’ils voulaient, ils auraient dit Des cheveaux plus rapides”</p>
+
+<blockquote>
+  <p>“on a besoin de la contribution des utilisateurs, mais notre devoir est de les inspirer à aller plus loin”</p>
+</blockquote>
+
+<p>pourquoi c’est compliqué, entre l’os, l’ergo et le design ? Déjà, rien que l’install est compliquée</p>
+
+<p>“ergo = créer une solution avec ses utilisateurs pour qu’ils se sentent à le maison”</p>
+
+<p>“user-centric”, “user experience”, “focuser”… c’est toujours plein d’anglicisme les présentations d’ergo</p>
+
+<p>comment faire ? Faut trouver ses utilisateurs, discuter avec eux, analyser, faire des prototypes simples…</p>
+
+<p>point “challenger”. Ca a parlé” disrupté” aussi tout à heure. C’est con, mais je tique toujours un peu
+    je crains que se soit indissociable du domaine :-/
+faut réussir à distinguer les fois où l’utilisation de ces termes cache du vent
+    ça m’a surpris mais j’ai pas trop entendu de vent dans cette conf
+oui oui, pas du tout dans les confs ici ! mais les précédentes fois où je les ai entendu, c’était vachement plus”venteux”
+ et donc j’ai tendance à assimiler ces termes à des atmosphères venteuses, (ouais, j’amalgame un peu)</p>
+
+<p>“tout le monde n’est pas ergonome, mais tout le monde peut contribuer à l’ergo, et apporter des conseils. Pas en design.”</p>
+
+<p>“est-ce que qu’on peut open sourcer du design ? Vraie question. Cf mozilla.open-sourcing.brand”</p>
+
+<p><a href="http://talks.m4dz.net/open-source-ux/#1">Les slides</a></p>
+
+<h3 id="vers-un-design-libre">Vers un design libre</h3>
+
+<p>“un système technique n’est pas neutre” conf design libre</p>
+
+<p>parlzme de prosommateur, où la personne s’implique dans la production de l’objet qu’il utilise</p>
+
+<p>#prosommateur : cf amap où tu peux payer tes paniers soit en temps de travail, soit en fric</p>
+
+<p>y’a des notices d’Entropie qui me font grave de l’oeil ( https://www.asso-entropie.fr/fr/design-libre/notices/carriole-serigraphier/)</p>
+
+<p>on en vient à discuter modèle économique quand on est dans le don : les recherches sont financées</p>
+
+<p>recherche financées par formation (personne ayant un besoin spécifique), ou subventions</p>
+
+<p>une fois qu’un projet à été financé une fois, il peut être diffusé</p>
+
+<p>atelier paysan, à Grenoble, aide les paysans à produire leur propre outillage</p>
+
+<p>Entropie part symétriquement des besoins et demandes, pas de création d’objets “pour voir”</p>
+
+<p>Petit moment de pause, je descends au village associatif et en profiterait pour louper intégralement sans m’en rendre compte l’intervention sur les cafés vie privée.</p>
+
+<p>A la place, je discute quand meme avec</p>
+
+<h3 id="pseshsf-debout--le-syndicat-dinitiatives">PSES+HSF Debout ! Le Syndicat d’Initiatives</h3>
+
+<p>Discussions sur comment peu à peu freelancer pour la cause -&gt; la question se résume aussi à “Où est le fric ?” Bosser qq jours pour des grands comptes pour réserver le reste à de la militance ?</p>
+
+<h3 id="ffdn">FFDN</h3>
+
+<p>Découverte de la Brique, avec du YunoHost</p>
+
+<h3 id="vers-un-web-decentralis-">Vers un web decentralisé ?</h3>
+
+<p>pq on fait des services centralisés ? Parce que c’est faciiiiiiile, pas trop cher, etc.</p>
+
+<p>“dht, decentralized hash table”, c’est là que j’ai peur de ne plus tout saisir</p>
+
+<p>BitTorrent passe mtnt par MainlineDHT, pour éviter centralisation des trackers. Je mets ça là pour si j’ai le temps de fouiller</p>
+
+<p>zeronet, mix BitTorrent et bitcoin</p>
+
+<p>maintenant ca cause webRTC, un truc dont j’ai + entendu parlé (ça doit être à cause du “web” dans le titre)</p>
+
+<p>encore une mention du DAO, avec des petits toussotements</p>
+
+<p>expérience cool de contrôle de chauffage via wifi, “jusqu’au moment où j’ai plus eu internet et j’ai eu froid”</p>
+
+<h2 id="jour-2---dimanche-3-juillet">Jour 2 - Dimanche 3 juillet</h2>
+
+<p>Raté la conf sur educ pop, encore un sujet convaincu</p>
+
+<h3 id="salaire--vie">Salaire à vie</h3>
+
+<h3 id="il-etait-une-fois-linternet">Il etait une fois l’internet</h3>
+
+<h3 id="lqdn">LQDN</h3>
+
+<h3 id="twitter-motions">Twitter émotions</h3>
+
+<h3 id="community-organizing">Community Organizing</h3>
+
+<p>Premier Club Maté pour moi (il était temps), pris à 16h, je m’attends à pas fermer l’oeil de la nuit.</p>
+
+<p>Bilan</p>
+
+<p>Des thématiques plus ouvertes sur de la politique non technique / + grand public (mais je sais pas 1/ si mon regard est pas biaisé ; 2/ si le public habituel s’y retrouve)</p>
+
+<p>#PSESHSF pour retrouver les confs (et mon flood de tweets sur certaines)</p>
+
+<p>Source : <a href="http://www.huffingtonpost.fr/diana-filippova/la-politisation-de-la-que_b_10707504.html">La politisation de la question technologique, condition d’un nouveau contrat social</a></p>
+
+<p>Titre ou sujet :         Remise des Bullshit Bingo d’Or 2016
+Intervenants :         Emmanuelle Macro et Alain Mince (Brice Tuturier juste au téléphone). On pourrait avoir un appel de  Axelle L’Amer +1+1
+Description :          Le classement tant attendu des Bullshit Bingo Awards sera révélé par notre jury constitué d’investisseurs panaméens, de vieilles pousses et de chômeurs devant un parterre de décideurs et de jeunes poulets sous vide.</p>
+
+<p>Comment ça marche (pas) ?</p>
+
+<p>Vous mettez un +1 après chaque entrée pour laquelle vous voulez voter +1
+Vous pouvez voter pour une ou 2 entrées par catégorie.
+Essayez de remplir dans toutes les catégories :)
+On compte les voix, et on distribue les awards ce samedi 2 à 19h00 :)</p>
+
+<p>Prix du Bullshit Job de l’année
+Devops +1+1+1+1+1+1+1+1+1+1+1+1+1+1+11+1+1
+[…] Guru+1
+*-ninja+1+1
+Scrum master
+Évangeliste +1
+Associé On Purpose +1+1+1+
+Growth Hacker +1+1+1
+LIFE HACKER+1
+CHIEF HAPPINESS OFFICER +1+1+1+1+1+1+1
+Coach agile +1+1+1+1+1+1+1+1+1+1+1+1 +1+1
+CTO
+CEO
+CDO (Data / Digital)
+Data scientist +1
+Lead Dev
+Lead QA
+Directeur Program Manager +1+1
+Red-team
+RH</p>
+
+<p>Le Prix du Bullshit Word qui a perdu de la vitesse depuis 2015
+Crowdsourcing +1+1 +1
+Bitcoin+1+1
+IaaS / *AAS +1+1+1+1+1+1+1+1+1
+accélérateur de croissance +1
+scalabilité+1+1+1+1+1+1+1+1+1+1
+résilience+1+1+1+1
+coworking
+Imprimante 3D +1+1+1+1</p>
+
+<p>Le Prix du Bullshit Word de 2016
+Internet of Things +1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1
+Growth Hacking
+VR
+Blockchain +1+1+1+1+1+1+1+1+1+++++++1
+Voiture sans chauffeur / Google Car (car as a service ?)
+machine learning / neural networks+1
+Community engagement(happiass)
+Employee engagement
+predictive analytics (Tessier aaS)
+open innovation (open * [comme l’open source])
+LEAN +1
+SCRUM
+AGILE+1
+SPRINT
+<em>Digital</em> (en francais)+1+1+1+1+1+1+1+1m+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1
+Innovation disruptive +1+1+1+1
+Licorne &lt;3
+uberisation de *+1+1+1+1+1+1+1
+civic tech ,
+foodtech
+fintech
+lowtech+1
+Silver Economy / l’or gris
+4K+1  -&gt; 5K
+Cuisse de poulet^^
+DAO +53 M$ haha
+gougleu
++1 aussi pour Digital<censored> &lt;=== Culay ! &lt;= <censored>
++1 : "digital penetration" c'est la "pénétration du numérique" et pas...
+Il manque totalement le « DARKNET » ;) /me agrees+1+1+1</censored></censored></p>
+
+<p>Le Prix du Bullshit Word qui a un gros potentiel pour 2017
+FlexOffice
+Internet Of Cars +1+1+1+1+1+1+1+1+1+1
+Intenet of things as++11+1+1+1+1+1+1+1+1+1+@+1+1+1+1+1+1+1+1+1+1+1+1
+Smart contract
+Uberiser Uber
+VR
+herméneutique (référence nécessaire)
+Internet des grosses merdes surtout…</p>
+
+<p>Prix du Bullshit de l’innovation d’État
+Le Hackaton pour mieux fliquer les gens +1+1+1+1+1+1+1+1
+http://www.paris.fr/necmergitur
+Pôle emploi … user centric et disruptif +1+1+1
+http://www.journaldunet.com/management/ressources-humaines/1176880-anne-leone-campanella-pole-emploi/
+Startups d’État +1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1
+http://www.modernisation.gouv.fr/ladministration-change-avec-le-numerique/par-des-services-numeriques-aux-usagers/startups-d-etat
+Lapsus…
+http://rue89.nouvelobs.com/2016/06/07/numerique-doit-etre-reserve-happy-few-264279</p>
+
+<p>Prix du Mot Bullshit de la décennie
+Big Data +1+1+1+1+1+1+1
+Cloud+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1
+Startup +1+1
+Digital +1+1+1+1+1+1+1+1+1-1
+Internet of *
+INNOVATION
+IA (du siècle ?)+1+1 ««««&lt;
+TayAi
+Singularité
+Machine learning
+Tout ces mots doivent avoir ce prix !+1+1+1+1+1
+Je valide cette opinion :’)</p>
+
+<p>Prix du Bullshit des filles et fils à papa
+Bullshiters As A Service +1+1+1
+https://cremedelacreme.io/
+La Learning Touch
+https://www.digischool.fr/hype/
+L’écosystème entrepreneurial X +1+1+1+1+1+1+1+1
+https://www.polytechnique.edu/fr/breve/lecole-polytechnique-lance-son-accelerateur
+Stagiaires On Purpose  +1
+https://jobs.ouishare.net/
+L’esclavage DIY +1+1+1+1+1+1+1+1+1+1+1+1+1+1+1
+http://www.lemonde.fr/campus/article/2016/05/22/a-fresnes-de-jeunes-passionnes-d-informatique-hackent-les-codes-de-l-entreprise_4924060_4401467.html</p>
+
+<p>Prix spécial du jury : le coup de coeur
+Power Networker +1 +1+1
+http://www.meilleurdevdefrance.com/
+Pitch As A Service
+http://makestorming.com/outils/pitchmotion
+Même Challenges (!) s’y met +1+1
+http://www.challenges.fr/high-tech/20160107.CHA3639/high-tech-start-up-frenchtech-jouez-au-bullshit-bingo-du-ces-2016.html
+Les plus belles pages du corporate (“Intrapreunariat”)
+http://www.thebosonproject.com/#!noslivres/c11a4
+Webcomic Strip +1+1+1
+http://www.commitstrip.com/fr/2016/06/20/coder-bingo/?
+Le Bullshit qui vient +1
+http://i.imgur.com/oNwl8Qa.png
+Le Bullshit Intello-technique “hypercontrôle computationnel” +1
+http://enmi-conf.org/wp/enmi15/
+Le Camp à Bobos “able to adapt”+1+1+1+1
+http://darwin.camp/
+LLeLe</p>
+
+<p>Prix de l’entreprise (au sens large) qui pratique le mieux le greenwashing, hackerwashing, le *washing
+Le yaourt inter-entreprise qui innove sec
+ http://programmenoe.com/
+#CompteurConnect  +1+1+1+1+1+1+1
+http://www.developpement-durable.gouv.fr/Hackathon-CompteurConnect-le
+MAIF La blockchain au service de ton assureur+1+1+1+1+1+1+1+1+1+1+1+1+1+1
+www.meetup.com/fr/La-Paillasse-Events/events/222566200/
+Point bonus buzzword-combo pour le communiqué presse MAIF-CozyCloud “A la MAIF, nous sommes fiers d’accompagner la croissance de Cozy Cloud et d’amorcer avec elle un nouveau paradigme autour du self data. MAIF est convaincue de la capacité de Cozy à être disrupteur sur le sujet”
+vous savez que la MAIF est pas une entreprise les gens ? &gt; c’est encore mieux :) /me lol &lt;=== Pour être une merde, on a pas besoin être d’une origine particuliere
+SNCF “Kick Off camp &amp; 17 semaines de training”
+http://tektos.co/sncf-tektos/</p>
+
+<p>Prix Pixelle Lemaire : la meilleure redistribution d’argent public / opération de com’ gouvernementale / publique
+Le “pré-accélérateur lean” +1
+https://lafonderie-idf.fr/appel-a-participations-nestin/
+La Salle Tatami Coworking Place d’État +1+1+1+1+1+1+1+1+1
+http://superpublic.fr/</p>
+
+<p>Prix du meilleur outil anti-Bullshit
+La police de caractères qui dénonce grave +1+1+1+1+1+1+1+1+1
+http://www.sansbullshitsans.com/
+Le Response GIF +1+1+1+1
+http://www.gifbin.com/bin/052009/1242749315_bullshit_amplifier-detector.webm
+Jouez en réunion ! +1+1+1+1+1+1+1+1??
+http://www.bingoreunion.fr/
+Faites vos grilles ! +1
+http://www.bullshitbingo.net/cards/buzzword/
+Un générateur
+http://www.bullshitgenerator.com/</p>
+
+<p>Prix Bullshit Bingo de Gauche
+Convergence des luttes
+acquis social / acquis sociaux
+empowerment / émancipation/encapacitation/enpouvoirement/encapacitance+1+1+1
+cloud personnel +1+1+1+1+1+1+1+1+1
+Méta données
+ECO<em>+1+1
+BIO</em>+1+1+1
+Lanceurs d’alerte+1+1
+lowtech
+* debout
+je suis *
+Je connais ni ma droite ni ma gauche (du moins en politique) mais s’ils sont contre les lancers d’alerte, alors c’est de la grosse merde…+1+1
+entendu récemment, cloud privé/public/hybride</p>
+
+<p>Prix de la persévérance pour l’OS Souverain / Logiciel Souverain
+OS Souverain +1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1
+Antivirus Souverain
+Logiciel Souverain
+L’intelligence artificielle Souveraine
+Cloud Souverain +1
+Il faut bien des logiciels Souverains pour faire tourner un OS Souverain
+On se contentera de logiciels propriétaires grâce aux contrats avec Microsoft &lt;=== Ouais mais c’est que pour l’Éducation nationale et la Défense Nationale et l’enseignement sup/recherche !
+Et un point Godwin pour Alban :)</p>
+
+<p>Prix de la récup’ des hackers
+Les Makers, ils impriment des immeubles… +1+1
+http://www.futurapolis.com/manifeste/
+Le magasin qui se présente comme un lab +1
+http://www.brocantelab.com/
+T’as un projet ? On va t’aider… +1+1
+http://www.thisispollen.com/#home
+Hackers à vendre
+https://www.hackster.io/business
+*SPACE
+*FABLAB
+Techshop
+*LAB +1+1+1+1+1+1+1+1+1+1+1+1+1+1+1 /tmp/lab &lt;===+1</p>
+
+<p>Prix Le Bon Bullshit De Nos Régions : les techshops a ROI sur l’innovation
+Aquitaine ! +1+1
+http://www.aquitaine-developpement-innovation.com/
+Ile de France !
+http://www.silvervalley.fr/Silver-Valley-12
+Ile de France !
+https://lafonderie-idf.fr/equipe/
+Orléans ! +1+1+1+1+1+1+1+1
+http://www.le-lab-o.fr/
+Loire ! +1+1
+http://frenchtech-loirevalley.com/#section-presentation
+Lyon !
+http://www.digitalsummr.com/fr/programme/programme
+Brest ! (plus) &lt;=== Avec Brest, Molaix, Quimper et Lannion (d’où le “plus” !) La première *TECH augmentée…
+http://thebresttechblog.tumblr.com/
+http://frenchtech-brestplus.bzh/ &lt;=== avec .bzh !</p>
+
+<p>Rappel Source  :</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>https://pad.lqdn.fr/p/bullshit_bingo_awards_pseshsf
+</code></pre>
+</div>
+
+
+  </div>
+
+  <div class="card-footer">
+
+  <div class="card-labels">
+    
+      <a href="/marges/tags/tools">
+        <span class="post-meta label">tools</span>
+      </a>
+    
+  </div>
+
+
+  
+    <a class="post-link" href="/marges/binary_transition/2016/07/03/pseshsf-2016-02.html">Avant : Pas sage en Seine - Hackerspace Festival 2016, jour 2</a>
+  
+  
+    <a class="post-link float-right" href="/marges/binary_transition/2016/07/09/animation-communaute.html">Après : animer communaute</a>
+  
+
+</article>
+
+        </div>
+      </div>
+
+    </div>
+
+  </div>
+
+
+
+</body>
+</html>

@@ -6,14 +6,14 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>Contenu avec le tag utopie</title>
-  <meta name="description" content="joli blog">
+  <title>scaling devops</title>
+  <meta name="description" content="Je lutte contre une tendance à vouloir en faire trop, à optimiser, factoriser de façon trop précoce, et suis toujours à la recherche de moyens de faire qui p...">
 
   <link rel="stylesheet" href="/marges/css/normalize.css">
   <link rel="stylesheet" href="/marges/css/spectre.min.css">
   <link rel="stylesheet" href="/marges/css/main.css">
   <link rel="stylesheet" href="/marges/css/icomoon.css">
-  <link rel="canonical" href="https://clairezed.github.io/marges/tags/utopie/">
+  <link rel="canonical" href="https://clairezed.github.io/marges/sustainable_code/2016/07/09/devops-scaling.html">
   <link rel="alternate" type="application/rss+xml" title="Marges" href="https://clairezed.github.io/marges/feed.xml">
   <script src="/marges/js/jquery-2.2.3.min.js" type="text/javascript"></script>
   <script src="/marges/js/main.js" type="text/javascript"></script>
@@ -397,45 +397,146 @@
 
       <div class="layout-main">
         <div class="content-wrapper">
-          <article class="post">
+          <article class="post card" itemscope itemtype="http://schema.org/BlogPosting">
 
-  <header class="post-header">
-    <h1 class="post-title">Contenu avec le tag utopie</h1>
+  <header class="post-header card-header">
+    <h1 class="post-title" itemprop="name headline">scaling devops</h1>
+    <p class="post-meta card-meta">
+      <time datetime="2016-07-09T00:00:00+02:00" itemprop="datePublished">Jul 9, 2016</time>
+      
+    </p>
   </header>
 
-  <div class="post-content">
-  <ul>
-    
-      <div class="card">
-  <div class="card-header">
-    <h4 class="card-title">
-      <a class="post-link" href="/marges/sustainable_code/2016/06/17/notre-responsabilite-dans-l-adictivite.html">Nous sommes tous des dealers de numérique</a>
-    </h4>
-    <h6 class="card-meta">Jun 17, 2016</h6>
-  </div>
-  <div class="card-body">
-    <p>Rue89 pointe 10 stratégies mises en place par les professionnels du web pour créer et perpétuer l’addiction à leur produit. Ce sont les types de mécanismes qu’il m’arrive moi-même de mettre en place, comme bien d’autres de mes collègues (parfois à nos corps défendant). Et je les exècre d’autant plus que j’en suis bien évidemment moi-même victime.</p>
+  <div class="post-content card-body" itemprop="articleBody">
+    <p>Je lutte contre une tendance à vouloir en faire trop, à optimiser, factoriser de façon trop précoce, et suis toujours à la recherche de moyens de faire qui permettent à la fois d’^etre léger et rapide, à la fois d’etre réactif et flexible pour pouvoir réorienter quand il faut.</p>
 
+<p>Donc, quand un article me promets des astuces et procédures simples à mettre en place, c^oté architecture, pour permettre si l’occasion se présente, de na pas avoir un serveur qui saute en cas de succès (et donc, de manière régulière, pour alléger la charge sur le serveur), je lis avec attention.</p>
 
-  </div>
-  <div class="card-footer">
-    <a href="/marges/sustainable_code/2016/06/17/notre-responsabilite-dans-l-adictivite.html" class="btn btn-link float-right">Lire +</a>
-    <a href="/marges/lubies/sustainable_code">
-      <span class="post-meta label label-primary">code décroissant</span>
-    </a>
-    
-    <a href="/marges/tags/utopie">
-      <span class="post-meta label">utopie</span>
-      </a>
-    
+<p>Trois actions préconisées, qui, après quelques installations, peuvent etre faites en une heure :</p>
 
-  </div>
+<h3 id="tester-le-temps-de-chargement-de-son-site">Tester le temps de chargement de son site</h3>
+
+<p><a href="https://loader.io/"><strong>Loader.io</strong></a>, dans sa version gratuite, permet de tester la réponse de son site jusqu’à 10 000 requetes par minute (ce qui suffira généralement à faire tomber un site non optimisé)</p>
+
+<p>A savoir : Loader.io ne supporte que http/https. Pour des sites exploitant d’autres protocoles de communication, il faudra passer par d’autres outils (Meteor et ses websockets -&gt; penser à  <a href="https://github.com/meteorhacks/meteor-down">MeteorDown</a> ou <a href="https://kadira.io/">Kadira</a>)</p>
+
+<p>Cet étape permet de savoir si son site a VRAIMENT besoin d’optimisation. Etape à répéter après chaque optimisation, pour déterminer s’il faut continuer ou non.</p>
+
+<h3 id="utiliser-un-proxy-pour-attnuer-la-charge-du-serveur">Utiliser un proxy pour atténuer la charge du serveur</h3>
+
+<p>Un serveur <a href="http://nginx.org/en/docs/beginners_guide.html"><strong>Nginx</strong></a> à la rescousse pour servir de<em>“caching load-balancing reverse proxy”</em> (ma capacité de traduction atteint souvent ses limites dans le domaine de l’administration système….)</p>
+
+<p>Comme Nginx permet de faire un paquet de choses, on s’y paume souvent dans sa configuration, mais l’auteur de l’article est un vrai chic type et partage sa configuration type, que je me permet de retranscrire ici :</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>proxy_cache_path  <span class="sr">/var/</span>cache<span class="sr">/nginx/</span>sidebar levels<span class="p">=</span><span class="m">1</span><span class="p">:</span><span class="m">2</span> keys_zone<span class="p">=</span>SIDEBAR<span class="p">:</span><span class="m">10</span><span class="k">m</span> inactive<span class="p">=</span><span class="m">24</span><span class="k">h</span>  max_size<span class="p">=</span><span class="m">1</span><span class="k">g</span>;
+
+# LOAD BALANCING <span class="p">===================</span>
+# Load Balancer <span class="p">:</span> it can farm requests out
+# <span class="k">to</span> multiple back<span class="p">-</span><span class="k">end</span> servers instead of just one<span class="p">.</span>
+upstream sidebar <span class="p">{</span>
+    ip_hash;
+
+    server xxx<span class="p">.</span>xxx<span class="p">.</span>xx<span class="p">.</span>xxx<span class="p">:</span><span class="m">80</span>;
+    server yyy<span class="p">.</span>yyy<span class="p">.</span>yy<span class="p">.</span>yyy<span class="p">:</span><span class="m">80</span>;
+<span class="p">}</span>
+
+server <span class="p">{</span>
+    listen <span class="m">0</span><span class="p">.</span><span class="m">0</span><span class="p">.</span><span class="m">0</span><span class="p">.</span><span class="m">0</span><span class="p">:</span><span class="m">80</span>;
+    server_name sidebar<span class="p">.</span>io;
+
+    access_log <span class="sr">/var/</span>log<span class="sr">/nginx/</span>sidebar<span class="p">.</span>access;
+
+    <span class="k">set</span> $skip_cache <span class="m">0</span>;
+    location / <span class="p">{</span>
+        # PROXY STARTS HERE <span class="p">========</span>
+        # configures NGINX <span class="k">to</span> be <span class="k">a</span> reverse proxy <span class="p">:</span>
+        # <span class="p">-</span> it forwards requests <span class="k">on</span> <span class="k">to</span> your web app
+        # <span class="p">-</span> fetches the response<span class="p">,</span>
+        # <span class="p">-</span> and returns the response <span class="k">to</span> the requestor<span class="p">.</span>
+        proxy_pass http<span class="p">:</span><span class="sr">//</span>sidebar/;
+        proxy_http_version <span class="m">1</span><span class="p">.</span><span class="m">1</span>;
+        proxy_set_header Upgrade $http_upgrade;
+        proxy_set_header Connection <span class="s2">"upgrade"</span>;
+        proxy_set_header Host $http_host;
+
+        proxy_set_header X<span class="p">-</span>Real<span class="p">-</span>IP $remote_addr;
+        proxy_set_header X<span class="p">-</span>Forwarded<span class="p">-</span>For $proxy_add_x_forwarded_for;
+        proxy_set_header X<span class="p">-</span>Forward<span class="p">-</span>Proto http;
+        proxy_set_header X<span class="p">-</span>Nginx<span class="p">-</span>Proxy true;
+
+        proxy_redirect off;
+
+        # CACHING STARTS HERE <span class="p">========</span>
+        # sets NGINX <span class="k">up</span> <span class="k">to</span> be <span class="k">a</span> cache <span class="p">:</span>
+        # NGINX can store some of the responses
+        # and <span class="k">return</span> the results without ever
+        # hitting the back<span class="p">-</span><span class="k">end</span> app server<span class="p">.</span>
+        <span class="k">if</span> <span class="p">(</span>$cookie_meteor_login_token<span class="p">)</span> <span class="p">{</span>
+            <span class="k">set</span> $skip_cache <span class="m">1</span>;
+        <span class="p">}</span>
+        proxy_cache_bypass $skip_cache;
+        proxy_no_cache $skip_cache;
+        proxy_cache SIDEBAR;
+        proxy_cache_valid <span class="m">200</span> <span class="m">30</span>s;
+        proxy_cache_use_stale error timeout invalid_header updating http_500 http_502 http_503 http_504;
+        proxy_ignore_headers <span class="s2">"Cache-Control"</span> <span class="s2">"Expires"</span>;
+        add_header X<span class="p">-</span>Cached $upstream_cache_status;
+    <span class="p">}</span>
+<span class="p">}</span>
+</code></pre>
 </div>
 
+<p>Conseils et remarques pour le cache :</p>
 
-    
-    </ul>
+<ul>
+  <li>inadéquat pour des sites aux données très dynamiques. mais souvent, la page d’accueil, celle qui reçoit le + de trafic, est statique : mettre en cache celle-ci et pas les autres pages, + dynamiques.</li>
+  <li>si des données sensibles transitent dans les réponses du serveur, ne pas les mettre en cache ! (d’où dans la config ci-dessus la variable <code class="highlighter-rouge">$skip_cache</code>)</li>
+</ul>
+
+<h3 id="utilisez-un-cdn--pour-que-le-site-charge-plus-rapidement-de-nimporte-o">Utilisez un CDN  pour que le site charge plus rapidement, de n’importe où</h3>
+
+<p>La version gratuite du Content Delivery Networks <a href="https://www.cloudflare.com/">Cloudflare</a> fait apparemment déjà des miracles. Voici ce que pointe l’auteur de l’article :</p>
+
+<ul>
+  <li>chargement + rapide des assets</li>
+  <li>HTTPS en un click</li>
+  <li>protection contre les attaque DDoS</li>
+</ul>
+
+<p>Source : <a href="https://medium.freecodecamp.com/minimum-viable-devops-919972dfd9e0#.58j5845b3">Minimum Viable DevOps</a></p>
+
+
   </div>
+
+  <div class="card-footer">
+
+  <div class="card-labels">
+    
+      <a href="/marges/tags/tools">
+        <span class="post-meta label">tools</span>
+      </a>
+    
+      <a href="/marges/tags/scaling">
+        <span class="post-meta label">scaling</span>
+      </a>
+    
+      <a href="/marges/tags/devops">
+        <span class="post-meta label">devops</span>
+      </a>
+    
+      <a href="/marges/tags/nginx">
+        <span class="post-meta label">nginx</span>
+      </a>
+    
+  </div>
+
+
+  
+    <a class="post-link" href="/marges/binary_transition/2016/07/09/animation-communaute.html">Avant : animer communaute</a>
+  
+  
+    <a class="post-link float-right" href="/marges/sustainable_code/2016/07/10/app-gestion_idee.html">Après : App gestion idées</a>
+  
 
 </article>
 
