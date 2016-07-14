@@ -5,15 +5,15 @@
     <description>joli blog</description>
     <link>https://clairezed.github.io/marges/</link>
     <atom:link href="https://clairezed.github.io/marges/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 14 Jul 2016 00:17:31 +0200</pubDate>
-    <lastBuildDate>Thu, 14 Jul 2016 00:17:31 +0200</lastBuildDate>
+    <pubDate>Thu, 14 Jul 2016 13:04:31 +0200</pubDate>
+    <lastBuildDate>Thu, 14 Jul 2016 13:04:31 +0200</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
         <title>palettable</title>
         <description>&lt;p&gt;Cool app pour créer des palettes&lt;/p&gt;
 
-&lt;p&gt;Source : &lt;a href=&quot;http://www.palettable.io/D6F00D-FF4F64-FF5324-D6C7D9-A8883E&quot;&gt;Minimum Viable DevOps&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a href=&quot;http://www.palettable.io/D6F00D-FF4F64-FF5324-D6C7D9-A8883E&quot;&gt;Palettable&lt;/a&gt;&lt;/p&gt;
 
 </description>
         <pubDate>Wed, 13 Jul 2016 00:00:00 +0200</pubDate>
@@ -25,152 +25,6 @@
         <category>design</category>
         
         <category>color</category>
-        
-        
-        <category>sustainable_code</category>
-        
-      </item>
-    
-      <item>
-        <title>App gestion idées</title>
-        <description>&lt;p&gt;Dans mes idées de projet, j’avais une app de gestion d’idée de projet.&lt;/p&gt;
-
-&lt;p&gt;Grace à PSES, je découvre que (sans surprise) y’a déjà des gens à plancher dessus
-- libreidea.org
-- http://www.creativitypool.com/
-- http://www.halfbakery.com/&lt;/p&gt;
-
-&lt;p&gt;Source : &lt;a href=&quot;http://ysav.free.fr/public/slide_libreidea.org_PSESHSF.pdf&quot;&gt;Minimum Viable DevOps&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Sun, 10 Jul 2016 00:00:00 +0200</pubDate>
-        <link>https://clairezed.github.io/marges/sustainable_code/2016/07/10/app-gestion_idee.html</link>
-        <guid isPermaLink="true">https://clairezed.github.io/marges/sustainable_code/2016/07/10/app-gestion_idee.html</guid>
-        
-        <category>tools</category>
-        
-        <category>scaling</category>
-        
-        <category>devops</category>
-        
-        <category>nginx</category>
-        
-        
-        <category>sustainable_code</category>
-        
-      </item>
-    
-      <item>
-        <title>scaling devops</title>
-        <description>&lt;p&gt;Je lutte contre une tendance à vouloir en faire trop, à optimiser, factoriser de façon trop précoce, et suis toujours à la recherche de moyens de faire qui permettent à la fois d’^etre léger et rapide, à la fois d’etre réactif et flexible pour pouvoir réorienter quand il faut.&lt;/p&gt;
-
-&lt;p&gt;Donc, quand un article me promets des astuces et procédures simples à mettre en place, c^oté architecture, pour permettre si l’occasion se présente, de na pas avoir un serveur qui saute en cas de succès (et donc, de manière régulière, pour alléger la charge sur le serveur), je lis avec attention.&lt;/p&gt;
-
-&lt;p&gt;Trois actions préconisées, qui, après quelques installations, peuvent etre faites en une heure :&lt;/p&gt;
-
-&lt;h3 id=&quot;tester-le-temps-de-chargement-de-son-site&quot;&gt;Tester le temps de chargement de son site&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://loader.io/&quot;&gt;&lt;strong&gt;Loader.io&lt;/strong&gt;&lt;/a&gt;, dans sa version gratuite, permet de tester la réponse de son site jusqu’à 10 000 requetes par minute (ce qui suffira généralement à faire tomber un site non optimisé)&lt;/p&gt;
-
-&lt;p&gt;A savoir : Loader.io ne supporte que http/https. Pour des sites exploitant d’autres protocoles de communication, il faudra passer par d’autres outils (Meteor et ses websockets -&amp;gt; penser à  &lt;a href=&quot;https://github.com/meteorhacks/meteor-down&quot;&gt;MeteorDown&lt;/a&gt; ou &lt;a href=&quot;https://kadira.io/&quot;&gt;Kadira&lt;/a&gt;)&lt;/p&gt;
-
-&lt;p&gt;Cet étape permet de savoir si son site a VRAIMENT besoin d’optimisation. Etape à répéter après chaque optimisation, pour déterminer s’il faut continuer ou non.&lt;/p&gt;
-
-&lt;h3 id=&quot;utiliser-un-proxy-pour-attnuer-la-charge-du-serveur&quot;&gt;Utiliser un proxy pour atténuer la charge du serveur&lt;/h3&gt;
-
-&lt;p&gt;Un serveur &lt;a href=&quot;http://nginx.org/en/docs/beginners_guide.html&quot;&gt;&lt;strong&gt;Nginx&lt;/strong&gt;&lt;/a&gt; à la rescousse pour servir de&lt;em&gt;“caching load-balancing reverse proxy”&lt;/em&gt; (ma capacité de traduction atteint souvent ses limites dans le domaine de l’administration système….)&lt;/p&gt;
-
-&lt;p&gt;Comme Nginx permet de faire un paquet de choses, on s’y paume souvent dans sa configuration, mais l’auteur de l’article est un vrai chic type et partage sa configuration type, que je me permet de retranscrire ici :&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;proxy_cache_path  &lt;span class=&quot;sr&quot;&gt;/var/&lt;/span&gt;cache&lt;span class=&quot;sr&quot;&gt;/nginx/&lt;/span&gt;sidebar levels&lt;span class=&quot;p&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;2&lt;/span&gt; keys_zone&lt;span class=&quot;p&quot;&gt;=&lt;/span&gt;SIDEBAR&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;10&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;m&lt;/span&gt; inactive&lt;span class=&quot;p&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;24&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;h&lt;/span&gt;  max_size&lt;span class=&quot;p&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;g&lt;/span&gt;;
-
-# LOAD BALANCING &lt;span class=&quot;p&quot;&gt;===================&lt;/span&gt;
-# Load Balancer &lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; it can farm requests out
-# &lt;span class=&quot;k&quot;&gt;to&lt;/span&gt; multiple back&lt;span class=&quot;p&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt; servers instead of just one&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;
-upstream sidebar &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    ip_hash;
-
-    server xxx&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;xxx&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;xx&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;xxx&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;80&lt;/span&gt;;
-    server yyy&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;yyy&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;yy&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;yyy&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;80&lt;/span&gt;;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-
-server &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    listen &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;80&lt;/span&gt;;
-    server_name sidebar&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;io;
-
-    access_log &lt;span class=&quot;sr&quot;&gt;/var/&lt;/span&gt;log&lt;span class=&quot;sr&quot;&gt;/nginx/&lt;/span&gt;sidebar&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;access;
-
-    &lt;span class=&quot;k&quot;&gt;set&lt;/span&gt; $skip_cache &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;;
-    location / &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-        # PROXY STARTS HERE &lt;span class=&quot;p&quot;&gt;========&lt;/span&gt;
-        # configures NGINX &lt;span class=&quot;k&quot;&gt;to&lt;/span&gt; be &lt;span class=&quot;k&quot;&gt;a&lt;/span&gt; reverse proxy &lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
-        # &lt;span class=&quot;p&quot;&gt;-&lt;/span&gt; it forwards requests &lt;span class=&quot;k&quot;&gt;on&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;to&lt;/span&gt; your web app
-        # &lt;span class=&quot;p&quot;&gt;-&lt;/span&gt; fetches the response&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-        # &lt;span class=&quot;p&quot;&gt;-&lt;/span&gt; and returns the response &lt;span class=&quot;k&quot;&gt;to&lt;/span&gt; the requestor&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;
-        proxy_pass http&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;sr&quot;&gt;//&lt;/span&gt;sidebar/;
-        proxy_http_version &lt;span class=&quot;m&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;1&lt;/span&gt;;
-        proxy_set_header Upgrade $http_upgrade;
-        proxy_set_header Connection &lt;span class=&quot;s2&quot;&gt;&quot;upgrade&quot;&lt;/span&gt;;
-        proxy_set_header Host $http_host;
-
-        proxy_set_header X&lt;span class=&quot;p&quot;&gt;-&lt;/span&gt;Real&lt;span class=&quot;p&quot;&gt;-&lt;/span&gt;IP $remote_addr;
-        proxy_set_header X&lt;span class=&quot;p&quot;&gt;-&lt;/span&gt;Forwarded&lt;span class=&quot;p&quot;&gt;-&lt;/span&gt;For $proxy_add_x_forwarded_for;
-        proxy_set_header X&lt;span class=&quot;p&quot;&gt;-&lt;/span&gt;Forward&lt;span class=&quot;p&quot;&gt;-&lt;/span&gt;Proto http;
-        proxy_set_header X&lt;span class=&quot;p&quot;&gt;-&lt;/span&gt;Nginx&lt;span class=&quot;p&quot;&gt;-&lt;/span&gt;Proxy true;
-
-        proxy_redirect off;
-
-        # CACHING STARTS HERE &lt;span class=&quot;p&quot;&gt;========&lt;/span&gt;
-        # sets NGINX &lt;span class=&quot;k&quot;&gt;up&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;to&lt;/span&gt; be &lt;span class=&quot;k&quot;&gt;a&lt;/span&gt; cache &lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
-        # NGINX can store some of the responses
-        # and &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; the results without ever
-        # hitting the back&lt;span class=&quot;p&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt; app server&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;
-        &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;$cookie_meteor_login_token&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-            &lt;span class=&quot;k&quot;&gt;set&lt;/span&gt; $skip_cache &lt;span class=&quot;m&quot;&gt;1&lt;/span&gt;;
-        &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-        proxy_cache_bypass $skip_cache;
-        proxy_no_cache $skip_cache;
-        proxy_cache SIDEBAR;
-        proxy_cache_valid &lt;span class=&quot;m&quot;&gt;200&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;30&lt;/span&gt;s;
-        proxy_cache_use_stale error timeout invalid_header updating http_500 http_502 http_503 http_504;
-        proxy_ignore_headers &lt;span class=&quot;s2&quot;&gt;&quot;Cache-Control&quot;&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Expires&quot;&lt;/span&gt;;
-        add_header X&lt;span class=&quot;p&quot;&gt;-&lt;/span&gt;Cached $upstream_cache_status;
-    &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Conseils et remarques pour le cache :&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;inadéquat pour des sites aux données très dynamiques. mais souvent, la page d’accueil, celle qui reçoit le + de trafic, est statique : mettre en cache celle-ci et pas les autres pages, + dynamiques.&lt;/li&gt;
-  &lt;li&gt;si des données sensibles transitent dans les réponses du serveur, ne pas les mettre en cache ! (d’où dans la config ci-dessus la variable &lt;code class=&quot;highlighter-rouge&quot;&gt;$skip_cache&lt;/code&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;utilisez-un-cdn--pour-que-le-site-charge-plus-rapidement-de-nimporte-o&quot;&gt;Utilisez un CDN  pour que le site charge plus rapidement, de n’importe où&lt;/h3&gt;
-
-&lt;p&gt;La version gratuite du Content Delivery Networks &lt;a href=&quot;https://www.cloudflare.com/&quot;&gt;Cloudflare&lt;/a&gt; fait apparemment déjà des miracles. Voici ce que pointe l’auteur de l’article :&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;chargement + rapide des assets&lt;/li&gt;
-  &lt;li&gt;HTTPS en un click&lt;/li&gt;
-  &lt;li&gt;protection contre les attaque DDoS&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Source : &lt;a href=&quot;https://medium.freecodecamp.com/minimum-viable-devops-919972dfd9e0#.58j5845b3&quot;&gt;Minimum Viable DevOps&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Sat, 09 Jul 2016 00:00:00 +0200</pubDate>
-        <link>https://clairezed.github.io/marges/sustainable_code/2016/07/09/devops-scaling.html</link>
-        <guid isPermaLink="true">https://clairezed.github.io/marges/sustainable_code/2016/07/09/devops-scaling.html</guid>
-        
-        <category>tools</category>
-        
-        <category>scaling</category>
-        
-        <category>devops</category>
-        
-        <category>nginx</category>
         
         
         <category>sustainable_code</category>
@@ -215,393 +69,6 @@ server &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
 &lt;p&gt;https://wappalyzer.com/applications&lt;/p&gt;
 
 &lt;p&gt;existe aussi en extension&lt;/p&gt;
-
-&lt;p&gt;Pas sage en Seine, j’y étais passée il y a un paquet d’années, à un moment où c’était en plein coeur de Paris et où Owni existait encore. Ca m’avait eu l’air plein de gens hyper intéressants mais incompréhensibles.&lt;/p&gt;
-
-&lt;p&gt;J’ai gagné quelques niveaux en technique entre temps, et cette année, au niveau des dates ça pouvait coller. Quand j’ai vu le programme, je me suis dit que ça avait l’air bigrement intéressant. Alors j’ai retenté le coup.&lt;/p&gt;
-
-&lt;p&gt;Récit d’une moitié de Pas sage en Seine / Hacker Space Festival.&lt;/p&gt;
-
-&lt;h2 id=&quot;jour-1-pour-moi---samedi-2-juillet&quot;&gt;Jour 1 (pour moi) - Samedi 2 juillet&lt;/h2&gt;
-
-&lt;h3 id=&quot;avec-ethereum-privilgier-les-dumb-contracts-&quot;&gt;Avec ethereum, privilégier les dumb contracts ?&lt;/h3&gt;
-
-&lt;p&gt;J’arrive direct en début d’après-midi sur une conférence de &lt;strong&gt;@bortzmeyer&lt;/strong&gt;, sur un des sujets que j’ai le plus vu abordé dans les milieux tech cette année : &lt;em&gt;“Développer un contrat/programme sur Ethereum”&lt;/em&gt;. Je fais justement encore un blocage cognitif sur la blockchain, j’ai donc peur de pas panner grand chose et me dis que  c’est idéal pour me rappeler les sensations de mon premier festival (sic). ça fera une très bonne transition avec ma précédente expérience du festival.&lt;/p&gt;
-
-&lt;p&gt;En fait, meme si ça a été en partie le cas, j’ai quand meme retiré un paquet d’infos et d’enseignements assez inspirants de cette conférence ; plutot sur des bonnes pratiques en termes de développement et de sécurité :&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“Vouloir résoudre des bogues en traitant du logiciel, c’est pas toujours une bonne idée.”&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Bortzmeyer analyse l’erreur du DAO (bug entrainant la perte de l’équivalent de XXXXXX euros) comme étant du à une trop forte anticipation de problèmes potentiels. En prévoyant trop de cas critiques potentiels et en les corrigeant, les développeurs ont créé malgré eux de nouvelles fragilités à leur programme.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;“le problème avec le DAO, c’est qu’on a utilisé les mêmes méthodes de productivité que le web”&lt;/em&gt;, c’est à dire coder vite, beaucoup, en se disant que tant que ça marche dans les grandes lignes, c’est bon. Dans les milieux ultrasécurisés, on écrit du code hyper simple, hyper lentement, au contraire. il aurait selon lui fallu coder, non comme pour un site web, mais comme pour une centrale nucléaire.&lt;/p&gt;
-
-&lt;p&gt;C’est aussi peut etre un problème de syndrome un peu cowboy chez les devs (j’avoue moi y avoir parfois succombé) : les programmeurs ont tendance à aimer faire du code compliqué. Or, plus un contrat est simple et trivial, plus il est compliqué d’y introduire des bugs.&lt;/p&gt;
-
-&lt;p&gt;Pour Bortzmeyer, l’appellation smart contracts serait très avantageusement remplacée par celle de  &lt;strong&gt;“Dumb contracts”&lt;/strong&gt;.
-Et il ne faut pas oublier de tester ses codes de retour, aussi.&lt;/p&gt;
-
-&lt;p&gt;Ce n’est pas la première fois que j’entends parler des avantages à coder simple, limite un peu grossier. Plus le temps passe et plus je comprends qu’il n’y a vraiment pas de honte à coder façon paysan (un peu rustique, mais c’est du solide), et c’est une façon de faire dans laquelle je me retrouve de plus en plus.&lt;/p&gt;
-
-&lt;!-- mais... mais pourquoi &quot;bog&quot; est féminin pour @bortzmeyer ? Il doit me manquer une info
-&quot;il faut privilégier les dumb contracts aux smart contracts. Pas écrire pour le web, mais pour une centrale nucléaire&quot;
-
-grâce à @bortzmeyer , et même si y&#39;a tjs des choses qui m&#39;échappent ds la blockchain, je révise de bons principes de sécurité
-
-&quot;dans ces conditions, programmer de manière sûre, c&#39;est assez yolo&quot; --&gt;
-
-&lt;h3 id=&quot;lergonomie-indispensable--ladoption-massive-du-libre&quot;&gt;L’ergonomie, indispensable à l’adoption massive du libre&lt;/h3&gt;
-
-&lt;p&gt;L’intitulé de la conférence qui suit est une affirmation à laquelle j’adhère massivement : &lt;em&gt;“L’ergonomie, indispensable à l’adoption massive du libre”&lt;/em&gt;. L’intéret pour moi était donc plutot d’avoir des éléments de diagnostic (pourquoi est-ce que le design peche dans le libre ?), des pistes de résolution, et voir un peu comment la communauté “hacker / libriste / engagée” (comment on définit la “communauté” de ce festival, en fait ?) recevait ce genre de discours.&lt;/p&gt;
-
-&lt;p&gt;Qu’est-ce que ça donne ?&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“pour une adoption de masse, il faut rendre le produit accessible au maximum”&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Là-dessus, les deux intervenants, venus de Cozy Cloud, prechent une convaincue. Mais ils enfoncent le clou et insistent, en parlant au sujet du développement de produits open source de &lt;em&gt;“relation egosexuelle”&lt;/em&gt;, travers par lequel on se retrouve à réaliser un produit pour soi, ses usages, sa communauté. Une manière de rappeler que, lorsqu’on bosse pour de l’open source et qu’on essaye de se positionner en alternative aux GAFA, la logique veut qu’on soit accessible au plus grand nombre.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“Si tout ce qu’on arrive a libérer, c’est que de la ligne de code, et bien on aura perdu.”&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Comment fait-on ? Les méthodes décrites et appliquées par l’équipe de Cozy sont finalement relativement connues, mais c’est souvent pas inutile de répéter les bonnes pratiques : connaitre ses utilisateurs, savoir à qui on s’adresse, et avoir conscience qu’on est &lt;em&gt;“qu’un utilisateur parmi d’autre”&lt;/em&gt; (et meme pas un utilisateur représentatif, vu qu’on connait son produit dans les moindres détails).&lt;/p&gt;
-
-&lt;p&gt;Ca a parlé ensuite pas mal de “se focuser”, “user experience”, “user centric”… Beaucoup de vocables anglo ou franglo-saxons (c’est le domaine qui veut ça, hein), et notamment des mots que j’avais ces derniers temps principalement vu utilisés pour camoufler des concepts fumeux, et faire passer des projets rempli de vent pour des projets innovants. Je découvre donc que ces mots sont aussi utilisés sans chichi dans la communauté open source. Mes repères anti-bullshit s’effondrent.&lt;/p&gt;
-
-&lt;p&gt;En fin d’intervention, un retour sur la distinction entre ergonomie et design ; tout le monde pouvant contribuer à la première et donner des conseils pour l’améliorer, le design devant rester entre les mains du designer. Malgré tout, rien n’oblige à suivre strictement les conseils et avis des utilisateurs. “si j’avais demandé aux gens ce qu’ils voulaient, ils auraient dit Des cheveaux plus rapides”&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“on a besoin de la contribution des utilisateurs, mais notre devoir est de les inspirer à aller plus loin”&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;pourquoi c’est compliqué, entre l’os, l’ergo et le design ? Déjà, rien que l’install est compliquée&lt;/p&gt;
-
-&lt;p&gt;“ergo = créer une solution avec ses utilisateurs pour qu’ils se sentent à le maison”&lt;/p&gt;
-
-&lt;p&gt;“user-centric”, “user experience”, “focuser”… c’est toujours plein d’anglicisme les présentations d’ergo&lt;/p&gt;
-
-&lt;p&gt;comment faire ? Faut trouver ses utilisateurs, discuter avec eux, analyser, faire des prototypes simples…&lt;/p&gt;
-
-&lt;p&gt;point “challenger”. Ca a parlé” disrupté” aussi tout à heure. C’est con, mais je tique toujours un peu
-    je crains que se soit indissociable du domaine :-/
-faut réussir à distinguer les fois où l’utilisation de ces termes cache du vent
-    ça m’a surpris mais j’ai pas trop entendu de vent dans cette conf
-oui oui, pas du tout dans les confs ici ! mais les précédentes fois où je les ai entendu, c’était vachement plus”venteux”
- et donc j’ai tendance à assimiler ces termes à des atmosphères venteuses, (ouais, j’amalgame un peu)&lt;/p&gt;
-
-&lt;p&gt;“tout le monde n’est pas ergonome, mais tout le monde peut contribuer à l’ergo, et apporter des conseils. Pas en design.”&lt;/p&gt;
-
-&lt;p&gt;“est-ce que qu’on peut open sourcer du design ? Vraie question. Cf mozilla.open-sourcing.brand”&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://talks.m4dz.net/open-source-ux/#1&quot;&gt;Les slides&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;vers-un-design-libre&quot;&gt;Vers un design libre&lt;/h3&gt;
-
-&lt;p&gt;“un système technique n’est pas neutre” conf design libre&lt;/p&gt;
-
-&lt;p&gt;parlzme de prosommateur, où la personne s’implique dans la production de l’objet qu’il utilise&lt;/p&gt;
-
-&lt;p&gt;#prosommateur : cf amap où tu peux payer tes paniers soit en temps de travail, soit en fric&lt;/p&gt;
-
-&lt;p&gt;y’a des notices d’Entropie qui me font grave de l’oeil ( https://www.asso-entropie.fr/fr/design-libre/notices/carriole-serigraphier/)&lt;/p&gt;
-
-&lt;p&gt;on en vient à discuter modèle économique quand on est dans le don : les recherches sont financées&lt;/p&gt;
-
-&lt;p&gt;recherche financées par formation (personne ayant un besoin spécifique), ou subventions&lt;/p&gt;
-
-&lt;p&gt;une fois qu’un projet à été financé une fois, il peut être diffusé&lt;/p&gt;
-
-&lt;p&gt;atelier paysan, à Grenoble, aide les paysans à produire leur propre outillage&lt;/p&gt;
-
-&lt;p&gt;Entropie part symétriquement des besoins et demandes, pas de création d’objets “pour voir”&lt;/p&gt;
-
-&lt;p&gt;Petit moment de pause, je descends au village associatif et en profiterait pour louper intégralement sans m’en rendre compte l’intervention sur les cafés vie privée.&lt;/p&gt;
-
-&lt;p&gt;A la place, je discute quand meme avec&lt;/p&gt;
-
-&lt;h3 id=&quot;pseshsf-debout--le-syndicat-dinitiatives&quot;&gt;PSES+HSF Debout ! Le Syndicat d’Initiatives&lt;/h3&gt;
-
-&lt;p&gt;Discussions sur comment peu à peu freelancer pour la cause -&amp;gt; la question se résume aussi à “Où est le fric ?” Bosser qq jours pour des grands comptes pour réserver le reste à de la militance ?&lt;/p&gt;
-
-&lt;h3 id=&quot;ffdn&quot;&gt;FFDN&lt;/h3&gt;
-
-&lt;p&gt;Découverte de la Brique, avec du YunoHost&lt;/p&gt;
-
-&lt;h3 id=&quot;vers-un-web-decentralis-&quot;&gt;Vers un web decentralisé ?&lt;/h3&gt;
-
-&lt;p&gt;pq on fait des services centralisés ? Parce que c’est faciiiiiiile, pas trop cher, etc.&lt;/p&gt;
-
-&lt;p&gt;“dht, decentralized hash table”, c’est là que j’ai peur de ne plus tout saisir&lt;/p&gt;
-
-&lt;p&gt;BitTorrent passe mtnt par MainlineDHT, pour éviter centralisation des trackers. Je mets ça là pour si j’ai le temps de fouiller&lt;/p&gt;
-
-&lt;p&gt;zeronet, mix BitTorrent et bitcoin&lt;/p&gt;
-
-&lt;p&gt;maintenant ca cause webRTC, un truc dont j’ai + entendu parlé (ça doit être à cause du “web” dans le titre)&lt;/p&gt;
-
-&lt;p&gt;encore une mention du DAO, avec des petits toussotements&lt;/p&gt;
-
-&lt;p&gt;expérience cool de contrôle de chauffage via wifi, “jusqu’au moment où j’ai plus eu internet et j’ai eu froid”&lt;/p&gt;
-
-&lt;h2 id=&quot;jour-2---dimanche-3-juillet&quot;&gt;Jour 2 - Dimanche 3 juillet&lt;/h2&gt;
-
-&lt;p&gt;Raté la conf sur educ pop, encore un sujet convaincu&lt;/p&gt;
-
-&lt;h3 id=&quot;salaire--vie&quot;&gt;Salaire à vie&lt;/h3&gt;
-
-&lt;h3 id=&quot;il-etait-une-fois-linternet&quot;&gt;Il etait une fois l’internet&lt;/h3&gt;
-
-&lt;h3 id=&quot;lqdn&quot;&gt;LQDN&lt;/h3&gt;
-
-&lt;h3 id=&quot;twitter-motions&quot;&gt;Twitter émotions&lt;/h3&gt;
-
-&lt;h3 id=&quot;community-organizing&quot;&gt;Community Organizing&lt;/h3&gt;
-
-&lt;p&gt;Premier Club Maté pour moi (il était temps), pris à 16h, je m’attends à pas fermer l’oeil de la nuit.&lt;/p&gt;
-
-&lt;p&gt;Bilan&lt;/p&gt;
-
-&lt;p&gt;Des thématiques plus ouvertes sur de la politique non technique / + grand public (mais je sais pas 1/ si mon regard est pas biaisé ; 2/ si le public habituel s’y retrouve)&lt;/p&gt;
-
-&lt;p&gt;#PSESHSF pour retrouver les confs (et mon flood de tweets sur certaines)&lt;/p&gt;
-
-&lt;p&gt;Source : &lt;a href=&quot;http://www.huffingtonpost.fr/diana-filippova/la-politisation-de-la-que_b_10707504.html&quot;&gt;La politisation de la question technologique, condition d’un nouveau contrat social&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Titre ou sujet :         Remise des Bullshit Bingo d’Or 2016
-Intervenants :         Emmanuelle Macro et Alain Mince (Brice Tuturier juste au téléphone). On pourrait avoir un appel de  Axelle L’Amer +1+1
-Description :          Le classement tant attendu des Bullshit Bingo Awards sera révélé par notre jury constitué d’investisseurs panaméens, de vieilles pousses et de chômeurs devant un parterre de décideurs et de jeunes poulets sous vide.&lt;/p&gt;
-
-&lt;p&gt;Comment ça marche (pas) ?&lt;/p&gt;
-
-&lt;p&gt;Vous mettez un +1 après chaque entrée pour laquelle vous voulez voter +1
-Vous pouvez voter pour une ou 2 entrées par catégorie.
-Essayez de remplir dans toutes les catégories :)
-On compte les voix, et on distribue les awards ce samedi 2 à 19h00 :)&lt;/p&gt;
-
-&lt;p&gt;Prix du Bullshit Job de l’année
-Devops +1+1+1+1+1+1+1+1+1+1+1+1+1+1+11+1+1
-[…] Guru+1
-*-ninja+1+1
-Scrum master
-Évangeliste +1
-Associé On Purpose +1+1+1+
-Growth Hacker +1+1+1
-LIFE HACKER+1
-CHIEF HAPPINESS OFFICER +1+1+1+1+1+1+1
-Coach agile +1+1+1+1+1+1+1+1+1+1+1+1 +1+1
-CTO
-CEO
-CDO (Data / Digital)
-Data scientist +1
-Lead Dev
-Lead QA
-Directeur Program Manager +1+1
-Red-team
-RH&lt;/p&gt;
-
-&lt;p&gt;Le Prix du Bullshit Word qui a perdu de la vitesse depuis 2015
-Crowdsourcing +1+1 +1
-Bitcoin+1+1
-IaaS / *AAS +1+1+1+1+1+1+1+1+1
-accélérateur de croissance +1
-scalabilité+1+1+1+1+1+1+1+1+1+1
-résilience+1+1+1+1
-coworking
-Imprimante 3D +1+1+1+1&lt;/p&gt;
-
-&lt;p&gt;Le Prix du Bullshit Word de 2016
-Internet of Things +1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1
-Growth Hacking
-VR
-Blockchain +1+1+1+1+1+1+1+1+1+++++++1
-Voiture sans chauffeur / Google Car (car as a service ?)
-machine learning / neural networks+1
-Community engagement(happiass)
-Employee engagement
-predictive analytics (Tessier aaS)
-open innovation (open * [comme l’open source])
-LEAN +1
-SCRUM
-AGILE+1
-SPRINT
-&lt;em&gt;Digital&lt;/em&gt; (en francais)+1+1+1+1+1+1+1+1m+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1
-Innovation disruptive +1+1+1+1
-Licorne &amp;lt;3
-uberisation de *+1+1+1+1+1+1+1
-civic tech ,
-foodtech
-fintech
-lowtech+1
-Silver Economy / l’or gris
-4K+1  -&amp;gt; 5K
-Cuisse de poulet^^
-DAO +53 M$ haha
-gougleu
-+1 aussi pour Digital&lt;censored&gt; &amp;lt;=== Culay ! &amp;lt;= &lt;censored&gt;
-+1 : &quot;digital penetration&quot; c&#39;est la &quot;pénétration du numérique&quot; et pas...
-Il manque totalement le « DARKNET » ;) /me agrees+1+1+1&lt;/censored&gt;&lt;/censored&gt;&lt;/p&gt;
-
-&lt;p&gt;Le Prix du Bullshit Word qui a un gros potentiel pour 2017
-FlexOffice
-Internet Of Cars +1+1+1+1+1+1+1+1+1+1
-Intenet of things as++11+1+1+1+1+1+1+1+1+1+@+1+1+1+1+1+1+1+1+1+1+1+1
-Smart contract
-Uberiser Uber
-VR
-herméneutique (référence nécessaire)
-Internet des grosses merdes surtout…&lt;/p&gt;
-
-&lt;p&gt;Prix du Bullshit de l’innovation d’État
-Le Hackaton pour mieux fliquer les gens +1+1+1+1+1+1+1+1
-http://www.paris.fr/necmergitur
-Pôle emploi … user centric et disruptif +1+1+1
-http://www.journaldunet.com/management/ressources-humaines/1176880-anne-leone-campanella-pole-emploi/
-Startups d’État +1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1
-http://www.modernisation.gouv.fr/ladministration-change-avec-le-numerique/par-des-services-numeriques-aux-usagers/startups-d-etat
-Lapsus…
-http://rue89.nouvelobs.com/2016/06/07/numerique-doit-etre-reserve-happy-few-264279&lt;/p&gt;
-
-&lt;p&gt;Prix du Mot Bullshit de la décennie
-Big Data +1+1+1+1+1+1+1
-Cloud+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1
-Startup +1+1
-Digital +1+1+1+1+1+1+1+1+1-1
-Internet of *
-INNOVATION
-IA (du siècle ?)+1+1 ««««&amp;lt;
-TayAi
-Singularité
-Machine learning
-Tout ces mots doivent avoir ce prix !+1+1+1+1+1
-Je valide cette opinion :’)&lt;/p&gt;
-
-&lt;p&gt;Prix du Bullshit des filles et fils à papa
-Bullshiters As A Service +1+1+1
-https://cremedelacreme.io/
-La Learning Touch
-https://www.digischool.fr/hype/
-L’écosystème entrepreneurial X +1+1+1+1+1+1+1+1
-https://www.polytechnique.edu/fr/breve/lecole-polytechnique-lance-son-accelerateur
-Stagiaires On Purpose  +1
-https://jobs.ouishare.net/
-L’esclavage DIY +1+1+1+1+1+1+1+1+1+1+1+1+1+1+1
-http://www.lemonde.fr/campus/article/2016/05/22/a-fresnes-de-jeunes-passionnes-d-informatique-hackent-les-codes-de-l-entreprise_4924060_4401467.html&lt;/p&gt;
-
-&lt;p&gt;Prix spécial du jury : le coup de coeur
-Power Networker +1 +1+1
-http://www.meilleurdevdefrance.com/
-Pitch As A Service
-http://makestorming.com/outils/pitchmotion
-Même Challenges (!) s’y met +1+1
-http://www.challenges.fr/high-tech/20160107.CHA3639/high-tech-start-up-frenchtech-jouez-au-bullshit-bingo-du-ces-2016.html
-Les plus belles pages du corporate (“Intrapreunariat”)
-http://www.thebosonproject.com/#!noslivres/c11a4
-Webcomic Strip +1+1+1
-http://www.commitstrip.com/fr/2016/06/20/coder-bingo/?
-Le Bullshit qui vient +1
-http://i.imgur.com/oNwl8Qa.png
-Le Bullshit Intello-technique “hypercontrôle computationnel” +1
-http://enmi-conf.org/wp/enmi15/
-Le Camp à Bobos “able to adapt”+1+1+1+1
-http://darwin.camp/
-LLeLe&lt;/p&gt;
-
-&lt;p&gt;Prix de l’entreprise (au sens large) qui pratique le mieux le greenwashing, hackerwashing, le *washing
-Le yaourt inter-entreprise qui innove sec
- http://programmenoe.com/
-#CompteurConnect  +1+1+1+1+1+1+1
-http://www.developpement-durable.gouv.fr/Hackathon-CompteurConnect-le
-MAIF La blockchain au service de ton assureur+1+1+1+1+1+1+1+1+1+1+1+1+1+1
-www.meetup.com/fr/La-Paillasse-Events/events/222566200/
-Point bonus buzzword-combo pour le communiqué presse MAIF-CozyCloud “A la MAIF, nous sommes fiers d’accompagner la croissance de Cozy Cloud et d’amorcer avec elle un nouveau paradigme autour du self data. MAIF est convaincue de la capacité de Cozy à être disrupteur sur le sujet”
-vous savez que la MAIF est pas une entreprise les gens ? &amp;gt; c’est encore mieux :) /me lol &amp;lt;=== Pour être une merde, on a pas besoin être d’une origine particuliere
-SNCF “Kick Off camp &amp;amp; 17 semaines de training”
-http://tektos.co/sncf-tektos/&lt;/p&gt;
-
-&lt;p&gt;Prix Pixelle Lemaire : la meilleure redistribution d’argent public / opération de com’ gouvernementale / publique
-Le “pré-accélérateur lean” +1
-https://lafonderie-idf.fr/appel-a-participations-nestin/
-La Salle Tatami Coworking Place d’État +1+1+1+1+1+1+1+1+1
-http://superpublic.fr/&lt;/p&gt;
-
-&lt;p&gt;Prix du meilleur outil anti-Bullshit
-La police de caractères qui dénonce grave +1+1+1+1+1+1+1+1+1
-http://www.sansbullshitsans.com/
-Le Response GIF +1+1+1+1
-http://www.gifbin.com/bin/052009/1242749315_bullshit_amplifier-detector.webm
-Jouez en réunion ! +1+1+1+1+1+1+1+1??
-http://www.bingoreunion.fr/
-Faites vos grilles ! +1
-http://www.bullshitbingo.net/cards/buzzword/
-Un générateur
-http://www.bullshitgenerator.com/&lt;/p&gt;
-
-&lt;p&gt;Prix Bullshit Bingo de Gauche
-Convergence des luttes
-acquis social / acquis sociaux
-empowerment / émancipation/encapacitation/enpouvoirement/encapacitance+1+1+1
-cloud personnel +1+1+1+1+1+1+1+1+1
-Méta données
-ECO&lt;em&gt;+1+1
-BIO&lt;/em&gt;+1+1+1
-Lanceurs d’alerte+1+1
-lowtech
-* debout
-je suis *
-Je connais ni ma droite ni ma gauche (du moins en politique) mais s’ils sont contre les lancers d’alerte, alors c’est de la grosse merde…+1+1
-entendu récemment, cloud privé/public/hybride&lt;/p&gt;
-
-&lt;p&gt;Prix de la persévérance pour l’OS Souverain / Logiciel Souverain
-OS Souverain +1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1
-Antivirus Souverain
-Logiciel Souverain
-L’intelligence artificielle Souveraine
-Cloud Souverain +1
-Il faut bien des logiciels Souverains pour faire tourner un OS Souverain
-On se contentera de logiciels propriétaires grâce aux contrats avec Microsoft &amp;lt;=== Ouais mais c’est que pour l’Éducation nationale et la Défense Nationale et l’enseignement sup/recherche !
-Et un point Godwin pour Alban :)&lt;/p&gt;
-
-&lt;p&gt;Prix de la récup’ des hackers
-Les Makers, ils impriment des immeubles… +1+1
-http://www.futurapolis.com/manifeste/
-Le magasin qui se présente comme un lab +1
-http://www.brocantelab.com/
-T’as un projet ? On va t’aider… +1+1
-http://www.thisispollen.com/#home
-Hackers à vendre
-https://www.hackster.io/business
-*SPACE
-*FABLAB
-Techshop
-*LAB +1+1+1+1+1+1+1+1+1+1+1+1+1+1+1 /tmp/lab &amp;lt;===+1&lt;/p&gt;
-
-&lt;p&gt;Prix Le Bon Bullshit De Nos Régions : les techshops a ROI sur l’innovation
-Aquitaine ! +1+1
-http://www.aquitaine-developpement-innovation.com/
-Ile de France !
-http://www.silvervalley.fr/Silver-Valley-12
-Ile de France !
-https://lafonderie-idf.fr/equipe/
-Orléans ! +1+1+1+1+1+1+1+1
-http://www.le-lab-o.fr/
-Loire ! +1+1
-http://frenchtech-loirevalley.com/#section-presentation
-Lyon !
-http://www.digitalsummr.com/fr/programme/programme
-Brest ! (plus) &amp;lt;=== Avec Brest, Molaix, Quimper et Lannion (d’où le “plus” !) La première *TECH augmentée…
-http://thebresttechblog.tumblr.com/
-http://frenchtech-brestplus.bzh/ &amp;lt;=== avec .bzh !&lt;/p&gt;
-
-&lt;p&gt;Rappel Source  :&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;https://pad.lqdn.fr/p/bullshit_bingo_awards_pseshsf
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-
 </description>
         <pubDate>Fri, 08 Jul 2016 00:00:00 +0200</pubDate>
         <link>https://clairezed.github.io/marges/sustainable_code/2016/07/08/wappalizer.html</link>
@@ -618,7 +85,9 @@ http://frenchtech-brestplus.bzh/ &amp;lt;=== avec .bzh !&lt;/p&gt;
         <title>Pas sage en Seine - Hackerspace Festival 2016, jour 2</title>
         <description>&lt;p&gt;Suite de mes pérégrinations à Pas sage en Seine - Hackerspace festival.&lt;/p&gt;
 
-&lt;p&gt;*Retrouvez le &lt;a href=&quot;/2016-07-03-pseshsf-2016-01&quot;&gt;début ici&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Retrouvez le &lt;a href=&quot;/2016-07-03-pseshsf-2016-01&quot;&gt;début ici&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;!--more--&gt;
 
 &lt;h3 id=&quot;rencontre-manque-entre-salaire--vie-et-hackers&quot;&gt;Rencontre manquée entre salaire à vie et hackers&lt;/h3&gt;
 
@@ -665,8 +134,9 @@ http://frenchtech-brestplus.bzh/ &amp;lt;=== avec .bzh !&lt;/p&gt;
 
 &lt;h3 id=&quot;vitesse-lumire-&quot;&gt;Vitesse lumière !&lt;/h3&gt;
 
-&lt;p&gt;&lt;strong&gt;Il était une fois l’Internet&lt;/strong&gt;
-&lt;em&gt;Compagnie 13R3P&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Il était une fois l’Internet&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Compagnie 13R3P&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;Il était une fois l’Internet, c’est donc pas du tout une conférence, y’a pas de slides ni de live tweet. C’est un des éléments que je considère assez chouettes de ce festival : on n’y trouvait pas uniquement des gens qui causent sur scène à d’autres gens portant des T-shirts parfois à message. Il y avait aussi des ateliers de confection de bière, des projections ou des spectacles. C’est le cas ici, et le qu’en dira-t-on disait bien : ce fut une très bonne surprise.&lt;/p&gt;
 
@@ -1061,14 +531,17 @@ http://frenchtech-brestplus.bzh/ &amp;lt;=== avec .bzh !&lt;/p&gt;
 
 &lt;p&gt;Récit d’une moitié de Pas sage en Seine / Hacker Space Festival.&lt;/p&gt;
 
+&lt;!--more--&gt;
+
 &lt;p&gt;&lt;em&gt;NdA : comme ce post est vachement trop long et déroge à toutes les règles les plus élémentaires de la lecture sur Internet, je l’ai scindé en deux. &lt;a href=&quot;/2016-07-03-pseshsf-2016-02&quot;&gt;La suite ici&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;jour-1-pour-moi---samedi-2-juillet&quot;&gt;Jour 1 (pour moi) - Samedi 2 juillet&lt;/h2&gt;
 
 &lt;h3 id=&quot;avec-ethereum-privilgier-les-dumb-contracts-&quot;&gt;Avec ethereum, privilégier les dumb contracts ?&lt;/h3&gt;
 
-&lt;p&gt;&lt;strong&gt;Développer un contrat/programme sur Ethereum&lt;/strong&gt;
-&lt;em&gt;Stéphane Bortzmeyer&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Développer un contrat/programme sur Ethereum&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Stéphane Bortzmeyer&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;J’arrive direct en début d’après-midi sur une conférence de &lt;a href=&quot;https://twitter.com/bortzmeyer&quot;&gt;@bortzmeyer&lt;/a&gt;, sur un des sujets que j’ai le plus vu abordé dans les milieux tech cette année : &lt;em&gt;“Développer un contrat/programme sur Ethereum”&lt;/em&gt;.&lt;/p&gt;
 
@@ -1299,6 +772,159 @@ grâce à @bortzmeyer , et même si y&#39;a tjs des choses qui m&#39;échappent 
         
         
         <category>sustainable_code</category>
+        
+      </item>
+    
+      <item>
+        <title>Socialiser le numérique ?</title>
+        <description>&lt;p&gt;Jean-Philippe Courtois, notamment président de Microsoft International parle de la pénétration des outils numériques dans l’Economie Sociale et Solidaire pour faire la promotion d’un programme destiné -quelle surprise- à lacher dans un écosystème qui n’en demandait pas tant une nouvelle poignée de start up à connotation sociale.&lt;/p&gt;
+
+&lt;p&gt;Son analyse d’introduction est que le numérique tarde à irriguer l’ESS pour les raisons suivantes :
+- une question de génération : un pan de l’ESS, “old school”, n’est pas acculturée au numérique (à contrario des nouvelles générations type Ticket for Change, MakeSense ou OuiShare).
+- il y a encore trop peu de développeurs à fricoter avec ce secteur.&lt;/p&gt;
+
+&lt;p&gt;Sa proposition est donc, non pas d’accompagner et fortifier les structures existantes et militantes, mais de planter des jeunes pousses avec de l’engrais entrepreneurial à base de business plan, de mentorat de grosses sociétés (Microsoft, Adecco, Partech Ventures…) qui placeront habilement leurs produits (&lt;em&gt;“Cette plateforme open source sera hébergée sur le cloud Azur.”&lt;/em&gt;).&lt;/p&gt;
+
+&lt;p&gt;Il est possible que de cette démarche émergent de temps à autres des projets intéressants ; on n’est jamais à l’abri d’accidents heureux. Mais encore une fois j’ai l’impression qu’on se préoccupe bien plus d’outiller, d’injecter du numérique et de la culture business à un “social” un peu prétexte, fantasmé et déconnecté; plutot que repenser de façon + sociale et solidaire la culture entrepreneuriale, ou d’outiller les initiatives de terrain.&lt;/p&gt;
+
+&lt;p&gt;Source : &lt;a href=&quot;http://magazine.ouishare.net/fr/2016/05/numeriser-le-social-socialiser-le-numerique-entretien-avec-jean-philippe-courtois/&quot;&gt;Numériser le social, socialiser le numérique - entretien avec Jean-Philippe Courtois&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 16 Jun 2016 00:00:00 +0200</pubDate>
+        <link>https://clairezed.github.io/marges/binary_transition/2016/06/16/du-numerique-dans-le-social.html</link>
+        <guid isPermaLink="true">https://clairezed.github.io/marges/binary_transition/2016/06/16/du-numerique-dans-le-social.html</guid>
+        
+        <category>ess</category>
+        
+        <category>start up</category>
+        
+        
+        <category>binary_transition</category>
+        
+      </item>
+    
+      <item>
+        <title>avenir solidarités</title>
+        <description>&lt;p&gt;7 familles de l’innovation pour Armelle Coz&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Citoyens autonomes&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Caractéristiques :
+- Pronent l’auto-organisation citoyenne : pas besoin des institutions pour trouver des solutions
+- Penser global, agir local
+- Méfiance / défiance vis a vis des institutions
+- L’action avant tout&lt;/p&gt;
+
+&lt;p&gt;Exemples :
+- Colibris
+- Zèbres
+- asso et ESS
+- alternatiba&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Les révolutionnaires&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Caractéristiques :
+- refusent le fonctionnement du système politique et institutionnel actuel
+- cherchent à déstabiliser ou le “hacker” via élections ou pression populaire
+- veulent une autre constitution, id est d’autres règles du jeu&lt;/p&gt;
+
+&lt;p&gt;Exemples :
+- nuit debout
+- les primaires citoyennes
+- les citoyens constituants
+- ma voix&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Les formateurs&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Caractéristiques :
+- forment les citoyens
+- diffusent une culture collaborative, ouverte, pédagogique, basée sur l’épanuissement personnel, l’autonomie et la responsabilité
+- issus de l’éduc pop, du théatre, des pédagogies alternatives, du numérique&lt;/p&gt;
+
+&lt;p&gt;Exemples :
+- université du Nous
+- Accropolis / youtubers (pédagogie vidéo)
+- scop d’educ pop (le pavé)
+- coopcité / lieux et parcours (SuperPublic, CivicHall, Liberté Living Lab, Maison du Citoyen…)
+- Voxe.org (comparateur de programme)&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Les transformateurs&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Caractéristiques :
+- veulent changer le systme de l’intérieur
+- travaillent auprès des institutions et des décideurs
+- formation, changement de méthodes, de modes d’organisation et de postures
+- accompagnement du changement&lt;/p&gt;
+
+&lt;p&gt;Exemples :
+- Elus, agente et territoires précursuers : territoires hautement citoyens, saillans…
+- 27e région (labo d’innovation publique)&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Démocratie participative&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Caractéristiques :
+- origine institutionnelle (à l’initiative des collectivités ou d’administrations)
+- &amp;lt;parfois perçue comme de la simple communication edscendante, parfois efficace et innovante
+- souvent laborieuse&lt;/p&gt;
+
+&lt;p&gt;Exemples :
+- CNDP (consultations réglementaires, avis consultatifs)
+- instances locales, conseils de quartier&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Les civic tech (les geeks)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Caractéristiques :
+- construisent des outils numériques (plateformes, sites, appli, réseaux sociaux)
+- cherchent ergonomie, accessibilité, simplicité mais parfois taxés de gadgets
+- annoncent qu’ils vont révolutionner la politique en lui appliquant les logiques pair à pair / réseau&lt;/p&gt;
+
+&lt;p&gt;Exemples :
+- &lt;strong&gt;transparence et ouverture des données publiques&lt;/strong&gt; : data.gouv.fr, OpenDataSoft
+- &lt;strong&gt;contr^ole de l’action publique&lt;/strong&gt; : nosDéputés.fr, la fabrique de la loi
+- &lt;strong&gt;campagnes électorales et vote&lt;/strong&gt; : voxe.org, DigitaleBox, LMP, Belem
+- &lt;strong&gt;interpellation et dialogue entre élus et citoyens&lt;/strong&gt; : Questionnez vos élus, change.org, we sign it, fluicity, Gov, PopVox, TellMyCity
+- &lt;strong&gt;plateformes participatives&lt;/strong&gt; : parlement et citoyens, democracy os, assembl
+- &lt;strong&gt;encouragement au bénévolat&lt;/strong&gt; : Fullmobs, bénévoles at home, communecter
+- &lt;strong&gt;plateformes de mise en relation&lt;/strong&gt; : singa, comme à la maison, voisin-age
+- &lt;strong&gt;financement participatif&lt;/strong&gt; : bulb in town, kisskissbankbank, helloAsso, microDon
+- &lt;strong&gt;science collaborative&lt;/strong&gt; : seintinelles
+- avaaz, , civocracy, le drenche, open dialog, , baztille, loomio, , stig&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Les fédérateurs&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Caractéristiques :
+- chaerchant à fédérer les initiatives qui poussent à + et mieux de démocratie
+- organisent événements, rencontres, débats
+- acculturent acteurs et décideurs&lt;/p&gt;
+
+&lt;p&gt;Exemples :
+- démocratie ouverte, institut de la concertation, Unadel, GNIAC, synergies démocratiques, pouvoir citoyen en marche&lt;/p&gt;
+
+&lt;p&gt;Source : &lt;a href=&quot;https://prezi.com/siukx_zakf-4/les-7-familles-de-linnovation-democratique/?utm_campaign=share&amp;amp;utm_medium=copy&quot;&gt;Des actions complémentaires pour “hacker” la politique&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 31 May 2016 15:35:44 +0200</pubDate>
+        <link>https://clairezed.github.io/marges/binary_transition/2016/05/31/7-familles_innovation.html</link>
+        <guid isPermaLink="true">https://clairezed.github.io/marges/binary_transition/2016/05/31/7-familles_innovation.html</guid>
+        
+        <category>professionnalisation</category>
+        
+        
+        <category>binary_transition</category>
         
       </item>
     

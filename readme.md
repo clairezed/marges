@@ -5,13 +5,21 @@ Tentatives pour un blog - test de Jekyll
 
 ## Comment ça marche ?
 
-Pour checker toutes les commandes :
+La branche al plus à jour est la branche `source`. Lors du déploiement, cette branche est compilée, buildée, et le résultat du build (un site tout fait, donc) est pushé sur la branche gh-pages. Cette branche est celle qui sert à alimenter le site (hébergée en tant que page github).
+
+Lancer le serveur en local :
+
+```bash
+jekyll serve
+```
+
+Lister les commandes rake disponibles :
 
 ```bash
 rake -T
 ```
 
-Pour déployer direct (après avoir poussé la branche source) :
+Déployer en production :
 
 ```bash
 rake git:deploy

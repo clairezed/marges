@@ -6,8 +6,8 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>Cheat sheet ruby</title>
-  <meta name="description" content="Essaye de garder  tout ça en tete, Claire ! T’écriras du meilleur code !">
+  <title>Cheat sheet ruby et Rails</title>
+  <meta name="description" content="Essaye de garder tout ça en tete, Claire ! T’écriras du meilleur code !">
 
   <link rel="stylesheet" href="/marges/css/normalize.css">
   <link rel="stylesheet" href="/marges/css/spectre.min.css">
@@ -71,7 +71,7 @@
     <li class="menu-item">
       <a class="item"  href="/marges/lubies/sustainable_code">
         Code décroissant
-       <div class="label label-inverted ">5</div>
+       <div class="label label-inverted ">3</div>
       </a>
     </li>
   
@@ -86,7 +86,7 @@
   </ul>
 
   <ul class="menu">
-    <li class="menu-header"> Tags (17) </li>
+    <li class="menu-header"> Tags (14) </li>
     
       <li class="menu-item">
         <a class="item" href="/marges/tags/professionnalisation">
@@ -133,7 +133,7 @@
       <li class="menu-item">
         <a class="item" href="/marges/tags/tools">
          tools
-         <div class="label label-inverted">3</div>
+         <div class="label label-inverted">1</div>
         </a>
       </li>
     
@@ -166,27 +166,6 @@
       </li>
     
       <li class="menu-item">
-        <a class="item" href="/marges/tags/scaling">
-         scaling
-         <div class="label label-inverted">2</div>
-        </a>
-      </li>
-    
-      <li class="menu-item">
-        <a class="item" href="/marges/tags/devops">
-         devops
-         <div class="label label-inverted">2</div>
-        </a>
-      </li>
-    
-      <li class="menu-item">
-        <a class="item" href="/marges/tags/nginx">
-         nginx
-         <div class="label label-inverted">2</div>
-        </a>
-      </li>
-    
-      <li class="menu-item">
         <a class="item" href="/marges/tags/toolkit">
          toolkit
          <div class="label label-inverted">1</div>
@@ -209,6 +188,14 @@
     
   </ul>
 
+  <ul class="menu">
+    <li class="menu-item">
+      <a class="item" href="/marges/c-est-quoi-don">
+        A propos
+      </a>
+    </li>
+  </ul>
+
 </div>
       </aside>
 
@@ -222,7 +209,11 @@
       </div>
 
       <nav class="nav mobile-nav" data-toggled="mobile-nav">
-              <div class="menu-wrapper">
+        
+      <div class="menu-wrapper">
+
+
+
         <ul class="menu">
           <li class="menu-header">Format</li>
           <li class="menu-item">
@@ -254,7 +245,7 @@
               <li class="menu-item">
               <a class="item"  href="/marges/lubies/sustainable_code">
                 Code décroissant
-               <div class="label label-inverted">5</div>
+               <div class="label label-inverted">3</div>
               </a>
               </li>
             
@@ -269,7 +260,7 @@
         </ul>
 
         <ul class="menu">
-          <li class="menu-header">Tags (17)</li>
+          <li class="menu-header">Tags (14)</li>
           
             <li class="menu-item">
               <a class="item" href="/marges/tags/professionnalisation">
@@ -316,7 +307,7 @@
             <li class="menu-item">
               <a class="item" href="/marges/tags/tools">
                tools
-               <div class="label label-inverted">3</div>
+               <div class="label label-inverted">1</div>
               </a>
             </li>
             
@@ -349,27 +340,6 @@
             </li>
             
             <li class="menu-item">
-              <a class="item" href="/marges/tags/scaling">
-               scaling
-               <div class="label label-inverted">2</div>
-              </a>
-            </li>
-            
-            <li class="menu-item">
-              <a class="item" href="/marges/tags/devops">
-               devops
-               <div class="label label-inverted">2</div>
-              </a>
-            </li>
-            
-            <li class="menu-item">
-              <a class="item" href="/marges/tags/nginx">
-               nginx
-               <div class="label label-inverted">2</div>
-              </a>
-            </li>
-            
-            <li class="menu-item">
               <a class="item" href="/marges/tags/toolkit">
                toolkit
                <div class="label label-inverted">1</div>
@@ -392,14 +362,30 @@
             
         </ul>
 
+        <ul class="menu">
+          <li class="menu-item">
+            <a class="item" href="/marges/c-est-quoi-don">
+              A propos
+            </a>
+          </li>
+        </ul>
       </div>
       </nav>
 
       <div class="layout-main">
         <div class="content-wrapper">
-          <p>Essaye de garder  tout ça en tete, Claire ! T’écriras du meilleur code !</p>
+          <article class="post card">
 
-<h2 id="dont--do">DONT / DO</h2>
+  <header class="post-header card-header">
+    <h1 class="post-title">Cheat sheet ruby et Rails</h1>
+  </header>
+
+  <div class="post-content card-body">
+    <p>Essaye de garder tout ça en tete, Claire ! T’écriras du meilleur code !</p>
+
+<!--more-->
+
+<h2 id="do--dont">do / don’t</h2>
 
 <h3 id="batch-process">Batch process</h3>
 
@@ -422,9 +408,13 @@
 <h2 id="ressources">Ressources</h2>
 
 <ul>
-  <li>https://robots.thoughtbot.com/sandi-metz-rules-for-developers</li>
-  <li>https://medium.com/imenlo/ruby-on-rails-the-imenlo-way-d29965618630#.ewxo0q9al</li>
+  <li><a href="https://robots.thoughtbot.com/sandi-metz-rules-for-developers">Sandi Metz’ Rules For Developers</a></li>
+  <li><a href="https://medium.com/imenlo/ruby-on-rails-the-imenlo-way-d29965618630#.ewxo0q9al">Ruby on Rails, the iMenlo way</a></li>
 </ul>
+
+  </div>
+
+</article>
 
         </div>
       </div>
