@@ -1,19 +1,38 @@
 
 title: Marges
 description: joli blog
-## prod conf
-# baseurl: /marges # the subpath of your site, e.g. /blog
-# url: https://clairezed.github.io # the base hostname & protocol for your site
+
+# Rendering ----------------------------------------
 
 markdown: kramdown
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..2
+  enable_coderay: false
+  # input: GFM
+  # hard_wrap: true
+highlighter: rouge
+# lsi:         false
+excerpt_separator: <!--more-->
+# incremental: false
+
+# Sass ------------------------------------------------
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+
+# Locale ----------------------------------------------
+
 timezone: Europe/Paris
 encoding: utf-8
 locale: fr
 
 
-sass:
-  sass_dir: _sass
-  style: compressed
+# Folders and formatting ---------------------------------
 
 # source:
 # destination:
@@ -23,6 +42,8 @@ include:
   - _pages
 # keep_files: []
 # permalink: /:categories/:title/
+
+# Collections ----------------------------------------------
 
 defaults:
   -

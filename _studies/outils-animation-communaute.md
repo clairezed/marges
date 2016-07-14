@@ -1,10 +1,14 @@
 ---
-layout: default
-title:  Iniitiatives cools
+layout: base
+title:  Techniques pour faire des choses à plusieurs
 permalink: study1
 tags: [civic tech]
 category: binary_transition
 ---
+
+Prise de note sur la collaboration, l'animation de communauté...
+
+<!--more-->
 
 
 ## Postulats de départ

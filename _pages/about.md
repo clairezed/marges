@@ -4,9 +4,9 @@ title: Qu'est-ce donc que ceci ?
 permalink: /c-est-quoi-don
 ---
 
-Ceci, c'est un carnet de notes électronique plein d'hyperliens autour de thématiques diverses, parfois croisées, genre : numérique, sociologie, inclusion, javascript, révolution, poing levé, web, politique, ess, ruby...
+Ceci, c'est un **carnet de notes électronique** plein d'hyperliens autour de thématiques diverses, parfois croisées, genre : `numérique`, `sociologie`, `inclusion`, `javascript`, `révolution`, `poing levé`, `web`, `politique`, `ess`, `ruby`...
 
-Ce carnet est rédigé par une trentenaire qui cherche une forme de syncrétisme. Après avoir fait des études et exercé le métier de cultureuse associative (et en etre revenue), je suis depuis une poignée d'années tuyauteuse du code (développeuse plutot back-end, quoi). Le passage de travailleuse intellectuelle précaire à codeuse décemment payée pour des projets manquant parfois d'ame, ne signifie pas que j'ai tiré un trait définitif sur mon héritage socio-culturel. Comme on m'a appris à l'école avec les plans en 3 parties, je cherche au contraire à présent à faire la synthèse entre les différents mouvements qui me tiraillent.
+Ce carnet est rédigé par une trentenaire qui veut **ré-assembler ensemble des petites pièces disparates**. Après avoir fait des études et exercé le métier de cultureuse associative (et en etre revenue), je suis depuis une poignée d'années tuyauteuse du code (développeuse plutot back-end, quoi). Le passage de travailleuse intellectuelle précaire à codeuse décemment payée pour des projets manquant parfois d'ame, ne signifie pas que j'ai tiré un trait définitif sur mon héritage socio-culturel. Comme on m'a appris à l'école avec les plans en 3 parties, je cherche au contraire à présent à faire la synthèse entre les différents mouvements qui me tiraillent.
 
 Ce carnet, je l'ouvre à un moment où :
 - je sens que  me forcer un peu à poser par écrit et rendre intelligibles les bazars qui traversent mon crane ne peut que faire du bien pour avancer dans la sacro sainte "construction de mon prochain projet professionnel" (retro engineering de "ce qui ce conçoit bien s'énonce clairement", et tout le toutim)

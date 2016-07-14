@@ -8,6 +8,8 @@ tags: [utopie]
 
 Un article qui date un peu, qui revient sur des expérimentations de mode d'organisation du travail tels que croisé au détours du Ouishare Fest 2016.
 
+<!--more-->
+
 Les principales difficultés rencontrées par des organisations expérimentant de nouveaux modes de travail (FairCoop, Lab Coop, Enspiral...)
 
 -  Il faut éduquer (vilain mot) les gens à la propriété de leurs moyens de production.  difficile d’activer un leadership qui ne soit pas celui du petit groupe fondateur.

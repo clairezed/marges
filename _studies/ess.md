@@ -1,13 +1,14 @@
 ---
 layout: base
-title:  "ESS"
+title:  "Mon ESS à moi"
 permalink: ess
 tags: [ess]
-category: sustainable_code
+category: good_job
 ---
 
-Quelques liens et repères sur ce que devient le secteur de l'ESS et de l'entrepreunarait social.
+Quelques liens et repères sur ce que devient le secteur de l'ESS et de l'entrepreunarait social, l'écosystème local, et mes tactiques d'approche.
 
+<!--more-->
 
 ## Financement
 

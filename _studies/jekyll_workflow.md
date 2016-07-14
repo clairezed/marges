@@ -6,6 +6,9 @@ tags: [jekyll]
 category: sustainable_code
 ---
 
+Quelques commandes ou réflexion pour me permettre de mieux utiliser jekyll.
+
+<!--more-->
 
 ## Commandes pour accéler workflow de rédaction
 

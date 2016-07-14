@@ -1,15 +1,16 @@
 ---
-layout: base
-title:  "Cheat sheet ruby"
+layout: page
+title:  "Cheat sheet ruby et Rails"
 permalink: cheat-sheet-ruby
 tags: [ruby, rails]
 category: sustainable_code
 ---
 
-Essaye de garder  tout ça en tete, Claire ! T'écriras du meilleur code !
+Essaye de garder tout ça en tete, Claire ! T'écriras du meilleur code !
 
+<!--more-->
 
-## DONT / DO
+## do / don't
 
 ### Batch process
 
@@ -29,8 +30,7 @@ Post.where(published: true).find_each do |post|
 end
 ```
 
-
 ## Ressources
 
-- https://robots.thoughtbot.com/sandi-metz-rules-for-developers
-- https://medium.com/imenlo/ruby-on-rails-the-imenlo-way-d29965618630#.ewxo0q9al
+- [Sandi Metz' Rules For Developers](https://robots.thoughtbot.com/sandi-metz-rules-for-developers)
+- [Ruby on Rails, the iMenlo way](https://medium.com/imenlo/ruby-on-rails-the-imenlo-way-d29965618630#.ewxo0q9al)
