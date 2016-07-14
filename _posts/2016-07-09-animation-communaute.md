@@ -1,17 +1,19 @@
 ---
 layout: post
-title: animer communaute
+title: Comment faire des choses entre gens débordés ?
 category: binary_transition
-tags: [a lire, animation, communaute, faire ensemble]
+tags: [a lire, faire a plusieurs]
 
 ---
 
-Jean-Michel Cornu propose le guide "Une heure par semaine pour animer une grande communauté",, soit comme il le dit *" animer un ensemble de personnes qui n’ont pas le temps… avec des personnes qui n’ont pas le temps"*. L'ouvrage me botte particulièrement pour ce que j'espère y trouver :
+Jean-Michel Cornu propose le guide ["Une heure par semaine pour animer une grande communauté"][source], soit comme il le dit ***" animer un ensemble de personnes qui n’ont pas le temps… avec des personnes qui n’ont pas le temps"***.
 
-- identifier les défis et obstacles pour faire des choses à plusieurs, et comment y arriver. Hyper utile pour les personnes qui veulent faire un maximum de choses de façon le + efficace possible avec des gens
-- identifier aussi les outils existants, ou manquants, pour pouvoir faire des propositions techniques de support de projets ou de communautés, faciliter le développement de projets collectifs et collaboratifs
+<!--more-->
 
+L'ouvrage me botte particulièrement pour ce que j'espère y trouver :
 
+- **identifier les défis et obstacles pour faire des choses à plusieurs**, et comment les dépasser. Hyper utile pour les personnes qui veulent des choses avec des gens, sans complètement s'épuiser pour un résultat non garanti,
+- **identifier les outils existants, ou manquants**, pour pouvoir faire des propositions techniques de support à des projets ou des communautés, faciliter le développement de projets collectifs et collaboratifs.
 
 
 Je me garde la lecture sous le coude,  peut etre une note de lecture + tard ?

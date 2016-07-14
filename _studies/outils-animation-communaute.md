@@ -1,20 +1,22 @@
 ---
-layout: base
+layout: page
 title:  Techniques pour faire des choses à plusieurs
-permalink: study1
-tags: [civic tech]
-category: binary_transition
+permalink: outils-animation-communaute
+tags: [faire a plusieurs]
+category: good_job
 ---
 
 Prise de note sur la collaboration, l'animation de communauté...
 
 <!--more-->
 
+Pour le moment, c'est principalement alimenté par la lecture de ["Une heure par semaine pour animer une grande communauté"](https://docs.google.com/document/d/1A5Ep7s2yAHLi3DxPANKpGTbeZctwRvDPYpK9KDsH_EI)
+
 
 ## Postulats de départ
 
-- Tout le monde n’a pas tout son temps pour le groupe ni parfois l’intention de coopérer… même vous ! Il faut bien sûr faciliter l’implication, mais également organiser le groupe afin qu’il fonctionne même avec une implication réduite ;
-- Comprendre un aspect du groupe et trouver une solution pour l’améliorer ne suffit pas. Si vous réparez un pied cassé de votre tabouret en oubliant les deux autres, vous risquez de vous retrouver par terre !
+- **Tout le monde n’a pas tout son temps pour le groupe ni parfois l’intention de coopérer**. Il faut bien sûr faciliter l’implication, mais également organiser le groupe afin qu’il fonctionne même avec une implication réduite ;
+- **Comprendre un aspect du groupe et trouver une solution pour l’améliorer ne suffit pas**. Si vous réparez un pied cassé de votre tabouret en oubliant les deux autres, vous risquez de vous retrouver par terre !
 
 *NdL (notes de lecture) : Hm, effectivement, je suis souvent focalisée que sur un aspect ; ou bien je vois bien que je n'arrive pas à tout prendre en compte, alors je me décourage. Voyons comment il règle ce problème*
 
@@ -23,11 +25,12 @@ Prise de note sur la collaboration, l'animation de communauté...
 
 ### Carte d'orientation de la communauté
 
-Typologies de groupes collaboratifs :
-- du groupes de travail qui développent des projets
-- aux communautés où au contraire on recherche à toucher le plus grand nombre de personnes
+#### Typologies de groupes collaboratifs :
 
-Les différents stades d'un groupe (de plus en plus impliqué) :
+- du **groupes de travail** qui développent des projets
+- aux **communautés** où au contraire on cherche à toucher le plus grand nombre de personnes
+
+##### Les différents stades d'un groupe (de plus en plus impliqué) :
 
 - permettre à un ensemble de personnes de **s’approprier des informations**
 - permettre de **développer l’entraide et la montée en compétence collective**
@@ -35,7 +38,7 @@ Les différents stades d'un groupe (de plus en plus impliqué) :
 - **trouver des idées ou de faire des choix** pas seulement en additionnant les contributions de chacun mais en développant également les interactions pour enrichir chaque contribution par celles des autres -> intelligence collective
 
 
-Quatre type d'activités nécessaires pour faciliter tant les projets que la communauté :
+###### Quatre type d'activités nécessaires pour faciliter tant les projets que la communauté :
 
 - des **informations** : ces “flux d’actualités” permettent au plus grand nombre, en dedans et en dehors de la communauté, de suivre régulièrement ce qui se passe, voire de “s’accrocher au wagon” ;
 - des **rencontres** : qu’ils soient en présentiel et/ou à distance, ces moments synchrones accélèrent les projets et facilitent l’implication des plus actifs ;

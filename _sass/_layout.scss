@@ -29,7 +29,7 @@
 
 .layout-main {
   padding: 2rem;
-      background: #f0eeee;
+      background:  $background-color;
 }
 
 
@@ -116,6 +116,35 @@
   .desktop-nav {
     display: none;
   }
+}
+
+
+// Headings -------------------------------
+
+h1 {
+  font-size: 4rem;
+}
+
+h2 {
+  font-size: 3rem;
+  padding-bottom: 0.3em;
+  border-bottom: 1px solid #eee;
+}
+
+h3 {
+  font-size: 2.5rem;
+}
+
+h4 {
+  font-size: 2rem;
+}
+
+h5 {
+  font-size: 1.6rem;
+}
+
+h6 {
+  font-size: 1.4rem;
 }
 
 @import "menu"

@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: page
 title:  "Toolkit"
 permalink: toolkits
 tags: [hackathon]
@@ -31,7 +31,7 @@ Photopea supports layers, layer masks and blend modes, and offers a lot of the t
 
 - spamgourmet
 - mailinator
-
+Zaclys : comme openmailbox mais mieux
 
 ## Gestion de docs
 
@@ -39,9 +39,9 @@ Photopea supports layers, layer masks and blend modes, and offers a lot of the t
 - owncloud
 - pyd.io
 
+## Hébergement
 
-www.000webhost.com
+- www.000webhost.com
+- yunohost
+- unhosted
 
-yunohost
-
-http://www.techonmap.fr/

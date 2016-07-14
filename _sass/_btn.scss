@@ -2,7 +2,7 @@
     background: 0 0;
     border-color: transparent;
     color: inherit;
-    &:hover, &:active {
+    &:hover, &:active, &:focus {
       color: inherit;
     }
 }

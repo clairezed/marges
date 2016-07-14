@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: page
 title:  "Mon ESS à moi"
 permalink: ess
 tags: [ess]
@@ -10,9 +10,27 @@ Quelques liens et repères sur ce que devient le secteur de l'ESS et de l'entrep
 
 <!--more-->
 
+
+## Réseaux et tête de pont
+
+### National
+
+- [le Mouvement des Entrepreneurs Sociaux](http://mouves.org/)
+
+### Grand Est
+
+- [Mouves Grand Est](http://mouves.org/nos-missions/federer-et-influer/federer-les-entrepreneurs-sociaux/lorraine/) ( [facebook](https://www.facebook.com/mouves.lorraine))
+- [Alternatiba Nancy](http://alternatiba-nancy.fr/)
+
+## Cools projets Grand Est
+
+### Région Nancy
+
+- [Projet d'épicerie collaborative à Nancy](https://www.facebook.com/epiceriecollabnancy/)
+
 ## Financement
 
-### Public
+### Secteur Public
 
 - label entreprise solidaire
 - enveloppe dédiée de la BPI, instaurés par la loi Hamon de 2014,
@@ -21,12 +39,7 @@ Quelques liens et repères sur ce que devient le secteur de l'ESS et de l'entrep
 
 - Arizuka, spécialisée dans l’innovation sociale et le développement durable
 
-## Réseaux et t^ete de pont
-
-- le Mouvement des Entrepreneurs Sociaux
-
 ## Incubateurs
 
 - Antropia,
 - SenseCube
-

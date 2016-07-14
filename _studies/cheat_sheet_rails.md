@@ -6,7 +6,7 @@ tags: [ruby, rails]
 category: sustainable_code
 ---
 
-Essaye de garder tout ça en tete, Claire ! T'écriras du meilleur code !
+Conseils à la volée pour écrire du meilleur code en ruby.
 
 <!--more-->
 

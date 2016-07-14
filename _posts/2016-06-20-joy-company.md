@@ -6,9 +6,11 @@ tags: [bonheur]
 
 ---
 
-Le pdg d'une boîte informatique du Michigan a planché sur différents moyens de rendre ses salariés heureux (en partant du principe que "qui dit content, dit plus créatifs et plus productifs").
+Le pdg d'une boîte informatique du Michigan a planché sur différents moyens de rendre ses salariés heureux (en partant du principe que "qui dit content, dit plus créatifs et plus productifs", ce n'est pas juste pour la beauté du geste).
 
-Quelques uns de leurs modes de fonctionnement, comme autant de trucs et astuces à garder sous le coude (sait-on jamais que ça puisse servir même en solo ? ) :
+<!--more-->
+
+Voici quelques uns de leurs modes de fonctionnement, comme autant de trucs et astuces à garder sous le coude (sait-on jamais que ça puisse servir à l'avenir) :
 
 - *"Les développeurs travaillent tous en binôme. Chaque semaine, les binômes changent. Et toute la semaine, les développeurs partagent un ordinateur pour deux."*
 - Des **réunions "show and tell" avec le client** : c’est le client qui *"est invité à manipuler le logiciel"* et *"montre aux équipes le travail qu’elles ont réalisé pendant la semaine"*.

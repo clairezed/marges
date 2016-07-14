@@ -1,18 +1,27 @@
 ---
 layout: post
-title: palettable
+title: On a tinderisé les palettes de couleurs
 category: sustainable_code
 tags: [toolkit, design, color]
 
 ---
 
-Cool app pour créer des palettes
+Découverte via [Sidebar](http://sidebar.io/) d'une -encore- nouvelle application pour créer des palettes de couleurs, [Palettable][source].
+
+<!--more-->
+
+Mais celle-ci, je me la garde sur le coude car :
+
+- la sélection de la prochaine nuance sur le mode "j'aime / j'aime pas" fonctionne au final vraiment pas mal
+- les concepteurs promettent que leurs algorithmes grantissent une alliance des couleurs raisonnée.
+
+(en plus, leur [code est en ligne](https://github.com/alecortega/palettable) et leur démarche conceptuelle et technique bien documentée)
 
 
 Source : [Palettable][source]
 
 
-[source]: http://www.palettable.io/D6F00D-FF4F64-FF5324-D6C7D9-A8883E
+[source]: http://www.palettable.io
 
 
 

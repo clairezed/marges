@@ -10,12 +10,6 @@ Quelques initiatives (qui m'ont l'air) cools sur lesquelles jeter ou garder un o
 
 <!--more-->
 
-**Légende de certains tags :**
-
-- **cool avéré** : J'ai lu de fond en comble, rencontré, testé, etc. Et c'est vraiment cool.
-- **cool probable** : Je me suis penché sur pas mal de docs ou rencontres, reste à avoir un vrai retour d'expérience.
-- **cool à vérifier** : Entendu parlé vite fait, quelque chose m'a intrigué, il faut que je me rencarde plus pour me faire vraiment une idée.
-
 
 **MICRO SOMMAIRE :**
 
@@ -29,11 +23,18 @@ Quelques initiatives (qui m'ont l'air) cools sur lesquelles jeter ou garder un o
 * [Lectures](#lectures)
 
 
+**Légende de certains tags :**
+
+- **cool avéré** : J'ai lu de fond en comble, rencontré, testé, etc. Et c'est vraiment cool.
+- **cool probable** : Je me suis penché sur pas mal de docs ou rencontres, reste à avoir un vrai retour d'expérience.
+- **cool à vérifier** : Entendu parlé vite fait, quelque chose m'a intrigué, il faut que je me rencarde plus pour me faire vraiment une idée.
+
+
 
 
 ## <a name="structures"></a> Structures
 
-### Collaborations professionnels - société civile <a name="collaborations-professionnels-société-civile"></a>
+### <a name="collaborations-professionnels-société-civile"></a> Collaborations professionnels - société civile
 
 #### Plateau Urbain
 
@@ -73,7 +74,7 @@ Le Collectif Bam est un groupe de designers engagés sur les pratiques numériqu
 
 
 
-### Collaboration développeur - société civile <a name="collaboration-développeur-société-civile"></a>
+### <a name="collaboration-développeur-société-civile"></a> Collaboration développeur - société civile
 
 #### Scopyleft
 
@@ -132,9 +133,12 @@ https://github.com/pixelhumain/buildingCommons
 
 ###### tags: `cool a verifier`
 
-## Festivals<a name="festivals"></a>
+### http://www.techonmap.fr/
 
-### [Web militant](#web-militant)
+
+## <a name="festivals"> Festivals</a>
+
+### <a name="web-militant">  Web militant
 
 #### Le Poop
 [lepoop.org](https://lepoop.org/2016)\\
@@ -160,13 +164,12 @@ AlterConf is a traveling conference series that provides safe opportunities for 
 
 
 
-## [Lectures](#lectures)
+## <a name="lectures">  Lectures
 
-Système 1, système 2 - Les deux vitesses de la pensée (Broché)
-Daniel Kahneman
+- Système 1, système 2 - Les deux vitesses de la pensée, Daniel Kahneman
 
 
-http://livre.fnac.com/a9180576/Scott-Stossel-Anxiete
+<!-- http://livre.fnac.com/a9180576/Scott-Stossel-Anxiete -->
 
 
 
