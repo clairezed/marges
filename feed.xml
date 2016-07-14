@@ -5,134 +5,65 @@
     <description>joli blog</description>
     <link>https://clairezed.github.io/marges/</link>
     <atom:link href="https://clairezed.github.io/marges/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 14 Jul 2016 13:04:31 +0200</pubDate>
-    <lastBuildDate>Thu, 14 Jul 2016 13:04:31 +0200</lastBuildDate>
+    <pubDate>Thu, 14 Jul 2016 16:48:21 +0200</pubDate>
+    <lastBuildDate>Thu, 14 Jul 2016 16:48:21 +0200</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
-        <title>palettable</title>
-        <description>&lt;p&gt;Cool app pour créer des palettes&lt;/p&gt;
-
-&lt;p&gt;Source : &lt;a href=&quot;http://www.palettable.io/D6F00D-FF4F64-FF5324-D6C7D9-A8883E&quot;&gt;Palettable&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 13 Jul 2016 00:00:00 +0200</pubDate>
-        <link>https://clairezed.github.io/marges/sustainable_code/2016/07/13/palettable.html</link>
-        <guid isPermaLink="true">https://clairezed.github.io/marges/sustainable_code/2016/07/13/palettable.html</guid>
-        
-        <category>toolkit</category>
-        
-        <category>design</category>
-        
-        <category>color</category>
-        
-        
-        <category>sustainable_code</category>
-        
-      </item>
-    
-      <item>
-        <title>animer communaute</title>
-        <description>&lt;p&gt;Jean-Michel Cornu propose le guide “Une heure par semaine pour animer une grande communauté”,, soit comme il le dit &lt;em&gt;” animer un ensemble de personnes qui n’ont pas le temps… avec des personnes qui n’ont pas le temps”&lt;/em&gt;. L’ouvrage me botte particulièrement pour ce que j’espère y trouver :&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;identifier les défis et obstacles pour faire des choses à plusieurs, et comment y arriver. Hyper utile pour les personnes qui veulent faire un maximum de choses de façon le + efficace possible avec des gens&lt;/li&gt;
-  &lt;li&gt;identifier aussi les outils existants, ou manquants, pour pouvoir faire des propositions techniques de support de projets ou de communautés, faciliter le développement de projets collectifs et collaboratifs&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Je me garde la lecture sous le coude,  peut etre une note de lecture + tard ?&lt;/p&gt;
-
-&lt;p&gt;Source : &lt;a href=&quot;https://docs.google.com/document/d/1A5Ep7s2yAHLi3DxPANKpGTbeZctwRvDPYpK9KDsH_EI&quot;&gt;Une heure par semaine pour animer une grande communauté&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Sat, 09 Jul 2016 00:00:00 +0200</pubDate>
-        <link>https://clairezed.github.io/marges/binary_transition/2016/07/09/animation-communaute.html</link>
-        <guid isPermaLink="true">https://clairezed.github.io/marges/binary_transition/2016/07/09/animation-communaute.html</guid>
-        
-        <category>a lire</category>
-        
-        <category>animation</category>
-        
-        <category>communaute</category>
-        
-        <category>faire ensemble</category>
-        
-        
-        <category>binary_transition</category>
-        
-      </item>
-    
-      <item>
-        <title>wappalizer</title>
-        <description>&lt;p&gt;Ca faisait quelques temps que je cherchais un moyen de deviner l’infra derrière un site (ausculter le code en console ), c’est chose faite !&lt;/p&gt;
-
-&lt;p&gt;https://wappalyzer.com/applications&lt;/p&gt;
-
-&lt;p&gt;existe aussi en extension&lt;/p&gt;
-</description>
-        <pubDate>Fri, 08 Jul 2016 00:00:00 +0200</pubDate>
-        <link>https://clairezed.github.io/marges/sustainable_code/2016/07/08/wappalizer.html</link>
-        <guid isPermaLink="true">https://clairezed.github.io/marges/sustainable_code/2016/07/08/wappalizer.html</guid>
-        
-        <category>tools</category>
-        
-        
-        <category>sustainable_code</category>
-        
-      </item>
-    
-      <item>
         <title>Pas sage en Seine - Hackerspace Festival 2016, jour 2</title>
-        <description>&lt;p&gt;Suite de mes pérégrinations à Pas sage en Seine - Hackerspace festival.&lt;/p&gt;
+        <description>&lt;p&gt;Vue qu’en dépit des règles les plus élémentaires de l’écriture web, j’en ai déjà écrit des tartines, le compte-rendu de mes pérégrinations à Pas sage en Seine - Hackerspace festival est scindé en deux.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Retrouvez le &lt;a href=&quot;/2016-07-03-pseshsf-2016-01&quot;&gt;début ici&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Récit du dernier quart de Pas sage en Seine / Hacker Space Festival : &lt;strong&gt;Jour 2 (pour moi) - Dimanche 3 juillet&lt;/strong&gt;&lt;/p&gt;
 
 &lt;!--more--&gt;
 
-&lt;h3 id=&quot;rencontre-manque-entre-salaire--vie-et-hackers&quot;&gt;Rencontre manquée entre salaire à vie et hackers&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;Retrouvez le &lt;a href=&quot;/marges/binary_transition/2016/07/14/pseshsf-2016-01.html&quot;&gt;début ici&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Salaire à vie pour tous ?&lt;/strong&gt;
-&lt;em&gt;gwenaëla&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&quot;rencontre-manque-entre-salaire--vie-et-hackers&quot;&gt;Rencontre manquée entre salaire à vie et hackers&lt;/h2&gt;
 
-&lt;p&gt;Je plaçais pas mal d’espoir sur cette conférence, car derrière cette idée de salaire à vie je vois surtout un changement de paradigme de &lt;em&gt;“c’est quoi le travail”&lt;/em&gt;. Repenser le rapport au travail, c’est un truc qui me botte vachement en ce moment, et je fais des liens assez naturels avec mes activités de codeuse (mais pas que) et la “culture open source”.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Salaire à vie pour tous ?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;gwenaëla&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Je plaçais pas mal d’espoir sur cette conférence, car derrière cette idée de salaire à vie je vois surtout un &lt;strong&gt;changement de paradigme de &lt;em&gt;“c’est quoi le travail”&lt;/em&gt;&lt;/strong&gt;. Repenser le rapport au travail, c’est un truc qui me botte vachement en ce moment, et je fais des liens assez naturels avec mes activités de codeuse (mais pas que) et la “culture open source”.&lt;/p&gt;
 
 &lt;p&gt;Pas de faux suspens : les espoirs ont été déçus. Tristesse.&lt;/p&gt;
 
 &lt;p&gt;L’oratrice a plutôt tourner autour de son sujet (pas de lien concret avec le mode de vie de son auditoire), et surtout, surtout, a mené son exposé d’une façon bien trop scolaire pour ce contexte.&lt;/p&gt;
 
-&lt;p&gt;Des éléments m’ont tout de même intéressée (car le scolaire ne me fait pas peur) (et aussi parce que je suis, de base, à donf sur le sujet, probablement). Je retranscris donc ici quelques notes prises (mais vite fait, il manquera sûrement des éléments de contexte à qui n’est vraiment pas dans le sujet, vous pouvez passer hein) :&lt;/p&gt;
+&lt;p&gt;Des éléments m’ont tout de même intéressée (car le scolaire ne me fait pas peur) (et aussi parce que je suis, de base, à donf sur le sujet, probablement). Je retranscris donc ici quelques une de mes notes (ça risque d’être un peu brut, n’hésitez pas à passer) :&lt;/p&gt;
 
-&lt;p&gt;L’un des postulats de base est que le travail peut être facteur d’émancipation, s’il est mené dans des conditions adéquates. Pour estimer ces conditions, on peut observer le tryptique travail / moyen de subsistance / moyen de production.&lt;/p&gt;
+&lt;p&gt;L’un des postulats de base est que le travail peut être facteur d’émancipation, s’il est mené dans des conditions adéquates. Pour estimer ces conditions, on peut observer le &lt;strong&gt;tryptique travail / moyen de subsistance / moyen de production&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;p&gt;Retour sur deux modes d’organisation du passé remarquables : compagnons et commoners.&lt;/p&gt;
 
-&lt;h4 id=&quot;compagnons-et-communers&quot;&gt;Compagnons et communers&lt;/h4&gt;
+&lt;h3 id=&quot;compagnons-et-communers&quot;&gt;Compagnons et communers&lt;/h3&gt;
 
-&lt;p&gt;Les compagnons ouvrent les logiques de transmissions de savoirs faire, qui ne sont plus réservés à la fratrie ou aux fils celui qui les possèdent.&lt;/p&gt;
+&lt;p&gt;Les &lt;strong&gt;compagnons&lt;/strong&gt; ouvrent les logiques de transmissions de savoirs faire, qui ne sont plus réservés à la fratrie ou aux fils celui qui les possèdent.&lt;/p&gt;
 
 &lt;p&gt;Les compagnons bénéficient de caisses de solidarité, font usages de signes d’appartenances, pratiques rituelles…&lt;/p&gt;
 
-&lt;p&gt;Les communers, eux, exploitent les communs je ne sais plus trop où dès le 12e siècle. A un moment, les communs subissent un mouvement d’enclosures, c’est à dire que ces communs passent du statut de “bien public” à celui de propriété privé. Les libéraux considèrent ce changement comme un progrès, car cela garantie pour eux une meilleure gestion, plus raisonnée, des ressources (au contraire de l’exploitation sans limite par plein de communers).&lt;/p&gt;
+&lt;p&gt;Les &lt;strong&gt;communers&lt;/strong&gt;, eux, exploitent les communs je ne sais plus trop où dès le 12e siècle. A un moment, les communs subissent un mouvement d’enclosures, c’est à dire que ces communs passent du statut de “bien public” à celui de propriété privé. Les libéraux considèrent ce changement comme un progrès, car cela garantie pour eux une meilleure gestion, plus raisonnée, des ressources (au contraire de l’exploitation sans limite par plein de communers).&lt;/p&gt;
 
 &lt;p&gt;La révolution industrielle fait quasi disparaître les compagnons (quasi car les syndicats en héritent en partie).&lt;/p&gt;
 
-&lt;h4 id=&quot;les-formes-du-capitalisme&quot;&gt;Les formes du capitalisme&lt;/h4&gt;
+&lt;h3 id=&quot;les-formes-du-capitalisme&quot;&gt;Les formes du capitalisme&lt;/h3&gt;
 
 &lt;p&gt;L’apparition des capitalismes acte la mutation du travail en emploi, avec salaire à la clé et patron.&lt;/p&gt;
 
 &lt;p&gt;On peut distinguer 3 stades au capitalisme :&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;1er stade capitalisme : violent, très contraignant, les conditions sont imposées à 100 %. Les sentiments qui dominent sont la peur et la faim.&lt;/li&gt;
-  &lt;li&gt;2e stade : fordisme, avènement d’une société de consommation que ce capitalisme permet. On trouve donc des avantages à cette forme (on peut consommer !) et il s’accompagne d’évolutions sociologique&lt;/li&gt;
-  &lt;li&gt;3e stade : on essaye de faire “kiffer” au travail&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;1er stade capitalisme&lt;/strong&gt; : violent, très contraignant, les conditions sont imposées à 100 %. Les sentiments qui dominent sont la peur et la faim.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;2e stade&lt;/strong&gt; : fordisme, avènement d’une société de consommation que ce capitalisme permet. On trouve donc des avantages à cette forme (on peut consommer !) et il s’accompagne d’évolutions sociologique&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;3e stade&lt;/strong&gt; : on essaye de faire “kiffer” au travail&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Par exemple, dans les années 50-70, on est en plein dans le 2e stade avec la consommation de masse. Avec l’austérité dans les années 80, c’est la régression : l’employé redevient sujet de la peur et de la faim.&lt;/p&gt;
 
 &lt;p&gt;J’enchaîne ensuite sur “pas une conférence” dont le bruit court que c’est bien.&lt;/p&gt;
 
-&lt;h3 id=&quot;vitesse-lumire-&quot;&gt;Vitesse lumière !&lt;/h3&gt;
+&lt;h2 id=&quot;vitesse-lumire-&quot;&gt;Vitesse lumière !&lt;/h2&gt;
 
 &lt;p&gt;&lt;strong&gt;Il était une fois l’Internet&lt;/strong&gt;&lt;/p&gt;
 
@@ -144,18 +75,19 @@
 
 &lt;p&gt;Pour en savoir plus, &lt;a href=&quot;http://iletaitunefoislinternet.fr/&quot;&gt;le site du spectacle&lt;/a&gt;.&lt;/p&gt;
 
-&lt;h3 id=&quot;les-mutations-de-la-quadrature-du-net&quot;&gt;Les mutations de la Quadrature du Net&lt;/h3&gt;
+&lt;h2 id=&quot;les-mutations-de-la-quadrature-du-net&quot;&gt;Les mutations de la Quadrature du Net&lt;/h2&gt;
 
-&lt;p&gt;&lt;strong&gt;Entendu au Garage&lt;/strong&gt;
-&lt;em&gt;Adrienne Charmet&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Entendu au Garage&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Adrienne Charmet&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;J’attendais avec pas mal de curiosité le bilan annuel de la Quadrature du Net, après avoir entendu parler de leur changement d’orientation. Voici ce que j’ai retenu de ce bilan.&lt;/p&gt;
 
-&lt;h4 id=&quot;epuisement-et-constat-dchec&quot;&gt;Epuisement et constat d’échec&lt;/h4&gt;
+&lt;h3 id=&quot;epuisement-et-constat-dchec&quot;&gt;Epuisement et constat d’échec&lt;/h3&gt;
 
-&lt;p&gt;2015 a été pas mal occupé par la grosse bataille autour du processus législatif loi renseignement, avec ses flux et reflux épuisants. En fin d’année, bam, attentats. Directement la Quadrature s’engage  contre le prolongement de l’état d’urgence, et s’attache à le recenser et le documenter. Cette opposition à l’état d’urgence n’a pas été évidente à tenir et à faire entendre dans le climat sécuritaire de fin 2015.&lt;/p&gt;
+&lt;p&gt;2015 a été pas mal occupée par la grosse bataille autour du processus législatif loi renseignement, avec ses flux et reflux épuisants. En fin d’année, bam, attentats. Directement la Quadrature s’engage  contre le prolongement de l’état d’urgence, et s’attache à le recenser et le documenter. &lt;strong&gt;Cette opposition à l’état d’urgence n’a pas été évidente à tenir et à faire entendre&lt;/strong&gt; dans le climat sécuritaire de fin 2015.&lt;/p&gt;
 
-&lt;p&gt;Surtout, la Quadrature fait le constat des limites de ses capacités d’action (notamment avec la loi sur le réforme pénale). La Quadrature, sur bon nombre de lois, fait des propositions par tous les biais possibles, mais sans effet.&lt;/p&gt;
+&lt;p&gt;Surtout, la Quadrature fait le constat des &lt;strong&gt;limites de ses capacités d’action&lt;/strong&gt; (notamment avec la loi sur le réforme pénale). La Quadrature, sur bon nombre de lois, fait des propositions par tous les biais possibles, mais sans effet.&lt;/p&gt;
 
 &lt;p&gt;Commence une grosse réflexion sur le pouvoir de la Quadrature à influer, véritablement, sur les dossiers législatifs.&lt;/p&gt;
 
@@ -163,9 +95,9 @@
 
 &lt;p&gt;En résumé, la Quadrature compte rester présente au niveau européen, faire plus de réflexion, de diffusion, mais aussi étendre son empreinte associative.&lt;/p&gt;
 
-&lt;h4 id=&quot;un-autre-lobbyisme-est-possible-&quot;&gt;Un autre lobbyisme est possible ?&lt;/h4&gt;
+&lt;h3 id=&quot;un-autre-lobbyisme-est-possible-&quot;&gt;Un autre lobbyisme est possible ?&lt;/h3&gt;
 
-&lt;p&gt;Pour ce qui est du lobbying et de l’influence, l’action de la Quadrature essaye maintenant de bien tenir compte de ce mur législatif contre lequel ils bloquent.&lt;/p&gt;
+&lt;p&gt;Pour ce qui est du lobbying et de l’influence, l’action de la Quadrature essaye maintenant de bien &lt;strong&gt;tenir compte de ce mur législatif contre lequel ils bloquent&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;p&gt;Quelques constats :
 - à l’Assemblée, les clivages étaient plutôt entre “ceux qui connaissent le numérique” et “ceux qui y pannent rien”
@@ -181,9 +113,9 @@
 
 &lt;p&gt;La Qadrature compte faire son possible pour transmettre à d’autres ses connaissances accumulées sur le monde politique et législatif. Mais cette documentation et transmission prendra du temps et ne sera pas simple.&lt;/p&gt;
 
-&lt;h4 id=&quot;retour-vers-une-action-de-terrain&quot;&gt;Retour vers une action de terrain&lt;/h4&gt;
+&lt;h3 id=&quot;retour-vers-une-action-de-terrain&quot;&gt;Retour vers une action de terrain&lt;/h3&gt;
 
-&lt;p&gt;En parallèle de ce travail de lobbying, qui se poursuit mais de manière moins intensive, la Quadrature veut régénérer ses outils et ouvrir de nouveaux services. Parmi les derniers outils sur lesquels ils ont planché :&lt;/p&gt;
+&lt;p&gt;En parallèle de ce travail de lobbying, qui se poursuit mais de manière moins intensive, la Quadrature veut &lt;strong&gt;régénérer ses outils et ouvrir de nouveaux services&lt;/strong&gt;. Parmi les derniers outils sur lesquels ils ont planché :&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;
@@ -203,38 +135,41 @@
   &lt;p&gt;“on a embauché un graphiste, ce qui était pas du luxe à la Quadrature.”&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;En 2016, il devrait donc y avoir + de vulgarisation, + d’ateliers, + de formations pour démultiplier les actions. La structure veut aussi articuler son travail avec d’autres associations (françaises, comme framasoft par exemple, ou européennes).&lt;/p&gt;
+&lt;p&gt;En 2016, il devrait donc y avoir &lt;strong&gt;+ de vulgarisation, + d’ateliers, + de formations pour démultiplier les actions&lt;/strong&gt;. La structure veut aussi articuler son travail avec d’autres associations (françaises, comme framasoft par exemple, ou européennes).&lt;/p&gt;
 
-&lt;h4 id=&quot;mais-maintenant-qui-le-fera-&quot;&gt;… mais maintenant, qui le fera ?&lt;/h4&gt;
+&lt;h3 id=&quot;mais-maintenant-qui-le-fera-&quot;&gt;… mais maintenant, qui le fera ?&lt;/h3&gt;
+
 &lt;p&gt;Comme beaucoup d’autres personnes, j’étais au début de la présentation un peu circonspecte. C’est quoi ce revirement ? Si la Quadrature laisse tomber ce boulot de lobbying et de pression législative, qui va le faire ?&lt;/p&gt;
 
-&lt;p&gt;Le constat partagé durant le festival par Adrienne Charmet est amer, mais permet de mieux saisir le changement d’orientation : &lt;em&gt;“Qui va le faire si on le fait pas ? Je ne sais pas, mais les autres assos sont sur les mêmes constats que nous”&lt;/em&gt;. C’est à dire celui d’une inaudibilité et d’une inefficacité de leurs actions auprès du politique.&lt;/p&gt;
+&lt;p&gt;Le constat partagé durant le festival par Adrienne Charmet est amer, mais permet de mieux saisir le changement d’orientation : &lt;em&gt;“Qui va le faire si on le fait pas ? Je ne sais pas, mais les autres assos sont sur les mêmes constats que nous”&lt;/em&gt;. C’est à dire celui d’une &lt;strong&gt;inaudibilité et d’une inefficacité de leurs actions auprès du politique&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;p&gt;Pas de quoi être franchement optimiste, mais de quoi comprendre, et donner envie de s’engager sur le terain, à un échelon plus local. Il semble que ce soit définitivement ici qu’il faille que ça bouge.&lt;/p&gt;
 
-&lt;h3 id=&quot;twitter-dis-moi-ce-que-je-ressens&quot;&gt;Twitter, dis-moi ce que je ressens&lt;/h3&gt;
+&lt;h2 id=&quot;twitter-dis-moi-ce-que-je-ressens&quot;&gt;Twitter, dis-moi ce que je ressens&lt;/h2&gt;
 
-&lt;p&gt;&lt;strong&gt;Comment Twitter reflète les sentiments d’une population en état de choc ?&lt;/strong&gt;
-&lt;em&gt;Mathieu (matael) Gaborit&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment Twitter reflète les sentiments d’une population en état de choc ?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Mathieu (matael) Gaborit&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;J’assiste au début de la présentation du projet &lt;a href=&quot;https://sample.cat/&quot;&gt;sample.Cat&lt;/a&gt;, qui cherche à déterminer comment twitter a reflété les sentiments de ses utilisateurs sur les attentats : quels ont été les sentiments majeurs, combien de temps ont-ils duré, par quoi ont-ils été remplacé, etc.&lt;/p&gt;
 
-&lt;p&gt;Le niveau technique un peu rude (ça causait en toute simplicité de data-mining, de machine learning, des sujets dont je ne suis pas spécialiste), et l’envie d’entendre parler de Community Organizing me font quitter la présentation en cours de route.&lt;/p&gt;
+&lt;p&gt;Le niveau technique un peu rude (ça causait en toute simplicité de data-mining, de machine learning, des sujets dont je ne suis pas spécialiste) (euphémisme), et l’envie d’entendre parler de Community Organizing me font quitter la présentation en cours de route.&lt;/p&gt;
 
-&lt;h3 id=&quot;repolitiser-les-classes-populaires&quot;&gt;Repolitiser les classes populaires&lt;/h3&gt;
+&lt;h2 id=&quot;repolitiser-les-classes-populaires&quot;&gt;Repolitiser les classes populaires&lt;/h2&gt;
 
-&lt;p&gt;&lt;strong&gt;Documentaire “Organisez-vous” + Débat&lt;/strong&gt;
-&lt;em&gt;Benoît Raio&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Documentaire “Organisez-vous” + Débat&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Benoît Raio&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;J’assiste à la fin de la projection du documentaire “Organisez-vous”, autour du community organizing, pratique qui m’interpelle depuis ma lecture de l’article &lt;a href=&quot;https://quartierslibres.wordpress.com/2016/05/14/made-in-america-community-organizing/&quot;&gt;Made in America : Community Organizing&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;La fin de la projection donne lieu à un échange entre les spectateurs et le réalisateur du documentaire. La pratique est pas encore hyper connue en France, elle est observée avec une certaine défiance.&lt;/p&gt;
+&lt;p&gt;La fin de la projection donne lieu à un échange entre les spectateurs et le réalisateur du documentaire. La pratique est pas encore hyper connue en France, et j’ai l’impression qu’elle est observée avec une certaine défiance.&lt;/p&gt;
 
-&lt;h4 id=&quot;machiavlisme-pour-la-communaut&quot;&gt;Machiavélisme pour la communauté&lt;/h4&gt;
+&lt;h3 id=&quot;machiavlisme-pour-la-communaut&quot;&gt;Machiavélisme pour la communauté&lt;/h3&gt;
 
-&lt;p&gt;Pendant les échanges, le lien est fait entre &lt;em&gt;“social engineering&lt;/em&gt;”, entendu sous l’angle de la manipulation sociale, et “&lt;em&gt;community organizing&lt;/em&gt;”. Pour le réalisateur, effectivement la comparaison peut avoir du sens en ceci que le community organizing pourrait être traduit comme le recours au machiavélisme, mais pour le bien d’une communauté (et non d’un individu seul). Le réalisateur rappelle d’ailleurs que le community organizing s’inspire de la structure du crime organisé et des syndicats.&lt;/p&gt;
+&lt;p&gt;Pendant les échanges, le lien est fait entre &lt;em&gt;“social engineering&lt;/em&gt;”, entendu sous l’angle de la manipulation sociale, et “&lt;em&gt;community organizing&lt;/em&gt;”. Pour le réalisateur, effectivement la comparaison peut avoir du sens en ceci que le community organizing pourrait être traduit comme le &lt;strong&gt;recours au machiavélisme, mais pour le bien d’une communauté&lt;/strong&gt; (et non d’un individu seul). Le réalisateur rappelle d’ailleurs que le community organizing s’inspire de la structure du crime organisé et des syndicats.&lt;/p&gt;
 
-&lt;h4 id=&quot;tisseurs-de-colre&quot;&gt;Tisseurs de colère&lt;/h4&gt;
+&lt;h3 id=&quot;tisseurs-de-colre&quot;&gt;Tisseurs de colère&lt;/h3&gt;
 
 &lt;p&gt;Une des distinctions du community organizing avec d’autres méthodes de mobilisations est qu’elle &lt;strong&gt;part, par principe, des besoins des populations&lt;/strong&gt;. Elle ne s’appuie pas sur l’agenda, les idées et envies préalables des organisateurs. Le principe est de ne pas surimposer une problématique qui ne les concerne pas à des populations, mais de chercher quels sont les problèmes auxquels elles sont confrontées au quotidien, et de partir de ces problèmes là (aussi mineurs ou décalés soient-ils).&lt;/p&gt;
 
@@ -242,7 +177,7 @@
 
 &lt;p&gt;En France, c’est l’Alliance Citoyenne à Grenoble qui semble être précurseur. Ils font le tour des quartiers, écoutent ce que veulent les gens PUIS déterminent leur objectif. Ils se définissent comme &lt;strong&gt;“tisseurs de colères”&lt;/strong&gt;, une façon d’insister sur le besoin de créer des communautés de lutte. Ce besoin de recréer ou regénérer des communautés est d’ailleurs sûrement encore plus essentiels en France, où la notion de communauté est quand même pas mal décriée.&lt;/p&gt;
 
-&lt;h4 id=&quot;des-leaders-qui-seffacent-&quot;&gt;Des leaders qui s’effacent ?&lt;/h4&gt;
+&lt;h3 id=&quot;des-leaders-qui-seffacent-&quot;&gt;Des leaders qui s’effacent ?&lt;/h3&gt;
 
 &lt;p&gt;Quelqu’un remarque que dans le documentaire, les “organizers” sont la plupart du temps des femmes et/ou des personnes racisées. L’une des interprétations qui en est faite par le réalisateur est que &lt;em&gt;“pour être community organiser, il faut &lt;strong&gt;accepter de ne pas être mis en avant&lt;/strong&gt;“&lt;/em&gt;, ce qui culturellement serait plus compliqué pour les hommes.&lt;/p&gt;
 
@@ -250,17 +185,27 @@
 
 &lt;p&gt;Alors que je sens la syndicaliste à côté de moi sur la défensive depuis le début des échanges, le réalisateur rappelle que le community organizing n’est pas révolutionnaire. L’optique n’est pas de renverser l’ordre des choses, mais de &lt;strong&gt;faire avec les politiques&lt;/strong&gt; en présence, en les obligeant à respecter leurs engagements.&lt;/p&gt;
 
-&lt;h3 id=&quot;bilan&quot;&gt;Bilan&lt;/h3&gt;
+&lt;h2 id=&quot;bilan&quot;&gt;Bilan&lt;/h2&gt;
 
-&lt;p&gt;J’ai une vision avec plein de trous du festival, forcément (pas assisté à toutes les éditions + pas assisté à toute cette édition = paye ton impartialité) mais dans l’ensemble j’en sors &lt;strong&gt;plutôt ravie&lt;/strong&gt;. Le ton délicieusement &lt;strong&gt;irrévérencieux&lt;/strong&gt; me séduit toujours, (et quand on vient chatouiller la French Tech, la disruption et tout le toutim, j’ai toujours un peu l’impression d’être en famille…). J’aime le &lt;strong&gt;mélange des genres&lt;/strong&gt;, j’aime ces thématiques plus ouvertes que dans mon souvenir, mixant de la politique et de la sociologie avec la technique (voire même sans technique parfois).&lt;/p&gt;
+&lt;p&gt;J’ai une vision avec plein de trous du festival, forcément (pas assisté à toutes les éditions + pas assisté à toute cette édition = paye ton impartialité) mais dans l’ensemble j’en sors &lt;strong&gt;plutôt ravie&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Le ton délicieusement &lt;strong&gt;irrévérencieux&lt;/strong&gt; me séduit toujours, et le &lt;strong&gt;regard critique porté sur l’écosystème numérique&lt;/strong&gt; (qu’on le partage entièrement ou non) fait beaucoup de bien.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Si vous faite un pitch de start up faut dire “uberiser uber” pour récolter des fonds, alors je vais le dire aussi&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;em&gt;Stéphane Bortzmeyer&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;J’aime le &lt;strong&gt;mélange des genres&lt;/strong&gt;, j’aime ces thématiques plus ouvertes que dans mon souvenir, mixant de la politique et de la sociologie avec la technique (voire même sans technique parfois).&lt;/p&gt;
 
 &lt;p&gt;Par contre, ce que j’aurais aimé prendre le temps de discuter, c’est :
-- d’où vient cette évolution de l’orientation des festivals (si c’est pas moi qui me fait des films) ?
-- comment cette évolution est reçue par le public habituel ou historique des festivals ?&lt;/p&gt;
+- d’où vient cette évolution de l’orientation des 2 festivals (si c’est pas moi qui me fait des films) ?
+- comment cette évolution est-elle reçue par le public habituel ou historique des 2 festivals ?&lt;/p&gt;
 
-&lt;h3 id=&quot;post-scriptums&quot;&gt;Post scriptums&lt;/h3&gt;
+&lt;h2 id=&quot;post-scriptums&quot;&gt;Post scriptums&lt;/h2&gt;
 
-&lt;h4 id=&quot;ce-que-jai-rat-et-jen-suis-triste&quot;&gt;Ce que j’ai raté et j’en suis triste&lt;/h4&gt;
+&lt;h3 id=&quot;ce-que-jai-rat-et-jen-suis-triste&quot;&gt;Ce que j’ai raté et j’en suis triste&lt;/h3&gt;
 
 &lt;p&gt;Je note ça ici, pour pouvoir retrouver plus facilement les vidéos qui m’intéressent.&lt;/p&gt;
 
@@ -274,7 +219,7 @@
   &lt;li&gt;L’entreprise démocratique, par Pierre-Yves DILLARD, pour nourir mes questionnements sur le mode de travail qui me conviendrait.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h4 id=&quot;sources&quot;&gt;Sources&lt;/h4&gt;
+&lt;h3 id=&quot;sources&quot;&gt;Sources&lt;/h3&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCziX7HND0yXhYjRBuDz9-PQ/videos?view=0&amp;amp;sort=dd&amp;amp;shelf_id=0&quot;&gt;Les vidéos des confs&lt;/a&gt;&lt;/li&gt;
@@ -282,7 +227,7 @@
   &lt;li&gt;&lt;a href=&quot;http://www.makery.info/2016/07/05/le-festival-des-hackers-en-seine-se-paie-la-french-tech/&quot;&gt;un bel article sur makery.info&lt;/a&gt;, qui permet d’avoir un aperçu de tout ce que je ne raconte pas (vu que je l’ai raté)&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h4 id=&quot;bonus&quot;&gt;Bonus&lt;/h4&gt;
+&lt;h3 id=&quot;bonus&quot;&gt;Bonus&lt;/h3&gt;
 
 &lt;p&gt;La retranscription du pad des Bullshit Bingo 2016. J’ai l’impression que le &lt;a href=&quot;http://pads.usinette.org/p/BS-awards-2016-vote&quot;&gt;pad originel&lt;/a&gt; est devenu coréen ; et comme il se trouve que je l’avais copié pour pouvoir fouiller un peu les liens…&lt;/p&gt;
 
@@ -292,231 +237,274 @@
 &lt;strong&gt;Intervenants&lt;/strong&gt; :         Emmanuelle Macro et Alain Mince (Brice Tuturier juste au téléphone). On pourrait avoir un appel de  Axelle L’Amer +1+1
 &lt;strong&gt;Description&lt;/strong&gt; :          Le classement tant attendu des Bullshit Bingo Awards sera révélé par notre jury constitué d’investisseurs panaméens, de vieilles pousses et de chômeurs devant un parterre de décideurs et de jeunes poulets sous vide.&lt;/p&gt;
 
-&lt;h5 id=&quot;comment-a-marche-pas-&quot;&gt;Comment ça marche (pas) ?&lt;/h5&gt;
+&lt;h4 id=&quot;comment-a-marche-pas-&quot;&gt;Comment ça marche (pas) ?&lt;/h4&gt;
 
 &lt;p&gt;Vous mettez un +1 après chaque entrée pour laquelle vous voulez voter +1
 Vous pouvez voter pour une ou 2 entrées par catégorie.
 Essayez de remplir dans toutes les catégories :)
 On compte les voix, et on distribue les awards ce samedi 2 à 19h00 :)&lt;/p&gt;
 
-&lt;h5 id=&quot;prix-du-bullshit-job-de-lanne&quot;&gt;Prix du Bullshit Job de l’année&lt;/h5&gt;
-&lt;p&gt;Devops +1+1+1+1+1+1+1+1+1+1+1+1+1+1+11+1+1
-[…] Guru+1
-*-ninja+1+1
-Scrum master
-Évangeliste +1
-Associé On Purpose +1+1+1+
-Growth Hacker +1+1+1
-LIFE HACKER+1
-CHIEF HAPPINESS OFFICER +1+1+1+1+1+1+1
-Coach agile +1+1+1+1+1+1+1+1+1+1+1+1 +1+1
-CTO
-CEO
-CDO (Data / Digital)
-Data scientist +1
-Lead Dev
-Lead QA
-Directeur Program Manager +1+1
-Red-team
-RH&lt;/p&gt;
+&lt;h4 id=&quot;prix-du-bullshit-job-de-lanne&quot;&gt;Prix du Bullshit Job de l’année&lt;/h4&gt;
 
-&lt;h5 id=&quot;le-prix-du-bullshit-word-qui-a-perdu-de-la-vitesse-depuis-2015&quot;&gt;Le Prix du Bullshit Word qui a perdu de la vitesse depuis 2015&lt;/h5&gt;
-&lt;p&gt;Crowdsourcing +1+1 +1
-Bitcoin+1+1
-IaaS / *AAS +1+1+1+1+1+1+1+1+1
-accélérateur de croissance +1
-scalabilité+1+1+1+1+1+1+1+1+1+1
-résilience+1+1+1+1
-coworking
-Imprimante 3D +1+1+1+1&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Devops +1+1+1+1+1+1+1+1+1+1+1+1+1+1+11+1+1&lt;/li&gt;
+  &lt;li&gt;[…] Guru+1&lt;/li&gt;
+  &lt;li&gt;*-ninja+1+1&lt;/li&gt;
+  &lt;li&gt;Scrum master&lt;/li&gt;
+  &lt;li&gt;Évangeliste +1&lt;/li&gt;
+  &lt;li&gt;Associé On Purpose +1+1+1+&lt;/li&gt;
+  &lt;li&gt;Growth Hacker +1+1+1&lt;/li&gt;
+  &lt;li&gt;LIFE HACKER+1&lt;/li&gt;
+  &lt;li&gt;CHIEF HAPPINESS OFFICER +1+1+1+1+1+1+1&lt;/li&gt;
+  &lt;li&gt;Coach agile +1+1+1+1+1+1+1+1+1+1+1+1 +1+1&lt;/li&gt;
+  &lt;li&gt;CTO&lt;/li&gt;
+  &lt;li&gt;CEO&lt;/li&gt;
+  &lt;li&gt;CDO (Data / Digital)&lt;/li&gt;
+  &lt;li&gt;Data scientist +1&lt;/li&gt;
+  &lt;li&gt;Lead Dev&lt;/li&gt;
+  &lt;li&gt;Lead QA&lt;/li&gt;
+  &lt;li&gt;Directeur Program Manager +1+1&lt;/li&gt;
+  &lt;li&gt;Red-team&lt;/li&gt;
+  &lt;li&gt;RH&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;h5 id=&quot;le-prix-du-bullshit-word-de-2016&quot;&gt;Le Prix du Bullshit Word de 2016&lt;/h5&gt;
-&lt;p&gt;Internet of Things +1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1
-Growth Hacking
-VR
-Blockchain +1+1+1+1+1+1+1+1+1+++++++1
-Voiture sans chauffeur / Google Car (car as a service ?)
-machine learning / neural networks+1
-Community engagement(happiass)
-Employee engagement
-predictive analytics (Tessier aaS)
-open innovation (open * [comme l’open source])
-LEAN +1
-SCRUM
-AGILE+1
-SPRINT
-&lt;em&gt;Digital&lt;/em&gt; (en francais)+1+1+1+1+1+1+1+1m+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1
-Innovation disruptive +1+1+1+1
-Licorne &amp;lt;3
-uberisation de *+1+1+1+1+1+1+1
-civic tech ,
-foodtech
-fintech
-lowtech+1
-Silver Economy / l’or gris
-4K+1  -&amp;gt; 5K
-Cuisse de poulet^^
-DAO +53 M$ haha
-gougleu
-+1 : “digital penetration” c’est la “pénétration du numérique” et pas…
-Il manque totalement le « DARKNET » ;) /me agrees+1+1+1&lt;/p&gt;
+&lt;h4 id=&quot;le-prix-du-bullshit-word-qui-a-perdu-de-la-vitesse-depuis-2015&quot;&gt;Le Prix du Bullshit Word qui a perdu de la vitesse depuis 2015&lt;/h4&gt;
 
-&lt;h5 id=&quot;le-prix-du-bullshit-word-qui-a-un-gros-potentiel-pour-2017&quot;&gt;Le Prix du Bullshit Word qui a un gros potentiel pour 2017&lt;/h5&gt;
-&lt;p&gt;FlexOffice
-Internet Of Cars +1+1+1+1+1+1+1+1+1+1
-Intenet of things as++11+1+1+1+1+1+1+1+1+1+@+1+1+1+1+1+1+1+1+1+1+1+1
-Smart contract
-Uberiser Uber
-VR
-herméneutique (référence nécessaire)
-Internet des grosses merdes surtout…&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Crowdsourcing +1+1 +1&lt;/li&gt;
+  &lt;li&gt;Bitcoin+1+1&lt;/li&gt;
+  &lt;li&gt;IaaS / *AAS +1+1+1+1+1+1+1+1+1&lt;/li&gt;
+  &lt;li&gt;accélérateur de croissance +1&lt;/li&gt;
+  &lt;li&gt;scalabilité+1+1+1+1+1+1+1+1+1+1&lt;/li&gt;
+  &lt;li&gt;résilience+1+1+1+1&lt;/li&gt;
+  &lt;li&gt;coworking&lt;/li&gt;
+  &lt;li&gt;Imprimante 3D +1+1+1+1&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;h5 id=&quot;prix-du-bullshit-de-linnovation-dtat&quot;&gt;Prix du Bullshit de l’innovation d’État&lt;/h5&gt;
-&lt;p&gt;Le Hackaton pour mieux fliquer les gens +1+1+1+1+1+1+1+1
-http://www.paris.fr/necmergitur
-Pôle emploi … user centric et disruptif +1+1+1
-http://www.journaldunet.com/management/ressources-humaines/1176880-anne-leone-campanella-pole-emploi/
-Startups d’État +1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1
-http://www.modernisation.gouv.fr/ladministration-change-avec-le-numerique/par-des-services-numeriques-aux-usagers/startups-d-etat
-Lapsus…
-http://rue89.nouvelobs.com/2016/06/07/numerique-doit-etre-reserve-happy-few-264279&lt;/p&gt;
+&lt;h4 id=&quot;le-prix-du-bullshit-word-de-2016&quot;&gt;Le Prix du Bullshit Word de 2016&lt;/h4&gt;
 
-&lt;h5 id=&quot;prix-du-mot-bullshit-de-la-dcennie&quot;&gt;Prix du Mot Bullshit de la décennie&lt;/h5&gt;
-&lt;p&gt;Big Data +1+1+1+1+1+1+1
-Cloud+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1
-Startup +1+1
-Digital +1+1+1+1+1+1+1+1+1-1
-Internet of *
-INNOVATION
-IA (du siècle ?)+1+1 ««««&amp;lt;
-TayAi
-Singularité
-Machine learning
-Tout ces mots doivent avoir ce prix !+1+1+1+1+1
-Je valide cette opinion :’)&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Internet of Things +1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1&lt;/li&gt;
+  &lt;li&gt;Growth Hacking&lt;/li&gt;
+  &lt;li&gt;VR&lt;/li&gt;
+  &lt;li&gt;Blockchain +1+1+1+1+1+1+1+1+1+++++++1&lt;/li&gt;
+  &lt;li&gt;Voiture sans chauffeur / Google Car (car as a service ?)&lt;/li&gt;
+  &lt;li&gt;machine learning / neural networks+1&lt;/li&gt;
+  &lt;li&gt;Community engagement(happiass)&lt;/li&gt;
+  &lt;li&gt;Employee engagement&lt;/li&gt;
+  &lt;li&gt;predictive analytics (Tessier aaS)&lt;/li&gt;
+  &lt;li&gt;open innovation (open * [comme l’open source])&lt;/li&gt;
+  &lt;li&gt;LEAN +1&lt;/li&gt;
+  &lt;li&gt;SCRUM&lt;/li&gt;
+  &lt;li&gt;AGILE+1&lt;/li&gt;
+  &lt;li&gt;SPRINT&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Digital&lt;/em&gt; (en francais)+1+1+1+1+1+1+1+1m+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1&lt;/li&gt;
+  &lt;li&gt;Innovation disruptive +1+1+1+1&lt;/li&gt;
+  &lt;li&gt;Licorne &amp;lt;3&lt;/li&gt;
+  &lt;li&gt;uberisation de *+1+1+1+1+1+1+1&lt;/li&gt;
+  &lt;li&gt;civic tech ,&lt;/li&gt;
+  &lt;li&gt;foodtech&lt;/li&gt;
+  &lt;li&gt;fintech&lt;/li&gt;
+  &lt;li&gt;lowtech+1&lt;/li&gt;
+  &lt;li&gt;Silver Economy / l’or gris&lt;/li&gt;
+  &lt;li&gt;4K+1  -&amp;gt; 5K&lt;/li&gt;
+  &lt;li&gt;Cuisse de poulet^^&lt;/li&gt;
+  &lt;li&gt;DAO +53 M$ haha&lt;/li&gt;
+  &lt;li&gt;gougleu&lt;/li&gt;
+  &lt;li&gt;+1 : “digital penetration” c’est la “pénétration du numérique” et pas…&lt;/li&gt;
+  &lt;li&gt;Il manque totalement le « DARKNET » ;) /me agrees+1+1+1&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;h5 id=&quot;prix-du-bullshit-des-filles-et-fils--papa&quot;&gt;Prix du Bullshit des filles et fils à papa&lt;/h5&gt;
-&lt;p&gt;Bullshiters As A Service +1+1+1
-https://cremedelacreme.io/
-La Learning Touch
-https://www.digischool.fr/hype/
-L’écosystème entrepreneurial X +1+1+1+1+1+1+1+1
-https://www.polytechnique.edu/fr/breve/lecole-polytechnique-lance-son-accelerateur
-Stagiaires On Purpose  +1
-https://jobs.ouishare.net/
-L’esclavage DIY +1+1+1+1+1+1+1+1+1+1+1+1+1+1+1
-http://www.lemonde.fr/campus/article/2016/05/22/a-fresnes-de-jeunes-passionnes-d-informatique-hackent-les-codes-de-l-entreprise_4924060_4401467.html&lt;/p&gt;
+&lt;h4 id=&quot;le-prix-du-bullshit-word-qui-a-un-gros-potentiel-pour-2017&quot;&gt;Le Prix du Bullshit Word qui a un gros potentiel pour 2017&lt;/h4&gt;
 
-&lt;h5 id=&quot;prix-spcial-du-jury--le-coup-de-coeur&quot;&gt;Prix spécial du jury : le coup de coeur&lt;/h5&gt;
-&lt;p&gt;Power Networker +1 +1+1
-http://www.meilleurdevdefrance.com/
-Pitch As A Service
-http://makestorming.com/outils/pitchmotion
-Même Challenges (!) s’y met +1+1
-http://www.challenges.fr/high-tech/20160107.CHA3639/high-tech-start-up-frenchtech-jouez-au-bullshit-bingo-du-ces-2016.html
-Les plus belles pages du corporate (“Intrapreunariat”)
-http://www.thebosonproject.com/#!noslivres/c11a4
-Webcomic Strip +1+1+1
-http://www.commitstrip.com/fr/2016/06/20/coder-bingo/?
-Le Bullshit qui vient +1
-http://i.imgur.com/oNwl8Qa.png
-Le Bullshit Intello-technique “hypercontrôle computationnel” +1
-http://enmi-conf.org/wp/enmi15/
-Le Camp à Bobos “able to adapt”+1+1+1+1
-http://darwin.camp/
-LLeLe&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;FlexOffice&lt;/li&gt;
+  &lt;li&gt;Internet Of Cars +1+1+1+1+1+1+1+1+1+1&lt;/li&gt;
+  &lt;li&gt;Intenet of things as++11+1+1+1+1+1+1+1+1+1+&lt;/li&gt;
+  &lt;li&gt;@+1+1+1+1+1+1+1+1+1+1+1+1&lt;/li&gt;
+  &lt;li&gt;Smart contract&lt;/li&gt;
+  &lt;li&gt;Uberiser Uber&lt;/li&gt;
+  &lt;li&gt;VR&lt;/li&gt;
+  &lt;li&gt;herméneutique (référence nécessaire)&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;h5 id=&quot;prix-de-lentreprise-au-sens-large-qui-pratique-le-mieux-le-greenwashing-hackerwashing-le-washing&quot;&gt;Prix de l’entreprise (au sens large) qui pratique le mieux le greenwashing, hackerwashing, le *washing&lt;/h5&gt;
-&lt;p&gt;Le yaourt inter-entreprise qui innove sec
- http://programmenoe.com/
-#CompteurConnect  +1+1+1+1+1+1+1
-http://www.developpement-durable.gouv.fr/Hackathon-CompteurConnect-le
-MAIF La blockchain au service de ton assureur+1+1+1+1+1+1+1+1+1+1+1+1+1+1
-www.meetup.com/fr/La-Paillasse-Events/events/222566200/
-Point bonus buzzword-combo pour le communiqué presse MAIF-CozyCloud &lt;em&gt;“A la MAIF, nous sommes fiers d’accompagner la croissance de Cozy Cloud et d’amorcer avec elle un nouveau paradigme autour du self data. MAIF est convaincue de la capacité de Cozy à être disrupteur sur le sujet”&lt;/em&gt;
-SNCF “Kick Off camp &amp;amp; 17 semaines de training”
-http://tektos.co/sncf-tektos/&lt;/p&gt;
+&lt;h4 id=&quot;prix-du-bullshit-de-linnovation-dtat&quot;&gt;Prix du Bullshit de l’innovation d’État&lt;/h4&gt;
 
-&lt;h5 id=&quot;prix-pixelle-lemaire--la-meilleure-redistribution-dargent-public--opration-de-com-gouvernementale--publique&quot;&gt;Prix Pixelle Lemaire : la meilleure redistribution d’argent public / opération de com’ gouvernementale / publique&lt;/h5&gt;
-&lt;p&gt;Le “pré-accélérateur lean” +1
-https://lafonderie-idf.fr/appel-a-participations-nestin/
-La Salle Tatami Coworking Place d’État +1+1+1+1+1+1+1+1+1
-http://superpublic.fr/&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Le Hackaton pour mieux fliquer les gens +1+1+1+1+1+1+1+1&lt;br /&gt;
+&lt;a href=&quot;http://www.paris.fr/necmergitur&quot;&gt;http://www.paris.fr/necmergitur&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Pôle emploi … user centric et disruptif +1+1+1&lt;br /&gt;
+&lt;a href=&quot;http://www.journaldunet.com/management/ressources-humaines/1176880-anne-leone-campanella-pole-emploi/&quot;&gt;http://www.journaldunet.com/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Startups d’État +1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1&lt;br /&gt;
+&lt;a href=&quot;http://www.modernisation.gouv.fr/ladministration-change-avec-le-numerique/par-des-services-numeriques-aux-usagers/-startups-d-etat&quot;&gt;http://www.modernisation.gouv.fr/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Lapsus…&lt;br /&gt;
+&lt;a href=&quot;http://rue89.nouvelobs.com/2016/06/07/numerique-doit-etre-reserve-happy-few-264279&quot;&gt;http://rue89.nouvelobs.com/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;h5 id=&quot;prix-du-meilleur-outil-anti-bullshit&quot;&gt;Prix du meilleur outil anti-Bullshit&lt;/h5&gt;
-&lt;p&gt;La police de caractères qui dénonce grave +1+1+1+1+1+1+1+1+1
-http://www.sansbullshitsans.com/
-Le Response GIF +1+1+1+1
-http://www.gifbin.com/bin/052009/1242749315_bullshit_amplifier-detector.webm
-Jouez en réunion ! +1+1+1+1+1+1+1+1??
-http://www.bingoreunion.fr/
-Faites vos grilles ! +1
-http://www.bullshitbingo.net/cards/buzzword/
-Un générateur
-http://www.bullshitgenerator.com/&lt;/p&gt;
+&lt;h4 id=&quot;prix-du-mot-bullshit-de-la-dcennie&quot;&gt;Prix du Mot Bullshit de la décennie&lt;/h4&gt;
 
-&lt;h5 id=&quot;prix-bullshit-bingo-de-gauche&quot;&gt;Prix Bullshit Bingo de Gauche&lt;/h5&gt;
-&lt;p&gt;Convergence des luttes
-acquis social / acquis sociaux
-empowerment / émancipation/encapacitation/enpouvoirement/encapacitance+1+1+1
-cloud personnel +1+1+1+1+1+1+1+1+1
-Méta données
-ECO&lt;em&gt;+1+1
-BIO&lt;/em&gt;+1+1+1
-Lanceurs d’alerte+1+1
-lowtech
-*debout
-entendu récemment, cloud privé/public/hybride&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Big Data +1+1+1+1+1+1+1&lt;/li&gt;
+  &lt;li&gt;Cloud+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1&lt;/li&gt;
+  &lt;li&gt;Startup +1+1&lt;/li&gt;
+  &lt;li&gt;Digital +1+1+1+1+1+1+1+1+1-1&lt;/li&gt;
+  &lt;li&gt;Internet of *&lt;/li&gt;
+  &lt;li&gt;INNOVATION&lt;/li&gt;
+  &lt;li&gt;IA (du siècle ?)+1+1 ««««&amp;lt;&lt;/li&gt;
+  &lt;li&gt;TayAi&lt;/li&gt;
+  &lt;li&gt;Singularité&lt;/li&gt;
+  &lt;li&gt;Machine learning&lt;/li&gt;
+  &lt;li&gt;Tout ces mots doivent avoir ce prix !+1+1+1+1+1&lt;/li&gt;
+  &lt;li&gt;Je valide cette opinion :’)&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;h5 id=&quot;prix-de-la-persvrance-pour-los-souverain--logiciel-souverain&quot;&gt;Prix de la persévérance pour l’OS Souverain / Logiciel Souverain&lt;/h5&gt;
-&lt;p&gt;OS Souverain +1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1
-Antivirus Souverain
-Logiciel Souverain
-L’intelligence artificielle Souveraine
-Cloud Souverain +1
-Il faut bien des logiciels Souverains pour faire tourner un OS Souverain
-On se contentera de logiciels propriétaires grâce aux contrats avec Microsoft &amp;lt;=== Ouais mais c’est que pour l’Éducation nationale et la Défense Nationale et l’enseignement sup/recherche !
-Et un point Godwin pour Alban :)&lt;/p&gt;
+&lt;h4 id=&quot;prix-du-bullshit-des-filles-et-fils--papa&quot;&gt;Prix du Bullshit des filles et fils à papa&lt;/h4&gt;
 
-&lt;h5 id=&quot;prix-de-la-rcup-des-hackers&quot;&gt;Prix de la récup’ des hackers&lt;/h5&gt;
-&lt;p&gt;Les Makers, ils impriment des immeubles… +1+1
-http://www.futurapolis.com/manifeste/
-Le magasin qui se présente comme un lab +1
-http://www.brocantelab.com/
-T’as un projet ? On va t’aider… +1+1
-http://www.thisispollen.com/#home
-Hackers à vendre
-https://www.hackster.io/business
-*SPACE
-*FABLAB
-Techshop
-*LAB +1+1+1+1+1+1+1+1+1+1+1+1+1+1+1 /tmp/lab &amp;lt;===+1&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Bullshiters As A Service +1+1+1&lt;br /&gt;
+&lt;a href=&quot;https://cremedelacreme.io/&quot;&gt;https://cremedelacreme.io/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;La Learning Touch&lt;br /&gt;
+&lt;a href=&quot;https://www.digischool.fr/hype/&quot;&gt;https://www.digischool.fr/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;L’écosystème entrepreneurial X +1+1+1+1+1+1+1+1&lt;br /&gt;
+&lt;a href=&quot;https://www.polytechnique.edu/fr/breve/lecole-polytechnique-lance-son-accelerateur&quot;&gt;https://www.polytechnique.edu/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Stagiaires On Purpose  +1&lt;br /&gt;
+&lt;a href=&quot;https://jobs.ouishare.net/&quot;&gt;https://jobs.ouishare.net/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;L’esclavage DIY +1+1+1+1+1+1+1+1+1+1+1+1+1+1+1&lt;br /&gt;
+&lt;a href=&quot;http://www.lemonde.fr/campus/article/2016/05/22/a-fresnes-de-jeunes-passionnes-d-informatique-hackent-les-codes-de-l-entreprise_4924060_4401467.html&quot;&gt;http://www.lemonde.fr/campus/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;h5 id=&quot;prix-le-bon-bullshit-de-nos-rgions--les-techshops-a-roi-sur-linnovation&quot;&gt;Prix Le Bon Bullshit De Nos Régions : les techshops a ROI sur l’innovation&lt;/h5&gt;
-&lt;p&gt;Aquitaine ! +1+1
-http://www.aquitaine-developpement-innovation.com/
-Ile de France !
-http://www.silvervalley.fr/Silver-Valley-12
-Ile de France !
-https://lafonderie-idf.fr/equipe/
-Orléans ! +1+1+1+1+1+1+1+1
-http://www.le-lab-o.fr/
-Loire ! +1+1
-http://frenchtech-loirevalley.com/#section-presentation
-Lyon !
-http://www.digitalsummr.com/fr/programme/programme
-Brest ! (plus) &amp;lt;=== Avec Brest, Molaix, Quimper et Lannion (d’où le “plus” !) La première *TECH augmentée…
-http://thebresttechblog.tumblr.com/
-http://frenchtech-brestplus.bzh/ &amp;lt;=== avec .bzh !&lt;/p&gt;
+&lt;h4 id=&quot;prix-spcial-du-jury--le-coup-de-coeur&quot;&gt;Prix spécial du jury : le coup de coeur&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Power Networker +1 +1+1&lt;br /&gt;
+&lt;a href=&quot;http://www.meilleurdevdefrance.com/&quot;&gt;http://www.meilleurdevdefrance.com/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Pitch As A Service&lt;br /&gt;
+&lt;a href=&quot;http://makestorming.com/outils/pitchmotion&quot;&gt;http://makestorming.com/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Même Challenges (!) s’y met +1+1&lt;br /&gt;
+&lt;a href=&quot;http://www.challenges.fr/high-tech/20160107.CHA3639/high-tech-start-up-frenchtech-jouez-au-bullshit-bingo-du-ces-2016.html&quot;&gt;http://www.challenges.fr/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Les plus belles pages du corporate (“Intrapreunariat”)&lt;br /&gt;
+&lt;a href=&quot;http://www.thebosonproject.com/#!noslivres/c11a4&quot;&gt;http://www.thebosonproject.com&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Webcomic Strip +1+1+1&lt;br /&gt;
+&lt;a href=&quot;http://www.commitstrip.com/fr/2016/06/20/coder-bingo/?&quot;&gt;http://www.commitstrip.com/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Le Bullshit qui vient +1&lt;br /&gt;
+&lt;a href=&quot;http://i.imgur.com/oNwl8Qa.png&quot;&gt;http://i.imgur.com/oNwl8Qa.png&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Le Bullshit Intello-technique “hypercontrôle computationnel” +1&lt;br /&gt;
+&lt;a href=&quot;http://enmi-conf.org/wp/enmi15/&quot;&gt;http://enmi-conf.org/wp/enmi15/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Le Camp à Bobos “able to adapt”+1+1+1+1&lt;br /&gt;
+&lt;a href=&quot;http://darwin.camp/&quot;&gt;http://darwin.camp/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;prix-de-lentreprise-au-sens-large-qui-pratique-le-mieux-le-greenwashing-hackerwashing-le-washing&quot;&gt;Prix de l’entreprise (au sens large) qui pratique le mieux le greenwashing, hackerwashing, le *washing&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Le yaourt inter-entreprise qui innove sec&lt;br /&gt;
+&lt;a href=&quot;http://programmenoe.com/&quot;&gt; http://programmenoe.com/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;#CompteurConnect  +1+1+1+1+1+1+1&lt;br /&gt;
+&lt;a href=&quot;http://www.developpement-durable.gouv.fr/Hackathon-CompteurConnect-le&quot;&gt;http://www.developpement-durable.gouv.fr&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;MAIF La blockchain au service de ton assureur+1+1+1+1+1+1+1+1+1+1+1+1+1+1&lt;br /&gt;
+&lt;a href=&quot;www.meetup.com/fr/La-Paillasse-Events/events/222566200/&quot;&gt;www.meetup.com/fr/La-Paillasse-Events/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Point bonus buzzword-combo pour le communiqué presse MAIF-CozyCloud &lt;em&gt;“A la MAIF, nous sommes fiers d’accompagner la croissance de Cozy Cloud et d’amorcer avec elle un nouveau paradigme autour du self data. MAIF est convaincue de la capacité de Cozy à être disrupteur sur le sujet”&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;SNCF “Kick Off camp &amp;amp; 17 semaines de training”&lt;br /&gt;
+&lt;a href=&quot;http://tektos.co/sncf-tektos/&quot;&gt;http://tektos.co/sncf-tektos/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;prix-pixelle-lemaire--la-meilleure-redistribution-dargent-public--opration-de-com-gouvernementale--publique&quot;&gt;Prix Pixelle Lemaire : la meilleure redistribution d’argent public / opération de com’ gouvernementale / publique&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Le “pré-accélérateur lean” +1&lt;br /&gt;
+&lt;a href=&quot;https://lafonderie-idf.fr/appel-a-participations-nestin/&quot;&gt;https://lafonderie-idf.fr&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;La Salle Tatami Coworking Place d’État +1+1+1+1+1+1+1+1+1&lt;br /&gt;
+&lt;a href=&quot;http://superpublic.fr/&quot;&gt;http://superpublic.fr/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;prix-du-meilleur-outil-anti-bullshit&quot;&gt;Prix du meilleur outil anti-Bullshit&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;La police de caractères qui dénonce grave +1+1+1+1+1+1+1+1+1&lt;br /&gt;
+&lt;a href=&quot;http://www.sansbullshitsans.com/&quot;&gt;http://www.sansbullshitsans.com/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Le Response GIF +1+1+1+1&lt;br /&gt;
+&lt;a href=&quot;http://www.gifbin.com/bin/052009/1242749315_bullshit_amplifier-detector.webm&quot;&gt;http://www.gifbin.com/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Jouez en réunion ! +1+1+1+1+1+1+1+1??&lt;br /&gt;
+&lt;a href=&quot;http://www.bingoreunion.fr/&quot;&gt;http://www.bingoreunion.fr/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Faites vos grilles ! +1&lt;br /&gt;
+&lt;a href=&quot;http://www.bullshitbingo.net/cards/buzzword/&quot;&gt;http://www.bullshitbingo.net/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Un générateur&lt;br /&gt;
+&lt;a href=&quot;http://www.bullshitgenerator.com/&quot;&gt;http://www.bullshitgenerator.com/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;prix-bullshit-bingo-de-gauche&quot;&gt;Prix Bullshit Bingo de Gauche&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Convergence des luttes&lt;/li&gt;
+  &lt;li&gt;acquis social / acquis sociaux&lt;/li&gt;
+  &lt;li&gt;empowerment / émancipation/encapacitation/enpouvoirement/encapacitance+1+1+1&lt;/li&gt;
+  &lt;li&gt;cloud personnel +1+1+1+1+1+1+1+1+1&lt;/li&gt;
+  &lt;li&gt;Méta données&lt;/li&gt;
+  &lt;li&gt;ECO*+1+1&lt;/li&gt;
+  &lt;li&gt;BIO*+1+1+1&lt;/li&gt;
+  &lt;li&gt;Lanceurs d’alerte+1+1&lt;/li&gt;
+  &lt;li&gt;lowtech&lt;/li&gt;
+  &lt;li&gt;*debout&lt;/li&gt;
+  &lt;li&gt;entendu récemment, cloud privé/public/hybride&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;prix-de-la-persvrance-pour-los-souverain--logiciel-souverain&quot;&gt;Prix de la persévérance pour l’OS Souverain / Logiciel Souverain&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;OS Souverain +1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1&lt;/li&gt;
+  &lt;li&gt;Antivirus Souverain&lt;/li&gt;
+  &lt;li&gt;Logiciel Souverain&lt;/li&gt;
+  &lt;li&gt;L’intelligence artificielle Souveraine&lt;/li&gt;
+  &lt;li&gt;Cloud Souverain +1&lt;/li&gt;
+  &lt;li&gt;Il faut bien des logiciels Souverains pour faire tourner un OS Souverain&lt;/li&gt;
+  &lt;li&gt;On se contentera de logiciels propriétaires grâce aux contrats avec Microsoft &amp;lt;=== Ouais mais c’est que pour l’Éducation nationale et la Défense Nationale et l’enseignement sup/recherche !&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;prix-de-la-rcup-des-hackers&quot;&gt;Prix de la récup’ des hackers&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Les Makers, ils impriment des immeubles… +1+1&lt;br /&gt;
+&lt;a href=&quot;http://www.futurapolis.com/manifeste/&quot;&gt;http://www.futurapolis.com/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Le magasin qui se présente comme un lab +1&lt;br /&gt;
+&lt;a href=&quot;http://www.brocantelab.com/&quot;&gt;http://www.brocantelab.com/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;T’as un projet ? On va t’aider… +1+1&lt;br /&gt;
+&lt;a href=&quot;http://www.thisispollen.com/#home&quot;&gt;http://www.thisispollen.com/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Hackers à vendre&lt;br /&gt;
+&lt;a href=&quot;https://www.hackster.io/business&quot;&gt;https://www.hackster.io/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;*SPACE&lt;/li&gt;
+  &lt;li&gt;*FABLAB&lt;/li&gt;
+  &lt;li&gt;Techshop&lt;/li&gt;
+  &lt;li&gt;*LAB +1+1+1+1+1+1+1+1+1+1+1+1+1+1+1 /tmp/lab &amp;lt;===+1&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;prix-le-bon-bullshit-de-nos-rgions--les-techshops-a-roi-sur-linnovation&quot;&gt;Prix Le Bon Bullshit De Nos Régions : les techshops a ROI sur l’innovation&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Aquitaine ! +1+1&lt;br /&gt;
+&lt;a href=&quot;http://www.aquitaine-developpement-innovation.com/&quot;&gt;http://www.aquitaine-developpement-innovation.com/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Ile de France !&lt;br /&gt;
+&lt;a href=&quot;http://www.silvervalley.fr/Silver-Valley-12&quot;&gt;http://www.silvervalley.fr/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Ile de France !&lt;br /&gt;
+&lt;a href=&quot;https://lafonderie-idf.fr/equipe/&quot;&gt;https://lafonderie-idf.fr/equipe/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Orléans ! +1+1+1+1+1+1+1+1&lt;br /&gt;
+&lt;a href=&quot;http://www.le-lab-o.fr/&quot;&gt;http://www.le-lab-o.fr/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Loire ! +1+1&lt;br /&gt;
+&lt;a href=&quot;http://frenchtech-loirevalley.com/#section-presentation&quot;&gt;http://frenchtech-loirevalley.com/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Lyon !&lt;br /&gt;
+&lt;a href=&quot;http://www.digitalsummr.com/fr/programme/programme&quot;&gt;http://www.digitalsummr.com&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Brest ! (plus) &amp;lt;=== Avec Brest, Molaix, Quimper et Lannion (d’où le “plus” !) La première *TECH augmentée…&lt;br /&gt;
+&lt;a href=&quot;http://thebresttechblog.tumblr.com/&quot;&gt;http://thebresttechblog.tumblr.com/&lt;/a&gt; &lt;br /&gt;
+&lt;a href=&quot;http://frenchtech-brestplus.bzh/&quot;&gt;http://frenchtech-brestplus.bzh/&lt;/a&gt; &amp;lt;=== avec .bzh !&lt;/li&gt;
+&lt;/ul&gt;
 
 </description>
-        <pubDate>Sun, 03 Jul 2016 00:00:00 +0200</pubDate>
-        <link>https://clairezed.github.io/marges/binary_transition/2016/07/03/pseshsf-2016-02.html</link>
-        <guid isPermaLink="true">https://clairezed.github.io/marges/binary_transition/2016/07/03/pseshsf-2016-02.html</guid>
+        <pubDate>Thu, 14 Jul 2016 00:00:00 +0200</pubDate>
+        <link>https://clairezed.github.io/marges/binary_transition/2016/07/14/pseshsf-2016-02.html</link>
+        <guid isPermaLink="true">https://clairezed.github.io/marges/binary_transition/2016/07/14/pseshsf-2016-02.html</guid>
         
-        <category>ess</category>
+        <category>hacking</category>
         
-        <category>public</category>
+        <category>politique</category>
         
         
         <category>binary_transition</category>
@@ -529,15 +517,13 @@ http://frenchtech-brestplus.bzh/ &amp;lt;=== avec .bzh !&lt;/p&gt;
 
 &lt;p&gt;J’ai gagné quelques niveaux en technique entre temps, et quand j’ai vu le programme, je me suis dit que ça avait l’air bigrement intéressant. Alors j’ai retenté le coup.&lt;/p&gt;
 
-&lt;p&gt;Récit d’une moitié de Pas sage en Seine / Hacker Space Festival.&lt;/p&gt;
+&lt;p&gt;Récit d’une moitié de Pas sage en Seine / Hacker Space Festival : &lt;strong&gt;Jour 1 (pour moi) - Samedi 2 juillet&lt;/strong&gt;&lt;/p&gt;
 
 &lt;!--more--&gt;
 
-&lt;p&gt;&lt;em&gt;NdA : comme ce post est vachement trop long et déroge à toutes les règles les plus élémentaires de la lecture sur Internet, je l’ai scindé en deux. &lt;a href=&quot;/2016-07-03-pseshsf-2016-02&quot;&gt;La suite ici&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;NdA : comme ce post est vachement trop long et déroge à toutes les règles les plus élémentaires de la lecture sur Internet, je l’ai scindé en deux. &lt;a href=&quot;/marges/binary_transition/2016/07/14/pseshsf-2016-02.html&quot;&gt;La suite ici&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;jour-1-pour-moi---samedi-2-juillet&quot;&gt;Jour 1 (pour moi) - Samedi 2 juillet&lt;/h2&gt;
-
-&lt;h3 id=&quot;avec-ethereum-privilgier-les-dumb-contracts-&quot;&gt;Avec ethereum, privilégier les dumb contracts ?&lt;/h3&gt;
+&lt;h2 id=&quot;avec-ethereum-privilgier-les-dumb-contracts-&quot;&gt;Avec ethereum, privilégier les dumb contracts ?&lt;/h2&gt;
 
 &lt;p&gt;&lt;strong&gt;Développer un contrat/programme sur Ethereum&lt;/strong&gt;&lt;/p&gt;
 
@@ -553,33 +539,34 @@ http://frenchtech-brestplus.bzh/ &amp;lt;=== avec .bzh !&lt;/p&gt;
   &lt;p&gt;“Vouloir résoudre des bogues en traitant du logiciel, c’est pas toujours une bonne idée.”&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Bortzmeyer analyse l’erreur du &lt;a href=&quot;https://daohub.org/&quot;&gt;DAO&lt;/a&gt; (bug entrainant la perte de quelque chose comme 50 millions euros) comme étant dû à une trop forte anticipation de problèmes potentiels. En prévoyant trop de cas critiques éventuels et en les corrigeant, les développeurs ont créé malgré eux de nouvelles fragilités dans leur programme.&lt;/p&gt;
+&lt;p&gt;Bortzmeyer analyse l’erreur du &lt;a href=&quot;https://daohub.org/&quot;&gt;DAO&lt;/a&gt; (bug entrainant la perte de quelque chose comme 50 millions euros) comme étant dû à une &lt;strong&gt;trop forte anticipation de problèmes potentiels&lt;/strong&gt;. En prévoyant trop de cas critiques éventuels et en les corrigeant, les développeurs ont créé malgré eux de nouvelles fragilités dans leur programme.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;“Le problème avec le DAO, c’est qu’on a utilisé les mêmes méthodes de productivité que le web”&lt;/em&gt;, c’est à dire coder vite, beaucoup, en se disant que tant que ça marche dans les grandes lignes, c’est bon. Dans les milieux ultrasécurisés, on écrit au contraire du code hyper simple, hyper lentement. Il aurait selon lui fallu coder, non comme pour un site web, mais comme pour une centrale nucléaire.&lt;/p&gt;
 
-&lt;p&gt;C’est aussi peut être lié au côté parfois “cowboy” des devs (et je ne suis pas la dernière à y succomber) : les programmeurs ont tendance à aimer faire du code compliqué, du code d’esthète beau comme du lettrage à la main à la peinture email, à se la raconter quoi. Or, c’est dans les contrats les plus simples et triviaux qu’il est le plus compliqué d’introduire des bugs.&lt;/p&gt;
+&lt;p&gt;C’est aussi peut être lié au côté parfois “cowboy” des devs (et je ne suis pas la dernière à y succomber) : &lt;strong&gt;les programmeurs ont tendance à aimer faire du code compliqué&lt;/strong&gt;, du code d’esthète beau comme du lettrage à la main à la peinture émail, à se la raconter quoi. Or, c’est dans les contrats les plus simples et triviaux qu’il est le plus compliqué d’introduire des bugs.&lt;/p&gt;
+
+&lt;p&gt;Quelques éléments de bilan :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;les contrats sont des programmes informatiques, donc évidemment ils ont des bugs. Réfléchissez toujours avant d’y mettre de l’argent.&lt;/li&gt;
+  &lt;li&gt;ce n’est pas pour autant qu’il ne faut pas utiliser les contrats. On utilise bien du javascript ou du PHP, on utilise bien le web (mais le web n’est pas bugué, n’est-ce pas). Il faut juste avoir conscience que les contrats ne sont pas infaillibles&lt;/li&gt;
+  &lt;li&gt;ne pas vérifier les condensats peut etre considéré comme une bonne pratique, car trop coûteux en éther&lt;/li&gt;
+  &lt;li&gt;Par contre, faut pas pour autant oublier de tester ses codes de retour, hein.&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;En définitive, pour Bortzmeyer, l’appellation “smart contracts” devrait très avantageusement être remplacée par celle de &lt;strong&gt;“dumb contracts”&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;p&gt;Ce n’est pas la première fois que j’entends parler des avantages à coder simple, limite un peu grossier. Plus le temps passe et plus je comprends qu’il n’y a vraiment pas de honte à coder façon paysan (un peu rustique, mais c’est du solide), et c’est une façon de faire dans laquelle je me retrouve de plus en plus.&lt;/p&gt;
+&lt;p&gt;Ce n’est pas la première fois que j’entends parler des avantages à coder simple, limite un peu grossier. Plus le temps passe et plus je comprends qu’il n’y a vraiment pas de honte à coder façon “gros sabots” (un peu rustique, mais c’est du solide), et c’est une façon de faire dans laquelle je me retrouve de plus en plus.&lt;/p&gt;
 
-&lt;p&gt;Ah ! Et il ne faut pas oublier de tester ses codes de retour, aussi.&lt;/p&gt;
+&lt;p&gt;Source : &lt;a href=&quot;http://www.bortzmeyer.org/pas-sage-en-seine-ethereum.html&quot;&gt;http://www.bortzmeyer.org/pas-sage-en-seine-ethereum.html&lt;/a&gt;&lt;/p&gt;
 
-&lt;!-- mais... mais pourquoi &quot;bog&quot; est féminin pour @bortzmeyer ? Il doit me manquer une info
-&quot;il faut privilégier les dumb contracts aux smart contracts. Pas écrire pour le web, mais pour une centrale nucléaire&quot;
+&lt;h2 id=&quot;lergonomie-cest-pas-que-pour-les-autres&quot;&gt;L’ergonomie, c’est pas que pour les autres&lt;/h2&gt;
 
-grâce à @bortzmeyer , et même si y&#39;a tjs des choses qui m&#39;échappent ds la blockchain, je révise de bons principes de sécurité
+&lt;p&gt;&lt;strong&gt;L’ergonomie, indispensable à l’adoption massive du libre&lt;/strong&gt;&lt;/p&gt;
 
-&quot;dans ces conditions, programmer de manière sûre, c&#39;est assez yolo&quot; --&gt;
+&lt;p&gt;&lt;em&gt;m4dz (Matthias Dugué) / Luc Chaffard&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;Source : http://www.bortzmeyer.org/pas-sage-en-seine-ethereum.html&lt;/p&gt;
-
-&lt;h3 id=&quot;lergonomie-cest-pas-que-pour-les-autres&quot;&gt;L’ergonomie, c’est pas que pour les autres&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;L’ergonomie, indispensable à l’adoption massive du libre&lt;/strong&gt;
-&lt;em&gt;m4dz (Matthias Dugué) / Luc Chaffard&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;L’intitulé de la conférence qui suit est une affirmation à laquelle j’adhère massivement : &lt;em&gt;“L’ergonomie, indispensable à l’adoption massive du libre”&lt;/em&gt;. L’intéret pour moi était donc plutot d’avoir des éléments de diagnostic (pourquoi est-ce que le design peche, dans le libre ?), des pistes de résolution, et voir un peu comment la communauté “hacker / libriste / engagée” (comment on définit la “communauté” de ce festival, en fait ?) recevait ce genre de discours.&lt;/p&gt;
+&lt;p&gt;L’intitulé de la conférence qui suit est une affirmation à laquelle j’adhère massivement : &lt;em&gt;“L’ergonomie, indispensable à l’adoption massive du libre”&lt;/em&gt;. L’intéret pour moi était donc plutot d’avoir des éléments de diagnostic (pourquoi est-ce que le design peche, dans le libre ?), des pistes de résolution, et voir un peu comment la communauté “hacker / libriste / engagée” (comment on définit la “communauté” de ces festivals, en fait ?) recevait ce genre de discours.&lt;/p&gt;
 
 &lt;p&gt;Qu’est-ce que ça donne ?&lt;/p&gt;
 
@@ -587,17 +574,19 @@ grâce à @bortzmeyer , et même si y&#39;a tjs des choses qui m&#39;échappent 
   &lt;p&gt;” Pour une adoption de masse, il faut rendre le produit accessible au maximum “&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Là-dessus, les deux intervenants, venus de &lt;a href=&quot;https://cozy.io/fr/&quot;&gt;Cozy&lt;/a&gt;, prêchent une convaincue. Mais ils enfoncent le clou et insistent, en parlant au sujet du développement de produits open source de &lt;em&gt;“relation egosexuelle”&lt;/em&gt;, travers par lequel on se retrouve à réaliser un produit pour soi, ses usages, sa communauté. Une manière de rappeler que, lorsqu’on bosse pour de l’open source et qu’on essaye de se positionner en alternative aux GAFA, on a tout intérêt à être accessible au plus grand nombre.&lt;/p&gt;
+&lt;p&gt;Là-dessus, les deux intervenants, venus de &lt;a href=&quot;https://cozy.io/fr/&quot;&gt;Cozy&lt;/a&gt;, prêchent une convaincue. Mais ils enfoncent le clou et insistent, en parlant au sujet du développement de produits open source de &lt;strong&gt;&lt;em&gt;“relation egosexuelle”&lt;/em&gt;&lt;/strong&gt;, travers par lequel on se retrouve à réaliser un produit pour soi, ses usages, sa communauté. Une manière de rappeler que, lorsqu’on bosse pour de l’open source et qu’on essaye de se positionner en alternative aux GAFA, on a tout &lt;strong&gt;intérêt à être accessible au plus grand nombre&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;” Si tout ce qu’on arrive a libérer, c’est que de la ligne de code, et bien on aura perdu. “&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Comment fait-on ? Les méthodes décrites et appliquées par l’équipe de Cozy sont finalement relativement connues, mais c’est souvent pas inutile de rappeler les bonnes pratiques : connaître ses utilisateurs, savoir à qui on s’adresse, et avoir conscience qu’on n’est &lt;em&gt;“qu’un utilisateur parmi d’autre”&lt;/em&gt; (et même pas un utilisateur représentatif, vu qu’on connait son produit dans les moindres détails).&lt;/p&gt;
+&lt;p&gt;Comment fait-on ? Les méthodes décrites et appliquées par l’équipe de Cozy sont finalement relativement connues, mais c’est souvent pas inutile de rappeler les bonnes pratiques : connaître ses utilisateurs, savoir à qui on s’adresse, et avoir conscience qu’on n’est &lt;strong&gt;&lt;em&gt;“qu’un utilisateur parmi d’autres”&lt;/em&gt;&lt;/strong&gt; (et même pas un utilisateur représentatif, vu qu’on connait son produit dans les moindres détails).&lt;/p&gt;
 
-&lt;p&gt;Ca a parlé ensuite pas mal de “se focuser”, “user experience”, “user centric”… Beaucoup de vocables anglo ou franglo-saxons (c’est le domaine qui veut ça, hein), et notamment des mots que j’avais ces derniers temps principalement vu utilisés pour camoufler des concepts fumeux, et faire passer des idées remplies de vent pour des projets innovants. Je découvre donc que ces mots sont aussi utilisés sans chichi dans la communauté open source. Mes repères anti-bullshit s’effondrent.&lt;/p&gt;
+&lt;p&gt;La façon dont ils parlent des utilisateurs me donne envie de continuer à développer sur des outils et écrans un peu pourris, basiques, pas rétina pour un sou. Une façon de ne pas trop m’éloigner des conditions matérielles du type de personne pour/avec lesquelles j’ai envie de bosser.&lt;/p&gt;
 
-&lt;p&gt;En fin d’intervention, un retour sur la distinction entre ergonomie et design : tout le monde pouvant contribuer à la première et donner des conseils pour l’améliorer, le design devant rester entre les mains du designer. Malgré tout, rien n’oblige à suivre strictement les conseils et avis des utilisateurs, et l’intuition reste primordiale (suivant la logique d’un Henri Ford qui aurait dit : &lt;em&gt;“Si j’avais demandé aux gens ce qu’ils voulaient, ils auraient répondu des chevaux plus rapides.”&lt;/em&gt;).&lt;/p&gt;
+&lt;p&gt;Ca a parlé ensuite pas mal de “se focuser”, “user experience”, “user centric”… Beaucoup de vocables anglo ou franglo-saxons (c’est le domaine qui veut ça, hein), et notamment des mots que j’avais ces derniers temps principalement vu utilisés pour camoufler des concepts fumeux, et faire passer des idées remplies de vent pour des projets innovants. Je découvre donc que ces mots sont aussi utilisés sans chichi dans la communauté open source. &lt;strong&gt;Mes repères anti-bullshit s’effondrent.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;En fin d’intervention, un retour sur la &lt;strong&gt;distinction entre ergonomie et design&lt;/strong&gt; : tout le monde pouvant contribuer à la première et donner des conseils pour l’améliorer, le design devant rester entre les mains du designer. Malgré tout, rien n’oblige à suivre strictement les conseils et avis des utilisateurs, et l’intuition reste primordiale (suivant la logique d’un Henri Ford qui aurait dit : &lt;em&gt;“Si j’avais demandé aux gens ce qu’ils voulaient, ils auraient répondu des chevaux plus rapides.”&lt;/em&gt;).&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;“On a besoin de la contribution des utilisateurs, mais notre devoir est de les inspirer à aller plus loin”&lt;/p&gt;
@@ -607,66 +596,67 @@ grâce à @bortzmeyer , et même si y&#39;a tjs des choses qui m&#39;échappent 
 
 &lt;p&gt;A la relecture de mes notes, je me demande : les intervenants ont surtout, il me semble, pointé pour expliquer le retard de l’open source en matière de design, un problème d’ordre “culturel” ( l’“égo-sexualité” ;) ). Ce problème n’est-il propre qu’au milieu open source ? Je dirais que non. N’y a-t-il pas aussi un problème de moyens (les études publics demandent du temps et/ou de l’argent) ?&lt;/p&gt;
 
-&lt;p&gt;Et pour retrouver les slides, c’est ici : &lt;a href=&quot;http://talks.m4dz.net/open-source-ux/#1&quot;&gt;Les slides&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Et pour retrouver les slides, &lt;a href=&quot;http://talks.m4dz.net/open-source-ux/#1&quot;&gt;c’est ici&lt;/a&gt;.&lt;/p&gt;
 
-&lt;h3 id=&quot;un-peu-de-design-tangible-libre&quot;&gt;Un peu de design tangible libre&lt;/h3&gt;
+&lt;h2 id=&quot;un-peu-de-design-tangible-libre&quot;&gt;Un peu de design tangible libre&lt;/h2&gt;
 
-&lt;p&gt;&lt;strong&gt;Vers un design libre&lt;/strong&gt;
-&lt;em&gt;Christophe André&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Vers un design libre&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Christophe André&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;L’association &lt;a href=&quot;https://www.asso-entropie.fr/fr/&quot;&gt;Entropie&lt;/a&gt; promeut le &lt;strong&gt;design libre&lt;/strong&gt; : ils créent des productions originales dont ils proposent ensuite les plans et notices librement, afin que tout un chacun puisse les reproduire. Par exemple, ils proposent sur leur site al notice d’une &lt;a href=&quot;https://www.asso-entropie.fr/fr/design-libre/notices/carriole-serigraphier/&quot;&gt;cariole à sérigraphier&lt;/a&gt; (ajout n°67 à ma liste de “projets qui ont l’air trop cool que je ferai quand je prendrai le temps”)&lt;/p&gt;
 
-&lt;p&gt;Pour parler de design libre, Christophe André parle de ses destinataires, qui sont voués à être ses producteurs. : le “prosommateur”. Prosommater (?), c’est s’impliquer dans la production de l’objet qu’on veut utiliser. Il cite l’exemple d’une amap où il est possible de “régler” les paniers soit en temps de travail, soit en monnaie sonnante et trébuchante.&lt;/p&gt;
+&lt;p&gt;Pour parler de design libre, Christophe André parle de ses destinataires, qui sont voués à être ses producteurs. : le &lt;strong&gt;“prosommateur”&lt;/strong&gt;. Prosommater (?), c’est s’impliquer dans la production de l’objet qu’on veut utiliser. Il cite l’exemple d’une amap où il est possible de “régler” les paniers soit en temps de travail, soit en monnaie sonnante et trébuchante.&lt;/p&gt;
 
 &lt;p&gt;Ce qui m’intriguait le plus ici (ce qui m’intrigue en fait de base dans l’open source “et son monde”) est le modèle économique : comment se finance ce type de projet où la production intellectuelle est “donnée” ?&lt;/p&gt;
 
-&lt;p&gt;Ici, c’est en définitive le temps de Recherche et Développement qui est financé. Des personnes ou associations ayant des besoins spécifiques sollicitent l’association pour qu’elle produise un outil adapté ; la libération des sources une fois la tâche réalisée fait partie du contrat. Entropie part exclusivement des besoins exprimés, ils ne produisent pas de prototypes par avance en espérant qu’il rencontre une demande.&lt;/p&gt;
+&lt;p&gt;Ici, c’est en définitive &lt;strong&gt;le temps de Recherche et Développement qui est financé&lt;/strong&gt;. Des personnes ou associations ayant des besoins spécifiques sollicitent l’association pour qu’elle produise un outil adapté ; la libération des sources une fois la tâche réalisée fait partie du contrat. Entropie part exclusivement des besoins exprimés, ils ne produisent pas de prototypes par avance en espérant qu’il rencontre une demande.&lt;/p&gt;
 
 &lt;p&gt;Parmi les projets similaires cités : &lt;a href=&quot;http://www.latelierpaysan.org/&quot;&gt;l’atelier paysan&lt;/a&gt; à Grenoble, qui aide les paysans à produire leur propre outillage (note à moi-même : prendre le temps d’interroger leur modèle éco).&lt;/p&gt;
 
 &lt;p&gt;Petit moment de pause, je descends au village associatif et en profite pour louper intégralement sans m’en rendre compte l’intervention sur les cafés vie privée.&lt;/p&gt;
 
-&lt;p&gt;A la place, je traîne au village associatif et discute avec…&lt;/p&gt;
+&lt;p&gt;A la place, je traîne et discute avec…&lt;/p&gt;
 
-&lt;h3 id=&quot;pseshsf-debout--le-syndicat-dinitiatives&quot;&gt;PSES+HSF Debout ! Le Syndicat d’Initiatives&lt;/h3&gt;
+&lt;h2 id=&quot;pseshsf-debout--le-syndicat-dinitiatives&quot;&gt;PSES+HSF Debout ! Le Syndicat d’Initiatives&lt;/h2&gt;
 
 &lt;p&gt;Discussions sur le syndicalisme en milieu tech, et les moyens de travailler sur des projets militants et en vivre. Cette question se résume aussi à “Où est le fric ?”, et c’est une nouvelle fois la solution de partager son temps entre projets rémunérateurs pour des grands comptes, qui payent le temps passé à bosser sur des projets engagés sans moyens.&lt;/p&gt;
 
-&lt;h3 id=&quot;ffdn&quot;&gt;FFDN&lt;/h3&gt;
+&lt;h2 id=&quot;ffdn&quot;&gt;FFDN&lt;/h2&gt;
 
 &lt;p&gt;La présence de la FFDN (fédération qui regroupe les Fournisseurs d’Accès à Internet associatifs) me permet d’identifier mon FAI associatif de référence suite à mon passage du Rhône au Vosges. J’ai donc quitté Illyse pour trouver &lt;a href=&quot;https://ldn-fai.net/&quot;&gt;Lorraine Data Network&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;C’est l’occasion aussi de découvrir l’un des derniers projets de la FFDN : la &lt;a href=&quot;https://labriqueinter.net/&quot;&gt;Brique internet&lt;/a&gt;, avec du &lt;a href=&quot;https://yunohost.org&quot;&gt;YunoHost&lt;/a&gt; dedans. Deuxième fois que j’entends parler de YunoHost en peu de temps, le projet monte dans ma liste des trucs à tester.&lt;/p&gt;
 
-&lt;h3 id=&quot;communiquer-de-faon-complexe-avec-son-chauffage&quot;&gt;Communiquer de façon complexe avec son chauffage&lt;/h3&gt;
+&lt;h2 id=&quot;communiquer-de-faon-complexe-avec-son-chauffage&quot;&gt;Communiquer de façon complexe avec son chauffage&lt;/h2&gt;
 
 &lt;p&gt;&lt;strong&gt;Vers un web décentralisé ?&lt;/strong&gt;
 &lt;em&gt;Pierre-Louis&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;La première conférence à laquelle j’ai vraiment pas panné grand chose (à part que l’orateur a mené une expérience de contrôle de son chauffage via wifi, et que ça fonctionnait bien et c’était chouette, “jusqu’au moment où j’ai plus eu internet et j’ai eu froid”).&lt;/p&gt;
+&lt;p&gt;La première conférence à laquelle j’ai vraiment pas panné grand chose (à part que l’orateur a mené une expérience de contrôle de son chauffage via wifi, et que ça fonctionnait bien et c’était chouette, &lt;em&gt;“jusqu’au moment où j’ai plus eu internet et j’ai eu froid”&lt;/em&gt;).&lt;/p&gt;
 
-&lt;p&gt;Définitivement, faut que je gagne des points d’administration système. Parmi les infos que j’ai retenu, en vrac :&lt;/p&gt;
+&lt;p&gt;Définitivement, il faut encore que je gagne des points d’administration système.&lt;/p&gt;
 
-&lt;p&gt;Pourquoi fait-on principalement des services centralisés ? Parce que c’est faciiiiiiile, pas trop cher, etc.&lt;/p&gt;
+&lt;p&gt;Parmi les infos que j’ai retenu, en vrac :&lt;/p&gt;
 
-&lt;p&gt;Les dht (decentralized hash table), c’est bien.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Pourquoi fait-on principalement des services centralisés ? Parce que c’est faciiiiiiile, pas trop cher, etc.&lt;/li&gt;
+  &lt;li&gt;Les dht (decentralized hash table), c’est bien.&lt;/li&gt;
+  &lt;li&gt;BitTorrent passe maintenant par MainlineDHT, pour éviter la centralisation des trackers.&lt;/li&gt;
+  &lt;li&gt;Zeronet est un mix de BitTorrent et de bitcoin.&lt;/li&gt;
+  &lt;li&gt;WebRTC, c’est bien aussi.&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;BitTorrent passe maintenant par MainlineDHT, pour éviter la centralisation des trackers.&lt;/p&gt;
-
-&lt;p&gt;Zeronet est un mix de BitTorrent et de bitcoin.&lt;/p&gt;
-
-&lt;p&gt;WebRTC, c’est bien aussi.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Pour lire la suite, &lt;a href=&quot;/2016-07-03-pseshsf-2016-02&quot;&gt;c’est là que ça se passe&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Pour lire la suite, &lt;a href=&quot;/marges/binary_transition/2016/07/14/pseshsf-2016-02.html&quot;&gt;c’est là que ça se passe&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 
 </description>
-        <pubDate>Sun, 03 Jul 2016 00:00:00 +0200</pubDate>
-        <link>https://clairezed.github.io/marges/binary_transition/2016/07/03/pseshsf-2016-01.html</link>
-        <guid isPermaLink="true">https://clairezed.github.io/marges/binary_transition/2016/07/03/pseshsf-2016-01.html</guid>
+        <pubDate>Thu, 14 Jul 2016 00:00:00 +0200</pubDate>
+        <link>https://clairezed.github.io/marges/binary_transition/2016/07/14/pseshsf-2016-01.html</link>
+        <guid isPermaLink="true">https://clairezed.github.io/marges/binary_transition/2016/07/14/pseshsf-2016-01.html</guid>
         
-        <category>ess</category>
+        <category>hacking</category>
         
-        <category>public</category>
+        <category>politique</category>
         
         
         <category>binary_transition</category>
@@ -674,24 +664,113 @@ grâce à @bortzmeyer , et même si y&#39;a tjs des choses qui m&#39;échappent 
       </item>
     
       <item>
-        <title>Repolitiser un contrat social satiné de numérique</title>
-        <description>&lt;p&gt;L’entreprenariat numérique n’est pas un doudou miracle pour gouvernants en mal de projet politique.&lt;/p&gt;
+        <title>On a tinderisé les palettes de couleurs</title>
+        <description>&lt;p&gt;Découverte via &lt;a href=&quot;http://sidebar.io/&quot;&gt;Sidebar&lt;/a&gt; d’une -encore- nouvelle application pour créer des palettes de couleurs, &lt;a href=&quot;http://www.palettable.io&quot;&gt;Palettable&lt;/a&gt;.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Mais celle-ci, je me la garde sur le coude car :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;la sélection de la prochaine nuance sur le mode “j’aime / j’aime pas” fonctionne au final vraiment pas mal&lt;/li&gt;
+  &lt;li&gt;les concepteurs promettent que leurs algorithmes grantissent une alliance des couleurs raisonnée.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;(en plus, leur &lt;a href=&quot;https://github.com/alecortega/palettable&quot;&gt;code est en ligne&lt;/a&gt; et leur démarche conceptuelle et technique bien documentée)&lt;/p&gt;
+
+&lt;p&gt;Source : &lt;a href=&quot;http://www.palettable.io&quot;&gt;Palettable&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 13 Jul 2016 00:00:00 +0200</pubDate>
+        <link>https://clairezed.github.io/marges/sustainable_code/2016/07/13/palettable.html</link>
+        <guid isPermaLink="true">https://clairezed.github.io/marges/sustainable_code/2016/07/13/palettable.html</guid>
+        
+        <category>toolkit</category>
+        
+        <category>design</category>
+        
+        <category>color</category>
+        
+        
+        <category>sustainable_code</category>
+        
+      </item>
+    
+      <item>
+        <title>Comment faire des choses entre gens débordés ?</title>
+        <description>&lt;p&gt;Jean-Michel Cornu propose le guide &lt;a href=&quot;https://docs.google.com/document/d/1A5Ep7s2yAHLi3DxPANKpGTbeZctwRvDPYpK9KDsH_EI&quot;&gt;“Une heure par semaine pour animer une grande communauté”&lt;/a&gt;, soit comme il le dit &lt;strong&gt;&lt;em&gt;” animer un ensemble de personnes qui n’ont pas le temps… avec des personnes qui n’ont pas le temps”&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;L’ouvrage me botte particulièrement pour ce que j’espère y trouver :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;identifier les défis et obstacles pour faire des choses à plusieurs&lt;/strong&gt;, et comment les dépasser. Hyper utile pour les personnes qui veulent des choses avec des gens, sans complètement s’épuiser pour un résultat non garanti,&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;identifier les outils existants, ou manquants&lt;/strong&gt;, pour pouvoir faire des propositions techniques de support à des projets ou des communautés, faciliter le développement de projets collectifs et collaboratifs.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Je me garde la lecture sous le coude,  peut etre une note de lecture + tard ?&lt;/p&gt;
+
+&lt;p&gt;Source : &lt;a href=&quot;https://docs.google.com/document/d/1A5Ep7s2yAHLi3DxPANKpGTbeZctwRvDPYpK9KDsH_EI&quot;&gt;Une heure par semaine pour animer une grande communauté&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 09 Jul 2016 00:00:00 +0200</pubDate>
+        <link>https://clairezed.github.io/marges/binary_transition/2016/07/09/animation-communaute.html</link>
+        <guid isPermaLink="true">https://clairezed.github.io/marges/binary_transition/2016/07/09/animation-communaute.html</guid>
+        
+        <category>a lire</category>
+        
+        <category>faire a plusieurs</category>
+        
+        
+        <category>binary_transition</category>
+        
+      </item>
+    
+      <item>
+        <title>Y&#39;a quoi dans ce site ?</title>
+        <description>&lt;p&gt;Ca faisait quelques temps que je cherchais un moyen de déterminer quels étaient les composants, la “stack” des sites cools que je pouvais croiser (car l’inspection du code en console est quand même limitée).&lt;/p&gt;
+
+&lt;p&gt;C’est chose faite avec &lt;a href=&quot;https://wappalyzer.com/applications&quot;&gt;wappalyzer&lt;/a&gt;, outil que je découvre depuis quelques jours !
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;p&gt;L’analyzer n’arrive pas à resortir systématiquement tous les composants, mais c’est déjà une bonne base.&lt;/p&gt;
+
+&lt;p&gt;(Existe aussi en format extension &lt;a href=&quot;https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg&quot;&gt;chrome&lt;/a&gt; ou &lt;a href=&quot;https://addons.mozilla.org/fr/firefox/addon/wappalyzer/&quot;&gt;firefox&lt;/a&gt;)&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 08 Jul 2016 00:00:00 +0200</pubDate>
+        <link>https://clairezed.github.io/marges/sustainable_code/2016/07/08/wappalizer.html</link>
+        <guid isPermaLink="true">https://clairezed.github.io/marges/sustainable_code/2016/07/08/wappalizer.html</guid>
+        
+        <category>toolkit</category>
+        
+        
+        <category>sustainable_code</category>
+        
+      </item>
+    
+      <item>
+        <title>Repolitiser un contrat social mâtiné de numérique</title>
+        <description>&lt;p&gt;L’entrepreneuriat numérique n’est pas un doudou miracle pour gouvernants en mal de projet politique.&lt;/p&gt;
+
+&lt;!--more--&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;Ces missions, [“création d’emplois, adaptation des acteurs traditionnels, croissance, redistribution de la valeur, création de nouveaux modèles socio-économiques, inclusion sociale”] que les gouvernants ne sont plus capables de mener à bien, ne trouveront pas une solution magique à coup de baguette numérique. Elle requièrent au contraire la construction d’une vision politique totale qui ne se réduise pas à une fétichisation de la technologie et de la figure de l’entrepreneur.&lt;/p&gt;
+  &lt;p&gt;Ces missions, [NdA : création d’emplois, adaptation des acteurs traditionnels, croissance, redistribution de la valeur, création de nouveaux modèles socio-économiques, inclusion sociale] que les gouvernants ne sont plus capables de mener à bien, ne trouveront pas une solution magique à coup de baguette numérique. Elles requièrent au contraire la construction d’une vision politique totale qui ne se réduise pas à une fétichisation de la technologie et de la figure de l’entrepreneur.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;Un article un brin brouillon de Diana Filippova (Ouishare, Microsoft) plaidant pour une refondation du contrat social. Il a le mérite d’exprimer des constats que je partage globalement, même si je ne suis pas sûre de saisir complètement (et donc de valider) les conditions énoncées pour permettre cette refondation :&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;em&gt;“la mise en place de structures et d’organisations qui intègrent en leur sein les objectifs d’inclusion, d’éthique et de progrès social sont indispensables pour mettre fin à une transformation à deux vitesses.”&lt;/em&gt; Oui, effectivement, mais qui fixe ces objectifs de biens communs ? Comment éviter ce qui peut n’être que du “green washing” ou du “social washing” ?&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;“la mise en place d’une organisation du travail adaptée aux mutations en cours doit être au coeur de la refonte du contrat social.”&lt;/em&gt; Là aussi, plutôt d’accord, mais des réflexions plus poussées sont indispensables : le revenu de base, par exemple, suivant la façon dont il est mis en oeuvre, peut être tout autant le socle d’une revalorisation des activités humaines hors emploi et d’une redistribution plus juste, qu’un instrument d’asservissement et de paupérisation new age.&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;“la transformation radicale de l’action publique, des institutions démocratiques et de la place de la société civile”&lt;/em&gt; : là aussi, c’est suffisamment vague pour plutôt susciter l’assentiment, mais suivant ce qui est concrètement mis en oeuvre, ça peut quand même virer beau piège à cons.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;“la mise en place de &lt;strong&gt;structures et d’organisations qui intègrent en leur sein les objectifs d’inclusion, d’éthique et de progrès social&lt;/strong&gt; sont indispensables pour mettre fin à une transformation à deux vitesses.”&lt;/em&gt; Oui, effectivement, mais qui fixe ces objectifs de biens communs ? Comment éviter ce qui peut n’être que du “green washing” ou du “social washing” ?&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;“la mise en place d’une &lt;strong&gt;organisation du travail adaptée aux mutations en cours&lt;/strong&gt; doit être au coeur de la refonte du contrat social.”&lt;/em&gt; Là aussi, plutôt d’accord, mais des réflexions plus poussées sont indispensables : le revenu de base, par exemple, suivant la façon dont il est mis en oeuvre, peut être tout autant le socle d’une revalorisation des activités humaines hors emploi et d’une redistribution plus juste, qu’un instrument d’asservissement et de paupérisation new age.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;“la transformation radicale de l’action publique, des institutions démocratiques et de la &lt;strong&gt;place de la société civile&lt;/strong&gt;”&lt;/em&gt; : là aussi, c’est suffisamment vague pour plutôt susciter l’assentiment, mais suivant ce qui est concrètement mis en oeuvre, ça peut quand même virer beau piège à cons.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Bref, je sors de cette lecture avec un lot de mes questionnements actuels réactivés, et sans véritable piste de réponse. Un peu frustrant.&lt;/p&gt;
+&lt;p&gt;Bref, je sors de cette lecture avec la réactivation de mes questionnements actuels, mais sans véritable piste de réponse. Un peu frustrant.&lt;/p&gt;
 
-&lt;p&gt;Découverte intéressante : la &lt;strong&gt;certification B corp&lt;/strong&gt; (&lt;a href=&quot;http://www.youphil.com/fr/article/07848-b-corps-label-entreprises-unilever?ypcli=ano&quot;&gt;article en français en parlant plus&lt;/a&gt;) qui labellise les entreprises répondant à une grille de critères environnementaux et sociaux.&lt;/p&gt;
+&lt;p&gt;Découverte intéressante faite à la lecture : la &lt;strong&gt;certification B corp&lt;/strong&gt; (&lt;a href=&quot;http://www.youphil.com/fr/article/07848-b-corps-label-entreprises-unilever?ypcli=ano&quot;&gt;article en français en parlant plus&lt;/a&gt;) qui labellise les entreprises répondant à une grille de critères environnementaux et sociaux.&lt;/p&gt;
 
 &lt;p&gt;Source : &lt;a href=&quot;http://www.huffingtonpost.fr/diana-filippova/la-politisation-de-la-que_b_10707504.html&quot;&gt;La politisation de la question technologique, condition d’un nouveau contrat social&lt;/a&gt;&lt;/p&gt;
 
@@ -700,9 +779,11 @@ grâce à @bortzmeyer , et même si y&#39;a tjs des choses qui m&#39;échappent 
         <link>https://clairezed.github.io/marges/binary_transition/2016/06/28/techno-fetiche.html</link>
         <guid isPermaLink="true">https://clairezed.github.io/marges/binary_transition/2016/06/28/techno-fetiche.html</guid>
         
-        <category>ess</category>
+        <category>washing</category>
         
-        <category>public</category>
+        <category>politique</category>
+        
+        <category>start up</category>
         
         
         <category>binary_transition</category>
@@ -711,9 +792,11 @@ grâce à @bortzmeyer , et même si y&#39;a tjs des choses qui m&#39;échappent 
     
       <item>
         <title>Siffloter en travaillant ? </title>
-        <description>&lt;p&gt;Le pdg d’une boîte informatique du Michigan a planché sur différents moyens de rendre ses salariés heureux (en partant du principe que “qui dit content, dit plus créatifs et plus productifs”).&lt;/p&gt;
+        <description>&lt;p&gt;Le pdg d’une boîte informatique du Michigan a planché sur différents moyens de rendre ses salariés heureux (en partant du principe que “qui dit content, dit plus créatifs et plus productifs”, ce n’est pas juste pour la beauté du geste).&lt;/p&gt;
 
-&lt;p&gt;Quelques uns de leurs modes de fonctionnement, comme autant de trucs et astuces à garder sous le coude (sait-on jamais que ça puisse servir même en solo ? ) :&lt;/p&gt;
+&lt;!--more--&gt;
+
+&lt;p&gt;Voici quelques uns de leurs modes de fonctionnement, comme autant de trucs et astuces à garder sous le coude (sait-on jamais que ça puisse servir à l’avenir) :&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;em&gt;“Les développeurs travaillent tous en binôme. Chaque semaine, les binômes changent. Et toute la semaine, les développeurs partagent un ordinateur pour deux.”&lt;/em&gt;&lt;/li&gt;
@@ -742,22 +825,24 @@ grâce à @bortzmeyer , et même si y&#39;a tjs des choses qui m&#39;échappent 
         <title>Nous sommes tous des dealers de numérique</title>
         <description>&lt;p&gt;Rue89 pointe 10 stratégies mises en place par les professionnels du web pour créer et perpétuer l’addiction à leur produit. Ce sont les types de mécanismes qu’il m’arrive moi-même de mettre en place, comme bien d’autres de mes collègues (parfois à nos corps défendant). Et je les exècre d’autant plus que j’en suis bien évidemment moi-même victime.&lt;/p&gt;
 
+&lt;!--more--&gt;
+
 &lt;p&gt;Rappel succint de ces mécanismes, histoire de faciliter notre vigilance à leur égard :&lt;/p&gt;
 
 &lt;ol&gt;
-  &lt;li&gt;Orienter nos choix, en mettant ou ne mettant pas certaines possibilités dans la liste des options possibles,&lt;/li&gt;
-  &lt;li&gt;Jouer sur l’effet jackpot nous amenant à rafraichir constamment les pages (&lt;em&gt;“gagnera ou gagnera pas de nouvelles notifications ? “&lt;/em&gt;),&lt;/li&gt;
-  &lt;li&gt;La peur de rater quelque chose,&lt;/li&gt;
-  &lt;li&gt;Renforcer la mécanique de l’approbation sociale (en incitant à tagguer les photos, par exemple),&lt;/li&gt;
-  &lt;li&gt;Inciter à la réciprocité sociale (je te follow, tu me follow back, du coup on est de retour tous les deux sur le site),&lt;/li&gt;
-  &lt;li&gt;Ne jamais arrêter le flux de contenu (principe du scroll infini, des videos qui s’enchainent…),&lt;/li&gt;
-  &lt;li&gt;Interrompre constamment pour ramener vers l’application (notifications push)&lt;/li&gt;
-  &lt;li&gt;Obliger à faire des détours pour accéder à ce qu’on veut (comme le cheminement dans ikea alors qu’on veut juste acheter un pot pour brosses à dents dans la boutique au fond),&lt;/li&gt;
-  &lt;li&gt;Rendre compliquée la désinscription du service (enfin, “service”… On se comprend, quoi),&lt;/li&gt;
-  &lt;li&gt;Faire croire qu’une manipulation ne prendra pas de temps (cliquer sur une note, etre redirigé vers 3 pages de questionnaire).&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Orienter nos choix&lt;/strong&gt;, en mettant ou ne mettant pas certaines possibilités dans la liste des options possibles,&lt;/li&gt;
+  &lt;li&gt;Jouer sur l’&lt;strong&gt;effet jackpot&lt;/strong&gt; nous amenant à rafraichir constamment les pages (&lt;em&gt;“gagnera ou gagnera pas de nouvelles notifications ? “&lt;/em&gt;),&lt;/li&gt;
+  &lt;li&gt;La &lt;strong&gt;peur de rater quelque chose&lt;/strong&gt;,&lt;/li&gt;
+  &lt;li&gt;Renforcer la &lt;strong&gt;mécanique de l’approbation sociale&lt;/strong&gt; (en incitant à tagguer les photos, par exemple),&lt;/li&gt;
+  &lt;li&gt;Inciter à la &lt;strong&gt;réciprocité sociale&lt;/strong&gt; (je te follow, tu me follow back, du coup on est de retour tous les deux sur le site),&lt;/li&gt;
+  &lt;li&gt;Ne jamais arrêter le &lt;strong&gt;flux de contenu&lt;/strong&gt; (principe du scroll infini, des videos qui s’enchainent…),&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Interrompre constamment&lt;/strong&gt; pour ramener vers l’application (notifications push)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Obliger à faire des détours&lt;/strong&gt; pour accéder à ce qu’on veut (comme le cheminement dans ikea alors qu’on veut juste acheter un pot pour brosses à dents dans la boutique au fond),&lt;/li&gt;
+  &lt;li&gt;Rendre &lt;strong&gt;compliquée la désinscription&lt;/strong&gt; du service (enfin, “service”… On se comprend, quoi),&lt;/li&gt;
+  &lt;li&gt;Faire croire qu’une manipulation &lt;strong&gt;ne prendra pas de temps&lt;/strong&gt; (cliquer sur une note, etre redirigé vers 3 pages de questionnaire).&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;Et je me prends à rêver, à l’instar d’un (lien article) qui veut créer des applications qui fassent regagner du temps à ses utilisateurs plutôt que de leur en faire perdre, de plancher sur des outils qui redonnent du pouvoir et qui libèrent.&lt;/p&gt;
+&lt;p&gt;Et je me prends à rêver, à l’instar de &lt;a href=&quot;http://rue89.nouvelobs.com/2016/06/04/tristan-harris-millions-dheures-sont-juste-volees-a-vie-gens-264251&quot;&gt;Tristan Harris&lt;/a&gt;, ex-ingénieur de google qui veut créer des applications qui fassent regagner du temps à ses utilisateurs plutôt que de leur en faire perdre, de plancher sur des outils qui redonnent du pouvoir et qui libèrent.&lt;/p&gt;
 
 &lt;p&gt;Mais c’est quoi, le modèle économique d’un outil qui a notamment pour objectif d’être le moins possible utilisé ?&lt;/p&gt;
 
@@ -768,7 +853,7 @@ grâce à @bortzmeyer , et même si y&#39;a tjs des choses qui m&#39;échappent 
         <link>https://clairezed.github.io/marges/sustainable_code/2016/06/17/notre-responsabilite-dans-l-adictivite.html</link>
         <guid isPermaLink="true">https://clairezed.github.io/marges/sustainable_code/2016/06/17/notre-responsabilite-dans-l-adictivite.html</guid>
         
-        <category>utopie</category>
+        <category>dont be evil</category>
         
         
         <category>sustainable_code</category>
@@ -777,15 +862,20 @@ grâce à @bortzmeyer , et même si y&#39;a tjs des choses qui m&#39;échappent 
     
       <item>
         <title>Socialiser le numérique ?</title>
-        <description>&lt;p&gt;Jean-Philippe Courtois, notamment président de Microsoft International parle de la pénétration des outils numériques dans l’Economie Sociale et Solidaire pour faire la promotion d’un programme destiné -quelle surprise- à lacher dans un écosystème qui n’en demandait pas tant une nouvelle poignée de start up à connotation sociale.&lt;/p&gt;
+        <description>&lt;p&gt;Jean-Philippe Courtois, notamment président de Microsoft International, parle de la pénétration des outils numériques dans l’Economie Sociale et Solidaire pour faire la promotion d’un programme destiné -quelle surprise- à lacher dans un écosystème qui n’en demandait pas tant une nouvelle poignée de start up à connotation sociale.&lt;/p&gt;
 
-&lt;p&gt;Son analyse d’introduction est que le numérique tarde à irriguer l’ESS pour les raisons suivantes :
-- une question de génération : un pan de l’ESS, “old school”, n’est pas acculturée au numérique (à contrario des nouvelles générations type Ticket for Change, MakeSense ou OuiShare).
-- il y a encore trop peu de développeurs à fricoter avec ce secteur.&lt;/p&gt;
+&lt;!--more--&gt;
+
+&lt;p&gt;Son analyse d’introduction est que le numérique tarde à irriguer l’ESS pour les raisons suivantes :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;une question de génération&lt;/strong&gt; : un pan de l’ESS, “old school”, n’est pas acculturée au numérique (à contrario des nouvelles générations type Ticket for Change, MakeSense ou OuiShare).&lt;/li&gt;
+  &lt;li&gt;il y a encore &lt;strong&gt;trop peu de développeurs&lt;/strong&gt; à fricoter avec ce secteur.&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;Sa proposition est donc, non pas d’accompagner et fortifier les structures existantes et militantes, mais de planter des jeunes pousses avec de l’engrais entrepreneurial à base de business plan, de mentorat de grosses sociétés (Microsoft, Adecco, Partech Ventures…) qui placeront habilement leurs produits (&lt;em&gt;“Cette plateforme open source sera hébergée sur le cloud Azur.”&lt;/em&gt;).&lt;/p&gt;
 
-&lt;p&gt;Il est possible que de cette démarche émergent de temps à autres des projets intéressants ; on n’est jamais à l’abri d’accidents heureux. Mais encore une fois j’ai l’impression qu’on se préoccupe bien plus d’outiller, d’injecter du numérique et de la culture business à un “social” un peu prétexte, fantasmé et déconnecté; plutot que repenser de façon + sociale et solidaire la culture entrepreneuriale, ou d’outiller les initiatives de terrain.&lt;/p&gt;
+&lt;p&gt;Il est possible que de cette démarche émergent de temps à autres des projets intéressants ; on n’est jamais à l’abri d’accidents heureux. Mais j’ai l’impression qu’encore une fois on se préoccupe d’injecter du numérique et de la culture business à un “social” un peu prétexte, fantasmé et déconnecté plutôt que repenser de façon + sociale et solidaire la culture entrepreneuriale, ou d’outiller les initiatives de terrain.&lt;/p&gt;
 
 &lt;p&gt;Source : &lt;a href=&quot;http://magazine.ouishare.net/fr/2016/05/numeriser-le-social-socialiser-le-numerique-entretien-avec-jean-philippe-courtois/&quot;&gt;Numériser le social, socialiser le numérique - entretien avec Jean-Philippe Courtois&lt;/a&gt;&lt;/p&gt;
 
@@ -797,131 +887,6 @@ grâce à @bortzmeyer , et même si y&#39;a tjs des choses qui m&#39;échappent 
         <category>ess</category>
         
         <category>start up</category>
-        
-        
-        <category>binary_transition</category>
-        
-      </item>
-    
-      <item>
-        <title>avenir solidarités</title>
-        <description>&lt;p&gt;7 familles de l’innovation pour Armelle Coz&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Citoyens autonomes&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Caractéristiques :
-- Pronent l’auto-organisation citoyenne : pas besoin des institutions pour trouver des solutions
-- Penser global, agir local
-- Méfiance / défiance vis a vis des institutions
-- L’action avant tout&lt;/p&gt;
-
-&lt;p&gt;Exemples :
-- Colibris
-- Zèbres
-- asso et ESS
-- alternatiba&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Les révolutionnaires&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Caractéristiques :
-- refusent le fonctionnement du système politique et institutionnel actuel
-- cherchent à déstabiliser ou le “hacker” via élections ou pression populaire
-- veulent une autre constitution, id est d’autres règles du jeu&lt;/p&gt;
-
-&lt;p&gt;Exemples :
-- nuit debout
-- les primaires citoyennes
-- les citoyens constituants
-- ma voix&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Les formateurs&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Caractéristiques :
-- forment les citoyens
-- diffusent une culture collaborative, ouverte, pédagogique, basée sur l’épanuissement personnel, l’autonomie et la responsabilité
-- issus de l’éduc pop, du théatre, des pédagogies alternatives, du numérique&lt;/p&gt;
-
-&lt;p&gt;Exemples :
-- université du Nous
-- Accropolis / youtubers (pédagogie vidéo)
-- scop d’educ pop (le pavé)
-- coopcité / lieux et parcours (SuperPublic, CivicHall, Liberté Living Lab, Maison du Citoyen…)
-- Voxe.org (comparateur de programme)&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Les transformateurs&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Caractéristiques :
-- veulent changer le systme de l’intérieur
-- travaillent auprès des institutions et des décideurs
-- formation, changement de méthodes, de modes d’organisation et de postures
-- accompagnement du changement&lt;/p&gt;
-
-&lt;p&gt;Exemples :
-- Elus, agente et territoires précursuers : territoires hautement citoyens, saillans…
-- 27e région (labo d’innovation publique)&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Démocratie participative&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Caractéristiques :
-- origine institutionnelle (à l’initiative des collectivités ou d’administrations)
-- &amp;lt;parfois perçue comme de la simple communication edscendante, parfois efficace et innovante
-- souvent laborieuse&lt;/p&gt;
-
-&lt;p&gt;Exemples :
-- CNDP (consultations réglementaires, avis consultatifs)
-- instances locales, conseils de quartier&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Les civic tech (les geeks)&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Caractéristiques :
-- construisent des outils numériques (plateformes, sites, appli, réseaux sociaux)
-- cherchent ergonomie, accessibilité, simplicité mais parfois taxés de gadgets
-- annoncent qu’ils vont révolutionner la politique en lui appliquant les logiques pair à pair / réseau&lt;/p&gt;
-
-&lt;p&gt;Exemples :
-- &lt;strong&gt;transparence et ouverture des données publiques&lt;/strong&gt; : data.gouv.fr, OpenDataSoft
-- &lt;strong&gt;contr^ole de l’action publique&lt;/strong&gt; : nosDéputés.fr, la fabrique de la loi
-- &lt;strong&gt;campagnes électorales et vote&lt;/strong&gt; : voxe.org, DigitaleBox, LMP, Belem
-- &lt;strong&gt;interpellation et dialogue entre élus et citoyens&lt;/strong&gt; : Questionnez vos élus, change.org, we sign it, fluicity, Gov, PopVox, TellMyCity
-- &lt;strong&gt;plateformes participatives&lt;/strong&gt; : parlement et citoyens, democracy os, assembl
-- &lt;strong&gt;encouragement au bénévolat&lt;/strong&gt; : Fullmobs, bénévoles at home, communecter
-- &lt;strong&gt;plateformes de mise en relation&lt;/strong&gt; : singa, comme à la maison, voisin-age
-- &lt;strong&gt;financement participatif&lt;/strong&gt; : bulb in town, kisskissbankbank, helloAsso, microDon
-- &lt;strong&gt;science collaborative&lt;/strong&gt; : seintinelles
-- avaaz, , civocracy, le drenche, open dialog, , baztille, loomio, , stig&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Les fédérateurs&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Caractéristiques :
-- chaerchant à fédérer les initiatives qui poussent à + et mieux de démocratie
-- organisent événements, rencontres, débats
-- acculturent acteurs et décideurs&lt;/p&gt;
-
-&lt;p&gt;Exemples :
-- démocratie ouverte, institut de la concertation, Unadel, GNIAC, synergies démocratiques, pouvoir citoyen en marche&lt;/p&gt;
-
-&lt;p&gt;Source : &lt;a href=&quot;https://prezi.com/siukx_zakf-4/les-7-familles-de-linnovation-democratique/?utm_campaign=share&amp;amp;utm_medium=copy&quot;&gt;Des actions complémentaires pour “hacker” la politique&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 31 May 2016 15:35:44 +0200</pubDate>
-        <link>https://clairezed.github.io/marges/binary_transition/2016/05/31/7-familles_innovation.html</link>
-        <guid isPermaLink="true">https://clairezed.github.io/marges/binary_transition/2016/05/31/7-familles_innovation.html</guid>
-        
-        <category>professionnalisation</category>
         
         
         <category>binary_transition</category>
