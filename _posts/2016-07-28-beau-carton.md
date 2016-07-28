@@ -19,3 +19,4 @@ Ca me fait donc plaisir de pouvoir en rentendre parler, et surtout de voir quelq
 - [Fiche du B.E.A.U sur Movilab](http://movilab.org/index.php?title=Le_B.E.A.U_:_Bureau_%C3%89ph%C3%A9m%C3%A8re_d%27Activation_Urbaine)
 - [Fiche de la Cartonnerie sur Movilab](http://movilab.org/index.php?title=La_Cartonnerie)
 - [Site web de Carton Plein](http://carton-plein.org/)
+- [Blog de la cartonnerie](https://lacartonnerie.blogspot.fr/)
