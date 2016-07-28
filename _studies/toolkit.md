@@ -45,3 +45,6 @@ Zaclys : comme openmailbox mais mieux
 - yunohost
 - unhosted
 
+## Trucs de grapheux
+
+- http://www.sansfrancis.co/ : A collection of tools to help designers craft delightful experiences.
