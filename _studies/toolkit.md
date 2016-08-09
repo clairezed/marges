@@ -11,8 +11,17 @@ Comment bien commencer un projet ? Quelques outils déjà utilisés ou à tester
 
 <!--more-->
 
+**MICRO SOMMAIRE :**
 
-## Retoucher vite fait une image
+* [Design](#design)
+* [Code](#code)
+* [DevOps](#devops)
+* [Bureautique](#bureautique)
+
+
+## <a name="design"></a> Design
+
+### Retoucher vite fait une image
 
 - [pixlr](https://pixlr.com/)
 - [photopea](https://www.photopea.com/) (à tester)
@@ -21,30 +30,59 @@ Photopea supports layers, layer masks and blend modes, and offers a lot of the t
 
 
 
-## Boilerplates
+### Trucs de grapheux
+
+- http://www.sansfrancis.co/ : A collection of tools to help designers craft delightful experiences.
+
+### Trouver l'inspiration
+
+#### Plutôt web
+
+- [Awwwards](http://www.awwwards.com/)
+- CodPen.io
+- [Webdesign Inspiration](http://www.webdesign-inspiration.com/)
+- [site inspire](https://www.siteinspire.com/)
+- [unmatched style](http://unmatchedstyle.com/gallery)
+
+#### Plutôt illu
+
+- [Behance](https://www.behance.net/) ( [categorie web](https://www.behance.net/search?field=102) )
+- [Dribbble](https://dribbble.com/)
+- [Design Inspiration](http://designspiration.net/)
+- [Cargo Collective](http://cargocollective.com/)
+- [Coroflot](http://www.coroflot.com/)
+- [From Up North](http://www.fromupnorth.com/inspiration/)
+- Inspiration Grid
+
+## <a name="code"></a> Code
+
+
+### Boilerplates
 
 * http://megaboilerplate.com/
 * https://github.com/holyjs/holyjs
 
 
-## Mail anonyme
+## <a name="devops"></a> DevOps
 
-- spamgourmet
-- mailinator
-Zaclys : comme openmailbox mais mieux
 
-## Gestion de docs
-
-- seafile
-- owncloud
-- pyd.io
-
-## Hébergement
+### Hébergement
 
 - www.000webhost.com
 - yunohost
 - unhosted
 
-## Trucs de grapheux
 
-- http://www.sansfrancis.co/ : A collection of tools to help designers craft delightful experiences.
+## <a name="bureautique"></a> Bureautique
+
+### Mail anonyme
+
+- spamgourmet
+- mailinator
+Zaclys : comme openmailbox mais mieux
+
+### Gestion de docs
+
+- seafile
+- owncloud
+- pyd.io

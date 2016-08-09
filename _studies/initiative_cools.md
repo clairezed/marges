@@ -90,7 +90,12 @@ Collectif de designers, architectes, sociologues fondé autour des questions soc
 
 Mettre les données ouvertes au service de la société civile et des citoyens.
 
+#### [L'Office](http://loffice.coop/)
 
+l’office est une structure qui accompagne les transitions culturelles, sociales, éducatives et économiques, d’une société “en régime numérique” vers une société “des communs”.
+Nous menons des projets de manière collective (avec des collectivités, structures associatives et/ou indépendantes, usagers et habitants) pour expérimenter et faire ensemble à l’échelle locale.
+
+###### tags: `cool probable` `marseille`
 
 ### <a name="nouveaux-modes-de-travail-développeur-compatibles"></a>Nouveaux modes de travail développeur-compatibles
 
@@ -174,6 +179,8 @@ AlterConf is a traveling conference series that provides safe opportunities for 
 ## <a name="lectures">  Lectures
 
 - Système 1, système 2 - Les deux vitesses de la pensée, Daniel Kahneman
+- http://micropolitiques.collectifs.net/ : MICROPOLITIQUES DES GROUPES
+POUR UNE ÉCOLOGIE DES PRATIQUES COLLECTIVES (version en ligne)
 
 
 <!-- http://livre.fnac.com/a9180576/Scott-Stossel-Anxiete -->
