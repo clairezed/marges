@@ -5,9 +5,56 @@
     <description>joli blog</description>
     <link>https://clairezed.github.io/marges/</link>
     <atom:link href="https://clairezed.github.io/marges/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 28 Jul 2016 14:33:23 +0200</pubDate>
-    <lastBuildDate>Thu, 28 Jul 2016 14:33:23 +0200</lastBuildDate>
+    <pubDate>Tue, 09 Aug 2016 08:33:15 +0200</pubDate>
+    <lastBuildDate>Tue, 09 Aug 2016 08:33:15 +0200</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
+    
+      <item>
+        <title>Radiographie d&#39;un site 1 - Moments d&#39;invention 2016</title>
+        <description>&lt;p&gt;Quand je tombe sur des sites qui donnent une impression un peu “la classe” tout en paraissant d’un niveau technique atteignable, j’aime bien chercher comment il a été fait. Ca me permet de faire une veille dynamique, en condition réelle, en observant les outils qui sont concrètement utilisés et éprouvés.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Alors que je retombe ce soir dans mon vice (“Oh le joli site ! hop, ouverture de la console de mon navigateur, hop, trifouille dans le &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;head&amp;gt;&lt;/code&gt;…), je me dit que je ferais aussi bien de commencer une série de radiographie de sites.&lt;/p&gt;
+
+&lt;h2 id=&quot;radiographie-n1---moments-dinvention-2016&quot;&gt;Radiographie n°1 - Moments d’invention 2016&lt;/h2&gt;
+
+&lt;p&gt;Le site en question : &lt;a href=&quot;http://www.grand-nancy.org/gn/momentsdinvention/intro.php&quot;&gt;Moments d’invention 2016&lt;/a&gt;, un événement qui a l’air assez à la rentrée à Nancy.&lt;/p&gt;
+
+&lt;h3 id=&quot;back&quot;&gt;Back&lt;/h3&gt;
+
+&lt;p&gt;Pas grand chose à sortir sur le back. C’est du PHP, mais wappalizer n’arrive pas à m’en dire plus. Framework fait maison ?&lt;/p&gt;
+
+&lt;h3 id=&quot;front&quot;&gt;Front&lt;/h3&gt;
+
+&lt;p&gt;Là, c’est + intéressant. C’est ici surtout que réside l’effet whaou, et j’ai pu repérer deux ou trois trucs.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Menu principal qui repousse le reste de la page : merci à &lt;a href=&quot;http://tympanus.net/codrops/&quot;&gt;codrops&lt;/a&gt;, fournisseur officel d’effets wahou pour des générations de développeurs (&lt;a href=&quot;http://tympanus.net/Development/OffCanvasMenuEffects/topexpand.html&quot;&gt;lien vers la demo du menu&lt;/a&gt;),&lt;/li&gt;
+  &lt;li&gt;Transition en douceur des pages : &lt;a href=&quot;https://github.com/miguel-perez/smoothState.js&quot;&gt;smoothState.js&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://daneden.github.io/animate.css/&quot;&gt;animate.css&lt;/a&gt;, un grand classique pour l’animation d’éléments !&lt;/li&gt;
+  &lt;li&gt;un helper pour gérer facilement les classes css en js : &lt;a href=&quot;https://github.com/desandro/classie&quot;&gt;classie&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;auteur&quot;&gt;Auteur&lt;/h3&gt;
+
+&lt;p&gt;Pas réussi à trouver de crédits sur le site, si vous savez qui en est à l’origine, ça m’intéresse !&lt;/p&gt;
+
+&lt;p&gt;Source : &lt;a href=&quot;http://www.grand-nancy.org/gn/momentsdinvention/intro.php&quot;&gt;Moment d’invention 2016&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 08 Aug 2016 00:00:00 +0200</pubDate>
+        <link>https://clairezed.github.io/marges/sustainable_code/2016/08/08/radiographie-01.html</link>
+        <guid isPermaLink="true">https://clairezed.github.io/marges/sustainable_code/2016/08/08/radiographie-01.html</guid>
+        
+        <category>radiographie</category>
+        
+        <category>toolkit</category>
+        
+        
+        <category>sustainable_code</category>
+        
+      </item>
     
       <item>
         <title>Remettre la main sur du beau carton</title>
@@ -889,39 +936,6 @@ On compte les voix, et on distribue les awards ce samedi 2 à 19h00 :)&lt;/p&gt;
         
         
         <category>sustainable_code</category>
-        
-      </item>
-    
-      <item>
-        <title>Socialiser le numérique ?</title>
-        <description>&lt;p&gt;Jean-Philippe Courtois, notamment président de Microsoft International, parle de la pénétration des outils numériques dans l’Economie Sociale et Solidaire pour faire la promotion d’un programme destiné -quelle surprise- à lacher dans un écosystème qui n’en demandait pas tant une nouvelle poignée de start up à connotation sociale.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;Son analyse d’introduction est que le numérique tarde à irriguer l’ESS pour les raisons suivantes :&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;une question de génération&lt;/strong&gt; : un pan de l’ESS, “old school”, n’est pas acculturée au numérique (à contrario des nouvelles générations type Ticket for Change, MakeSense ou OuiShare).&lt;/li&gt;
-  &lt;li&gt;il y a encore &lt;strong&gt;trop peu de développeurs&lt;/strong&gt; à fricoter avec ce secteur.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Sa proposition est donc, non pas d’accompagner et fortifier les structures existantes et militantes, mais de planter des jeunes pousses avec de l’engrais entrepreneurial à base de business plan, de mentorat de grosses sociétés (Microsoft, Adecco, Partech Ventures…) qui placeront habilement leurs produits (&lt;em&gt;“Cette plateforme open source sera hébergée sur le cloud Azur.”&lt;/em&gt;).&lt;/p&gt;
-
-&lt;p&gt;Il est possible que de cette démarche émergent de temps à autres des projets intéressants ; on n’est jamais à l’abri d’accidents heureux. Mais j’ai l’impression qu’encore une fois on se préoccupe d’injecter du numérique et de la culture business à un “social” un peu prétexte, fantasmé et déconnecté plutôt que repenser de façon + sociale et solidaire la culture entrepreneuriale, ou d’outiller les initiatives de terrain.&lt;/p&gt;
-
-&lt;p&gt;Source : &lt;a href=&quot;http://magazine.ouishare.net/fr/2016/05/numeriser-le-social-socialiser-le-numerique-entretien-avec-jean-philippe-courtois/&quot;&gt;Numériser le social, socialiser le numérique - entretien avec Jean-Philippe Courtois&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 16 Jun 2016 00:00:00 +0200</pubDate>
-        <link>https://clairezed.github.io/marges/binary_transition/2016/06/16/du-numerique-dans-le-social.html</link>
-        <guid isPermaLink="true">https://clairezed.github.io/marges/binary_transition/2016/06/16/du-numerique-dans-le-social.html</guid>
-        
-        <category>ess</category>
-        
-        <category>start up</category>
-        
-        
-        <category>binary_transition</category>
         
       </item>
     

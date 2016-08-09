@@ -6,14 +6,14 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>Socialiser le numérique ?</title>
-  <meta name="description" content="Jean-Philippe Courtois, notamment président de Microsoft International, parle de la pénétration des outils numériques dans l’Economie Sociale et Solidaire po...">
+  <title>Radiographie d&#39;un site 1 - Moments d&#39;invention 2016</title>
+  <meta name="description" content="Quand je tombe sur des sites qui donnent une impression un peu “la classe” tout en paraissant d’un niveau technique atteignable, j’aime bien chercher comment...">
 
   <link rel="stylesheet" href="/marges/css/normalize.css">
   <link rel="stylesheet" href="/marges/css/spectre.min.css">
   <link rel="stylesheet" href="/marges/css/main.css">
   <link rel="stylesheet" href="/marges/css/icomoon.css">
-  <link rel="canonical" href="https://clairezed.github.io/marges/binary_transition/2016/06/16/du-numerique-dans-le-social.html">
+  <link rel="canonical" href="https://clairezed.github.io/marges/sustainable_code/2016/08/08/radiographie-01.html">
   <link rel="alternate" type="application/rss+xml" title="Marges" href="https://clairezed.github.io/marges/feed.xml">
   <script src="/marges/js/jquery-2.2.3.min.js" type="text/javascript"></script>
   <script src="/marges/js/main.js" type="text/javascript"></script>
@@ -377,30 +377,44 @@
           <article class="post card" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header card-header">
-    <h1 class="post-title" itemprop="name headline">Socialiser le numérique ?</h1>
+    <h1 class="post-title" itemprop="name headline">Radiographie d'un site 1 - Moments d'invention 2016</h1>
     <p class="post-meta card-meta">
-      <time datetime="2016-06-16T00:00:00+02:00" itemprop="datePublished">Jun 16, 2016</time>
+      <time datetime="2016-08-08T00:00:00+02:00" itemprop="datePublished">Aug 8, 2016</time>
       
     </p>
   </header>
 
   <div class="post-content card-body" itemprop="articleBody">
-    <p>Jean-Philippe Courtois, notamment président de Microsoft International, parle de la pénétration des outils numériques dans l’Economie Sociale et Solidaire pour faire la promotion d’un programme destiné -quelle surprise- à lacher dans un écosystème qui n’en demandait pas tant une nouvelle poignée de start up à connotation sociale.</p>
+    <p>Quand je tombe sur des sites qui donnent une impression un peu “la classe” tout en paraissant d’un niveau technique atteignable, j’aime bien chercher comment il a été fait. Ca me permet de faire une veille dynamique, en condition réelle, en observant les outils qui sont concrètement utilisés et éprouvés.</p>
 
 <!--more-->
 
-<p>Son analyse d’introduction est que le numérique tarde à irriguer l’ESS pour les raisons suivantes :</p>
+<p>Alors que je retombe ce soir dans mon vice (“Oh le joli site ! hop, ouverture de la console de mon navigateur, hop, trifouille dans le <code class="highlighter-rouge">&lt;head&gt;</code>…), je me dit que je ferais aussi bien de commencer une série de radiographie de sites.</p>
+
+<h2 id="radiographie-n1---moments-dinvention-2016">Radiographie n°1 - Moments d’invention 2016</h2>
+
+<p>Le site en question : <a href="http://www.grand-nancy.org/gn/momentsdinvention/intro.php">Moments d’invention 2016</a>, un événement qui a l’air assez à la rentrée à Nancy.</p>
+
+<h3 id="back">Back</h3>
+
+<p>Pas grand chose à sortir sur le back. C’est du PHP, mais wappalizer n’arrive pas à m’en dire plus. Framework fait maison ?</p>
+
+<h3 id="front">Front</h3>
+
+<p>Là, c’est + intéressant. C’est ici surtout que réside l’effet whaou, et j’ai pu repérer deux ou trois trucs.</p>
 
 <ul>
-  <li><strong>une question de génération</strong> : un pan de l’ESS, “old school”, n’est pas acculturée au numérique (à contrario des nouvelles générations type Ticket for Change, MakeSense ou OuiShare).</li>
-  <li>il y a encore <strong>trop peu de développeurs</strong> à fricoter avec ce secteur.</li>
+  <li>Menu principal qui repousse le reste de la page : merci à <a href="http://tympanus.net/codrops/">codrops</a>, fournisseur officel d’effets wahou pour des générations de développeurs (<a href="http://tympanus.net/Development/OffCanvasMenuEffects/topexpand.html">lien vers la demo du menu</a>),</li>
+  <li>Transition en douceur des pages : <a href="https://github.com/miguel-perez/smoothState.js">smoothState.js</a></li>
+  <li><a href="https://daneden.github.io/animate.css/">animate.css</a>, un grand classique pour l’animation d’éléments !</li>
+  <li>un helper pour gérer facilement les classes css en js : <a href="https://github.com/desandro/classie">classie</a></li>
 </ul>
 
-<p>Sa proposition est donc, non pas d’accompagner et fortifier les structures existantes et militantes, mais de planter des jeunes pousses avec de l’engrais entrepreneurial à base de business plan, de mentorat de grosses sociétés (Microsoft, Adecco, Partech Ventures…) qui placeront habilement leurs produits (<em>“Cette plateforme open source sera hébergée sur le cloud Azur.”</em>).</p>
+<h3 id="auteur">Auteur</h3>
 
-<p>Il est possible que de cette démarche émergent de temps à autres des projets intéressants ; on n’est jamais à l’abri d’accidents heureux. Mais j’ai l’impression qu’encore une fois on se préoccupe d’injecter du numérique et de la culture business à un “social” un peu prétexte, fantasmé et déconnecté plutôt que repenser de façon + sociale et solidaire la culture entrepreneuriale, ou d’outiller les initiatives de terrain.</p>
+<p>Pas réussi à trouver de crédits sur le site, si vous savez qui en est à l’origine, ça m’intéresse !</p>
 
-<p>Source : <a href="http://magazine.ouishare.net/fr/2016/05/numeriser-le-social-socialiser-le-numerique-entretien-avec-jean-philippe-courtois/">Numériser le social, socialiser le numérique - entretien avec Jean-Philippe Courtois</a></p>
+<p>Source : <a href="http://www.grand-nancy.org/gn/momentsdinvention/intro.php">Moment d’invention 2016</a></p>
 
 
   </div>
@@ -409,20 +423,20 @@
 
   <div class="card-labels">
     
-      <a href="/marges/tags/ess">
-        <span class="post-meta label">ess</span>
+      <a href="/marges/tags/radiographie">
+        <span class="post-meta label">radiographie</span>
       </a>
     
-      <a href="/marges/tags/start up">
-        <span class="post-meta label">start up</span>
+      <a href="/marges/tags/toolkit">
+        <span class="post-meta label">toolkit</span>
       </a>
     
   </div>
 
 
   
+    <a class="post-link" href="/marges/binary_transition/2016/07/28/beau-carton.html">Avant : Remettre la main sur du beau carton</a>
   
-    <a class="post-link float-right" href="/marges/sustainable_code/2016/06/17/notre-responsabilite-dans-l-adictivite.html">Après : Nous sommes tous des dealers de numérique</a>
   
 
 </article>
