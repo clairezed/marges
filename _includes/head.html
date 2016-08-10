@@ -41,17 +41,16 @@
       <meta property="og:image" content="{{page.image}}" />
       <meta name="twitter:image" content="{{page.image}}" />
     {% else %}
-      <meta property="og:image" content="{{site.url}}/img/marges_default.png" />
-      <meta name="twitter:image" content="{{site.url}}/img/marges_default.png" />
+      <meta property="og:image" content="{{site.url}}{{site.baseurl}}/img/marges_default.png" />
+      <meta name="twitter:image" content="{{site.url}}{{site.baseurl}}/img/marges_default.png" />
     {% endif %}
       {% else %}
     <!-- OG data for homepage -->
     <meta property="og:image" content="{{site.url}}{{site.baseurl}}/img/marges_default.png" />
-    <meta property="og:image" content="{{site.url}}/img/marges_default.png" />
     <meta property="og:type" content="website" />
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:title" content="{{site.title}}" />
-    <meta name="twitter:image" content="{{site.url}}/img/marges_default.png" />
+    <meta name="twitter:image" content="{{site.url}}{{site.baseurl}}/img/marges_default.png" />
 
   {% endif %}
 
