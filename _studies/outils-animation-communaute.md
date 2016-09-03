@@ -23,7 +23,7 @@ Pour le moment, c'est principalement alimenté par la lecture de ["Une heure par
 
 ## Comprendre les éléments clés du groupe
 
-### Carte d'orientation de la communauté
+### 1. Carte d'orientation de la communauté
 
 #### Typologies de groupes collaboratifs :
 
@@ -49,6 +49,27 @@ La priorité donnée à certaines activités dépend de la culture des personnes
 
 - ceux qui sont plutôt **réticents aux technologies** privilégient les rencontres physiques mais négligent souvent les échanges entre les rencontres car ils impliquent la plupart du temps des outils de discussion à distance ;
 - les **passionnés de technologies** vont d’abord penser aux outils mais peuvent se cacher derrière eux en espérant qu’ils  traiteront seuls tous les aspects humains…
+
+### 2. Des projets ouverts pour faire ensemble
+
+Dans un **projet ouvert**, l’avancement est partagé avec une **communauté plus large** qui peut y contribuer sans être aussi impliquée que **“l’équipe projet”** elle-même.
+
+Deux types de participants pour un projet ouvert :
+- les **membres de l’équipe projet** pour lesquels cela pose un problème s’ils ne font pas ce à quoi ils se sont engagés ;
+- les **autres membres de la communauté** qui **enrichissent** le projet à chaque fois que l’un d’entre eux contribue ;
+
+#### Le facilitateur de projet
+
+Role clé du **facilitateur de projet** (!= porteur de projet, qui lui est focalisé sur son projet) : proactif, le facilitateur va s’intéresser au lien entre la communauté et ses différents projets.
+- De façon régulière, le facilitateur de projets va **prendre l’initiative de contacter les référents de chaque projet** au moins une fois par mois
+- Le facilitateur doit connaître le **canal de communication privilégié** de chaque personne qu’il doit contacter
+
+Le facilitateur pose 3 questions au référent :
+- quelle est la **prochaine étape du projet** ? (contrairement à l’objectif du projet, la prochaine étape  est réalisable dans un temps court et permet de faire avancer le projet)
+- quelle est la **prochaine date de rencontre** de l’équipe projet ?
+- a-t-il **partagé ces informations** avec le reste de la communauté ? (si au bout d’un certain temps, le référent n’arrive pas à prendre le temps de partager les informations, le facilitateur peut le faire à sa place, mais il est bien plus intéressant pour la vie de la communauté d’avoir plusieurs porteurs de projets qui y interviennent).
+
+### 3. La communauté
 
 ## Mettre en place ou réorganiser une communauté pas à pas
 

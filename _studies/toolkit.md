@@ -44,6 +44,10 @@ Photopea supports layers, layer masks and blend modes, and offers a lot of the t
 - [site inspire](https://www.siteinspire.com/)
 - [unmatched style](http://unmatchedstyle.com/gallery)
 
+#### Plutôt typo
+
+- [Discover Typography](http://discover.typography.com/)
+
 #### Plutôt illu
 
 - [Behance](https://www.behance.net/) ( [categorie web](https://www.behance.net/search?field=102) )
@@ -53,6 +57,14 @@ Photopea supports layers, layer masks and blend modes, and offers a lot of the t
 - [Coroflot](http://www.coroflot.com/)
 - [From Up North](http://www.fromupnorth.com/inspiration/)
 - Inspiration Grid
+- [It's nice that](http://www.itsnicethat.com/)
+
+#### Plutot élément web (UI)
+
+- annuaire : https://uxdesign.cc/ui-inspiration-b019453058d7#.vzz3m9qyw
+
+- [Zurb Patterntap](http://zurb.com/patterntap)
+- [UI patterns](http://ui-patterns.com/)
 
 ## <a name="code"></a> Code
 
@@ -72,6 +84,11 @@ Photopea supports layers, layer masks and blend modes, and offers a lot of the t
 - yunohost
 - unhosted
 
+### Sys Admin
+
+- [SysAdmin toolbox (github)](https://github.com/skhaen/sysadmin-toolbox)
+- [Security guide for developers (github)](https://github.com/FallibleInc/security-guide-for-developers)
+
 
 ## <a name="bureautique"></a> Bureautique
 
@@ -85,4 +102,4 @@ Zaclys : comme openmailbox mais mieux
 
 - seafile
 - owncloud
-- pyd.io
+- [pyd.io](https://pydio.com/)

@@ -17,6 +17,7 @@ Quelques liens et repères sur ce que devient le secteur de l'ESS et de l'entrep
 
 - [le Mouvement des Entrepreneurs Sociaux](http://mouves.org/)
 - [Avise - Portail du développement de l'économie sociale et solidaire](http://www.avise.org/)
+- [Labo de l’économie sociale et solidaire](http://www.lelabo-ess.org/?-Presentation-)
 
 ### Grand Est
 
@@ -53,3 +54,10 @@ Quelques liens et repères sur ce que devient le secteur de l'ESS et de l'entrep
 
 - Antropia,
 - SenseCube
+
+## Fonds d'investissement (venture capital)
+
+- YCombinator funds [nonprofits](https://www.ycombinator.com/nonprofits/) and now, [research](https://ycr.org/).
+- OATV launched [indie.vc](http://www.indie.vc/) last year.
+- Peter Thiel created [Breakout Labs](http://www.breakoutlabs.org/).
+- Elon Musk created [Open AI](http://www.csmonitor.com/Technology/2015/1214/Open-AI-Effort-to-democratize-artificial-intelligence-research).

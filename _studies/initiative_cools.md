@@ -79,6 +79,14 @@ Collectif de designers, architectes, sociologues fondé autour des questions soc
 ###### tags: `cool probable` `saint etienne`
 
 
+#### [Lande](http://www.landemtl.com/)
+
+Lande facilite la réappropriation des terrains vacants par les citoyens et les citoyennes.
+Cette plateforme permet de répertorier les terrains vacants de Montréal.
+
+###### tags: `cool probable` `montreal` `cartographie`
+
+
 ### <a name="collaboration-développeur-société-civile"></a> Collaboration développeur - société civile
 
 #### [Scopyleft](http://scopyleft.fr/)
