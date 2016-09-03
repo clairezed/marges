@@ -5,9 +5,83 @@
     <description>Prise de notes des internets de claire zuliani</description>
     <link>https://clairezed.github.io/marges/</link>
     <atom:link href="https://clairezed.github.io/marges/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 10 Aug 2016 14:52:59 +0200</pubDate>
-    <lastBuildDate>Wed, 10 Aug 2016 14:52:59 +0200</lastBuildDate>
+    <pubDate>Sat, 03 Sep 2016 10:43:22 +0200</pubDate>
+    <lastBuildDate>Sat, 03 Sep 2016 10:43:22 +0200</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
+    
+      <item>
+        <title>Les fashion faux pas des formulaires</title>
+        <description>&lt;p&gt;Article à base d’illustrations en do/don’t autour du design de formulaire. Je retrouve dans la colonne des “Don’t” beaucoup des habitudes de ma boîte actuelle (et donc des miennes)…&lt;/p&gt;
+
+&lt;p&gt;Rappels à garder sous le coude !&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Source : &lt;a href=&quot;https://uxdesign.cc/design-better-forms-96fadca0f49c#.76bysrvmn&quot;&gt;Design Better Forms&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 21 Aug 2016 00:00:00 +0200</pubDate>
+        <link>https://clairezed.github.io/marges/sustainable_code/2016/08/21/does-design-formulaires.html</link>
+        <guid isPermaLink="true">https://clairezed.github.io/marges/sustainable_code/2016/08/21/does-design-formulaires.html</guid>
+        
+        <category>design</category>
+        
+        
+        <category>sustainable_code</category>
+        
+      </item>
+    
+      <item>
+        <title>La civic tech ne dope que les meilleurs athlètes</title>
+        <description>&lt;p&gt;Encore une ressource autour de la civic tech, mais plus riche en analyse et en réserve que bon nombre d’écrits parcourus ces derniers temps. Et la réserve sur les phénomènes tech en vogue, j’aime bien.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Cet &lt;a href=&quot;http://www.lemonde.fr/smart-cities/article/2016/07/14/civic-tech-des-applis-pour-doper-la-democratie-participative_4969481_4811534.html&quot;&gt;article du Monde&lt;/a&gt; s’attache à croiser les regards de créateurs d’applications censés booster la démocratie et de leurs clients, collectivités territoriales ouvertes à l’expérimentation.&lt;/p&gt;
+
+&lt;h3 id=&quot;impliquer-les-catgories-dj-les-plus-investies&quot;&gt;Impliquer les catégories déjà les plus investies&lt;/h3&gt;
+
+&lt;p&gt;Parmi les constats dressés, le suivant :&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Les différentes plateformes visent le même public de jeunes actifs connectés qui s’intéressent à la vie de leur quartier, mais n’ont ni le temps ni l’envie de participer aux réunions municipales. Selon un sondage réalisé auprès d’élus en mars dernier par le think tank Décider ensemble, seul un tiers des municipalités qui ont déployé ces outils estiment toucher des publics nouveaux.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Si l’on en croit le ressenti des élus, ces plateformes ne permettraient d’&lt;strong&gt;impliquer qu’un nombre marginale de nouvelles têtes&lt;/strong&gt;, et ces têtes seraient déjà bien intégrées à la cité. Ce n’est pas forcément un échec : réussir à faire participer des personnes, certes dotée d’un bon capital mais qui se tenaient à l’écart du politique, est déjà une victoire en soi. Mais ce n’est pas suffisant. En tout cas, ça ne me suffit pas.&lt;/p&gt;
+
+&lt;p&gt;Ce qui m’intéresse, ce sont tous ces gens qui se foutent de la chose publique, ont l’impression que ça ne sert à rien de l’ouvrir car de toute façon on ne les écoute pas, et que “c’est comme ça”, rien ne changera jamais vraiment. Pour faire basculer ceux-là, l’apparition d’une nouvelle appli sur leur smartphone (pour ceux qui en ont un…) ne suffira jamais. C’est avant tout un gros boulot de terrain, de proximité, qui est à mener. L’outil technologique ne doit venir que dans un second temps, en prolongement.&lt;/p&gt;
+
+&lt;p&gt;L’une de mes craintes est aussi que ça ne remette le politique entre les mains que de ceux qui ont déjà le plus facilement accès à l’arène publique. Je n’aimerais pas que, sous couvert d’avoir récolté X avis de la part de la population blanche active trentenaire diplomée, les municipalités se targuent d’avoir l’assentiment de l’ensemble de leurs administrés pour justifier des mesures peut-être discutables.&lt;/p&gt;
+
+&lt;h3 id=&quot;faire-participer-ou-communiquer-plus-efficacement-&quot;&gt;Faire participer, ou communiquer plus efficacement ?&lt;/h3&gt;
+
+&lt;p&gt;Autre constat relevé par l’article, celui de la &lt;strong&gt;logique “top-down”&lt;/strong&gt;, l’enjeu de communication politique dans laquelle s’ancre souvent la commande publique autour des outils civic tech :&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;L’enquête du think tank Décider ensemble montre que les motivations des collectivités s’inscrivent souvent dans une dynamique verticale et descendante, plutôt que réellement participative. Interrogées sur leurs besoins, les municipalités citent d’abord la mise à disposition d’informations (70 %) loin derrière l’objectif de « faire émerger des idees, éclairer la décision » (30 %).&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Il y a encore quelques réflexes à faire émerger et des mentalités à faire évoluer pour que les outils de la civic tech puissent vraiment révéler leur potentiel et servir la population.&lt;/p&gt;
+
+&lt;h3 id=&quot;variabilit-de-lthique&quot;&gt;Variabilité de l’éthique&lt;/h3&gt;
+
+&lt;p&gt;Dernier point intéressant, l’esquisse des différents échelons éthiques sur lesquels se situent les solutions civic tech, allant du comportement franchement crasseux et dangereux à l’éthique au top. Sur la gestion des données récoltées, Le Monde informe par exemple que certaines appli (Fluicity) ne &lt;strong&gt;livre aux mairies que des métadonnées&lt;/strong&gt;, alors que d’autres (Neocity, oui je balance mais en même temps c’est dans l’article hein) &lt;strong&gt;ouvre leur base de données aux municipalités&lt;/strong&gt; qui peuvent accéder à l’identité des participants à un sondage, et même les géolocaliser sur une carte.&lt;/p&gt;
+
+&lt;p&gt;Un dernier point sur les &lt;strong&gt;solutions open source&lt;/strong&gt; (donc transparentes, adaptables, réutilisables..) du marché (coucou Democracy OS). Ca me donne envie de construire mon propre barème d’estimation éthique des outils technologiques tiens.&lt;/p&gt;
+
+&lt;p&gt;Source : &lt;a href=&quot;http://www.lemonde.fr/smart-cities/article/2016/07/14/civic-tech-des-applis-pour-doper-la-democratie-participative_4969481_4811534.html&quot;&gt;« Civic Tech » : des applis pour doper la démocratie en ville&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 11 Aug 2016 00:00:00 +0200</pubDate>
+        <link>https://clairezed.github.io/marges/binary_transition/2016/08/11/civic-tech-multiplie-appli.html</link>
+        <guid isPermaLink="true">https://clairezed.github.io/marges/binary_transition/2016/08/11/civic-tech-multiplie-appli.html</guid>
+        
+        <category>civic tech</category>
+        
+        
+        <category>binary_transition</category>
+        
+      </item>
     
       <item>
         <title>Radiographie d&#39;un site 1 - Moments d&#39;invention 2016</title>
@@ -866,76 +940,6 @@ On compte les voix, et on distribue les awards ce samedi 2 à 19h00 :)&lt;/p&gt;
         
         
         <category>binary_transition</category>
-        
-      </item>
-    
-      <item>
-        <title>Siffloter en travaillant ? </title>
-        <description>&lt;p&gt;Le pdg d’une boîte informatique du Michigan a planché sur différents moyens de rendre ses salariés heureux (en partant du principe que “qui dit content, dit plus créatifs et plus productifs”, ce n’est pas juste pour la beauté du geste).&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;Voici quelques uns de leurs modes de fonctionnement, comme autant de trucs et astuces à garder sous le coude (sait-on jamais que ça puisse servir à l’avenir) :&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;em&gt;“Les développeurs travaillent tous en binôme. Chaque semaine, les binômes changent. Et toute la semaine, les développeurs partagent un ordinateur pour deux.”&lt;/em&gt;&lt;/li&gt;
-  &lt;li&gt;Des &lt;strong&gt;réunions “show and tell” avec le client&lt;/strong&gt; : c’est le client qui &lt;em&gt;“est invité à manipuler le logiciel”&lt;/em&gt; et &lt;em&gt;“montre aux équipes le travail qu’elles ont réalisé pendant la semaine”&lt;/em&gt;.&lt;/li&gt;
-  &lt;li&gt;Etablir le &lt;strong&gt;planning de développement avec le client, et un jeu de cartes&lt;/strong&gt; : chaque carte représente un bloc à développer, selon un laps de temps spécifique en fonction de sa complexité (4, 8 ou 16h). Le client choisit les cartes en fonction de son budget. Les cartes sont écrites à la main, en direct, pour que chacun des intervenants ait conscience de ce qui est ajouté ou enlevé par l’acte d’écriture.&lt;/li&gt;
-  &lt;li&gt;Utiliser des &lt;strong&gt;cartographies d’utilisateur&lt;/strong&gt; (à ce que je comprends, des genres de &lt;a href=&quot;https://fr.wikipedia.org/wiki/Persona_(ergonomie)&quot;&gt;“persona”&lt;/a&gt;, quoi ; rien de bien nouveau)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Dernière astuce : amener des bébés au boulot. &lt;em&gt;“On a constaté par exemple que les clients se comportaient d’une manière bien plus respectueuse en présence des bébés…”&lt;/em&gt; Ok, on verra ça en temps et en heure.&lt;/p&gt;
-
-&lt;p&gt;Source : &lt;a href=&quot;http://www.internetactu.net/2016/06/10/comment-construire-des-lieux-de-travail-ou-les-gens-sont-heureux&quot;&gt;Comment construire des lieux de travail où les gens sont heureux ?&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 20 Jun 2016 00:00:00 +0200</pubDate>
-        <link>https://clairezed.github.io/marges/good_job/2016/06/20/joy-company.html</link>
-        <guid isPermaLink="true">https://clairezed.github.io/marges/good_job/2016/06/20/joy-company.html</guid>
-        
-        <category>bonheur</category>
-        
-        
-        <category>good_job</category>
-        
-      </item>
-    
-      <item>
-        <title>Nous sommes tous des dealers de numérique</title>
-        <description>&lt;p&gt;Rue89 pointe 10 stratégies mises en place par les professionnels du web pour créer et perpétuer l’addiction à leur produit. Ce sont les types de mécanismes qu’il m’arrive moi-même de mettre en place, comme bien d’autres de mes collègues (parfois à nos corps défendant). Et je les exècre d’autant plus que j’en suis bien évidemment moi-même victime.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;Rappel succint de ces mécanismes, histoire de faciliter notre vigilance à leur égard :&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;&lt;strong&gt;Orienter nos choix&lt;/strong&gt;, en mettant ou ne mettant pas certaines possibilités dans la liste des options possibles,&lt;/li&gt;
-  &lt;li&gt;Jouer sur l’&lt;strong&gt;effet jackpot&lt;/strong&gt; nous amenant à rafraichir constamment les pages (&lt;em&gt;“gagnera ou gagnera pas de nouvelles notifications ? “&lt;/em&gt;),&lt;/li&gt;
-  &lt;li&gt;La &lt;strong&gt;peur de rater quelque chose&lt;/strong&gt;,&lt;/li&gt;
-  &lt;li&gt;Renforcer la &lt;strong&gt;mécanique de l’approbation sociale&lt;/strong&gt; (en incitant à tagguer les photos, par exemple),&lt;/li&gt;
-  &lt;li&gt;Inciter à la &lt;strong&gt;réciprocité sociale&lt;/strong&gt; (je te follow, tu me follow back, du coup on est de retour tous les deux sur le site),&lt;/li&gt;
-  &lt;li&gt;Ne jamais arrêter le &lt;strong&gt;flux de contenu&lt;/strong&gt; (principe du scroll infini, des videos qui s’enchainent…),&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Interrompre constamment&lt;/strong&gt; pour ramener vers l’application (notifications push)&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Obliger à faire des détours&lt;/strong&gt; pour accéder à ce qu’on veut (comme le cheminement dans ikea alors qu’on veut juste acheter un pot pour brosses à dents dans la boutique au fond),&lt;/li&gt;
-  &lt;li&gt;Rendre &lt;strong&gt;compliquée la désinscription&lt;/strong&gt; du service (enfin, “service”… On se comprend, quoi),&lt;/li&gt;
-  &lt;li&gt;Faire croire qu’une manipulation &lt;strong&gt;ne prendra pas de temps&lt;/strong&gt; (cliquer sur une note, etre redirigé vers 3 pages de questionnaire).&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Et je me prends à rêver, à l’instar de &lt;a href=&quot;http://rue89.nouvelobs.com/2016/06/04/tristan-harris-millions-dheures-sont-juste-volees-a-vie-gens-264251&quot;&gt;Tristan Harris&lt;/a&gt;, ex-ingénieur de google qui veut créer des applications qui fassent regagner du temps à ses utilisateurs plutôt que de leur en faire perdre, de plancher sur des outils qui redonnent du pouvoir et qui libèrent.&lt;/p&gt;
-
-&lt;p&gt;Mais c’est quoi, le modèle économique d’un outil qui a notamment pour objectif d’être le moins possible utilisé ?&lt;/p&gt;
-
-&lt;p&gt;Source : &lt;a href=&quot;http://rue89.nouvelobs.com/2016/06/16/10-facons-dont-technologie-manipule-264364&quot;&gt;Dix façons dont la technologie nous manipule&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 17 Jun 2016 00:00:00 +0200</pubDate>
-        <link>https://clairezed.github.io/marges/sustainable_code/2016/06/17/notre-responsabilite-dans-l-adictivite.html</link>
-        <guid isPermaLink="true">https://clairezed.github.io/marges/sustainable_code/2016/06/17/notre-responsabilite-dans-l-adictivite.html</guid>
-        
-        <category>dont be evil</category>
-        
-        
-        <category>sustainable_code</category>
         
       </item>
     
