@@ -5,9 +5,40 @@
     <description>Prise de notes des internets de claire zuliani</description>
     <link>https://clairezed.github.io/marges/</link>
     <atom:link href="https://clairezed.github.io/marges/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 03 Sep 2016 10:43:22 +0200</pubDate>
-    <lastBuildDate>Sat, 03 Sep 2016 10:43:22 +0200</lastBuildDate>
-    <generator>Jekyll v3.1.2</generator>
+    <pubDate>Sun, 04 Sep 2016 09:24:21 +0200</pubDate>
+    <lastBuildDate>Sun, 04 Sep 2016 09:24:21 +0200</lastBuildDate>
+    <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>C'est &quot;mon&quot; ou &quot;ton&quot; ordinateur ?</title>
+        <description>&lt;p&gt;Quelle différence y a-t-il, dans les interfaces de nos outils numériques, quand la machine affiche dans les menus “Mes photos” ou bien “Vos dossiers” ? Une question bête et finalement captivante à laquelle répond cet article de John Saito.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;L’ensemble de l’article pose des questions (et apporte des réponses) intéressantes, dont &lt;em&gt;ATTENTION SPOILER&lt;/em&gt; voici directement les conclusions :&lt;/p&gt;
+
+&lt;blockquote&gt;
+
+  &lt;p&gt;There are widely differing opinions on this, but here are the general guidelines I like to follow :&lt;/p&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;strong&gt;When to use me&lt;/strong&gt;: Use I, me, my, or mine when the user is interacting with the product, like clicking a button or selecting a checkbox. But only add these words if you absolutely need to for clarity.&lt;/li&gt;
+    &lt;li&gt;&lt;strong&gt;When to use you&lt;/strong&gt;: Use you or your when your product is asking questions, giving instructions, or describing things to the user. Just imagine what a personal assistant might say.&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Source : &lt;a href=&quot;https://medium.com/@jsaito/is-this-my-interface-or-yours-b09a7a795256#.kyixt8is5&quot;&gt;Is this my interface or yours?&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 04 Sep 2016 00:00:00 +0200</pubDate>
+        <link>https://clairezed.github.io/marges/sustainable_code/2016/09/04/mon-ton-ordinateur.html</link>
+        <guid isPermaLink="true">https://clairezed.github.io/marges/sustainable_code/2016/09/04/mon-ton-ordinateur.html</guid>
+        
+        <category>ui/ux</category>
+        
+        
+        <category>sustainable_code</category>
+        
+      </item>
     
       <item>
         <title>Les fashion faux pas des formulaires</title>
@@ -84,7 +115,7 @@
       </item>
     
       <item>
-        <title>Radiographie d&#39;un site 1 - Moments d&#39;invention 2016</title>
+        <title>Radiographie d'un site 1 - Moments d'invention 2016</title>
         <description>&lt;p&gt;Quand je tombe sur des sites qui donnent une impression un peu “la classe” tout en paraissant d’un niveau technique atteignable, j’aime bien chercher comment il a été fait. Ca me permet de faire une veille dynamique, en condition réelle, en observant les outils qui sont concrètement utilisés et éprouvés.&lt;/p&gt;
 
 &lt;!--more--&gt;
@@ -252,9 +283,11 @@
 
 &lt;p&gt;Pour ce qui est du lobbying et de l’influence, l’action de la Quadrature essaye maintenant de bien &lt;strong&gt;tenir compte de ce mur législatif contre lequel ils bloquent&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;p&gt;Quelques constats :
-- à l’Assemblée, les clivages étaient plutôt entre “ceux qui connaissent le numérique” et “ceux qui y pannent rien”
-- &lt;em&gt;“au PS on a perdu toute capacité d’action car les jeux de pouvoir interne paralysent les députés”&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Quelques constats :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;à l’Assemblée, les clivages étaient plutôt entre “ceux qui connaissent le numérique” et “ceux qui y pannent rien”&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;“au PS on a perdu toute capacité d’action car les jeux de pouvoir interne paralysent les députés”&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;A présent, l’idée est de contourner cet obstacle législatif national, et d’attaquer les lois passées non pas frontalement mais de biais. C’est pourquoi la Quadrature attaque maintenant plus devant le conseil d’État, est prête a enquiller auprès du conseil de l’Europe, de la CEDH…&lt;/p&gt;
 
@@ -352,9 +385,11 @@
 
 &lt;p&gt;J’aime le &lt;strong&gt;mélange des genres&lt;/strong&gt;, j’aime ces thématiques plus ouvertes que dans mon souvenir, mixant de la politique et de la sociologie avec la technique (voire même sans technique parfois).&lt;/p&gt;
 
-&lt;p&gt;Par contre, ce que j’aurais aimé prendre le temps de discuter, c’est :
-- d’où vient cette évolution de l’orientation des 2 festivals (si c’est pas moi qui me fait des films) ?
-- comment cette évolution est-elle reçue par le public habituel ou historique des 2 festivals ?&lt;/p&gt;
+&lt;p&gt;Par contre, ce que j’aurais aimé prendre le temps de discuter, c’est :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;d’où vient cette évolution de l’orientation des 2 festivals (si c’est pas moi qui me fait des films) ?&lt;/li&gt;
+  &lt;li&gt;comment cette évolution est-elle reçue par le public habituel ou historique des 2 festivals ?&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h2 id=&quot;post-scriptums&quot;&gt;Post scriptums&lt;/h2&gt;
 
@@ -881,7 +916,7 @@ On compte les voix, et on distribue les awards ce samedi 2 à 19h00 :)&lt;/p&gt;
       </item>
     
       <item>
-        <title>Y&#39;a quoi dans ce site ?</title>
+        <title>Y'a quoi dans ce site ?</title>
         <description>&lt;p&gt;Ca faisait quelques temps que je cherchais un moyen de déterminer quels étaient les composants, la “stack” des sites cools que je pouvais croiser (car l’inspection du code en console est quand même limitée).&lt;/p&gt;
 
 &lt;p&gt;C’est chose faite avec &lt;a href=&quot;https://wappalyzer.com/applications&quot;&gt;wappalyzer&lt;/a&gt;, outil que je découvre depuis quelques jours !
@@ -900,46 +935,6 @@ On compte les voix, et on distribue les awards ce samedi 2 à 19h00 :)&lt;/p&gt;
         
         
         <category>sustainable_code</category>
-        
-      </item>
-    
-      <item>
-        <title>Repolitiser un contrat social mâtiné de numérique</title>
-        <description>&lt;p&gt;L’entrepreneuriat numérique n’est pas un doudou miracle pour gouvernants en mal de projet politique.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Ces missions, [NdA : création d’emplois, adaptation des acteurs traditionnels, croissance, redistribution de la valeur, création de nouveaux modèles socio-économiques, inclusion sociale] que les gouvernants ne sont plus capables de mener à bien, ne trouveront pas une solution magique à coup de baguette numérique. Elles requièrent au contraire la construction d’une vision politique totale qui ne se réduise pas à une fétichisation de la technologie et de la figure de l’entrepreneur.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Un article un brin brouillon de Diana Filippova (Ouishare, Microsoft) plaidant pour une refondation du contrat social. Il a le mérite d’exprimer des constats que je partage globalement, même si je ne suis pas sûre de saisir complètement (et donc de valider) les conditions énoncées pour permettre cette refondation :&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;em&gt;“la mise en place de &lt;strong&gt;structures et d’organisations qui intègrent en leur sein les objectifs d’inclusion, d’éthique et de progrès social&lt;/strong&gt; sont indispensables pour mettre fin à une transformation à deux vitesses.”&lt;/em&gt; Oui, effectivement, mais qui fixe ces objectifs de biens communs ? Comment éviter ce qui peut n’être que du “green washing” ou du “social washing” ?&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;“la mise en place d’une &lt;strong&gt;organisation du travail adaptée aux mutations en cours&lt;/strong&gt; doit être au coeur de la refonte du contrat social.”&lt;/em&gt; Là aussi, plutôt d’accord, mais des réflexions plus poussées sont indispensables : le revenu de base, par exemple, suivant la façon dont il est mis en oeuvre, peut être tout autant le socle d’une revalorisation des activités humaines hors emploi et d’une redistribution plus juste, qu’un instrument d’asservissement et de paupérisation new age.&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;“la transformation radicale de l’action publique, des institutions démocratiques et de la &lt;strong&gt;place de la société civile&lt;/strong&gt;”&lt;/em&gt; : là aussi, c’est suffisamment vague pour plutôt susciter l’assentiment, mais suivant ce qui est concrètement mis en oeuvre, ça peut quand même virer beau piège à cons.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Bref, je sors de cette lecture avec la réactivation de mes questionnements actuels, mais sans véritable piste de réponse. Un peu frustrant.&lt;/p&gt;
-
-&lt;p&gt;Découverte intéressante faite à la lecture : la &lt;strong&gt;certification B corp&lt;/strong&gt; (&lt;a href=&quot;http://www.youphil.com/fr/article/07848-b-corps-label-entreprises-unilever?ypcli=ano&quot;&gt;article en français en parlant plus&lt;/a&gt;) qui labellise les entreprises répondant à une grille de critères environnementaux et sociaux.&lt;/p&gt;
-
-&lt;p&gt;Source : &lt;a href=&quot;http://www.huffingtonpost.fr/diana-filippova/la-politisation-de-la-que_b_10707504.html&quot;&gt;La politisation de la question technologique, condition d’un nouveau contrat social&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 28 Jun 2016 00:00:00 +0200</pubDate>
-        <link>https://clairezed.github.io/marges/binary_transition/2016/06/28/techno-fetiche.html</link>
-        <guid isPermaLink="true">https://clairezed.github.io/marges/binary_transition/2016/06/28/techno-fetiche.html</guid>
-        
-        <category>washing</category>
-        
-        <category>politique</category>
-        
-        <category>start up</category>
-        
-        
-        <category>binary_transition</category>
         
       </item>
     
