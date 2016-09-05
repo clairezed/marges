@@ -5,9 +5,74 @@
     <description>Prise de notes des internets de claire zuliani</description>
     <link>https://clairezed.github.io/marges/</link>
     <atom:link href="https://clairezed.github.io/marges/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 04 Sep 2016 09:24:21 +0200</pubDate>
-    <lastBuildDate>Sun, 04 Sep 2016 09:24:21 +0200</lastBuildDate>
+    <pubDate>Mon, 05 Sep 2016 20:02:41 +0200</pubDate>
+    <lastBuildDate>Mon, 05 Sep 2016 20:02:41 +0200</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Les tables de la loi de l'interaction inter-personnelle</title>
+        <description>&lt;p&gt;Le service numérique du gouvernement britannique recrutait au printemps dernier, et en a profiter pour rédiger et partager quelques règles de ce qu’une nouvelle (ou pas) recrue est en droit d’attendre en intégrant leurs services. Humanité, bienveillance, compréhension et liberté. Au top.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Du coup, je me les copie-colle ici, pour penser à les intégrer comme fondement de ce que je souhaite être toutes mes relations professionnelles futures.&lt;/p&gt;
+
+&lt;blockquote&gt;
+
+  &lt;p&gt;It’s ok to:&lt;/p&gt;
+  &lt;ul&gt;
+    &lt;li&gt;say “I don’t know”&lt;/li&gt;
+    &lt;li&gt;ask for more clarity&lt;/li&gt;
+    &lt;li&gt;stay at home when you feel ill&lt;/li&gt;
+    &lt;li&gt;say you don’t understand&lt;/li&gt;
+    &lt;li&gt;ask what acronyms stand for&lt;/li&gt;
+    &lt;li&gt;ask why, and why not&lt;/li&gt;
+    &lt;li&gt;forget things&lt;/li&gt;
+    &lt;li&gt;introduce yourself&lt;/li&gt;
+    &lt;li&gt;depend on the team&lt;/li&gt;
+    &lt;li&gt;ask for help&lt;/li&gt;
+    &lt;li&gt;not know everything&lt;/li&gt;
+    &lt;li&gt;have quiet days&lt;/li&gt;
+    &lt;li&gt;have loud days, to talk, joke and laugh&lt;/li&gt;
+    &lt;li&gt;put your headphones on&lt;/li&gt;
+    &lt;li&gt;say “No” when you’re too busy&lt;/li&gt;
+    &lt;li&gt;make mistakes&lt;/li&gt;
+    &lt;li&gt;sing&lt;/li&gt;
+    &lt;li&gt;sigh&lt;/li&gt;
+    &lt;li&gt;not check your email out of hours&lt;/li&gt;
+    &lt;li&gt;not check your email constantly during hours&lt;/li&gt;
+    &lt;li&gt;just Slack it&lt;/li&gt;
+    &lt;li&gt;walk over and ask someone face-to-face&lt;/li&gt;
+    &lt;li&gt;go somewhere else to concentrate&lt;/li&gt;
+    &lt;li&gt;offer feedback on other people’s work&lt;/li&gt;
+    &lt;li&gt;challenge things you’re not comfortable with&lt;/li&gt;
+    &lt;li&gt;say yes when anyone does a coffee run&lt;/li&gt;
+    &lt;li&gt;prefer tea&lt;/li&gt;
+    &lt;li&gt;snack&lt;/li&gt;
+    &lt;li&gt;have a messy desk&lt;/li&gt;
+    &lt;li&gt;have a tidy desk&lt;/li&gt;
+    &lt;li&gt;work how you like to work&lt;/li&gt;
+    &lt;li&gt;ask the management to fix it&lt;/li&gt;
+    &lt;li&gt;have off-days&lt;/li&gt;
+    &lt;li&gt;have days off&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Source : &lt;a href=&quot;https://gds.blog.gov.uk/2016/05/25/its-ok-to-say-whats-ok/&quot;&gt;It’s ok to say what’s ok&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 05 Sep 2016 00:00:00 +0200</pubDate>
+        <link>https://clairezed.github.io/marges/good_job/2016/09/05/ok-working-rules.html</link>
+        <guid isPermaLink="true">https://clairezed.github.io/marges/good_job/2016/09/05/ok-working-rules.html</guid>
+        
+        <category>bonheur</category>
+        
+        <category>faire a plusieurs</category>
+        
+        
+        <category>good_job</category>
+        
+      </item>
     
       <item>
         <title>C'est &quot;mon&quot; ou &quot;ton&quot; ordinateur ?</title>
@@ -912,29 +977,6 @@ On compte les voix, et on distribue les awards ce samedi 2 à 19h00 :)&lt;/p&gt;
         
         
         <category>binary_transition</category>
-        
-      </item>
-    
-      <item>
-        <title>Y'a quoi dans ce site ?</title>
-        <description>&lt;p&gt;Ca faisait quelques temps que je cherchais un moyen de déterminer quels étaient les composants, la “stack” des sites cools que je pouvais croiser (car l’inspection du code en console est quand même limitée).&lt;/p&gt;
-
-&lt;p&gt;C’est chose faite avec &lt;a href=&quot;https://wappalyzer.com/applications&quot;&gt;wappalyzer&lt;/a&gt;, outil que je découvre depuis quelques jours !
-&lt;!--more--&gt;&lt;/p&gt;
-
-&lt;p&gt;L’analyzer n’arrive pas à resortir systématiquement tous les composants, mais c’est déjà une bonne base.&lt;/p&gt;
-
-&lt;p&gt;(Existe aussi en format extension &lt;a href=&quot;https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg&quot;&gt;chrome&lt;/a&gt; ou &lt;a href=&quot;https://addons.mozilla.org/fr/firefox/addon/wappalyzer/&quot;&gt;firefox&lt;/a&gt;)&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 08 Jul 2016 00:00:00 +0200</pubDate>
-        <link>https://clairezed.github.io/marges/sustainable_code/2016/07/08/wappalizer.html</link>
-        <guid isPermaLink="true">https://clairezed.github.io/marges/sustainable_code/2016/07/08/wappalizer.html</guid>
-        
-        <category>toolkit</category>
-        
-        
-        <category>sustainable_code</category>
         
       </item>
     
