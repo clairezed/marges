@@ -14,7 +14,7 @@ Conseils à la volée pour écrire du meilleur code en ruby.
 
 ### Batch process
 
-plutot que
+plutôt que
 
 ``` ruby
 Post.where(published: true).each do |post|
