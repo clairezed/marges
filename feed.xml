@@ -5,9 +5,66 @@
     <description>Prise de notes des internets de claire zuliani</description>
     <link>https://clairezed.github.io/marges/</link>
     <atom:link href="https://clairezed.github.io/marges/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 05 Sep 2016 20:02:41 +0200</pubDate>
-    <lastBuildDate>Mon, 05 Sep 2016 20:02:41 +0200</lastBuildDate>
+    <pubDate>Tue, 06 Sep 2016 13:51:34 +0200</pubDate>
+    <lastBuildDate>Tue, 06 Sep 2016 13:51:34 +0200</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>De la tech civique chez les agents de l'Etat</title>
+        <description>&lt;p&gt;La &lt;a href=&quot;http://www.lagazettedescommunes.com/&quot;&gt;Gazette des communes&lt;/a&gt; aussi s’emparent des civic tech. Un oeil jeté sur ce qui se dit sur le sujet parmi les agents de l’état, et des éléments d’analyse pas inintéressants.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;En adjonction d’un &lt;a href=&quot;http://www.lagazettedescommunes.com/dossiers/politique-de-la-ville-la-participation-citoyenne-prend-forme/&quot;&gt;dossier consacré à la participation citoyenne&lt;/a&gt; (encore plein d’articles que j’adorerais prendre le temps de lire), un énième article sur les civic tech paraît en cette rentrée. Mais ce qui change ici est que ce n’est ni un point de vue journalistique, ni le point de vue des concepteurs des solutions civic tech qui est adopté, mais celui du “donneur d’ordre”, du client public. L’article apporte des pistes à la question &lt;em&gt;“En quoi le numérique peut-il être intéressant pour ma collectivité ?”&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Ce que j’en retiens :&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;La prochaine phase, ce sera le &lt;strong&gt;décloisonnement des pratiques entre institutionnels et non-institutionnels&lt;/strong&gt;, il y a une tendance à l’hybridation.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;à l’occasion, jeter un oeil sur le rapport &lt;a href=&quot;http://www.renaissancenumerique.org/publications/rn/792-2016-04-18-08-25-24&quot;&gt;“Démocratie : mise à jour”&lt;/a&gt;, dirigé par Clément Mabi, enseignant-chercheur spécialiste des questions de la participation citoyenne et vice-président du collectif Démocratie ouverte.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Cependant, on reste souvent dans une logique de prestation de services, plutôt que dans une réelle participation des citoyens à la fabrique de la ville. Pour faciliter la coproduction, il faut &lt;strong&gt;assurer la transparence du processus et de l’outil, ainsi que l’ouverture des sujets et des possibilités de contribution pour les administrés&lt;/strong&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;les chercheurs identifient &lt;strong&gt;3 types de rôles donné aux citoyens&lt;/strong&gt; :
+    &lt;ul&gt;
+      &lt;li&gt;le &lt;strong&gt;citoyen capteur&lt;/strong&gt;, qui transmet des données de manière plus ou moins consciente,&lt;/li&gt;
+      &lt;li&gt;le &lt;strong&gt;citoyen usager&lt;/strong&gt;, dont on attend des retours d’usage, à travers des outils de signalement par exemple,&lt;/li&gt;
+      &lt;li&gt;le &lt;strong&gt;citoyen partie prenante dans la coconstruction&lt;/strong&gt;, comme dans les budgets participatifs, où l’on combine l’outil numérique avec les projets associatifs.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Je n’avais pas encore remarqué que Démocratie ouverte faisait aussi office de &lt;a href=&quot;http://democratieouverte.org/themes/search/Projet&quot;&gt;catalogue d’outils et de projets civiques&lt;/a&gt; à destination notamment des collectivités. C’est nouveau ? L’article incite ainsi les &lt;em&gt;“collectivités qui n’ont pas les moyens, financiers et humains, de monter leurs propres plateformes”&lt;/em&gt; à venir se renseigner ici.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Parmi les propositions du rapport “Démocratie : mise à jour” :
+    &lt;ul&gt;
+      &lt;li&gt;l’acculturation numérique des fonctionnaires,&lt;/li&gt;
+      &lt;li&gt;l’enseignement de la culture numérique à l’école,&lt;/li&gt;
+      &lt;li&gt;la création d’un statut d’administrateur des données à l’échelle régionale,&lt;/li&gt;
+      &lt;li&gt;la généralisation des plateformes pour organiser l’implication des citoyens dans le processus législatif.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Source : &lt;a href=&quot;http://www.lagazettedescommunes.com/458022/le-numerique-au-service-de-la-participation-citoyenne/&quot;&gt;Le numérique, un outil au service de la participation citoyenne&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 06 Sep 2016 00:00:00 +0200</pubDate>
+        <link>https://clairezed.github.io/marges/binary_transition/2016/09/06/cvgc.html</link>
+        <guid isPermaLink="true">https://clairezed.github.io/marges/binary_transition/2016/09/06/cvgc.html</guid>
+        
+        <category>civic tech</category>
+        
+        
+        <category>binary_transition</category>
+        
+      </item>
     
       <item>
         <title>Les tables de la loi de l'interaction inter-personnelle</title>
@@ -946,37 +1003,6 @@ On compte les voix, et on distribue les awards ce samedi 2 à 19h00 :)&lt;/p&gt;
         
         
         <category>sustainable_code</category>
-        
-      </item>
-    
-      <item>
-        <title>Comment faire des choses entre gens débordés ?</title>
-        <description>&lt;p&gt;Jean-Michel Cornu propose le guide &lt;a href=&quot;https://docs.google.com/document/d/1A5Ep7s2yAHLi3DxPANKpGTbeZctwRvDPYpK9KDsH_EI&quot;&gt;“Une heure par semaine pour animer une grande communauté”&lt;/a&gt;, soit comme il le dit &lt;strong&gt;&lt;em&gt;” animer un ensemble de personnes qui n’ont pas le temps… avec des personnes qui n’ont pas le temps”&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;L’ouvrage me botte particulièrement pour ce que j’espère y trouver :&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;identifier les défis et obstacles pour faire des choses à plusieurs&lt;/strong&gt;, et comment les dépasser. Hyper utile pour les personnes qui veulent des choses avec des gens, sans complètement s’épuiser pour un résultat non garanti,&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;identifier les outils existants, ou manquants&lt;/strong&gt;, pour pouvoir faire des propositions techniques de support à des projets ou des communautés, faciliter le développement de projets collectifs et collaboratifs.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Je me garde la lecture sous le coude,  peut etre une note de lecture + tard ?&lt;/p&gt;
-
-&lt;p&gt;Source : &lt;a href=&quot;https://docs.google.com/document/d/1A5Ep7s2yAHLi3DxPANKpGTbeZctwRvDPYpK9KDsH_EI&quot;&gt;Une heure par semaine pour animer une grande communauté&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Sat, 09 Jul 2016 00:00:00 +0200</pubDate>
-        <link>https://clairezed.github.io/marges/binary_transition/2016/07/09/animation-communaute.html</link>
-        <guid isPermaLink="true">https://clairezed.github.io/marges/binary_transition/2016/07/09/animation-communaute.html</guid>
-        
-        <category>a lire</category>
-        
-        <category>faire a plusieurs</category>
-        
-        
-        <category>binary_transition</category>
         
       </item>
     
