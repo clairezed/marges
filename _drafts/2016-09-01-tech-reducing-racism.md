@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Sustaining open source"
+title: "Numérique contre racisme"
 category: binary_transition
-tags: [tiers-lieux, faire a plusieurs]
+tags: [discriminations]
 
 ---
 
-Ressources sur l'open source software
+Réduire le racisme ?
 
 <!--more-->
 

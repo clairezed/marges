@@ -19,7 +19,7 @@ Quelques initiatives (qui m'ont l'air) cools sur lesquelles jeter ou garder un o
   * [Nouveaux modes de travail développeur-compatibles](#nouveaux-modes-de-travail-développeur-compatibles)
   * [Civic techish](#civic-techish)
 * [Festivals](#festivals)
-    - [Web militant](#web-militant)
+  - [Web militant](#web-militant)
 * [Lectures](#lectures)
 
 
@@ -104,6 +104,11 @@ l’office est une structure qui accompagne les transitions culturelles, sociale
 Nous menons des projets de manière collective (avec des collectivités, structures associatives et/ou indépendantes, usagers et habitants) pour expérimenter et faire ensemble à l’échelle locale.
 
 ###### tags: `cool probable` `marseille`
+
+
+#### [Cap Colelctif](http://www.cap-collectif.com/)
+
+Une startup civique au service de la transformation de la société
 
 ### <a name="nouveaux-modes-de-travail-développeur-compatibles"></a>Nouveaux modes de travail développeur-compatibles
 
