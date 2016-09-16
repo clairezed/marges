@@ -5,26 +5,32 @@
     <description>Prise de notes des internets de claire zuliani</description>
     <link>https://clairezed.github.io/marges/</link>
     <atom:link href="https://clairezed.github.io/marges/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 16 Sep 2016 09:16:46 +0200</pubDate>
-    <lastBuildDate>Fri, 16 Sep 2016 09:16:46 +0200</lastBuildDate>
+    <pubDate>Fri, 16 Sep 2016 14:06:51 +0200</pubDate>
+    <lastBuildDate>Fri, 16 Sep 2016 14:06:51 +0200</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
-        <title>Principes de lutte contre la surcharge cognitive</title>
-        <description>&lt;p&gt;Je découvrais hier, alors même qu’elle se déroulait, la tenue d’une journée d’étude au programme alléchant, “Design, innovation sociale et vie publique”, par Design en recherche réseau de doctorant.e.s en design. Heureusement, il en reste des traces.&lt;/p&gt;
+        <title>Journée d'étude sur &quot;le design pour sauver le monde&quot;</title>
+        <description>&lt;p&gt;Je découvrais hier, alors même qu’elle se déroulait, la tenue d’une journée d’étude au programme alléchant : &lt;strong&gt;“Design, innovation sociale et vie publique”&lt;/strong&gt;, par Design en recherche, réseau de doctorant.e.s en design. Heureusement, il en reste des traces.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
-&lt;p&gt;Avec comme mot d’ordre &lt;em&gt;“Le design peut­-il / doit­-il “changer le monde” ?”&lt;/em&gt;, la journée présentait des communications comme &lt;em&gt;“Généalogie des engagements sociaux du graphisme”&lt;/em&gt;, &lt;em&gt;“Transformer les territoires ruraux à travers le design”&lt;/em&gt;, &lt;em&gt;“Que peut le design pour les populations défavorisées ?”&lt;/em&gt;…&lt;/p&gt;
+&lt;p&gt;Avec comme mot d’ordre &lt;strong&gt;Le design peut­-il / doit­-il “changer le monde” ?&lt;/strong&gt;, la journée présentait des communications comme &lt;em&gt;“Généalogie des engagements sociaux du graphisme”&lt;/em&gt;, &lt;em&gt;“Transformer les territoires ruraux à travers le design”&lt;/em&gt;, &lt;em&gt;“Que peut le design pour les populations défavorisées ?”&lt;/em&gt;… Yummy !&lt;/p&gt;
 
-&lt;p&gt;Envie de creuser certaines de ces interventions, mais pour une bonne intro et trouver quelques liens où s’égarer, rendez-vous sur &lt;a href=&quot;https://hackpad.com/Design-innovation-sociale-et-vie-publique.-LTVxzyt5rmU&quot;&gt;la prise de note collaborative&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Comme porte d’entrée pour creuser les interventions, rien de mieux que &lt;a href=&quot;https://hackpad.com/Design-innovation-sociale-et-vie-publique.-LTVxzyt5rmU&quot;&gt;le compte-rendu collaboratif&lt;/a&gt; de l’événement.&lt;/p&gt;
 
-&lt;p&gt;Et quelques uns des liens ici au cas où le pad disparaitrait :&lt;/p&gt;
+&lt;p&gt;Quelques uns des liens que je tenais à conserver :&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;la plateforme &lt;a href=&quot;http://www.plateforme-socialdesign.net/&quot;&gt;Social Design&lt;/a&gt;, que j’aime recroiser et promouvoir&lt;/li&gt;
-  &lt;li&gt;cycle de conférences &lt;a href=&quot;http://www.whatdesigncando.com/&quot;&gt;“What design can do ?”&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;le cycle de conférences &lt;a href=&quot;http://www.whatdesigncando.com/&quot;&gt;“What design can do ?”&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.designwithoutborders.com/&quot;&gt;Design without borders&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;Et la citation qui m’a stoppée dans ma lecture :&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Se fait-on complice du statu quo en l’améliorant à la marge ?” (Jean-Gilles Cahn)&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;p&gt;Source : &lt;a href=&quot;https://hackpad.com/Design-innovation-sociale-et-vie-publique.-LTVxzyt5rmU&quot;&gt;Design, innovation sociale et vie publique.Compte-rendu de la journée d’étude du réseau de doctorant.e.s en design, Design en recherche Jeudi 15 Septembre 2016, Strate College.&lt;/a&gt;&lt;/p&gt;
 
@@ -35,8 +41,6 @@
         
         <category>design</category>
         
-        <category>ui/ux</category>
-        
         
         <category>binary_transition</category>
         
@@ -44,7 +48,7 @@
     
       <item>
         <title>Principes de lutte contre la surcharge cognitive</title>
-        <description>&lt;p&gt;Dans Smashig Magazine, Danny Halarewich revient sur quelques principes pour éviter la surcharge cognitive chez les utilisateurs d’un site. Capital pour concevoir des outils utiles, utilisables et utilisés.&lt;/p&gt;
+        <description>&lt;p&gt;Dans &lt;a href=&quot;https://www.smashingmagazine.com/&quot;&gt;Smashing Magazine&lt;/a&gt;, Danny Halarewich revient sur quelques principes qui visent à éviter la surcharge cognitive chez les utilisateurs d’un site. Capital pour concevoir des outils utiles, utilisables et utilisés.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
@@ -52,34 +56,34 @@
   &lt;p&gt;The best user experience is the one the user doesn’t notice.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Ainsi commence l’article, et c’est l’un des points figurant en haut de ma table des lois mentale, quand je réfléchis à la conception d’un site.&lt;/p&gt;
-
-&lt;p&gt;Pense-bête sous forme de liste à puce des principes avancés dans l’article :&lt;/p&gt;
+&lt;p&gt;Ainsi commence l’article, et c’est l’un des points figurant en haut de ma table des lois mentale, quand je réfléchis à la conception d’un site (ce qui ne signifie pas que j’arrive systématiquement à m’y tenir bien évidemment) .&lt;/p&gt;
 
 &lt;h2 id=&quot;quelques-enseignements-du-livre-dont-make-me-think-de-steve-krug&quot;&gt;Quelques enseignements du livre Don’t Make me Think, de Steve Krug&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Chaque page devrait se suffire à elle-même et ne pas nécessiter d’explication, car un utilisateur est susceptible de débarquer sur le site à n’importe quelle page&lt;/li&gt;
-  &lt;li&gt;L’utilisabilité d’un système peut être considérée comme bonne quand une personne de capacité ou d’expérience moyenne peut accomplir son objectif&lt;/li&gt;
+  &lt;li&gt;Chaque page devrait se suffire à elle-même et ne pas nécessiter d’explication, car un utilisateur est susceptible de débarquer sur le site à n’importe quelle page.&lt;/li&gt;
+  &lt;li&gt;L’utilisabilité d’un système peut être considérée comme bonne quand une personne de capacité ou d’expérience moyenne peut accomplir son objectif.&lt;/li&gt;
   &lt;li&gt;La plupart des usages du web sont guidés par la motivation de gagner du temps.&lt;/li&gt;
-  &lt;li&gt;Le bouton “Retour” est le + utilisé dans les navigateurs&lt;/li&gt;
-  &lt;li&gt;Même s’il n’est jamais utilisé, le buoton “accueil” rassure les utilisateurs&lt;/li&gt;
+  &lt;li&gt;Le bouton “Retour” est le + utilisé dans les navigateurs.&lt;/li&gt;
+  &lt;li&gt;Même s’il n’est jamais utilisé, le bouton “accueil” rassure les utilisateurs.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;les-principales-causes-de-surcharge-cognitives&quot;&gt;Les principales causes de surcharge cognitives&lt;/h2&gt;
+&lt;h2 id=&quot;les-principales-causes-de-surcharge-cognitive&quot;&gt;Les principales causes de surcharge cognitive&lt;/h2&gt;
 
 &lt;h3 id=&quot;les-actions-non-ncessaires&quot;&gt;Les actions non nécessaires&lt;/h3&gt;
 
-&lt;p&gt;&lt;em&gt;Exemple&lt;/em&gt; : exiger l’inscription d’un utilisateur avant toute utilisation du site, click supplémentaire qui pourrait être évité grâce à l’autofocus sur un champs…&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Exemple&lt;/em&gt; : exiger l’inscription d’un utilisateur avant toute utilisation du site.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Solution&lt;/em&gt; : Lister toutes les étapes que doit effectuer un utilisateur pour accomplir une tâche, supprimer celles qu’on peut supprimer (regarder les redondances)&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Solutions&lt;/em&gt; :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Lister toutes les étapes que doit effectuer un utilisateur pour accomplir une tâche, supprimer celles qu’on peut supprimer (regarder les redondances); par exemple un click supplémentaire qui pourrait être évité grâce à l’autofocus sur un champs.&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h3 id=&quot;sur-stimulation&quot;&gt;Sur-stimulation&lt;/h3&gt;
 
 &lt;p&gt;&lt;em&gt;Exemple&lt;/em&gt; : des animations simultanées sur une même page&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Solutions&lt;/em&gt; :&lt;/p&gt;
-
 &lt;ul&gt;
   &lt;li&gt;se débarasser de tout ce qui n’est pas essentiel. (Voir aussi une &lt;a href=&quot;https://static.googleusercontent.com/external_content/untrusted_dlcp/research.google.com/en/us/pubs/archive/38315.pdf&quot;&gt;étude&lt;/a&gt; démontrant que les utilisateurs préfères les sites simples par rapport à ceux visuellement complexes)&lt;/li&gt;
   &lt;li&gt;diversifier le contenu en alternant texte et image&lt;/li&gt;
@@ -106,8 +110,8 @@
 &lt;p&gt;Morceler le contenu (“chunking”, en v.o., avec plein d’exemples dans cet &lt;a href=&quot;https://www.nngroup.com/articles/chunking/&quot;&gt;article&lt;/a&gt;)&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;regroupement d’iamges dans des “cards”, à la Etsy&lt;/li&gt;
-  &lt;li&gt;formualaires en plusieurs étapes&lt;/li&gt;
+  &lt;li&gt;regroupement d’images dans des “cards”, à la Etsy&lt;/li&gt;
+  &lt;li&gt;formulaires en plusieurs étapes&lt;/li&gt;
   &lt;li&gt;découper les longs textes en courts paragraphes avec des titres clairs&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -118,7 +122,7 @@
 &lt;p&gt;&lt;em&gt;Solutions&lt;/em&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Réutiliser des visuels familiers pour les icones&lt;/li&gt;
+  &lt;li&gt;Réutiliser comme icône des visuels familiers&lt;/li&gt;
   &lt;li&gt;Utiliser des termes connus dans la labellisation de la navigation et des boutons&lt;/li&gt;
   &lt;li&gt;En cas de fonctionnalité inédite, se fier à des principes de skeuomorphism pour le rattacher à une expérience connue&lt;/li&gt;
   &lt;li&gt;ne pas oublier l’“onboarding” si l’interface recèle des subtilités&lt;/li&gt;
@@ -134,13 +138,13 @@
 &lt;ul&gt;
   &lt;li&gt;Test de tri de carte (&lt;a href=&quot;https://www.smashingmagazine.com/2014/10/improving-information-architecture-card-sorting-beginners-guide/&quot;&gt;card-sorting test&lt;/a&gt;)&lt;/li&gt;
   &lt;li&gt;Test d’arbre (&lt;a href=&quot;http://www.measuringu.com/blog/tree-testing-ia.php&quot;&gt;tree test&lt;/a&gt;)&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.asis.org/Bulletin/Aug-10/AugSep10_Brown.pdf&quot;&gt;8 principes de l’architecture d’information&lt;/a&gt; :
+  &lt;li&gt;&lt;a href=&quot;https://www.asis.org/Bulletin/Aug-10/AugSep10_Brown.pdf&quot;&gt;8 principes de l’architecture d’information&lt;/a&gt;, parmi lesquels :
     &lt;ul&gt;
       &lt;li&gt;classification multiple : utiliser différentes méthodes de classification pour s’adapter aux différentes façon de penser des utilisateurs&lt;/li&gt;
       &lt;li&gt;divulgation : ne révéler que la quantité nécessaire d’info pour que l’utilisateur sache à quoi s’attendre&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;se débarrasser des redondances en combinante les pages ou les items de menu (une seule page pour toutes les bios des membres d’une équipe, par exemple)&lt;/li&gt;
+  &lt;li&gt;se débarrasser des redondances en combinant les pages ou les items de menu (une seule page pour toutes les bios des membres d’une équipe, par exemple)&lt;/li&gt;
   &lt;li&gt;si certaines fonctionnalités sont + importantes que d’autres, utiliser des techniques pour les mettre en avant (taille, animation, couleur…)&lt;/li&gt;
 &lt;/ul&gt;
 
