@@ -26,4 +26,6 @@ Ressources en vrac :
 
 Source : [Offline Storage for Progressive Web Apps][source]
 
+https://www.quaternum.net/2016/06/23/quatre-bonnes-raisons-de-faire-du-web-hors-connexion/
+
 [source]: https://medium.com/dev-channel/offline-storage-for-progressive-web-apps-70d52695513c#.wnfv7c6py

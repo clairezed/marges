@@ -74,6 +74,11 @@ Photopea supports layers, layer masks and blend modes, and offers a lot of the t
 * http://megaboilerplate.com/
 * https://github.com/holyjs/holyjs
 
+### Lib js
+
+- [Accelerated Mobile Pages (AMP) Project](https://www.ampproject.org/) : Fast and responsive custom elements as part of a larger spec to build content pages easily.
+- [Packery](http://packery.metafizzy.co/) : Gapless, draggable grid layouts
+
 
 ## <a name="devops"></a> DevOps
 

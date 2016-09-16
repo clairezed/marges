@@ -16,6 +16,7 @@ Quelques initiatives (qui m'ont l'air) cools sur lesquelles jeter ou garder un o
 * [Structures](#structures)
   * [Collaborations professionnels - société civile](#collaborations-professionnels-société-civile)
   * [Collaboration développeur - société civile](#collaboration-développeur-société-civile)
+  * [Dev solo qui font de l'ESS](#dev-solo-ess)
   * [Nouveaux modes de travail développeur-compatibles](#nouveaux-modes-de-travail-développeur-compatibles)
   * [Civic techish](#civic-techish)
 * [Festivals](#festivals)
@@ -106,9 +107,16 @@ Nous menons des projets de manière collective (avec des collectivités, structu
 ###### tags: `cool probable` `marseille`
 
 
-#### [Cap Colelctif](http://www.cap-collectif.com/)
+#### [Cap Collectif](http://www.cap-collectif.com/)
 
 Une startup civique au service de la transformation de la société
+
+
+### <a name="dev-solo-ess"></a> Dev solo qui font de l'ESS
+
+- [Yann Rolland](http://www.yannrolland.com/)
+
+
 
 ### <a name="nouveaux-modes-de-travail-développeur-compatibles"></a>Nouveaux modes de travail développeur-compatibles
 

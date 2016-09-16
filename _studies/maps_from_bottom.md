@@ -8,6 +8,8 @@ category: binary_transition
 
 Depuis mon arrivée dans ma nouvelle ville, je suis fascinée par le nombre de commerces vacants, laissés pour certains à l'abandon depuis ce qui semble etre des années. Ca fait longtemps que je garde une oreille intéressée pour tout ce qui est de l'ordre de la réappropriation par les quidams de toute sorte de chose, et notamment des espaces urbains, et là, voir tous ces potentiels inexploités, ça me fait bouillir.
 
+<!--more-->
+
 Alors, peut etre est-ce dans l'air du temps, peut etre suis-je tout simplement + attentive actuellement à ce type de projets... Toujours est-il que je tombe beaucoup en ce moment sur des projets de cartographie d'espaces vacants, de répertoires de lieux à transformer, de processus de récupération d'endroits inexploités.
 
 Il est temps de commencer un recueil. L'étude préliminaire avant de commencer (bient^ot ?) un projet ici.
