@@ -5,9 +5,170 @@
     <description>Prise de notes des internets de claire zuliani</description>
     <link>https://clairezed.github.io/marges/</link>
     <atom:link href="https://clairezed.github.io/marges/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 06 Sep 2016 13:58:07 +0200</pubDate>
-    <lastBuildDate>Tue, 06 Sep 2016 13:58:07 +0200</lastBuildDate>
+    <pubDate>Fri, 16 Sep 2016 09:16:46 +0200</pubDate>
+    <lastBuildDate>Fri, 16 Sep 2016 09:16:46 +0200</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Principes de lutte contre la surcharge cognitive</title>
+        <description>&lt;p&gt;Je découvrais hier, alors même qu’elle se déroulait, la tenue d’une journée d’étude au programme alléchant, “Design, innovation sociale et vie publique”, par Design en recherche réseau de doctorant.e.s en design. Heureusement, il en reste des traces.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Avec comme mot d’ordre &lt;em&gt;“Le design peut­-il / doit­-il “changer le monde” ?”&lt;/em&gt;, la journée présentait des communications comme &lt;em&gt;“Généalogie des engagements sociaux du graphisme”&lt;/em&gt;, &lt;em&gt;“Transformer les territoires ruraux à travers le design”&lt;/em&gt;, &lt;em&gt;“Que peut le design pour les populations défavorisées ?”&lt;/em&gt;…&lt;/p&gt;
+
+&lt;p&gt;Envie de creuser certaines de ces interventions, mais pour une bonne intro et trouver quelques liens où s’égarer, rendez-vous sur &lt;a href=&quot;https://hackpad.com/Design-innovation-sociale-et-vie-publique.-LTVxzyt5rmU&quot;&gt;la prise de note collaborative&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Et quelques uns des liens ici au cas où le pad disparaitrait :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;la plateforme &lt;a href=&quot;http://www.plateforme-socialdesign.net/&quot;&gt;Social Design&lt;/a&gt;, que j’aime recroiser et promouvoir&lt;/li&gt;
+  &lt;li&gt;cycle de conférences &lt;a href=&quot;http://www.whatdesigncando.com/&quot;&gt;“What design can do ?”&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.designwithoutborders.com/&quot;&gt;Design without borders&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Source : &lt;a href=&quot;https://hackpad.com/Design-innovation-sociale-et-vie-publique.-LTVxzyt5rmU&quot;&gt;Design, innovation sociale et vie publique.Compte-rendu de la journée d’étude du réseau de doctorant.e.s en design, Design en recherche Jeudi 15 Septembre 2016, Strate College.&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 16 Sep 2016 00:00:00 +0200</pubDate>
+        <link>https://clairezed.github.io/marges/binary_transition/2016/09/16/journee-etude-design-changer-monde.html</link>
+        <guid isPermaLink="true">https://clairezed.github.io/marges/binary_transition/2016/09/16/journee-etude-design-changer-monde.html</guid>
+        
+        <category>design</category>
+        
+        <category>ui/ux</category>
+        
+        
+        <category>binary_transition</category>
+        
+      </item>
+    
+      <item>
+        <title>Principes de lutte contre la surcharge cognitive</title>
+        <description>&lt;p&gt;Dans Smashig Magazine, Danny Halarewich revient sur quelques principes pour éviter la surcharge cognitive chez les utilisateurs d’un site. Capital pour concevoir des outils utiles, utilisables et utilisés.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The best user experience is the one the user doesn’t notice.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Ainsi commence l’article, et c’est l’un des points figurant en haut de ma table des lois mentale, quand je réfléchis à la conception d’un site.&lt;/p&gt;
+
+&lt;p&gt;Pense-bête sous forme de liste à puce des principes avancés dans l’article :&lt;/p&gt;
+
+&lt;h2 id=&quot;quelques-enseignements-du-livre-dont-make-me-think-de-steve-krug&quot;&gt;Quelques enseignements du livre Don’t Make me Think, de Steve Krug&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Chaque page devrait se suffire à elle-même et ne pas nécessiter d’explication, car un utilisateur est susceptible de débarquer sur le site à n’importe quelle page&lt;/li&gt;
+  &lt;li&gt;L’utilisabilité d’un système peut être considérée comme bonne quand une personne de capacité ou d’expérience moyenne peut accomplir son objectif&lt;/li&gt;
+  &lt;li&gt;La plupart des usages du web sont guidés par la motivation de gagner du temps.&lt;/li&gt;
+  &lt;li&gt;Le bouton “Retour” est le + utilisé dans les navigateurs&lt;/li&gt;
+  &lt;li&gt;Même s’il n’est jamais utilisé, le buoton “accueil” rassure les utilisateurs&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;les-principales-causes-de-surcharge-cognitives&quot;&gt;Les principales causes de surcharge cognitives&lt;/h2&gt;
+
+&lt;h3 id=&quot;les-actions-non-ncessaires&quot;&gt;Les actions non nécessaires&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;Exemple&lt;/em&gt; : exiger l’inscription d’un utilisateur avant toute utilisation du site, click supplémentaire qui pourrait être évité grâce à l’autofocus sur un champs…&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Solution&lt;/em&gt; : Lister toutes les étapes que doit effectuer un utilisateur pour accomplir une tâche, supprimer celles qu’on peut supprimer (regarder les redondances)&lt;/p&gt;
+
+&lt;h3 id=&quot;sur-stimulation&quot;&gt;Sur-stimulation&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;Exemple&lt;/em&gt; : des animations simultanées sur une même page&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Solutions&lt;/em&gt; :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;se débarasser de tout ce qui n’est pas essentiel. (Voir aussi une &lt;a href=&quot;https://static.googleusercontent.com/external_content/untrusted_dlcp/research.google.com/en/us/pubs/archive/38315.pdf&quot;&gt;étude&lt;/a&gt; démontrant que les utilisateurs préfères les sites simples par rapport à ceux visuellement complexes)&lt;/li&gt;
+  &lt;li&gt;diversifier le contenu en alternant texte et image&lt;/li&gt;
+  &lt;li&gt;privilégier les mises en page symétriques ou à l’asymétrie construite&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;trop-doptions-loi-dhicks&quot;&gt;Trop d’options (Loi d’Hicks)&lt;/h3&gt;
+
+&lt;p&gt;Plus on a d’options, plus on met de temps à prendre une décision.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Solutions&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;grouper les options multiples sous des catégories parapluie&lt;/li&gt;
+  &lt;li&gt;mais attention à ne pas avoir trop de sous menus et navigations cachées, qui limitent la capacité de découverte -&amp;gt; on peut aussi dans ce cas revoir l’architecture globale et réduire le nombre de catégories de façon à ce que toutes les catégories puissent entrer dans la principale barre de navigation.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;trop-de-contenu&quot;&gt;Trop de contenu&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;Exemple&lt;/em&gt; : afficher tous les produits d’un coup (&lt;a href=&quot;http://www.arngren.net/&quot;&gt;www.arngren.net&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Solutions&lt;/em&gt; :&lt;/p&gt;
+
+&lt;p&gt;Morceler le contenu (“chunking”, en v.o., avec plein d’exemples dans cet &lt;a href=&quot;https://www.nngroup.com/articles/chunking/&quot;&gt;article&lt;/a&gt;)&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;regroupement d’iamges dans des “cards”, à la Etsy&lt;/li&gt;
+  &lt;li&gt;formualaires en plusieurs étapes&lt;/li&gt;
+  &lt;li&gt;découper les longs textes en courts paragraphes avec des titres clairs&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;une-interface-ambigue&quot;&gt;Une interface ambigue&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;Exemple&lt;/em&gt; : icône inconnue&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Solutions&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Réutiliser des visuels familiers pour les icones&lt;/li&gt;
+  &lt;li&gt;Utiliser des termes connus dans la labellisation de la navigation et des boutons&lt;/li&gt;
+  &lt;li&gt;En cas de fonctionnalité inédite, se fier à des principes de skeuomorphism pour le rattacher à une expérience connue&lt;/li&gt;
+  &lt;li&gt;ne pas oublier l’“onboarding” si l’interface recèle des subtilités&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;pages-et-fonctionnalits-difficiles--trouver&quot;&gt;Pages et fonctionnalités difficiles à trouver&lt;/h3&gt;
+
+&lt;p&gt;Là encore, faire simple et connu, mais malgré ça vous pouvez très bien ne pas avoir la même façon de réfléchir et de vous orienter que l’utilisateur final.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Solutions&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Quelques tests à effectuer avec un groupe d’utilisateur type :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Test de tri de carte (&lt;a href=&quot;https://www.smashingmagazine.com/2014/10/improving-information-architecture-card-sorting-beginners-guide/&quot;&gt;card-sorting test&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;Test d’arbre (&lt;a href=&quot;http://www.measuringu.com/blog/tree-testing-ia.php&quot;&gt;tree test&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.asis.org/Bulletin/Aug-10/AugSep10_Brown.pdf&quot;&gt;8 principes de l’architecture d’information&lt;/a&gt; :
+    &lt;ul&gt;
+      &lt;li&gt;classification multiple : utiliser différentes méthodes de classification pour s’adapter aux différentes façon de penser des utilisateurs&lt;/li&gt;
+      &lt;li&gt;divulgation : ne révéler que la quantité nécessaire d’info pour que l’utilisateur sache à quoi s’attendre&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;se débarrasser des redondances en combinante les pages ou les items de menu (une seule page pour toutes les bios des membres d’une équipe, par exemple)&lt;/li&gt;
+  &lt;li&gt;si certaines fonctionnalités sont + importantes que d’autres, utiliser des techniques pour les mettre en avant (taille, animation, couleur…)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;incohrence-interne&quot;&gt;Incohérence interne&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;Exemple&lt;/em&gt; :  utiliser différente façon d’indiquer un lien (une fois souligné, une fois non) suivant la page&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Solutions&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;mettre en place un “Style Guide”&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Source : &lt;a href=&quot;https://www.smashingmagazine.com/2016/09/reducing-cognitive-overload-for-a-better-user-experience/&quot;&gt;Reducing Cognitive Overload For A Better User Experience&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 11 Sep 2016 00:00:00 +0200</pubDate>
+        <link>https://clairezed.github.io/marges/binary_transition/2016/09/11/principes-de-lutte-contre-la-surcharge-cognitive.html</link>
+        <guid isPermaLink="true">https://clairezed.github.io/marges/binary_transition/2016/09/11/principes-de-lutte-contre-la-surcharge-cognitive.html</guid>
+        
+        <category>design</category>
+        
+        <category>ui/ux</category>
+        
+        
+        <category>binary_transition</category>
+        
+      </item>
     
       <item>
         <title>De la tech civique chez les agents de l'Etat</title>
@@ -818,191 +979,6 @@ On compte les voix, et on distribue les awards ce samedi 2 à 19h00 :)&lt;/p&gt;
         
         
         <category>binary_transition</category>
-        
-      </item>
-    
-      <item>
-        <title>Pas sage en Seine - Hackerspace Festival 2016, jour 1</title>
-        <description>&lt;p&gt;Pas sage en Seine, j’y étais passée il y a un paquet d’années, à un moment où c’était en plein coeur de Paris et où Owni existait encore (ça date un peu). Ca m’avait eu l’air plein de gens hyper intéressants mais incompréhensibles.&lt;/p&gt;
-
-&lt;p&gt;J’ai gagné quelques niveaux en technique entre temps, et quand j’ai vu le programme, je me suis dit que ça avait l’air bigrement intéressant. Alors j’ai retenté le coup.&lt;/p&gt;
-
-&lt;p&gt;Récit d’une moitié de Pas sage en Seine / Hacker Space Festival : &lt;strong&gt;Jour 1 (pour moi) - Samedi 2 juillet&lt;/strong&gt;&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;&lt;em&gt;NdA : comme ce post est vachement trop long et déroge à toutes les règles les plus élémentaires de la lecture sur Internet, je l’ai scindé en deux. &lt;a href=&quot;/marges/binary_transition/2016/07/14/pseshsf-2016-02.html&quot;&gt;La suite ici&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;avec-ethereum-privilgier-les-dumb-contracts-&quot;&gt;Avec ethereum, privilégier les dumb contracts ?&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Développer un contrat/programme sur Ethereum&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Stéphane Bortzmeyer&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;J’arrive direct en début d’après-midi sur une conférence de &lt;a href=&quot;https://twitter.com/bortzmeyer&quot;&gt;@bortzmeyer&lt;/a&gt;, sur un des sujets que j’ai le plus vu abordé dans les milieux tech cette année : &lt;em&gt;“Développer un contrat/programme sur Ethereum”&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;Je fais justement encore un blocage cognitif sur la blockchain, j’ai donc peur de pas panner grand chose et me dis que  c’est idéal pour ne pas me dépayser des sensations ressenties lors de mon premier Pas sage en Seine (sic).&lt;/p&gt;
-
-&lt;p&gt;En fait, même si ça a été en partie le cas, j’ai tout de même retiré un paquet d’infos et d’enseignements assez inspirants de cette conférence ; plus particulièrement en matière de bonnes pratiques de développement et de sécurité.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“Vouloir résoudre des bogues en traitant du logiciel, c’est pas toujours une bonne idée.”&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Bortzmeyer analyse l’erreur du &lt;a href=&quot;https://daohub.org/&quot;&gt;DAO&lt;/a&gt; (bug entrainant la perte de quelque chose comme 50 millions euros) comme étant dû à une &lt;strong&gt;trop forte anticipation de problèmes potentiels&lt;/strong&gt;. En prévoyant trop de cas critiques éventuels et en les corrigeant, les développeurs ont créé malgré eux de nouvelles fragilités dans leur programme.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;“Le problème avec le DAO, c’est qu’on a utilisé les mêmes méthodes de productivité que le web”&lt;/em&gt;, c’est à dire coder vite, beaucoup, en se disant que tant que ça marche dans les grandes lignes, c’est bon. Dans les milieux ultrasécurisés, on écrit au contraire du code hyper simple, hyper lentement. Il aurait selon lui fallu coder, non comme pour un site web, mais comme pour une centrale nucléaire.&lt;/p&gt;
-
-&lt;p&gt;C’est aussi peut être lié au côté parfois “cowboy” des devs (et je ne suis pas la dernière à y succomber) : &lt;strong&gt;les programmeurs ont tendance à aimer faire du code compliqué&lt;/strong&gt;, du code d’esthète beau comme du lettrage à la main à la peinture émail, à se la raconter quoi. Or, c’est dans les contrats les plus simples et triviaux qu’il est le plus compliqué d’introduire des bugs.&lt;/p&gt;
-
-&lt;p&gt;Quelques éléments de bilan :&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;les contrats sont des programmes informatiques, donc évidemment ils ont des bugs. Réfléchissez toujours avant d’y mettre de l’argent.&lt;/li&gt;
-  &lt;li&gt;ce n’est pas pour autant qu’il ne faut pas utiliser les contrats. On utilise bien du javascript ou du PHP, on utilise bien le web (mais le web n’est pas bugué, n’est-ce pas). Il faut juste avoir conscience que les contrats ne sont pas infaillibles&lt;/li&gt;
-  &lt;li&gt;ne pas vérifier les condensats peut etre considéré comme une bonne pratique, car trop coûteux en éther&lt;/li&gt;
-  &lt;li&gt;Par contre, faut pas pour autant oublier de tester ses codes de retour, hein.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;En définitive, pour Bortzmeyer, l’appellation “smart contracts” devrait très avantageusement être remplacée par celle de &lt;strong&gt;“dumb contracts”&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Ce n’est pas la première fois que j’entends parler des avantages à coder simple, limite un peu grossier. Plus le temps passe et plus je comprends qu’il n’y a vraiment pas de honte à coder façon “gros sabots” (un peu rustique, mais c’est du solide), et c’est une façon de faire dans laquelle je me retrouve de plus en plus.&lt;/p&gt;
-
-&lt;p&gt;Source : &lt;a href=&quot;http://www.bortzmeyer.org/pas-sage-en-seine-ethereum.html&quot;&gt;http://www.bortzmeyer.org/pas-sage-en-seine-ethereum.html&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;lergonomie-cest-pas-que-pour-les-autres&quot;&gt;L’ergonomie, c’est pas que pour les autres&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;L’ergonomie, indispensable à l’adoption massive du libre&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;m4dz (Matthias Dugué) / Luc Chaffard&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;L’intitulé de la conférence qui suit est une affirmation à laquelle j’adhère massivement : &lt;em&gt;“L’ergonomie, indispensable à l’adoption massive du libre”&lt;/em&gt;. L’intéret pour moi était donc plutot d’avoir des éléments de diagnostic (pourquoi est-ce que le design peche, dans le libre ?), des pistes de résolution, et voir un peu comment la communauté “hacker / libriste / engagée” (comment on définit la “communauté” de ces festivals, en fait ?) recevait ce genre de discours.&lt;/p&gt;
-
-&lt;p&gt;Qu’est-ce que ça donne ?&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;” Pour une adoption de masse, il faut rendre le produit accessible au maximum “&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Là-dessus, les deux intervenants, venus de &lt;a href=&quot;https://cozy.io/fr/&quot;&gt;Cozy&lt;/a&gt;, prêchent une convaincue. Mais ils enfoncent le clou et insistent, en parlant au sujet du développement de produits open source de &lt;strong&gt;&lt;em&gt;“relation egosexuelle”&lt;/em&gt;&lt;/strong&gt;, travers par lequel on se retrouve à réaliser un produit pour soi, ses usages, sa communauté. Une manière de rappeler que, lorsqu’on bosse pour de l’open source et qu’on essaye de se positionner en alternative aux GAFA, on a tout &lt;strong&gt;intérêt à être accessible au plus grand nombre&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;” Si tout ce qu’on arrive a libérer, c’est que de la ligne de code, et bien on aura perdu. “&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Comment fait-on ? Les méthodes décrites et appliquées par l’équipe de Cozy sont finalement relativement connues, mais c’est souvent pas inutile de rappeler les bonnes pratiques : connaître ses utilisateurs, savoir à qui on s’adresse, et avoir conscience qu’on n’est &lt;strong&gt;&lt;em&gt;“qu’un utilisateur parmi d’autres”&lt;/em&gt;&lt;/strong&gt; (et même pas un utilisateur représentatif, vu qu’on connait son produit dans les moindres détails).&lt;/p&gt;
-
-&lt;p&gt;La façon dont ils parlent des utilisateurs me donne envie de continuer à développer sur des outils et écrans un peu pourris, basiques, pas rétina pour un sou. Une façon de ne pas trop m’éloigner des conditions matérielles du type de personne pour/avec lesquelles j’ai envie de bosser.&lt;/p&gt;
-
-&lt;p&gt;Ca a parlé ensuite pas mal de “se focuser”, “user experience”, “user centric”… Beaucoup de vocables anglo ou franglo-saxons (c’est le domaine qui veut ça, hein), et notamment des mots que j’avais ces derniers temps principalement vu utilisés pour camoufler des concepts fumeux, et faire passer des idées remplies de vent pour des projets innovants. Je découvre donc que ces mots sont aussi utilisés sans chichi dans la communauté open source. &lt;strong&gt;Mes repères anti-bullshit s’effondrent.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;En fin d’intervention, un retour sur la &lt;strong&gt;distinction entre ergonomie et design&lt;/strong&gt; : tout le monde pouvant contribuer à la première et donner des conseils pour l’améliorer, le design devant rester entre les mains du designer. Malgré tout, rien n’oblige à suivre strictement les conseils et avis des utilisateurs, et l’intuition reste primordiale (suivant la logique d’un Henri Ford qui aurait dit : &lt;em&gt;“Si j’avais demandé aux gens ce qu’ils voulaient, ils auraient répondu des chevaux plus rapides.”&lt;/em&gt;).&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“On a besoin de la contribution des utilisateurs, mais notre devoir est de les inspirer à aller plus loin”&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Pour finir, une question restée sans réponse, mais des initiatives en cours devraient contribuer à en apporter des bribes : &lt;em&gt;“Est-ce que qu’on peut open sourcer du design ?”&lt;/em&gt; Mozilla le tente actuellement avec &lt;a href=&quot;https://blog.mozilla.org/opendesign/&quot;&gt;Mozilla Open Design&lt;/a&gt;. A suivre.&lt;/p&gt;
-
-&lt;p&gt;A la relecture de mes notes, je me demande : les intervenants ont surtout, il me semble, pointé pour expliquer le retard de l’open source en matière de design, un problème d’ordre “culturel” ( l’“égo-sexualité” ;) ). Ce problème n’est-il propre qu’au milieu open source ? Je dirais que non. N’y a-t-il pas aussi un problème de moyens (les études publics demandent du temps et/ou de l’argent) ?&lt;/p&gt;
-
-&lt;p&gt;Et pour retrouver les slides, &lt;a href=&quot;http://talks.m4dz.net/open-source-ux/#1&quot;&gt;c’est ici&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;un-peu-de-design-tangible-libre&quot;&gt;Un peu de design tangible libre&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Vers un design libre&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Christophe André&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;L’association &lt;a href=&quot;https://www.asso-entropie.fr/fr/&quot;&gt;Entropie&lt;/a&gt; promeut le &lt;strong&gt;design libre&lt;/strong&gt; : ils créent des productions originales dont ils proposent ensuite les plans et notices librement, afin que tout un chacun puisse les reproduire. Par exemple, ils proposent sur leur site al notice d’une &lt;a href=&quot;https://www.asso-entropie.fr/fr/design-libre/notices/carriole-serigraphier/&quot;&gt;cariole à sérigraphier&lt;/a&gt; (ajout n°67 à ma liste de “projets qui ont l’air trop cool que je ferai quand je prendrai le temps”)&lt;/p&gt;
-
-&lt;p&gt;Pour parler de design libre, Christophe André parle de ses destinataires, qui sont voués à être ses producteurs. : le &lt;strong&gt;“prosommateur”&lt;/strong&gt;. Prosommater (?), c’est s’impliquer dans la production de l’objet qu’on veut utiliser. Il cite l’exemple d’une amap où il est possible de “régler” les paniers soit en temps de travail, soit en monnaie sonnante et trébuchante.&lt;/p&gt;
-
-&lt;p&gt;Ce qui m’intriguait le plus ici (ce qui m’intrigue en fait de base dans l’open source “et son monde”) est le modèle économique : comment se finance ce type de projet où la production intellectuelle est “donnée” ?&lt;/p&gt;
-
-&lt;p&gt;Ici, c’est en définitive &lt;strong&gt;le temps de Recherche et Développement qui est financé&lt;/strong&gt;. Des personnes ou associations ayant des besoins spécifiques sollicitent l’association pour qu’elle produise un outil adapté ; la libération des sources une fois la tâche réalisée fait partie du contrat. Entropie part exclusivement des besoins exprimés, ils ne produisent pas de prototypes par avance en espérant qu’il rencontre une demande.&lt;/p&gt;
-
-&lt;p&gt;Parmi les projets similaires cités : &lt;a href=&quot;http://www.latelierpaysan.org/&quot;&gt;l’atelier paysan&lt;/a&gt; à Grenoble, qui aide les paysans à produire leur propre outillage (note à moi-même : prendre le temps d’interroger leur modèle éco).&lt;/p&gt;
-
-&lt;p&gt;Petit moment de pause, je descends au village associatif et en profite pour louper intégralement sans m’en rendre compte l’intervention sur les cafés vie privée.&lt;/p&gt;
-
-&lt;p&gt;A la place, je traîne et discute avec…&lt;/p&gt;
-
-&lt;h2 id=&quot;pseshsf-debout--le-syndicat-dinitiatives&quot;&gt;PSES+HSF Debout ! Le Syndicat d’Initiatives&lt;/h2&gt;
-
-&lt;p&gt;Discussions sur le syndicalisme en milieu tech, et les moyens de travailler sur des projets militants et en vivre. Cette question se résume aussi à “Où est le fric ?”, et c’est une nouvelle fois la solution de partager son temps entre projets rémunérateurs pour des grands comptes, qui payent le temps passé à bosser sur des projets engagés sans moyens.&lt;/p&gt;
-
-&lt;h2 id=&quot;ffdn&quot;&gt;FFDN&lt;/h2&gt;
-
-&lt;p&gt;La présence de la FFDN (fédération qui regroupe les Fournisseurs d’Accès à Internet associatifs) me permet d’identifier mon FAI associatif de référence suite à mon passage du Rhône au Vosges. J’ai donc quitté Illyse pour trouver &lt;a href=&quot;https://ldn-fai.net/&quot;&gt;Lorraine Data Network&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;C’est l’occasion aussi de découvrir l’un des derniers projets de la FFDN : la &lt;a href=&quot;https://labriqueinter.net/&quot;&gt;Brique internet&lt;/a&gt;, avec du &lt;a href=&quot;https://yunohost.org&quot;&gt;YunoHost&lt;/a&gt; dedans. Deuxième fois que j’entends parler de YunoHost en peu de temps, le projet monte dans ma liste des trucs à tester.&lt;/p&gt;
-
-&lt;h2 id=&quot;communiquer-de-faon-complexe-avec-son-chauffage&quot;&gt;Communiquer de façon complexe avec son chauffage&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Vers un web décentralisé ?&lt;/strong&gt;
-&lt;em&gt;Pierre-Louis&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;La première conférence à laquelle j’ai vraiment pas panné grand chose (à part que l’orateur a mené une expérience de contrôle de son chauffage via wifi, et que ça fonctionnait bien et c’était chouette, &lt;em&gt;“jusqu’au moment où j’ai plus eu internet et j’ai eu froid”&lt;/em&gt;).&lt;/p&gt;
-
-&lt;p&gt;Définitivement, il faut encore que je gagne des points d’administration système.&lt;/p&gt;
-
-&lt;p&gt;Parmi les infos que j’ai retenu, en vrac :&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Pourquoi fait-on principalement des services centralisés ? Parce que c’est faciiiiiiile, pas trop cher, etc.&lt;/li&gt;
-  &lt;li&gt;Les dht (decentralized hash table), c’est bien.&lt;/li&gt;
-  &lt;li&gt;BitTorrent passe maintenant par MainlineDHT, pour éviter la centralisation des trackers.&lt;/li&gt;
-  &lt;li&gt;Zeronet est un mix de BitTorrent et de bitcoin.&lt;/li&gt;
-  &lt;li&gt;WebRTC, c’est bien aussi.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;em&gt;Pour lire la suite, &lt;a href=&quot;/marges/binary_transition/2016/07/14/pseshsf-2016-02.html&quot;&gt;c’est là que ça se passe&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 14 Jul 2016 00:00:00 +0200</pubDate>
-        <link>https://clairezed.github.io/marges/binary_transition/2016/07/14/pseshsf-2016-01.html</link>
-        <guid isPermaLink="true">https://clairezed.github.io/marges/binary_transition/2016/07/14/pseshsf-2016-01.html</guid>
-        
-        <category>hacking</category>
-        
-        <category>politique</category>
-        
-        
-        <category>binary_transition</category>
-        
-      </item>
-    
-      <item>
-        <title>On a tinderisé les palettes de couleurs</title>
-        <description>&lt;p&gt;Découverte via &lt;a href=&quot;http://sidebar.io/&quot;&gt;Sidebar&lt;/a&gt; d’une -encore- nouvelle application pour créer des palettes de couleurs, &lt;a href=&quot;http://www.palettable.io&quot;&gt;Palettable&lt;/a&gt;.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;Mais celle-ci, je me la garde sur le coude car :&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;la sélection de la prochaine nuance sur le mode “j’aime / j’aime pas” fonctionne au final vraiment pas mal&lt;/li&gt;
-  &lt;li&gt;les concepteurs promettent que leurs algorithmes grantissent une alliance des couleurs raisonnée.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;(en plus, leur &lt;a href=&quot;https://github.com/alecortega/palettable&quot;&gt;code est en ligne&lt;/a&gt; et leur démarche conceptuelle et technique bien documentée)&lt;/p&gt;
-
-&lt;p&gt;Source : &lt;a href=&quot;http://www.palettable.io&quot;&gt;Palettable&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 13 Jul 2016 00:00:00 +0200</pubDate>
-        <link>https://clairezed.github.io/marges/sustainable_code/2016/07/13/palettable.html</link>
-        <guid isPermaLink="true">https://clairezed.github.io/marges/sustainable_code/2016/07/13/palettable.html</guid>
-        
-        <category>toolkit</category>
-        
-        <category>design</category>
-        
-        <category>color</category>
-        
-        
-        <category>sustainable_code</category>
         
       </item>
     
