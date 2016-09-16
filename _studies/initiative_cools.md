@@ -87,6 +87,11 @@ Cette plateforme permet de répertorier les terrains vacants de Montréal.
 
 ###### tags: `cool probable` `montreal` `cartographie`
 
+#### [Design Territoire Alternatives](http://www.design-territoire-alternatives.fr/)
+
+Collectif de designers spécialisés en design de services et développement local
+
+###### tags: `cool probable` `bretagne` `limousin` `bourgogne` `design`
 
 ### <a name="collaboration-développeur-société-civile"></a> Collaboration développeur - société civile
 
