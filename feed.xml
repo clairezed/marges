@@ -5,9 +5,53 @@
     <description>Prise de notes des internets de claire zuliani</description>
     <link>https://clairezed.github.io/marges/</link>
     <atom:link href="https://clairezed.github.io/marges/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 16 Sep 2016 14:06:51 +0200</pubDate>
-    <lastBuildDate>Fri, 16 Sep 2016 14:06:51 +0200</lastBuildDate>
+    <pubDate>Sat, 24 Sep 2016 18:32:53 +0200</pubDate>
+    <lastBuildDate>Sat, 24 Sep 2016 18:32:53 +0200</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Organiser, méta-dater, bookmarker les internets</title>
+        <description>&lt;p&gt;Il y a un petit paquet de mois, en pleine période de confusion mentale post-attentats et alors que je m’abreuvais de lectures disparates sur le web pour essayer de retrouver une cohérence, je fantasmais sur un outil qui me permette très facilement de stocker des bouts de texte, de les réorganiser ensuite, et de conserver toutes leurs méta-données pour les recontextualiser au besoin. N’ayant pas trouver l’outil correspondant, je me jurais que &lt;em&gt;“quand j’aurais le temps, j’essaierai de créer cet outil”&lt;/em&gt;. D’autres l’ont fait avant moi, et c’est tant mieux.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Ca s’appelle &lt;a href=&quot;https://www.candybank.com&quot;&gt;Candy&lt;/a&gt;, je viens tout juste d’installer l’extension Chrome, et elle va peut-être devenir ma nouvelle meilleure amie. (oui, j’ai même pas testé en profondeur avant d’en causer, mais je suis trop excitée et j’ai besoin de le partager :) )&lt;/p&gt;
+
+&lt;p&gt;Source : &lt;a href=&quot;https://www.candybank.com&quot;&gt;www.candybank.com&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 24 Sep 2016 00:00:00 +0200</pubDate>
+        <link>https://clairezed.github.io/marges/sustainable_code/2016/09/24/organiser-metadater-bookmarker-les-internets.html</link>
+        <guid isPermaLink="true">https://clairezed.github.io/marges/sustainable_code/2016/09/24/organiser-metadater-bookmarker-les-internets.html</guid>
+        
+        <category>design</category>
+        
+        
+        <category>sustainable_code</category>
+        
+      </item>
+    
+      <item>
+        <title>Damned, j'ai été &quot;pawned&quot;</title>
+        <description>&lt;p&gt;Une pincée de sérendipité m’amène à retomber sur ce site de salubrité publique : &lt;a href=&quot;https://haveibeenpwned.com/&quot;&gt;Have I been pawned ?&lt;/a&gt; qui permet de savir si ses données personnelles ont été piratées.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;De mon côté, j’ai testé deux adresses et pas de surprise : elles se sont faites chopées 1 et 5 fois (la fameuse adresse poubelle :) ) chacune. J’avoue ne plus me rappeler si j’avais bien modifié tous mes mots de passe au moment des brèches ; dans le doute je vais faire un brin de ménage prochainement&lt;/p&gt;
+
+&lt;p&gt;Source : &lt;a href=&quot;https://haveibeenpwned.com/&quot;&gt;Have I been pawned ?&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 22 Sep 2016 00:00:00 +0200</pubDate>
+        <link>https://clairezed.github.io/marges/sustainable_code/2016/09/22/pawned.html</link>
+        <guid isPermaLink="true">https://clairezed.github.io/marges/sustainable_code/2016/09/22/pawned.html</guid>
+        
+        <category>design</category>
+        
+        
+        <category>sustainable_code</category>
+        
+      </item>
     
       <item>
         <title>Journée d'étude sur &quot;le design pour sauver le monde&quot;</title>
@@ -445,544 +489,6 @@
         
         
         <category>sustainable_code</category>
-        
-      </item>
-    
-      <item>
-        <title>Remettre la main sur du beau carton</title>
-        <description>&lt;p&gt;Une pincée de sérendipité me permet de retrouver l’initiative qui m’avait le plus enthousiasmée et donnée plein d’envies, lors de l’une des dernières éditions de la Biennale du Design de Saint Etienne.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;En errant au petit bonheur la chance sur les internets, passant par le &lt;a href=&quot;https://medium.com/@MakerTour/en-route-pour-le-tour-des-t-r-u-cs-c69ac8851cf4#.t9kxsf8ig&quot;&gt;Tour des trucs&lt;/a&gt; ou le &lt;a href=&quot;http://movilab.org/index.php?title=Portail:Les_Tiers_Lieux&quot;&gt;portail des Tiers-Lieux libre et open source(“TiLiOS”)&lt;/a&gt;, je tombe sur la &lt;a href=&quot;http://movilab.org/index.php?title=Le_B.E.A.U_:_Bureau_%C3%89ph%C3%A9m%C3%A8re_d%27Activation_Urbaine&quot;&gt;fiche descriptive du B.E.A.U&lt;/a&gt;, Bureau Ephémère d’Activation Urbaine.&lt;/p&gt;
-
-&lt;p&gt;C’est par hasard, en suivant les recommandations d’autochtones croisés sur un autre site de la Biennale, que j’avais découvert le travail de Carton Plan, collectif protéiforme dont j’avais jamais entendu parlé auparavant. Installation d’ateliers artistiques ephémères et boulot créatif de réhabilitation des rez de commerce vacants (en vue qu’ils trouvent repreneurs), exploration urbaine décalée, création de lieux de vie en commun et de mise en relation… J’y avais vu un boulot qui m’avait semblé monumental, avec la création d’un univers riche et cohérent, bien designé, et bourré de jeux de mots + ou - vaseux (oui, pour moi ça fait partie des points positifs), le tout dans une optique sociale et humaine enthousiasmante. Bref, j’avais grave kiffé.&lt;/p&gt;
-
-&lt;p&gt;Ca me fait donc plaisir de pouvoir en rentendre parler, et surtout de voir quelques bouts de l’envers du décor et du modus operandi. Une ressource précieuse pour moi, je retourne y plonger et choper de l’inspiration.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://movilab.org/index.php?title=Le_B.E.A.U_:_Bureau_%C3%89ph%C3%A9m%C3%A8re_d%27Activation_Urbaine&quot;&gt;Fiche du B.E.A.U sur Movilab&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://movilab.org/index.php?title=La_Cartonnerie&quot;&gt;Fiche de la Cartonnerie sur Movilab&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://carton-plein.org/&quot;&gt;Site web de Carton Plein&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://lacartonnerie.blogspot.fr/&quot;&gt;Blog de la cartonnerie&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Thu, 28 Jul 2016 00:00:00 +0200</pubDate>
-        <link>https://clairezed.github.io/marges/binary_transition/2016/07/28/beau-carton.html</link>
-        <guid isPermaLink="true">https://clairezed.github.io/marges/binary_transition/2016/07/28/beau-carton.html</guid>
-        
-        <category>tiers-lieux</category>
-        
-        <category>faire a plusieurs</category>
-        
-        
-        <category>binary_transition</category>
-        
-      </item>
-    
-      <item>
-        <title>Pas sage en Seine - Hackerspace Festival 2016, jour 2</title>
-        <description>&lt;p&gt;Vue qu’en dépit des règles les plus élémentaires de l’écriture web, j’en ai déjà écrit des tartines, le compte-rendu de mes pérégrinations à Pas sage en Seine - Hackerspace festival est scindé en deux.&lt;/p&gt;
-
-&lt;p&gt;Récit du dernier quart de Pas sage en Seine / Hacker Space Festival : &lt;strong&gt;Jour 2 (pour moi) - Dimanche 3 juillet&lt;/strong&gt;&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;&lt;em&gt;Retrouvez le &lt;a href=&quot;/marges/binary_transition/2016/07/14/pseshsf-2016-01.html&quot;&gt;début ici&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;rencontre-manque-entre-salaire--vie-et-hackers&quot;&gt;Rencontre manquée entre salaire à vie et hackers&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Salaire à vie pour tous ?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;gwenaëla&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Je plaçais pas mal d’espoir sur cette conférence, car derrière cette idée de salaire à vie je vois surtout un &lt;strong&gt;changement de paradigme de &lt;em&gt;“c’est quoi le travail”&lt;/em&gt;&lt;/strong&gt;. Repenser le rapport au travail, c’est un truc qui me botte vachement en ce moment, et je fais des liens assez naturels avec mes activités de codeuse (mais pas que) et la “culture open source”.&lt;/p&gt;
-
-&lt;p&gt;Pas de faux suspens : les espoirs ont été déçus. Tristesse.&lt;/p&gt;
-
-&lt;p&gt;L’oratrice a plutôt tourner autour de son sujet (pas de lien concret avec le mode de vie de son auditoire), et surtout, surtout, a mené son exposé d’une façon bien trop scolaire pour ce contexte.&lt;/p&gt;
-
-&lt;p&gt;Des éléments m’ont tout de même intéressée (car le scolaire ne me fait pas peur) (et aussi parce que je suis, de base, à donf sur le sujet, probablement). Je retranscris donc ici quelques une de mes notes (ça risque d’être un peu brut, n’hésitez pas à passer) :&lt;/p&gt;
-
-&lt;p&gt;L’un des postulats de base est que le travail peut être facteur d’émancipation, s’il est mené dans des conditions adéquates. Pour estimer ces conditions, on peut observer le &lt;strong&gt;tryptique travail / moyen de subsistance / moyen de production&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Retour sur deux modes d’organisation du passé remarquables : compagnons et commoners.&lt;/p&gt;
-
-&lt;h3 id=&quot;compagnons-et-communers&quot;&gt;Compagnons et communers&lt;/h3&gt;
-
-&lt;p&gt;Les &lt;strong&gt;compagnons&lt;/strong&gt; ouvrent les logiques de transmissions de savoirs faire, qui ne sont plus réservés à la fratrie ou aux fils celui qui les possèdent.&lt;/p&gt;
-
-&lt;p&gt;Les compagnons bénéficient de caisses de solidarité, font usages de signes d’appartenances, pratiques rituelles…&lt;/p&gt;
-
-&lt;p&gt;Les &lt;strong&gt;communers&lt;/strong&gt;, eux, exploitent les communs je ne sais plus trop où dès le 12e siècle. A un moment, les communs subissent un mouvement d’enclosures, c’est à dire que ces communs passent du statut de “bien public” à celui de propriété privé. Les libéraux considèrent ce changement comme un progrès, car cela garantie pour eux une meilleure gestion, plus raisonnée, des ressources (au contraire de l’exploitation sans limite par plein de communers).&lt;/p&gt;
-
-&lt;p&gt;La révolution industrielle fait quasi disparaître les compagnons (quasi car les syndicats en héritent en partie).&lt;/p&gt;
-
-&lt;h3 id=&quot;les-formes-du-capitalisme&quot;&gt;Les formes du capitalisme&lt;/h3&gt;
-
-&lt;p&gt;L’apparition des capitalismes acte la mutation du travail en emploi, avec salaire à la clé et patron.&lt;/p&gt;
-
-&lt;p&gt;On peut distinguer 3 stades au capitalisme :&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;1er stade capitalisme&lt;/strong&gt; : violent, très contraignant, les conditions sont imposées à 100 %. Les sentiments qui dominent sont la peur et la faim.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;2e stade&lt;/strong&gt; : fordisme, avènement d’une société de consommation que ce capitalisme permet. On trouve donc des avantages à cette forme (on peut consommer !) et il s’accompagne d’évolutions sociologique&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;3e stade&lt;/strong&gt; : on essaye de faire “kiffer” au travail&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Par exemple, dans les années 50-70, on est en plein dans le 2e stade avec la consommation de masse. Avec l’austérité dans les années 80, c’est la régression : l’employé redevient sujet de la peur et de la faim.&lt;/p&gt;
-
-&lt;p&gt;J’enchaîne ensuite sur “pas une conférence” dont le bruit court que c’est bien.&lt;/p&gt;
-
-&lt;h2 id=&quot;vitesse-lumire-&quot;&gt;Vitesse lumière !&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Il était une fois l’Internet&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Compagnie 13R3P&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Il était une fois l’Internet, c’est donc pas du tout une conférence, y’a pas de slides ni de live tweet. C’est un des éléments que je considère assez chouettes de ce festival : on n’y trouvait pas uniquement des gens qui causent sur scène à d’autres gens portant des T-shirts parfois à message. Il y avait aussi des ateliers de confection de bière, des projections ou des spectacles. C’est le cas ici, et le qu’en dira-t-on disait bien : ce fut une très bonne surprise.&lt;/p&gt;
-
-&lt;p&gt;Ultra résumé : très chouette spectacle qui camoufle une bonne description du fonctionnement des internets sous des allures enfantines et une belle performance d’actrice.&lt;/p&gt;
-
-&lt;p&gt;Pour en savoir plus, &lt;a href=&quot;http://iletaitunefoislinternet.fr/&quot;&gt;le site du spectacle&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;les-mutations-de-la-quadrature-du-net&quot;&gt;Les mutations de la Quadrature du Net&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Entendu au Garage&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Adrienne Charmet&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;J’attendais avec pas mal de curiosité le bilan annuel de la Quadrature du Net, après avoir entendu parler de leur changement d’orientation. Voici ce que j’ai retenu de ce bilan.&lt;/p&gt;
-
-&lt;h3 id=&quot;epuisement-et-constat-dchec&quot;&gt;Epuisement et constat d’échec&lt;/h3&gt;
-
-&lt;p&gt;2015 a été pas mal occupée par la grosse bataille autour du processus législatif loi renseignement, avec ses flux et reflux épuisants. En fin d’année, bam, attentats. Directement la Quadrature s’engage  contre le prolongement de l’état d’urgence, et s’attache à le recenser et le documenter. &lt;strong&gt;Cette opposition à l’état d’urgence n’a pas été évidente à tenir et à faire entendre&lt;/strong&gt; dans le climat sécuritaire de fin 2015.&lt;/p&gt;
-
-&lt;p&gt;Surtout, la Quadrature fait le constat des &lt;strong&gt;limites de ses capacités d’action&lt;/strong&gt; (notamment avec la loi sur le réforme pénale). La Quadrature, sur bon nombre de lois, fait des propositions par tous les biais possibles, mais sans effet.&lt;/p&gt;
-
-&lt;p&gt;Commence une grosse réflexion sur le pouvoir de la Quadrature à influer, véritablement, sur les dossiers législatifs.&lt;/p&gt;
-
-&lt;p&gt;Et, en conséquence, sur une évolution nécessaire de ses modes d’action.&lt;/p&gt;
-
-&lt;p&gt;En résumé, la Quadrature compte rester présente au niveau européen, faire plus de réflexion, de diffusion, mais aussi étendre son empreinte associative.&lt;/p&gt;
-
-&lt;h3 id=&quot;un-autre-lobbyisme-est-possible-&quot;&gt;Un autre lobbyisme est possible ?&lt;/h3&gt;
-
-&lt;p&gt;Pour ce qui est du lobbying et de l’influence, l’action de la Quadrature essaye maintenant de bien &lt;strong&gt;tenir compte de ce mur législatif contre lequel ils bloquent&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Quelques constats :&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;à l’Assemblée, les clivages étaient plutôt entre “ceux qui connaissent le numérique” et “ceux qui y pannent rien”&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;“au PS on a perdu toute capacité d’action car les jeux de pouvoir interne paralysent les députés”&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;A présent, l’idée est de contourner cet obstacle législatif national, et d’attaquer les lois passées non pas frontalement mais de biais. C’est pourquoi la Quadrature attaque maintenant plus devant le conseil d’État, est prête a enquiller auprès du conseil de l’Europe, de la CEDH…&lt;/p&gt;
-
-&lt;p&gt;L’échelon d’action d’influence de référence est en passe de devenir l’échelon européen, mais non sans réserves.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“Le jour où le niveau européen sera aussi bloqué qu’en France, on arrêtera.”&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;La Qadrature compte faire son possible pour transmettre à d’autres ses connaissances accumulées sur le monde politique et législatif. Mais cette documentation et transmission prendra du temps et ne sera pas simple.&lt;/p&gt;
-
-&lt;h3 id=&quot;retour-vers-une-action-de-terrain&quot;&gt;Retour vers une action de terrain&lt;/h3&gt;
-
-&lt;p&gt;En parallèle de ce travail de lobbying, qui se poursuit mais de manière moins intensive, la Quadrature veut &lt;strong&gt;régénérer ses outils et ouvrir de nouveaux services&lt;/strong&gt;. Parmi les derniers outils sur lesquels ils ont planché :&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://controle-tes-donnees.net/&quot;&gt;controle-tes-donnees.net&lt;/a&gt; qui explique les enjeux de la surveillance des données, en image et de façon simple,&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://respectmynet.eu/&quot;&gt;respectmynet.eu&lt;/a&gt;, vieux site que la Quadrature a relancé, qui récence les atteintes a la neutralité du net,&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://savetheinternet.eu/fr/&quot;&gt;savetheinternet.eu&lt;/a&gt;, consultation pour indiquer ce que la Quadrature voudrait voir apparaître dans le cadre de la neutralité du net.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;A l’avenir, la Quadrature a l’ambition de “prosélyter” plus largement, et plsu proche du terrain.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“on a embauché un graphiste, ce qui était pas du luxe à la Quadrature.”&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;En 2016, il devrait donc y avoir &lt;strong&gt;+ de vulgarisation, + d’ateliers, + de formations pour démultiplier les actions&lt;/strong&gt;. La structure veut aussi articuler son travail avec d’autres associations (françaises, comme framasoft par exemple, ou européennes).&lt;/p&gt;
-
-&lt;h3 id=&quot;mais-maintenant-qui-le-fera-&quot;&gt;… mais maintenant, qui le fera ?&lt;/h3&gt;
-
-&lt;p&gt;Comme beaucoup d’autres personnes, j’étais au début de la présentation un peu circonspecte. C’est quoi ce revirement ? Si la Quadrature laisse tomber ce boulot de lobbying et de pression législative, qui va le faire ?&lt;/p&gt;
-
-&lt;p&gt;Le constat partagé durant le festival par Adrienne Charmet est amer, mais permet de mieux saisir le changement d’orientation : &lt;em&gt;“Qui va le faire si on le fait pas ? Je ne sais pas, mais les autres assos sont sur les mêmes constats que nous”&lt;/em&gt;. C’est à dire celui d’une &lt;strong&gt;inaudibilité et d’une inefficacité de leurs actions auprès du politique&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Pas de quoi être franchement optimiste, mais de quoi comprendre, et donner envie de s’engager sur le terain, à un échelon plus local. Il semble que ce soit définitivement ici qu’il faille que ça bouge.&lt;/p&gt;
-
-&lt;h2 id=&quot;twitter-dis-moi-ce-que-je-ressens&quot;&gt;Twitter, dis-moi ce que je ressens&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Comment Twitter reflète les sentiments d’une population en état de choc ?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Mathieu (matael) Gaborit&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;J’assiste au début de la présentation du projet &lt;a href=&quot;https://sample.cat/&quot;&gt;sample.Cat&lt;/a&gt;, qui cherche à déterminer comment twitter a reflété les sentiments de ses utilisateurs sur les attentats : quels ont été les sentiments majeurs, combien de temps ont-ils duré, par quoi ont-ils été remplacé, etc.&lt;/p&gt;
-
-&lt;p&gt;Le niveau technique un peu rude (ça causait en toute simplicité de data-mining, de machine learning, des sujets dont je ne suis pas spécialiste) (euphémisme), et l’envie d’entendre parler de Community Organizing me font quitter la présentation en cours de route.&lt;/p&gt;
-
-&lt;h2 id=&quot;repolitiser-les-classes-populaires&quot;&gt;Repolitiser les classes populaires&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Documentaire “Organisez-vous” + Débat&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Benoît Raio&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;J’assiste à la fin de la projection du documentaire “Organisez-vous”, autour du community organizing, pratique qui m’interpelle depuis ma lecture de l’article &lt;a href=&quot;https://quartierslibres.wordpress.com/2016/05/14/made-in-america-community-organizing/&quot;&gt;Made in America : Community Organizing&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;La fin de la projection donne lieu à un échange entre les spectateurs et le réalisateur du documentaire. La pratique est pas encore hyper connue en France, et j’ai l’impression qu’elle est observée avec une certaine défiance.&lt;/p&gt;
-
-&lt;h3 id=&quot;machiavlisme-pour-la-communaut&quot;&gt;Machiavélisme pour la communauté&lt;/h3&gt;
-
-&lt;p&gt;Pendant les échanges, le lien est fait entre &lt;em&gt;“social engineering&lt;/em&gt;”, entendu sous l’angle de la manipulation sociale, et “&lt;em&gt;community organizing&lt;/em&gt;”. Pour le réalisateur, effectivement la comparaison peut avoir du sens en ceci que le community organizing pourrait être traduit comme le &lt;strong&gt;recours au machiavélisme, mais pour le bien d’une communauté&lt;/strong&gt; (et non d’un individu seul). Le réalisateur rappelle d’ailleurs que le community organizing s’inspire de la structure du crime organisé et des syndicats.&lt;/p&gt;
-
-&lt;h3 id=&quot;tisseurs-de-colre&quot;&gt;Tisseurs de colère&lt;/h3&gt;
-
-&lt;p&gt;Une des distinctions du community organizing avec d’autres méthodes de mobilisations est qu’elle &lt;strong&gt;part, par principe, des besoins des populations&lt;/strong&gt;. Elle ne s’appuie pas sur l’agenda, les idées et envies préalables des organisateurs. Le principe est de ne pas surimposer une problématique qui ne les concerne pas à des populations, mais de chercher quels sont les problèmes auxquels elles sont confrontées au quotidien, et de partir de ces problèmes là (aussi mineurs ou décalés soient-ils).&lt;/p&gt;
-
-&lt;p&gt;On commence par des enjeux réalistes, à petite échelle, puis on élargit à des enjeux plus larges, en essayant d’agrandir la communauté. L’idée est d’&lt;strong&gt;enraciner un contre pouvoir local et redonner le goût à la politique à des personnes dépolitisées&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;En France, c’est l’Alliance Citoyenne à Grenoble qui semble être précurseur. Ils font le tour des quartiers, écoutent ce que veulent les gens PUIS déterminent leur objectif. Ils se définissent comme &lt;strong&gt;“tisseurs de colères”&lt;/strong&gt;, une façon d’insister sur le besoin de créer des communautés de lutte. Ce besoin de recréer ou regénérer des communautés est d’ailleurs sûrement encore plus essentiels en France, où la notion de communauté est quand même pas mal décriée.&lt;/p&gt;
-
-&lt;h3 id=&quot;des-leaders-qui-seffacent-&quot;&gt;Des leaders qui s’effacent ?&lt;/h3&gt;
-
-&lt;p&gt;Quelqu’un remarque que dans le documentaire, les “organizers” sont la plupart du temps des femmes et/ou des personnes racisées. L’une des interprétations qui en est faite par le réalisateur est que &lt;em&gt;“pour être community organiser, il faut &lt;strong&gt;accepter de ne pas être mis en avant&lt;/strong&gt;“&lt;/em&gt;, ce qui culturellement serait plus compliqué pour les hommes.&lt;/p&gt;
-
-&lt;p&gt;Pour le contrepoint, je vous invite à jeter un oeil sur &lt;a href=&quot;https://quartierslibres.wordpress.com/2016/05/14/made-in-america-community-organizing/&quot;&gt;l’article que je citais un peu plus haut&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Alors que je sens la syndicaliste à côté de moi sur la défensive depuis le début des échanges, le réalisateur rappelle que le community organizing n’est pas révolutionnaire. L’optique n’est pas de renverser l’ordre des choses, mais de &lt;strong&gt;faire avec les politiques&lt;/strong&gt; en présence, en les obligeant à respecter leurs engagements.&lt;/p&gt;
-
-&lt;h2 id=&quot;bilan&quot;&gt;Bilan&lt;/h2&gt;
-
-&lt;p&gt;J’ai une vision avec plein de trous du festival, forcément (pas assisté à toutes les éditions + pas assisté à toute cette édition = paye ton impartialité) mais dans l’ensemble j’en sors &lt;strong&gt;plutôt ravie&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Le ton délicieusement &lt;strong&gt;irrévérencieux&lt;/strong&gt; me séduit toujours, et le &lt;strong&gt;regard critique porté sur l’écosystème numérique&lt;/strong&gt; (qu’on le partage entièrement ou non) fait beaucoup de bien.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Si vous faite un pitch de start up faut dire “uberiser uber” pour récolter des fonds, alors je vais le dire aussi&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;em&gt;Stéphane Bortzmeyer&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;J’aime le &lt;strong&gt;mélange des genres&lt;/strong&gt;, j’aime ces thématiques plus ouvertes que dans mon souvenir, mixant de la politique et de la sociologie avec la technique (voire même sans technique parfois).&lt;/p&gt;
-
-&lt;p&gt;Par contre, ce que j’aurais aimé prendre le temps de discuter, c’est :&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;d’où vient cette évolution de l’orientation des 2 festivals (si c’est pas moi qui me fait des films) ?&lt;/li&gt;
-  &lt;li&gt;comment cette évolution est-elle reçue par le public habituel ou historique des 2 festivals ?&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;post-scriptums&quot;&gt;Post scriptums&lt;/h2&gt;
-
-&lt;h3 id=&quot;ce-que-jai-rat-et-jen-suis-triste&quot;&gt;Ce que j’ai raté et j’en suis triste&lt;/h3&gt;
-
-&lt;p&gt;Je note ça ici, pour pouvoir retrouver plus facilement les vidéos qui m’intéressent.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.qubes-os.org/&quot;&gt;&lt;strong&gt;Qubes&lt;/strong&gt;&lt;/a&gt;, système d’exploitation sécurisé pour activistes (mais pas que). &lt;a href=&quot;http://data.passageenseine.org/2016/mp4/PSESHSF-2016%20-%20Benjamin%20Sonntag%20-%20Qubes%20-%20le%20nouvel%20OS%20s%C3%A9curis%C3%A9%20pour%20hacktivistes.mp4&quot;&gt;La présentation de Benjamin Sontag&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://data.passageenseine.org/2016/mp4/PSESHSF-2016%20-%20Genma%20-%20De%20l%E2%80%99importance%20de%20l%E2%80%99%C3%A9ducation%20populaire%20au%20num%C3%A9rique.mp4&quot;&gt;De l’importance de l’éducation populaire au numérique, par Genma&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;La course du bus de l’innovation sur le chemin de la croissance,  par 01ivier Baudu&lt;/li&gt;
-  &lt;li&gt;C’est magique !, par l3ibi&lt;/li&gt;
-  &lt;li&gt;Conférence/ Discussion “Dévoiler la «libre» politique”, par Robin Krier ; car je suis intriguée de savoir sur quels torts de la communauté du libre revenait l’orateur&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://h-a-t.github.io/PSES/index.html#/17&quot;&gt;Hack an NGO&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;L’entreprise démocratique, par Pierre-Yves DILLARD, pour nourir mes questionnements sur le mode de travail qui me conviendrait.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;sources&quot;&gt;Sources&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCziX7HND0yXhYjRBuDz9-PQ/videos?view=0&amp;amp;sort=dd&amp;amp;shelf_id=0&quot;&gt;Les vidéos des confs&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/hashtag/pseshsf?f=tweets&amp;amp;vertical=default&quot;&gt;fil twitter&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.makery.info/2016/07/05/le-festival-des-hackers-en-seine-se-paie-la-french-tech/&quot;&gt;un bel article sur makery.info&lt;/a&gt;, qui permet d’avoir un aperçu de tout ce que je ne raconte pas (vu que je l’ai raté)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;bonus&quot;&gt;Bonus&lt;/h3&gt;
-
-&lt;p&gt;La retranscription du pad des Bullshit Bingo 2016. J’ai l’impression que le &lt;a href=&quot;http://pads.usinette.org/p/BS-awards-2016-vote&quot;&gt;pad originel&lt;/a&gt; est devenu coréen ; et comme il se trouve que je l’avais copié pour pouvoir fouiller un peu les liens…&lt;/p&gt;
-
-&lt;p&gt;Hop, c’est cadeau !&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Titre ou sujet&lt;/strong&gt; :         Remise des Bullshit Bingo d’Or 2016
-&lt;strong&gt;Intervenants&lt;/strong&gt; :         Emmanuelle Macro et Alain Mince (Brice Tuturier juste au téléphone). On pourrait avoir un appel de  Axelle L’Amer +1+1
-&lt;strong&gt;Description&lt;/strong&gt; :          Le classement tant attendu des Bullshit Bingo Awards sera révélé par notre jury constitué d’investisseurs panaméens, de vieilles pousses et de chômeurs devant un parterre de décideurs et de jeunes poulets sous vide.&lt;/p&gt;
-
-&lt;h4 id=&quot;comment-a-marche-pas-&quot;&gt;Comment ça marche (pas) ?&lt;/h4&gt;
-
-&lt;p&gt;Vous mettez un +1 après chaque entrée pour laquelle vous voulez voter +1
-Vous pouvez voter pour une ou 2 entrées par catégorie.
-Essayez de remplir dans toutes les catégories :)
-On compte les voix, et on distribue les awards ce samedi 2 à 19h00 :)&lt;/p&gt;
-
-&lt;h4 id=&quot;prix-du-bullshit-job-de-lanne&quot;&gt;Prix du Bullshit Job de l’année&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Devops +1+1+1+1+1+1+1+1+1+1+1+1+1+1+11+1+1&lt;/li&gt;
-  &lt;li&gt;[…] Guru+1&lt;/li&gt;
-  &lt;li&gt;*-ninja+1+1&lt;/li&gt;
-  &lt;li&gt;Scrum master&lt;/li&gt;
-  &lt;li&gt;Évangeliste +1&lt;/li&gt;
-  &lt;li&gt;Associé On Purpose +1+1+1+&lt;/li&gt;
-  &lt;li&gt;Growth Hacker +1+1+1&lt;/li&gt;
-  &lt;li&gt;LIFE HACKER+1&lt;/li&gt;
-  &lt;li&gt;CHIEF HAPPINESS OFFICER +1+1+1+1+1+1+1&lt;/li&gt;
-  &lt;li&gt;Coach agile +1+1+1+1+1+1+1+1+1+1+1+1 +1+1&lt;/li&gt;
-  &lt;li&gt;CTO&lt;/li&gt;
-  &lt;li&gt;CEO&lt;/li&gt;
-  &lt;li&gt;CDO (Data / Digital)&lt;/li&gt;
-  &lt;li&gt;Data scientist +1&lt;/li&gt;
-  &lt;li&gt;Lead Dev&lt;/li&gt;
-  &lt;li&gt;Lead QA&lt;/li&gt;
-  &lt;li&gt;Directeur Program Manager +1+1&lt;/li&gt;
-  &lt;li&gt;Red-team&lt;/li&gt;
-  &lt;li&gt;RH&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;le-prix-du-bullshit-word-qui-a-perdu-de-la-vitesse-depuis-2015&quot;&gt;Le Prix du Bullshit Word qui a perdu de la vitesse depuis 2015&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Crowdsourcing +1+1 +1&lt;/li&gt;
-  &lt;li&gt;Bitcoin+1+1&lt;/li&gt;
-  &lt;li&gt;IaaS / *AAS +1+1+1+1+1+1+1+1+1&lt;/li&gt;
-  &lt;li&gt;accélérateur de croissance +1&lt;/li&gt;
-  &lt;li&gt;scalabilité+1+1+1+1+1+1+1+1+1+1&lt;/li&gt;
-  &lt;li&gt;résilience+1+1+1+1&lt;/li&gt;
-  &lt;li&gt;coworking&lt;/li&gt;
-  &lt;li&gt;Imprimante 3D +1+1+1+1&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;le-prix-du-bullshit-word-de-2016&quot;&gt;Le Prix du Bullshit Word de 2016&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Internet of Things +1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1&lt;/li&gt;
-  &lt;li&gt;Growth Hacking&lt;/li&gt;
-  &lt;li&gt;VR&lt;/li&gt;
-  &lt;li&gt;Blockchain +1+1+1+1+1+1+1+1+1+++++++1&lt;/li&gt;
-  &lt;li&gt;Voiture sans chauffeur / Google Car (car as a service ?)&lt;/li&gt;
-  &lt;li&gt;machine learning / neural networks+1&lt;/li&gt;
-  &lt;li&gt;Community engagement(happiass)&lt;/li&gt;
-  &lt;li&gt;Employee engagement&lt;/li&gt;
-  &lt;li&gt;predictive analytics (Tessier aaS)&lt;/li&gt;
-  &lt;li&gt;open innovation (open * [comme l’open source])&lt;/li&gt;
-  &lt;li&gt;LEAN +1&lt;/li&gt;
-  &lt;li&gt;SCRUM&lt;/li&gt;
-  &lt;li&gt;AGILE+1&lt;/li&gt;
-  &lt;li&gt;SPRINT&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Digital&lt;/em&gt; (en francais)+1+1+1+1+1+1+1+1m+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1&lt;/li&gt;
-  &lt;li&gt;Innovation disruptive +1+1+1+1&lt;/li&gt;
-  &lt;li&gt;Licorne &amp;lt;3&lt;/li&gt;
-  &lt;li&gt;uberisation de *+1+1+1+1+1+1+1&lt;/li&gt;
-  &lt;li&gt;civic tech ,&lt;/li&gt;
-  &lt;li&gt;foodtech&lt;/li&gt;
-  &lt;li&gt;fintech&lt;/li&gt;
-  &lt;li&gt;lowtech+1&lt;/li&gt;
-  &lt;li&gt;Silver Economy / l’or gris&lt;/li&gt;
-  &lt;li&gt;4K+1  -&amp;gt; 5K&lt;/li&gt;
-  &lt;li&gt;Cuisse de poulet^^&lt;/li&gt;
-  &lt;li&gt;DAO +53 M$ haha&lt;/li&gt;
-  &lt;li&gt;gougleu&lt;/li&gt;
-  &lt;li&gt;+1 : “digital penetration” c’est la “pénétration du numérique” et pas…&lt;/li&gt;
-  &lt;li&gt;Il manque totalement le « DARKNET » ;) /me agrees+1+1+1&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;le-prix-du-bullshit-word-qui-a-un-gros-potentiel-pour-2017&quot;&gt;Le Prix du Bullshit Word qui a un gros potentiel pour 2017&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;FlexOffice&lt;/li&gt;
-  &lt;li&gt;Internet Of Cars +1+1+1+1+1+1+1+1+1+1&lt;/li&gt;
-  &lt;li&gt;Intenet of things as++11+1+1+1+1+1+1+1+1+1+&lt;/li&gt;
-  &lt;li&gt;@+1+1+1+1+1+1+1+1+1+1+1+1&lt;/li&gt;
-  &lt;li&gt;Smart contract&lt;/li&gt;
-  &lt;li&gt;Uberiser Uber&lt;/li&gt;
-  &lt;li&gt;VR&lt;/li&gt;
-  &lt;li&gt;herméneutique (référence nécessaire)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;prix-du-bullshit-de-linnovation-dtat&quot;&gt;Prix du Bullshit de l’innovation d’État&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Le Hackaton pour mieux fliquer les gens +1+1+1+1+1+1+1+1&lt;br /&gt;
-&lt;a href=&quot;http://www.paris.fr/necmergitur&quot;&gt;http://www.paris.fr/necmergitur&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Pôle emploi … user centric et disruptif +1+1+1&lt;br /&gt;
-&lt;a href=&quot;http://www.journaldunet.com/management/ressources-humaines/1176880-anne-leone-campanella-pole-emploi/&quot;&gt;http://www.journaldunet.com/&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Startups d’État +1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1&lt;br /&gt;
-&lt;a href=&quot;http://www.modernisation.gouv.fr/ladministration-change-avec-le-numerique/par-des-services-numeriques-aux-usagers/-startups-d-etat&quot;&gt;http://www.modernisation.gouv.fr/&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Lapsus…&lt;br /&gt;
-&lt;a href=&quot;http://rue89.nouvelobs.com/2016/06/07/numerique-doit-etre-reserve-happy-few-264279&quot;&gt;http://rue89.nouvelobs.com/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;prix-du-mot-bullshit-de-la-dcennie&quot;&gt;Prix du Mot Bullshit de la décennie&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Big Data +1+1+1+1+1+1+1&lt;/li&gt;
-  &lt;li&gt;Cloud+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1&lt;/li&gt;
-  &lt;li&gt;Startup +1+1&lt;/li&gt;
-  &lt;li&gt;Digital +1+1+1+1+1+1+1+1+1-1&lt;/li&gt;
-  &lt;li&gt;Internet of *&lt;/li&gt;
-  &lt;li&gt;INNOVATION&lt;/li&gt;
-  &lt;li&gt;IA (du siècle ?)+1+1 ««««&amp;lt;&lt;/li&gt;
-  &lt;li&gt;TayAi&lt;/li&gt;
-  &lt;li&gt;Singularité&lt;/li&gt;
-  &lt;li&gt;Machine learning&lt;/li&gt;
-  &lt;li&gt;Tout ces mots doivent avoir ce prix !+1+1+1+1+1&lt;/li&gt;
-  &lt;li&gt;Je valide cette opinion :’)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;prix-du-bullshit-des-filles-et-fils--papa&quot;&gt;Prix du Bullshit des filles et fils à papa&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Bullshiters As A Service +1+1+1&lt;br /&gt;
-&lt;a href=&quot;https://cremedelacreme.io/&quot;&gt;https://cremedelacreme.io/&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;La Learning Touch&lt;br /&gt;
-&lt;a href=&quot;https://www.digischool.fr/hype/&quot;&gt;https://www.digischool.fr/&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;L’écosystème entrepreneurial X +1+1+1+1+1+1+1+1&lt;br /&gt;
-&lt;a href=&quot;https://www.polytechnique.edu/fr/breve/lecole-polytechnique-lance-son-accelerateur&quot;&gt;https://www.polytechnique.edu/&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Stagiaires On Purpose  +1&lt;br /&gt;
-&lt;a href=&quot;https://jobs.ouishare.net/&quot;&gt;https://jobs.ouishare.net/&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;L’esclavage DIY +1+1+1+1+1+1+1+1+1+1+1+1+1+1+1&lt;br /&gt;
-&lt;a href=&quot;http://www.lemonde.fr/campus/article/2016/05/22/a-fresnes-de-jeunes-passionnes-d-informatique-hackent-les-codes-de-l-entreprise_4924060_4401467.html&quot;&gt;http://www.lemonde.fr/campus/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;prix-spcial-du-jury--le-coup-de-coeur&quot;&gt;Prix spécial du jury : le coup de coeur&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Power Networker +1 +1+1&lt;br /&gt;
-&lt;a href=&quot;http://www.meilleurdevdefrance.com/&quot;&gt;http://www.meilleurdevdefrance.com/&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Pitch As A Service&lt;br /&gt;
-&lt;a href=&quot;http://makestorming.com/outils/pitchmotion&quot;&gt;http://makestorming.com/&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Même Challenges (!) s’y met +1+1&lt;br /&gt;
-&lt;a href=&quot;http://www.challenges.fr/high-tech/20160107.CHA3639/high-tech-start-up-frenchtech-jouez-au-bullshit-bingo-du-ces-2016.html&quot;&gt;http://www.challenges.fr/&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Les plus belles pages du corporate (“Intrapreunariat”)&lt;br /&gt;
-&lt;a href=&quot;http://www.thebosonproject.com/#!noslivres/c11a4&quot;&gt;http://www.thebosonproject.com&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Webcomic Strip +1+1+1&lt;br /&gt;
-&lt;a href=&quot;http://www.commitstrip.com/fr/2016/06/20/coder-bingo/?&quot;&gt;http://www.commitstrip.com/&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Le Bullshit qui vient +1&lt;br /&gt;
-&lt;a href=&quot;http://i.imgur.com/oNwl8Qa.png&quot;&gt;http://i.imgur.com/oNwl8Qa.png&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Le Bullshit Intello-technique “hypercontrôle computationnel” +1&lt;br /&gt;
-&lt;a href=&quot;http://enmi-conf.org/wp/enmi15/&quot;&gt;http://enmi-conf.org/wp/enmi15/&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Le Camp à Bobos “able to adapt”+1+1+1+1&lt;br /&gt;
-&lt;a href=&quot;http://darwin.camp/&quot;&gt;http://darwin.camp/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;prix-de-lentreprise-au-sens-large-qui-pratique-le-mieux-le-greenwashing-hackerwashing-le-washing&quot;&gt;Prix de l’entreprise (au sens large) qui pratique le mieux le greenwashing, hackerwashing, le *washing&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Le yaourt inter-entreprise qui innove sec&lt;br /&gt;
-&lt;a href=&quot;http://programmenoe.com/&quot;&gt; http://programmenoe.com/&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;#CompteurConnect  +1+1+1+1+1+1+1&lt;br /&gt;
-&lt;a href=&quot;http://www.developpement-durable.gouv.fr/Hackathon-CompteurConnect-le&quot;&gt;http://www.developpement-durable.gouv.fr&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;MAIF La blockchain au service de ton assureur+1+1+1+1+1+1+1+1+1+1+1+1+1+1&lt;br /&gt;
-&lt;a href=&quot;www.meetup.com/fr/La-Paillasse-Events/events/222566200/&quot;&gt;www.meetup.com/fr/La-Paillasse-Events/&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Point bonus buzzword-combo pour le communiqué presse MAIF-CozyCloud &lt;em&gt;“A la MAIF, nous sommes fiers d’accompagner la croissance de Cozy Cloud et d’amorcer avec elle un nouveau paradigme autour du self data. MAIF est convaincue de la capacité de Cozy à être disrupteur sur le sujet”&lt;/em&gt;&lt;/li&gt;
-  &lt;li&gt;SNCF “Kick Off camp &amp;amp; 17 semaines de training”&lt;br /&gt;
-&lt;a href=&quot;http://tektos.co/sncf-tektos/&quot;&gt;http://tektos.co/sncf-tektos/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;prix-pixelle-lemaire--la-meilleure-redistribution-dargent-public--opration-de-com-gouvernementale--publique&quot;&gt;Prix Pixelle Lemaire : la meilleure redistribution d’argent public / opération de com’ gouvernementale / publique&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Le “pré-accélérateur lean” +1&lt;br /&gt;
-&lt;a href=&quot;https://lafonderie-idf.fr/appel-a-participations-nestin/&quot;&gt;https://lafonderie-idf.fr&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;La Salle Tatami Coworking Place d’État +1+1+1+1+1+1+1+1+1&lt;br /&gt;
-&lt;a href=&quot;http://superpublic.fr/&quot;&gt;http://superpublic.fr/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;prix-du-meilleur-outil-anti-bullshit&quot;&gt;Prix du meilleur outil anti-Bullshit&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;La police de caractères qui dénonce grave +1+1+1+1+1+1+1+1+1&lt;br /&gt;
-&lt;a href=&quot;http://www.sansbullshitsans.com/&quot;&gt;http://www.sansbullshitsans.com/&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Le Response GIF +1+1+1+1&lt;br /&gt;
-&lt;a href=&quot;http://www.gifbin.com/bin/052009/1242749315_bullshit_amplifier-detector.webm&quot;&gt;http://www.gifbin.com/&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Jouez en réunion ! +1+1+1+1+1+1+1+1??&lt;br /&gt;
-&lt;a href=&quot;http://www.bingoreunion.fr/&quot;&gt;http://www.bingoreunion.fr/&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Faites vos grilles ! +1&lt;br /&gt;
-&lt;a href=&quot;http://www.bullshitbingo.net/cards/buzzword/&quot;&gt;http://www.bullshitbingo.net/&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Un générateur&lt;br /&gt;
-&lt;a href=&quot;http://www.bullshitgenerator.com/&quot;&gt;http://www.bullshitgenerator.com/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;prix-bullshit-bingo-de-gauche&quot;&gt;Prix Bullshit Bingo de Gauche&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Convergence des luttes&lt;/li&gt;
-  &lt;li&gt;acquis social / acquis sociaux&lt;/li&gt;
-  &lt;li&gt;empowerment / émancipation/encapacitation/enpouvoirement/encapacitance+1+1+1&lt;/li&gt;
-  &lt;li&gt;cloud personnel +1+1+1+1+1+1+1+1+1&lt;/li&gt;
-  &lt;li&gt;Méta données&lt;/li&gt;
-  &lt;li&gt;ECO*+1+1&lt;/li&gt;
-  &lt;li&gt;BIO*+1+1+1&lt;/li&gt;
-  &lt;li&gt;Lanceurs d’alerte+1+1&lt;/li&gt;
-  &lt;li&gt;lowtech&lt;/li&gt;
-  &lt;li&gt;*debout&lt;/li&gt;
-  &lt;li&gt;entendu récemment, cloud privé/public/hybride&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;prix-de-la-persvrance-pour-los-souverain--logiciel-souverain&quot;&gt;Prix de la persévérance pour l’OS Souverain / Logiciel Souverain&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;OS Souverain +1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1&lt;/li&gt;
-  &lt;li&gt;Antivirus Souverain&lt;/li&gt;
-  &lt;li&gt;Logiciel Souverain&lt;/li&gt;
-  &lt;li&gt;L’intelligence artificielle Souveraine&lt;/li&gt;
-  &lt;li&gt;Cloud Souverain +1&lt;/li&gt;
-  &lt;li&gt;Il faut bien des logiciels Souverains pour faire tourner un OS Souverain&lt;/li&gt;
-  &lt;li&gt;On se contentera de logiciels propriétaires grâce aux contrats avec Microsoft &amp;lt;=== Ouais mais c’est que pour l’Éducation nationale et la Défense Nationale et l’enseignement sup/recherche !&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;prix-de-la-rcup-des-hackers&quot;&gt;Prix de la récup’ des hackers&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Les Makers, ils impriment des immeubles… +1+1&lt;br /&gt;
-&lt;a href=&quot;http://www.futurapolis.com/manifeste/&quot;&gt;http://www.futurapolis.com/&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Le magasin qui se présente comme un lab +1&lt;br /&gt;
-&lt;a href=&quot;http://www.brocantelab.com/&quot;&gt;http://www.brocantelab.com/&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;T’as un projet ? On va t’aider… +1+1&lt;br /&gt;
-&lt;a href=&quot;http://www.thisispollen.com/#home&quot;&gt;http://www.thisispollen.com/&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Hackers à vendre&lt;br /&gt;
-&lt;a href=&quot;https://www.hackster.io/business&quot;&gt;https://www.hackster.io/&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;*SPACE&lt;/li&gt;
-  &lt;li&gt;*FABLAB&lt;/li&gt;
-  &lt;li&gt;Techshop&lt;/li&gt;
-  &lt;li&gt;*LAB +1+1+1+1+1+1+1+1+1+1+1+1+1+1+1 /tmp/lab &amp;lt;===+1&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;prix-le-bon-bullshit-de-nos-rgions--les-techshops-a-roi-sur-linnovation&quot;&gt;Prix Le Bon Bullshit De Nos Régions : les techshops a ROI sur l’innovation&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Aquitaine ! +1+1&lt;br /&gt;
-&lt;a href=&quot;http://www.aquitaine-developpement-innovation.com/&quot;&gt;http://www.aquitaine-developpement-innovation.com/&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Ile de France !&lt;br /&gt;
-&lt;a href=&quot;http://www.silvervalley.fr/Silver-Valley-12&quot;&gt;http://www.silvervalley.fr/&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Ile de France !&lt;br /&gt;
-&lt;a href=&quot;https://lafonderie-idf.fr/equipe/&quot;&gt;https://lafonderie-idf.fr/equipe/&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Orléans ! +1+1+1+1+1+1+1+1&lt;br /&gt;
-&lt;a href=&quot;http://www.le-lab-o.fr/&quot;&gt;http://www.le-lab-o.fr/&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Loire ! +1+1&lt;br /&gt;
-&lt;a href=&quot;http://frenchtech-loirevalley.com/#section-presentation&quot;&gt;http://frenchtech-loirevalley.com/&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Lyon !&lt;br /&gt;
-&lt;a href=&quot;http://www.digitalsummr.com/fr/programme/programme&quot;&gt;http://www.digitalsummr.com&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Brest ! (plus) &amp;lt;=== Avec Brest, Molaix, Quimper et Lannion (d’où le “plus” !) La première *TECH augmentée…&lt;br /&gt;
-&lt;a href=&quot;http://thebresttechblog.tumblr.com/&quot;&gt;http://thebresttechblog.tumblr.com/&lt;/a&gt; &lt;br /&gt;
-&lt;a href=&quot;http://frenchtech-brestplus.bzh/&quot;&gt;http://frenchtech-brestplus.bzh/&lt;/a&gt; &amp;lt;=== avec .bzh !&lt;/li&gt;
-&lt;/ul&gt;
-
-</description>
-        <pubDate>Thu, 14 Jul 2016 00:00:00 +0200</pubDate>
-        <link>https://clairezed.github.io/marges/binary_transition/2016/07/14/pseshsf-2016-02.html</link>
-        <guid isPermaLink="true">https://clairezed.github.io/marges/binary_transition/2016/07/14/pseshsf-2016-02.html</guid>
-        
-        <category>hacking</category>
-        
-        <category>politique</category>
-        
-        
-        <category>binary_transition</category>
         
       </item>
     
