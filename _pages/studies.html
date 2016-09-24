@@ -14,8 +14,9 @@ permalink: /dossiers
 <br>
 
 <div class="post-list">
-  {% for post in site.studies %}
-    {% include _post-card-excerpt.html %}
+{% assign studies = (site.studies | sort: 'updated_at') | reverse %}
+  {% for post in studies %}
+    {% include _page-card-excerpt.html %}
   {% endfor %}
 </div>
 

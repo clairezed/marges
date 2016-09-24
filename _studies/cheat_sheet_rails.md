@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Cheat sheet ruby et Rails"
+title:  "Ruby & Rails Cheatsheet"
 permalink: cheat-sheet-ruby
 tags: [ruby, rails]
 category: sustainable_code

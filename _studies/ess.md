@@ -8,6 +8,8 @@ category: good_job
 
 Quelques liens et repères sur ce que devient le secteur de l'ESS et de l'entrepreunarait social, l'écosystème local, et mes tactiques d'approche.
 
+
+ 
 <!--more-->
 
 

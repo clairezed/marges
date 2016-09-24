@@ -1,0 +1,24 @@
+<div class="card">
+  <div class="card-header">
+    <h4 class="card-title">
+      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+    </h4>
+    <h6 class="card-meta">{{ post.updated_at | date: "%b %-d, %Y" }}</h6>
+  </div>
+  <div class="card-body">
+    {{ post.excerpt }}
+  </div>
+  <div class="card-footer">
+    <a href="{{ post.url | prepend: site.baseurl }}" class="btn btn-link float-right">Lire +</a>
+    <a href="{{ site.baseurl }}/lubies/{{post.category}}">
+      <span class="post-meta label label-primary">{{ site.data.categories[post.category].title }}</span>
+    </a>
+    {% for tag in post.tags %}
+    <a href="{{ site.baseurl }}/tags/{{tag}}">
+      <span class="post-meta label">{{ tag }}</span>
+      </a>
+    {% endfor %}
+
+  </div>
+</div>
+

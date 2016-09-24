@@ -8,6 +8,8 @@ category: binary_transition
 
 Quelques initiatives (qui m'ont l'air) cools sur lesquelles jeter ou garder un oeil.
 
+
+
 <!--more-->
 
 
