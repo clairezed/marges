@@ -32,7 +32,9 @@ Photopea supports layers, layer masks and blend modes, and offers a lot of the t
 
 ### Trucs de grapheux
 
-- http://www.sansfrancis.co/ : A collection of tools to help designers craft delightful experiences.
+- [Sans Francis.co](http://www.sansfrancis.co/) : A collection of tools to help designers craft delightful experiences.
+- [Awesome Design](https://github.com/gztchan/awesome-design) : Best UI/UX Design Resources For Developer & Designer Ever
+- [75 of the Smartest Resources for Web Designers](https://cmd-t.webydo.com/75-of-the-best-resources-for-web-designers-98208e8709a#.ofvj0urdu)
 
 ### Trouver l'inspiration
 
@@ -44,27 +46,19 @@ Photopea supports layers, layer masks and blend modes, and offers a lot of the t
 - [site inspire](https://www.siteinspire.com/)
 - [unmatched style](http://unmatchedstyle.com/gallery)
 
-#### Plutôt typo
-
-- [Discover Typography](http://discover.typography.com/)
-
-#### Plutôt illu
-
-- [Behance](https://www.behance.net/) ( [categorie web](https://www.behance.net/search?field=102) )
-- [Dribbble](https://dribbble.com/)
-- [Design Inspiration](http://designspiration.net/)
-- [Cargo Collective](http://cargocollective.com/)
-- [Coroflot](http://www.coroflot.com/)
-- [From Up North](http://www.fromupnorth.com/inspiration/)
-- Inspiration Grid
-- [It's nice that](http://www.itsnicethat.com/)
-
 #### Plutot élément web (UI)
 
 - annuaire : https://uxdesign.cc/ui-inspiration-b019453058d7#.vzz3m9qyw
 
 - [Zurb Patterntap](http://zurb.com/patterntap)
 - [UI patterns](http://ui-patterns.com/)
+- [Checkout Pages](http://www.checkoutpages.xyz/) : curated directory of checkout pages (existe aussi pour pricing pages, product pages, store pages)
+
+#### Plutôt typo
+
+- [Discover Typography](http://discover.typography.com/)
+
+#### Plutôt illu
 
 ## <a name="code"></a> Code
 
@@ -74,10 +68,11 @@ Photopea supports layers, layer masks and blend modes, and offers a lot of the t
 * http://megaboilerplate.com/
 * https://github.com/holyjs/holyjs
 
-### Lib js
+### Lib
 
 - [Accelerated Mobile Pages (AMP) Project](https://www.ampproject.org/) : Fast and responsive custom elements as part of a larger spec to build content pages easily.
 - [Packery](http://packery.metafizzy.co/) : Gapless, draggable grid layouts
+- [Simple Sharing Buttons Generator](https://simplesharingbuttons.com) : Create light-weight, mobile-friendly sharing buttons for Facebook, Twitter, Google+ and other social networks -- it's all completely free!
 
 
 ## <a name="devops"></a> DevOps

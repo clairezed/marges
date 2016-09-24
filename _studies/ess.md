@@ -39,7 +39,7 @@ Quelques liens et repères sur ce que devient le secteur de l'ESS et de l'entrep
 - [Projet d'épicerie collaborative à Nancy](https://www.facebook.com/epiceriecollabnancy/)
 - [Les Fermiers d'ici](http://www.fermiersdici.com/food-truck/) : À bord de leur Food Truck, les Fermiers d’Ici vous proposent burgers et purées du terroir lorrain et en majorité issus de l’agriculture biologique.
 - [Envie Lorraine](http://envie-nancy.fr/)
-- [I Wood]() : Makerspace champêtre et menuiserie artisanale en Lorraine.
+- [I Wood](http://i-wood.fr/) : Makerspace champêtre et menuiserie artisanale en Lorraine.
 - [Meshwork](http://meshwork.fr/) : "studio d'innovation dans le grand est"
 
 ### région Strasbourg
