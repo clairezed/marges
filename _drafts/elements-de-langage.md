@@ -1,3 +1,4 @@
+
 # Termes
 
 ## Les miens
@@ -11,6 +12,10 @@
 Je ne fais pas des sites ou des applications, je créé des outils
 
 Grandir avec les clients (je)
+
+Quand je créé des outils web, j'ai en tête de les concevoir simples, légers, adaptés, répondant au mieux aux besoins de leurs utilisateurs et leur facilitant la vie.
+
+Rien ne me fera plus plaisir que de contribuer à des projets engagés, humanistes, bienveillants, transformateurs et utiles.
 
 ### Les projets sur lesquels je veux bosser : 
 - ce n'est pas vous qui êtes ma priorité, mais les utilisateurs de vos services

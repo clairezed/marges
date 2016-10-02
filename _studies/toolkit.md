@@ -25,17 +25,18 @@ Comment bien commencer un projet ? Quelques outils déjà utilisés ou à tester
 ### Retoucher vite fait une image
 
 - [pixlr](https://pixlr.com/)
-- [photopea](https://www.photopea.com/) (à tester)
-You need to quickly edit a PSD file, but you don’t have Photoshop installed on your machine? Or you want to make a small edit to an image, but firing up Photoshop would mean taking a sledgehammer to crack a nut? Well, then Photopea could do the trick. The free image editor is web-based and comes with a UI that is very similar to what you’re used from Photoshop.
-Photopea supports layers, layer masks and blend modes, and offers a lot of the tools that you love from Photoshop: the Magic Wand, Lasso, and Clone Tool, for example. It can handle PSD, Gimp, and WebP files, as well as common image formats, of course.
+- [photopea](https://www.photopea.com/) : quick webapp picture editor
 
 
-
-### Trucs de grapheux
+### Listes de ressources
 
 - [Sans Francis.co](http://www.sansfrancis.co/) : A collection of tools to help designers craft delightful experiences.
 - [Awesome Design](https://github.com/gztchan/awesome-design) : Best UI/UX Design Resources For Developer & Designer Ever
 - [75 of the Smartest Resources for Web Designers](https://cmd-t.webydo.com/75-of-the-best-resources-for-web-designers-98208e8709a#.ofvj0urdu)
+
+### Checklist
+
+- [Web designer's checklist app](https://imaginarydesign.github.io/webdev-checklist/) ([Le repo github](https://github.com/Imaginarydesign/webdev-checklist) )
 
 ### Trouver l'inspiration
 
@@ -54,15 +55,14 @@ Photopea supports layers, layer masks and blend modes, and offers a lot of the t
 - [Zurb Patterntap](http://zurb.com/patterntap)
 - [UI patterns](http://ui-patterns.com/)
 - [Checkout Pages](http://www.checkoutpages.xyz/) : curated directory of checkout pages (existe aussi pour pricing pages, product pages, store pages)
+- [UI DB](http://uidb.io/) : A collection of specific UI and design examples.
 
 #### Plutôt typo
 
 - [Discover Typography](http://discover.typography.com/)
 
-#### Plutôt illu
 
 ## <a name="code"></a> Code
-
 
 ### Boilerplates
 
@@ -78,6 +78,8 @@ Photopea supports layers, layer masks and blend modes, and offers a lot of the t
 
 ## <a name="devops"></a> DevOps
 
+### Performance
+- [Perftool](http://performance-tool.devbridge.com/) : Collect information about your website and display it in an easy-to-digest manner.
 
 ### Hébergement
 

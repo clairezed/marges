@@ -113,6 +113,11 @@ Nous menons des projets de manière collective (avec des collectivités, structu
 
 ###### tags: `cool probable` `marseille`
 
+#### [La coroutine](http://lacoroutine.org/)
+
+Voir aussi Mutualab, à Lille (avec VanDamme), même si l'espace de coworking ne semble pas avoir réussi à accomplir ce qu'il présentait dans Imagination4People. (recommendation E. Vergès)
+
+###### tags: `cool probable` `lille`
 
 #### [Cap Collectif](http://www.cap-collectif.com/)
 
@@ -147,7 +152,9 @@ Coopérative de développeurs qui utilise la méthode holacratique. **Holacratie
 
 http://www.lab.coop/
 
+#### [WeMind](http://www.wemind.io)
 
+Couverture santé, logement, comité d'entreprise, pour freelances.
 
 
 
