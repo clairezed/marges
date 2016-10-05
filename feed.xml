@@ -5,9 +5,53 @@
     <description>Prise de notes des internets de claire zuliani</description>
     <link>https://clairezed.github.io/marges/</link>
     <atom:link href="https://clairezed.github.io/marges/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 02 Oct 2016 16:02:42 +0200</pubDate>
-    <lastBuildDate>Sun, 02 Oct 2016 16:02:42 +0200</lastBuildDate>
+    <pubDate>Wed, 05 Oct 2016 13:32:54 +0200</pubDate>
+    <lastBuildDate>Wed, 05 Oct 2016 13:32:54 +0200</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Le comportementalisme et le design numérique au secours du vote</title>
+        <description>&lt;p&gt;“Théorie comportementale”, “Engagement politique”, “Incitation au vote”… Chacun est sensible différement aux termes présents dans un chapeau d’article, et là clairement l’auteur a trouvé de quoi me faire cliquer.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Comment designer un outil, une interface (notamment numérique), pour que celle-ci incite à l’action dans un domaine aussi peu sexy que le vote ?&lt;/p&gt;
+
+&lt;p&gt;Bien évidemment, les pistes données par l’&lt;a href=&quot;https://medium.com/sap-design/looking-at-the-voting-process-through-a-behavioral-lens-e9a0443b9cb2#.8wcgwcmgn&quot;&gt;article&lt;/a&gt; de &lt;a href=&quot;https://medium.com/@sfath&quot;&gt;Sarah Fathallah&lt;/a&gt; en référence aux prochaines élections américaines, peuvent avoir des implications purement mercantiles également. Mais focalisons-nous sur ce qu’on peut en retirer pour le bien de l’humanité.&lt;/p&gt;
+
+&lt;p&gt;En substance, selon un certain &lt;a href=&quot;http://behaviormodel.org/&quot;&gt;BJ Fogg&lt;/a&gt;, docteur en science du comportement, un comportement est dépendant de 3 dimensions :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;la motivation&lt;/strong&gt; : plus quelqu’un se sent concerné par la politique, plus il aura de motivation à aller voter, par exemple.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;la capacité&lt;/strong&gt; (ability) : entendu comme difficulté ou simplicité à accomplir une action. Dès ici, le design entre en jeu. Plus on rend une interface simple, moins on met de barrière entre un utilisateur et l’objectif de l’outil; et plus l’utilisateur s’engage. Bon, pour pousser au vote, les marges de manoeuvre sont tout de même assez réduites.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;le déclencheur&lt;/strong&gt; (trigger) : l’élément qui se produit au bon moment et pousse à l’action.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;A trigger can take many forms — an alarm that sounds, a text message, an announcement that a sale is ending, a growling stomach, and so on. [S]uccessful triggers have three characteristics: First, we notice the trigger. Second, we associate the trigger with a target behavior. Third, the trigger happens when we are both motivated and able to perform the behavior. This last issue — timing — is often the missing element in behavior change. In fact, this element is so important the ancient Greeks had a name for it: &lt;strong&gt;kairos&lt;/strong&gt; — the opportune moment to persuade.
+&lt;em&gt;— BJ Fogg (2009), “A Behavior Model for Persuasive Design.&lt;/em&gt;”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;C’est sur ce déclencheur qu’il est possible de jouer en tant que concepteur de système informatique, notamment en travaillant sur deux aspect :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;le &lt;strong&gt;“timing”&lt;/strong&gt; : choisir un moment où l’intérêt pour la question est relancé (déclencher non pas chaque semaine à heure fixe, mais avant un débat important, par exemple)&lt;/li&gt;
+  &lt;li&gt;la &lt;strong&gt;confiance&lt;/strong&gt; : faire en sorte que le déclencheur soit activé par une connaissance (créer des scripts ou déclencheurs tout fait, qui puissent être activés simplement par de vraies personnes et partagés à leur entourage)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Source : &lt;a href=&quot;https://medium.com/sap-design/looking-at-the-voting-process-through-a-behavioral-lens-e9a0443b9cb2#.8wcgwcmgn&quot;&gt;The Voting Process through a Behavioral Lens&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 03 Oct 2016 00:00:00 +0200</pubDate>
+        <link>https://clairezed.github.io/marges/binary_transition/2016/10/03/le-comportementalisme-au-secours-du-vote.html</link>
+        <guid isPermaLink="true">https://clairezed.github.io/marges/binary_transition/2016/10/03/le-comportementalisme-au-secours-du-vote.html</guid>
+        
+        <category>politique</category>
+        
+        <category>engagement</category>
+        
+        
+        <category>binary_transition</category>
+        
+      </item>
     
       <item>
         <title>L'entrepreneuriat collectif, une piste pour renouveller l'ESS ?</title>
@@ -464,58 +508,6 @@ L’entrepreneuriat social arrive avec une forte démarche économique. Les entr
         
         
         <category>sustainable_code</category>
-        
-      </item>
-    
-      <item>
-        <title>La civic tech ne dope que les meilleurs athlètes</title>
-        <description>&lt;p&gt;Encore une ressource autour de la civic tech, mais plus riche en analyse et en réserve que bon nombre d’écrits parcourus ces derniers temps. Et la réserve sur les phénomènes tech en vogue, j’aime bien.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;Cet &lt;a href=&quot;http://www.lemonde.fr/smart-cities/article/2016/07/14/civic-tech-des-applis-pour-doper-la-democratie-participative_4969481_4811534.html&quot;&gt;article du Monde&lt;/a&gt; s’attache à croiser les regards de créateurs d’applications censés booster la démocratie et de leurs clients, collectivités territoriales ouvertes à l’expérimentation.&lt;/p&gt;
-
-&lt;h3 id=&quot;impliquer-les-catgories-dj-les-plus-investies&quot;&gt;Impliquer les catégories déjà les plus investies&lt;/h3&gt;
-
-&lt;p&gt;Parmi les constats dressés, le suivant :&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Les différentes plateformes visent le même public de jeunes actifs connectés qui s’intéressent à la vie de leur quartier, mais n’ont ni le temps ni l’envie de participer aux réunions municipales. Selon un sondage réalisé auprès d’élus en mars dernier par le think tank Décider ensemble, seul un tiers des municipalités qui ont déployé ces outils estiment toucher des publics nouveaux.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Si l’on en croit le ressenti des élus, ces plateformes ne permettraient d’&lt;strong&gt;impliquer qu’un nombre marginale de nouvelles têtes&lt;/strong&gt;, et ces têtes seraient déjà bien intégrées à la cité. Ce n’est pas forcément un échec : réussir à faire participer des personnes, certes dotée d’un bon capital mais qui se tenaient à l’écart du politique, est déjà une victoire en soi. Mais ce n’est pas suffisant. En tout cas, ça ne me suffit pas.&lt;/p&gt;
-
-&lt;p&gt;Ce qui m’intéresse, ce sont tous ces gens qui se foutent de la chose publique, ont l’impression que ça ne sert à rien de l’ouvrir car de toute façon on ne les écoute pas, et que “c’est comme ça”, rien ne changera jamais vraiment. Pour faire basculer ceux-là, l’apparition d’une nouvelle appli sur leur smartphone (pour ceux qui en ont un…) ne suffira jamais. C’est avant tout un gros boulot de terrain, de proximité, qui est à mener. L’outil technologique ne doit venir que dans un second temps, en prolongement.&lt;/p&gt;
-
-&lt;p&gt;L’une de mes craintes est aussi que ça ne remette le politique entre les mains que de ceux qui ont déjà le plus facilement accès à l’arène publique. Je n’aimerais pas que, sous couvert d’avoir récolté X avis de la part de la population blanche active trentenaire diplomée, les municipalités se targuent d’avoir l’assentiment de l’ensemble de leurs administrés pour justifier des mesures peut-être discutables.&lt;/p&gt;
-
-&lt;h3 id=&quot;faire-participer-ou-communiquer-plus-efficacement-&quot;&gt;Faire participer, ou communiquer plus efficacement ?&lt;/h3&gt;
-
-&lt;p&gt;Autre constat relevé par l’article, celui de la &lt;strong&gt;logique “top-down”&lt;/strong&gt;, l’enjeu de communication politique dans laquelle s’ancre souvent la commande publique autour des outils civic tech :&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;L’enquête du think tank Décider ensemble montre que les motivations des collectivités s’inscrivent souvent dans une dynamique verticale et descendante, plutôt que réellement participative. Interrogées sur leurs besoins, les municipalités citent d’abord la mise à disposition d’informations (70 %) loin derrière l’objectif de « faire émerger des idees, éclairer la décision » (30 %).&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Il y a encore quelques réflexes à faire émerger et des mentalités à faire évoluer pour que les outils de la civic tech puissent vraiment révéler leur potentiel et servir la population.&lt;/p&gt;
-
-&lt;h3 id=&quot;variabilit-de-lthique&quot;&gt;Variabilité de l’éthique&lt;/h3&gt;
-
-&lt;p&gt;Dernier point intéressant, l’esquisse des différents échelons éthiques sur lesquels se situent les solutions civic tech, allant du comportement franchement crasseux et dangereux à l’éthique au top. Sur la gestion des données récoltées, Le Monde informe par exemple que certaines appli (Fluicity) ne &lt;strong&gt;livre aux mairies que des métadonnées&lt;/strong&gt;, alors que d’autres (Neocity, oui je balance mais en même temps c’est dans l’article hein) &lt;strong&gt;ouvre leur base de données aux municipalités&lt;/strong&gt; qui peuvent accéder à l’identité des participants à un sondage, et même les géolocaliser sur une carte.&lt;/p&gt;
-
-&lt;p&gt;Un dernier point sur les &lt;strong&gt;solutions open source&lt;/strong&gt; (donc transparentes, adaptables, réutilisables..) du marché (coucou Democracy OS). Ca me donne envie de construire mon propre barème d’estimation éthique des outils technologiques tiens.&lt;/p&gt;
-
-&lt;p&gt;Source : &lt;a href=&quot;http://www.lemonde.fr/smart-cities/article/2016/07/14/civic-tech-des-applis-pour-doper-la-democratie-participative_4969481_4811534.html&quot;&gt;« Civic Tech » : des applis pour doper la démocratie en ville&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 11 Aug 2016 00:00:00 +0200</pubDate>
-        <link>https://clairezed.github.io/marges/binary_transition/2016/08/11/civic-tech-multiplie-appli.html</link>
-        <guid isPermaLink="true">https://clairezed.github.io/marges/binary_transition/2016/08/11/civic-tech-multiplie-appli.html</guid>
-        
-        <category>civic tech</category>
-        
-        
-        <category>binary_transition</category>
         
       </item>
     
