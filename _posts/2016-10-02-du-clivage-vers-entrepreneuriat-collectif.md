@@ -1,7 +1,7 @@
 ---
 layout: post
 title: L'entrepreneuriat collectif, une piste pour renouveller l'ESS ?
-category: sustainable_code
+category: binary_transition
 tags: [ess]
 
 ---
