@@ -5,9 +5,41 @@
     <description>Prise de notes des internets de claire zuliani</description>
     <link>https://clairezed.github.io/marges/</link>
     <atom:link href="https://clairezed.github.io/marges/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 05 Oct 2016 13:32:54 +0200</pubDate>
-    <lastBuildDate>Wed, 05 Oct 2016 13:32:54 +0200</lastBuildDate>
+    <pubDate>Thu, 06 Oct 2016 07:57:33 +0200</pubDate>
+    <lastBuildDate>Thu, 06 Oct 2016 07:57:33 +0200</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Comment le numérique peut contribuer au développement durable ?</title>
+        <description>&lt;p&gt;Est-ce moi qui suis plus à l’affût sur ces problématiques, ou y’a-t-il de plus en plus de littérature (toute proportion gardée hein) creusant les implications du numérique dans les grandes questions de société ? Aujourd’hui, un article creusant les connexions qui pourraient être faites entre outils numériques et développement durable.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;L’impact connexe du numérique sur le développement durable n’est pas mon champs prioritaire (je suis plus sur un impact direct : outil dont l’objet même est d’inciter et promouvoir au développement durable ; plutôt qu’outil destiné à tout autre chose et incitant à la marge à ne pas imprimer trop, par exemple). Cet article m’intéresse tout de même en ce qu’il reflète une préoccupation croissante des gens du numérique dans ce que leur activité numérique implique sur le reste du monde (Hasard ? En gros au même moment, apparaissaient dans la presse française des &lt;a href=&quot;http://rue89.nouvelobs.com/2016/10/04/10-ecogestes-numeriques-a-adopter-absolument-265336&quot;&gt;articles sur les “éco-gestes numériques”&lt;/a&gt;.)&lt;/p&gt;
+
+&lt;p&gt;Les pistes et exemples donnés concernent des grands services existants (par exemple, que google maps propose d’abord l’itinéraire en transport en commun ou en vélo plutôt que celui en voiture, pour inciter aux déplacements doux),&lt;/p&gt;
+
+&lt;p&gt;Je tenais à garder trace de cet article aussi pour les liens à creuser filer en bas d’article (hop, je conserve ici par précaution) :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://rosenfeldmedia.com/books/design-is-the-problem/&quot;&gt;Design Is the Problem&lt;/a&gt; (by Nathan Shedroff, 2011)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;designing for sustainability&quot;&gt;Designing for Sustainability&lt;/a&gt; (by Tim Frick, 2016) - livre O Reilly payant&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://sustainableux.com/&quot;&gt;SustainableUX 2017&lt;/a&gt; (by Jen Briselli, Jenn Schlick, James Christie) - événement en ligne gratuit, prévu le 16/02/2017&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sustainability.stackexchange.com/&quot;&gt;Sustainability StackExchange&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Source : &lt;a href=&quot;https://uxdesign.cc/product-design-for-sustainability-3fffbb2a7f0e&quot;&gt;Product Design for Sustainability&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 04 Oct 2016 00:00:00 +0200</pubDate>
+        <link>https://clairezed.github.io/marges/sustainable_code/2016/10/04/numerique-contribuer-developpement-durable.html</link>
+        <guid isPermaLink="true">https://clairezed.github.io/marges/sustainable_code/2016/10/04/numerique-contribuer-developpement-durable.html</guid>
+        
+        <category>ecologie</category>
+        
+        
+        <category>sustainable_code</category>
+        
+      </item>
     
       <item>
         <title>Le comportementalisme et le design numérique au secours du vote</title>
@@ -117,13 +149,13 @@ L’entrepreneuriat social arrive avec une forte démarche économique. Les entr
 
 </description>
         <pubDate>Sun, 02 Oct 2016 00:00:00 +0200</pubDate>
-        <link>https://clairezed.github.io/marges/sustainable_code/2016/10/02/du-clivage-vers-entrepreneuriat-collectif.html</link>
-        <guid isPermaLink="true">https://clairezed.github.io/marges/sustainable_code/2016/10/02/du-clivage-vers-entrepreneuriat-collectif.html</guid>
+        <link>https://clairezed.github.io/marges/binary_transition/2016/10/02/du-clivage-vers-entrepreneuriat-collectif.html</link>
+        <guid isPermaLink="true">https://clairezed.github.io/marges/binary_transition/2016/10/02/du-clivage-vers-entrepreneuriat-collectif.html</guid>
         
         <category>ess</category>
         
         
-        <category>sustainable_code</category>
+        <category>binary_transition</category>
         
       </item>
     
@@ -483,28 +515,6 @@ L’entrepreneuriat social arrive avec une forte démarche économique. Les entr
         <guid isPermaLink="true">https://clairezed.github.io/marges/sustainable_code/2016/09/04/mon-ton-ordinateur.html</guid>
         
         <category>ui/ux</category>
-        
-        
-        <category>sustainable_code</category>
-        
-      </item>
-    
-      <item>
-        <title>Les fashion faux pas des formulaires</title>
-        <description>&lt;p&gt;Article à base d’illustrations en do/don’t autour du design de formulaire. Je retrouve dans la colonne des “Don’t” beaucoup des habitudes de ma boîte actuelle (et donc des miennes)…&lt;/p&gt;
-
-&lt;p&gt;Rappels à garder sous le coude !&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;Source : &lt;a href=&quot;https://uxdesign.cc/design-better-forms-96fadca0f49c#.76bysrvmn&quot;&gt;Design Better Forms&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Sun, 21 Aug 2016 00:00:00 +0200</pubDate>
-        <link>https://clairezed.github.io/marges/sustainable_code/2016/08/21/does-design-formulaires.html</link>
-        <guid isPermaLink="true">https://clairezed.github.io/marges/sustainable_code/2016/08/21/does-design-formulaires.html</guid>
-        
-        <category>design</category>
         
         
         <category>sustainable_code</category>
