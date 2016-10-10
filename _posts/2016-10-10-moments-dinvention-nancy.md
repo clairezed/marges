@@ -53,14 +53,14 @@ Florilèges des initiatives, propositions ou rencontres chouettes que je retiens
 
 - impôts en équivalent temps d'intérêt général : donner du temps et non de l'argent à la cité, pour le bien être social et citoyen (via Armel Lecoz)
 
-- la [collaboration graphique](http://miguelcosta.fr/art.html) entre [Morgan Fortems](http://www.morganfortems.com/) et  [Miguel Costal](http://www.miguelcosta.fr/), illustrateurs réactifs et inspirés en ping pong (on puet même [télécharger le kit de propagande ici !](http://www.miguelcosta.fr/projets/2016/art/pingpongping/PingPongPing-MomentsInvention2016.zip))
+- la [collaboration graphique](http://miguelcosta.fr/art.html) entre [Morgan Fortems](http://www.morganfortems.com/) et  [Miguel Costal](http://www.miguelcosta.fr/), illustrateurs réactifs et inspirés en ping pong (on peut même [télécharger le kit de propagande ici !](http://www.miguelcosta.fr/projets/2016/art/pingpongping/PingPongPing-MomentsInvention2016.zip))
 
 
 ## Entre méfiance et enthousiasme
 
-Immergée dans des lectures et des milieux où ça cause innovations sociales et numérique, j'étais déjà familière de pas mal des propositions qui ont émergées de ces deux jours. Familière, au même titre que tout un pan des participants d'ailleurs, eux aussi biberonnés des mêmes impulsions et des mêmes utopies. 
+Immergée dans des lectures et des milieux où ça cause innovations sociales et numérique, j'étais déjà familière de pas mal des propositions qui ont émergé de ces deux jours. Familière, au même titre que tout un pan des participants d'ailleurs, eux aussi biberonnés des mêmes impulsions et des mêmes utopies. 
 
-Et c'est là que j'ai pu par moment sentir le **hiatus entre deux types de rapport au numérique**. Car à côté de ce premier groupe plutôt optimiste et plein d'envies, il y a ceux qui sont confrontés au quotidien aux difficultés liées au numérique (je pense à ces personnes, bossant dans l'insertion, constatant combien des compétences numériques basiques pouvaient manquer à certains), croisant ceux (parfois ce sont les mêmes) qui voient avant tout dans le numérique une menace (pour la sécurité des données, pour l'inclusion...) plus ou moins fantasmée. Posture défensive, réclamant des mesures réparatrices, de rattrapage, avant toute chose. Un côté un peu déprimant, car je retrouvai des discours déjà entendu il y a 6 ou 7 ans, quand je bossais dans l'associatif numérique. La situation n'a-t-elle vraiment pas évolué ?
+Et c'est là que j'ai par moment senti le **hiatus entre deux types de rapport au numérique**. Car à côté de ce premier groupe plutôt optimiste et plein d'envies, il y a ceux qui sont confrontés au quotidien aux difficultés liées au numérique (je pense à ces personnes, bossant dans l'insertion, constatant combien des compétences numériques basiques pouvaient manquer à certains), croisant ceux (parfois ce sont les mêmes) qui voient avant tout dans le numérique une menace (pour la sécurité des données, pour l'inclusion...) plus ou moins fantasmée. Posture défensive, réclamant des mesures réparatrices, de rattrapage, avant toute chose. Un côté un peu déprimant, une impression de retour en arrière, en retrouvant des discours déjà entendu il y a 6 ou 7 ans, quand je bossais dans l'associatif numérique. La situation n'a-t-elle vraiment pas évolué ?
 
 Et c'est compliqué, sur un temps si court, de réussir à faire se croiser réellement les deux mondes. Compliqué de trouver les idées, les exemples, qui rassurent les plus méfiants et leur donne envie d'aller de l'avant et d'inventer les interactions numériques qu'ils veulent, plutôt que de les subir. Compliqué, de descendre de la chapelle des idées et de prendre le temps de vraiment se confronter aux retours d'expériences du terrain. Alors que le croisement me semblerait des plus intéressants...
 
@@ -69,36 +69,36 @@ Et c'est compliqué, sur un temps si court, de réussir à faire se croiser rée
 
 A ce que je sais, il n'y avait **pas de résultat attendu pré-défini** à ces rencontres. Le cadre, la procédure étaient posées, mais les participants étaient libres à l'intérieur de ces cadres. Encore, ces cadres n'étaient pas rigides : des ajustements ont été fait entre le jour 1 et le jour 2, en fonction des retours des participants. Capacité à être flexible et à s'adapter : l'un des très bons points de l'organisation. 
 
-Chaque moment de discussion autour d'une question était précédé d'une interventions de spécialiste (historien, philosophe, acteur de terrain, sociologue...) chargé d'y apporter un éclairage particulier. Ces moments étaient pour moi précieux : source d'apprentissage (j'aime !), ils permettaient aussi que les contributeurs soit nourris d'un minimum de base commune ou d'exemples partagés pour entamer la discussion.
+Chaque moment de discussion autour d'une question était précédé d'une intervention de spécialiste (historien, philosophe, acteur de terrain, sociologue...) chargé d'y apporter un éclairage particulier. Ces moments étaient pour moi précieux : source d'apprentissage (j'aime !), ils permettaient aussi que les contributeurs soient nourris d'un minimum de bases communes ou d'exemples partagés pour entamer la discussion.
 
 ## Mais c'étaient quoi, nos contributions ?
 
-La latitude laissée sur le résultat attendu, le manque d'info sur l'horizon de l'expérience, m'ont tout de même perturbé. Il a fallu par exemple que j'attende le 2e jour pour comprendre que les innombrables discussions devaient nourrir le projet politique de la métropole nancéenne pour les prochaines années. On ne sait pas concrètement **comment seront récupérées, analysées, utilisées les contributions**. 
-Il n'y avait pas non plus, de ce que je sache, de filtre à l'entrée pour les profils de participant, même si la thématique et la manière dont était forumlé le projet a sûrement dû amener à un filtrage naturel. 
+Etant quelqu'un parfois un peu binaire (j'avoue), la latitude laissée sur le résultat attendu, le manque d'info sur l'horizon de l'expérience, m'ont tout de même perturbé. Il a fallu par exemple que j'attende le 2e jour pour comprendre que les innombrables discussions devaient nourrir le projet politique de la métropole nancéenne pour les prochaines années. On ne sait pas concrètement **comment seront récupérées, analysées, utilisées les contributions**. 
+Il n'y avait pas non plus, de ce que je sache, de communautés de profils de participant (spécialiste ou non spécialiste, grand nancéen ou d'ailleurs...), même si la thématique et la manière dont était formulé le projet ont sûrement dû amener à un filtrage naturel. 
 
 Du coup, la nature même de nos contributions demeure flou : 
 - était-ce une façon de **sonder les préoccupations et attentes des nancéens** (auquel cas, le panel de contributeurs n'était pas représentatif) ? 
-- était-ce un **temps de travail de spécialistes pour trouver les meilleures solutions** ?  Il nous était demandé le 2e jour de faire des propositions concrètes : mais de quoi précisément ? Comment faire des propositions concrètes en si peu de temps ? Alors que les contributeurs ne sont pas spécialistes, pas technicien ? N'ont de réelle connaissance ni des problématiques du terrain, ni des types de solutions déjà expérimentées ailleurs qui pourraient être adaptées ici ?
-- était-ce un **temps de partage d'expériences entre personnes sensibles à ces problématiques**, et les rencontrant chacun sous un prisme particulier (il y avait dans les profils aussi bien des étudiants, que des personnes de l'insertion, des développeurs que des agents des collectivités, etc) ? Mais chacun venait sans étiquette précise, uniquement avec son prénom-nom (principe que je trouve plutôt chouette :  permet d'abattre une partie des a prioris lors des discussions, mais ne permet pas de résoudre la question "d'où parles-tu ?" qui peut permettre de gagner du temps et de la finesse dans les échanges), et les temps étaient trop court pour assimiler et réagir aux expériences de chacun.
-- est-ce moi qui suis encore trop rigide dans ma façon de penser et incapable de concevoir un entre deux ?
+- était-ce un **temps de travail de spécialistes pour trouver les meilleures solutions** ?  Il nous était demandé le 2e jour de faire des propositions concrètes : mais de quoi précisément ? Comment faire des propositions concrètes en si peu de temps ? Alors que les contributeurs ne sont pas spécialistes, pas techniciens ? N'ont pas de réelle connaissance ni des spécificité du terrain, ni des types de solutions déjà expérimentées ailleurs qui pourraient être adaptées ici ?
+- était-ce un **temps de partage d'expériences entre personnes sensibles à ces problématiques**, et les rencontrant chacun sous un prisme particulier (il y avait dans les profils aussi bien des étudiants, que des personnes de l'insertion, des développeurs que des agents des collectivités, etc) ? Mais chacun venait sans étiquette précise, uniquement avec son prénom-nom. Principe que je trouve d'ailleurs plutôt chouette :  ça permet d'abattre une partie des a prioris lors des discussions, mais ça passe sous silence la question du *"d'où parles-tu ?"* qui peut amener à gagner du temps et de la finesse dans les échanges.Et les temps étaient trop courts pour assimiler et réagir correctement aux expériences de chacun.
+- est-ce simplement moi qui suis trop rigide dans ma façon de penser et incapable de concevoir un entre deux ?
 - pourquoi est-ce que je m'emmerde avec toutes ces questions alors que je suis juste une développeuse ?
 
 
 Au final, pour moi, l'un des principaux mérites de cette étape est une **acculturation commune** de quelques centaines de personnes, curieuses, un minimum variées et engagées. L'acculturation porte aussi bien sur des façons de faire (démarche participative, d'intelligence collective) que sur des concepts et connaissances mise en commun. 
 
 
-**Prochains défis :** 
-- comment intégrer à cette démarche des personnes plus éloignées de ces problématiques ? On a souvent parlé de personnes âgées, de personnes souffrant de handicap, de jeunes sans compétences numériques, mais d'un point de vue extérieur et surplombant, vue qu'aucun des principaux concernés ne participaient aux discussions.
-- comment capitaliser sur cette expérience avec les personnes qui l'ont vécu ? Comment pousser plus loin les pistes floues, contradictoires, disparates qui ont émergé, en continuant à s'appuyer sur les volontaires déjà impliquées ? 
+**Prochains défis :** (car ce serait dommage d'en rester là !)
+- comment **intégrer à cette démarche des personnes plus éloignées de ces problématiques** ? On a souvent parlé de personnes âgées, de personnes souffrant de handicap, de jeunes sans compétences numériques, mais d'un point de vue extérieur et surplombant, vu qu'aucun des principaux concernés ne participait aux discussions.
+- comment **capitaliser sur cette expérience avec les personnes qui l'ont vécu** ? Comment pousser plus loin les pistes floues, contradictoires, disparates qui ont émergé, en continuant à s'appuyer sur les volontaires déjà impliquées ? 
 
-Ce qui transparaissait des conclusions étaient l'envie des organisateurs de poursuivre la démarche et de continuer à impliquer les personnes présentes
-
+Les organisateurs laissaient entendre qu'il y aurait une suite, j'ai envie de dire que "y'a intérêt".
 
 ## Croiser les sources
 
 Il y a d'autres traces de Moments d'invention sur le net, parfait pur croiser les sources ! 
 
 - [le storify de Catherine Créhange](https://storify.com/undessinparjour/getting-started#publicize), qui a fait un gros et bon boulot d'illustration temps réel sur les deux jours, et qui en plus a pris le temps de compiler plein de ressources
+- [instagram ! ](https://www.instagram.com/momentsdinvention/)
 
 
 
