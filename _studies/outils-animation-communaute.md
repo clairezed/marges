@@ -17,6 +17,10 @@ Prise de note sur la collaboration, l'animation de communauté...
 - [Movilab](http://movilab.org/index.php?title=Cat%C3%A9gorie:Formats_d%27animation)
 - [Co-creative recipes](http://www.co-creative-recipes.cc/)
 - [Co-creative event-patterns](https://docs.google.com/spreadsheets/d/1dVhQs7aiS9wE1EkmaITFKL-9jDxwx6uFzE992qQhJ80/edit#gid=13) (FR)
+- [DiY Toolkit](http://diytoolkit.org/) Practical tools to trigger an support social innovation
+- [Digital Principles](http://digitalprinciples.org/) : Design with the User, Understand the Existing Ecosystem, Design for Scale, Build for Sustainability, Be Data Driven, Use Open Standards Open Data Open Source and Open Innovation, Reuse and Improve, Address Privacy & Security, Be Collaborative
+- [The Info-Activism How-To Guide](https://howto.informationactivism.org/) : Strategies and tools for digital campaigning
+- [UK Government Digital Service Design Principles](https://www.gov.uk/design-principles)
 
 ## Postulats de départ
 

@@ -30,6 +30,14 @@ Post.where(published: true).find_each do |post|
 end
 ```
 
+18 - Allow both single items AND arrays to be enumerated against
+
+# [*items] converts a single object into an array with that single object
+# of converts an array back into, well, an array again
+[*items].each do |item|
+  # ...
+end
+
 ## Ressources
 
 - [Sandi Metz' Rules For Developers](https://robots.thoughtbot.com/sandi-metz-rules-for-developers)

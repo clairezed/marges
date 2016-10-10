@@ -37,6 +37,10 @@ Comment bien commencer un projet ? Quelques outils déjà utilisés ou à tester
 ### Checklist
 
 - [Web designer's checklist app](https://imaginarydesign.github.io/webdev-checklist/) ([Le repo github](https://github.com/Imaginarydesign/webdev-checklist) )
+- [Web designer's checklist](http://webdesignerschecklist.com/)
+- [UX Recipe](https://uxrecipe.github.io/#)
+- [UX Checklist](https://uxchecklist.github.io/)
+- [IXD Checklist](http://ixdchecklist.com/)
 
 ### Trouver l'inspiration
 
