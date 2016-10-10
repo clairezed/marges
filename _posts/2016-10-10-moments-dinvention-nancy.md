@@ -2,11 +2,11 @@
 layout: post
 title: Moments d'invention 2016 - partage sur l'humanisme numérique à Nancy
 category: sustainable_code
-tags: [evenement]
+tags: [evenement, faire a plusieurs, politique]
 
 ---
 
-La métropôle du Grand Nancy organisait les 29 et 30 septembre deux journées de rencontres et de réflexions autour de l'humanisme numérique, destinée à nourrir le projet métropolitain. Rencontre "humanisme" et "numérique"... Une alliance de mots excitante au possible pour moi, une initiative qui se déroule sur mon nouveau territoire, l'occasion de croiser des gens qui, dans la région et ailleurs, se questionnent sur des thèmes similaires à ceux qui me préoccupent actuellement... Forcément, j'y ai été, et tant qu'à faire je partage mes notes.
+La métropôle du Grand Nancy organisait les 29 et 30 septembre **Moments d'invention**,  deux journées de rencontres et de réflexions autour de l'humanisme numérique, destinée à nourrir le projet métropolitain. Rencontre "humanisme" et "numérique"... Une alliance de mots excitante au possible pour moi, une initiative qui se déroule sur mon nouveau territoire, l'occasion de croiser des gens qui, dans la région et ailleurs, se questionnent sur des thèmes similaires à ceux qui me préoccupent actuellement... Forcément, j'y ai été, et tant qu'à faire je partage mes notes.
 
 <!--more-->
 
@@ -15,8 +15,8 @@ La métropôle du Grand Nancy organisait les 29 et 30 septembre deux journées d
 La première matinée était dévolue aux conférences introductives, posant autant de pistes de réflexions pour la suite. Je découvrais à cette occasion la quasi totalité des orateurs et ai pu confronté mes a priori à l'épreuve de la réalité. Bilan : 
 - je ne comprends toujours pas grand chose à la philo, même celle, prometteuse, de [Milad Doueihi](https://fr.wikipedia.org/wiki/Milad_Doueihi) autour de l'humanisme numérique ; 
 - l'intervention de [Victoire de Margerie](https://fr.wikipedia.org/wiki/Victoire_de_Margerie) m'a permis de confirmer que nous ne partagions définitivement pas la même vision du monde ; 
-- [Emile Servan Schreiber](https://fr.wikipedia.org/wiki/%C3%89mile_Servan-Schreiber) est un très bon orateur et m'a surprise dans le bon sens, en revenant sur le fait que *"l'intelligence collective du groupe dépend de la qualité de la communication, de l'intelligence émotionnel"*, que *"les entreprises les plus innovantes sont celles qui implique le plus leurs employés dans l' idéation"*, que pour nourrir l'intelligence collective il faut de la diversité, de la confrontation, de la liberté (liberté de ne pas se confiner dans la norme) ; et en demandant à ce que + de réfugiés viennent en France pour nous rendre + intelligents ;
-- Dorte Nielsen d'[Eurocities](http://www.eurocities.eu/), pour qui *"il faut une coordination entre digital et non digital pour toucher le + de monde"* (j'approuve)
+- [Emile Servan Schreiber](https://fr.wikipedia.org/wiki/%C3%89mile_Servan-Schreiber) est un très bon orateur et m'a surprise dans le bon sens, en revenant sur le fait que *"l'intelligence collective du groupe dépend de la qualité de la communication, de l'intelligence émotionnel"*, que *"les entreprises les plus innovantes sont celles qui impliquent le plus leurs employés dans l' idéation"*, que pour nourrir l'intelligence collective il faut de la diversité, de la confrontation, de la liberté (liberté de ne pas se confiner dans la norme) ; et en demandant à ce que + de réfugiés viennent en France pour nous rendre + intelligents ;
+- Dorte Nielsen d'[Eurocities](http://www.eurocities.eu/), rappelle qu'*"il faut une coordination entre digital et non digital pour toucher le + de monde"* (j'approuve)
 - [Michel Bauwens](https://p2pfoundation.net/), avec ses voeux de société LSD (libre, solidaire et durable) est vraiment un chic gars avec plein de chouettes idées : [stigmergie](http://www.lilianricaud.com/travail-en-reseau/la-stigmergie-un-nouvelle-modele-de-gouvernance-collaborative/), contributions, communs, écosystèmes de production, Etat comme partenaire du monde contributif...
 
 ## Parcours des savoirs partagés 
@@ -94,6 +94,11 @@ Au final, pour moi, l'un des principaux mérites de cette étape est une **accul
 Ce qui transparaissait des conclusions étaient l'envie des organisateurs de poursuivre la démarche et de continuer à impliquer les personnes présentes
 
 
+## Croiser les sources
+
+Il y a d'autres traces de Moments d'invention sur le net, parfait pur croiser les sources ! 
+
+- [le storify de Catherine Créhange](https://storify.com/undessinparjour/getting-started#publicize), qui a fait un gros et bon boulot d'illustration temps réel sur les deux jours, et qui en plus a pris le temps de compiler plein de ressources
 
 
 
