@@ -33,9 +33,10 @@ namespace :git do
 
   desc "Deploy to remote origin"
   task :deploy => [:check_branch, :check_git] do
-    puts "Building Jekyll site"
+    puts "Building Jekyll site with _config.yml,#{PROD_CONFIG_FILE}"
     system "jekyll build --config _config.yml,#{PROD_CONFIG_FILE}"
 
+    puts  "git checkout #{DEPLOY_BRANCH}"
     system "git checkout #{DEPLOY_BRANCH}"
 
     puts "Copying #{DESTINATION_FOLDER} to root"

@@ -3,11 +3,11 @@
   <channel>
     <title>Marges</title>
     <description>Prise de notes des internets de claire zuliani</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 04 Dec 2016 21:37:16 +0000</pubDate>
-    <lastBuildDate>Sun, 04 Dec 2016 21:37:16 +0000</lastBuildDate>
-    <generator>Jekyll v3.3.1</generator>
+    <link>https://clairezed.github.io/marges/</link>
+    <atom:link href="https://clairezed.github.io/marges/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 04 Dec 2016 22:54:26 +0100</pubDate>
+    <lastBuildDate>Sun, 04 Dec 2016 22:54:26 +0100</lastBuildDate>
+    <generator>Jekyll v3.2.1</generator>
     
       <item>
         <title>Comment effectuer sa recherche de mécénat en tant que développeur indépendant ?</title>
@@ -30,9 +30,9 @@
 &lt;p&gt;Edit :
 Les hasards de twitter me font aussi découvrir, cité à côté de Patreon, le projet &lt;a href=&quot;opencollective.com&quot;&gt;Open Collective&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Fri, 02 Dec 2016 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/good_job/2016/12/02/nouvelles-formes-mecenat-pour-projets-de-developpement.html</link>
-        <guid isPermaLink="true">http://localhost:4000/good_job/2016/12/02/nouvelles-formes-mecenat-pour-projets-de-developpement.html</guid>
+        <pubDate>Fri, 02 Dec 2016 00:00:00 +0100</pubDate>
+        <link>https://clairezed.github.io/marges/good_job/2016/12/02/nouvelles-formes-mecenat-pour-projets-de-developpement.html</link>
+        <guid isPermaLink="true">https://clairezed.github.io/marges/good_job/2016/12/02/nouvelles-formes-mecenat-pour-projets-de-developpement.html</guid>
         
         <category>civic tech</category>
         
@@ -124,9 +124,9 @@ Besoin aussi d’un savoir-faire technique et de moyens financiers.&lt;/li&gt;
 &lt;p&gt;Source : &lt;a href=&quot;http://agencedunumerique.gouv.fr/forte-croissance-des-usages-numeriques-dans-le-monde-associatif-2/&quot;&gt;Etude “La place du numérique dans le projet associatif” - novembre 2016&lt;/a&gt;&lt;/p&gt;
 
 </description>
-        <pubDate>Fri, 02 Dec 2016 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/sustainable_code/2016/12/02/etude-usages-numeriques-associations.html</link>
-        <guid isPermaLink="true">http://localhost:4000/sustainable_code/2016/12/02/etude-usages-numeriques-associations.html</guid>
+        <pubDate>Fri, 02 Dec 2016 00:00:00 +0100</pubDate>
+        <link>https://clairezed.github.io/marges/sustainable_code/2016/12/02/etude-usages-numeriques-associations.html</link>
+        <guid isPermaLink="true">https://clairezed.github.io/marges/sustainable_code/2016/12/02/etude-usages-numeriques-associations.html</guid>
         
         <category>civic tech</category>
         
@@ -173,9 +173,9 @@ Besoin aussi d’un savoir-faire technique et de moyens financiers.&lt;/li&gt;
 &lt;p&gt;Source : &lt;a href=&quot;https://medium.com/cutgroup-miami/making-government-technology-suck-less-in-miami-d55d169060d#.2fgo66k05&quot;&gt;Comment agir sur ses habitudes numériques ?&lt;/a&gt;&lt;/p&gt;
 
 </description>
-        <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/binary_transition/2016/12/01/miami-civic-user-testing-group.html</link>
-        <guid isPermaLink="true">http://localhost:4000/binary_transition/2016/12/01/miami-civic-user-testing-group.html</guid>
+        <pubDate>Thu, 01 Dec 2016 00:00:00 +0100</pubDate>
+        <link>https://clairezed.github.io/marges/binary_transition/2016/12/01/miami-civic-user-testing-group.html</link>
+        <guid isPermaLink="true">https://clairezed.github.io/marges/binary_transition/2016/12/01/miami-civic-user-testing-group.html</guid>
         
         <category>civic tech</category>
         
@@ -217,9 +217,9 @@ Besoin aussi d’un savoir-faire technique et de moyens financiers.&lt;/li&gt;
 &lt;p&gt;Source : &lt;a href=&quot;https://graphism.fr/comment-agir-sur-ses-habitudes-numeriques/&quot;&gt;Comment agir sur ses habitudes numériques ?&lt;/a&gt;&lt;/p&gt;
 
 </description>
-        <pubDate>Wed, 30 Nov 2016 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/sustainable_code/2016/11/30/desintox-habitudes-numeriques.html</link>
-        <guid isPermaLink="true">http://localhost:4000/sustainable_code/2016/11/30/desintox-habitudes-numeriques.html</guid>
+        <pubDate>Wed, 30 Nov 2016 00:00:00 +0100</pubDate>
+        <link>https://clairezed.github.io/marges/sustainable_code/2016/11/30/desintox-habitudes-numeriques.html</link>
+        <guid isPermaLink="true">https://clairezed.github.io/marges/sustainable_code/2016/11/30/desintox-habitudes-numeriques.html</guid>
         
         <category>civic tech</category>
         
@@ -273,9 +273,9 @@ Besoin aussi d’un savoir-faire technique et de moyens financiers.&lt;/li&gt;
 &lt;p&gt;Source : &lt;a href=&quot;http://coopdescommuns.com/fr/forces-et-limites-de-la-demarche-pair-a-pair/&quot;&gt;Forces et limites de la démarche pair à pair&lt;/a&gt;&lt;/p&gt;
 
 </description>
-        <pubDate>Fri, 25 Nov 2016 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/good_job/2016/11/25/les-nouvelles-formes-organisation-%C3%A0-la-lumiere-des-communs.html</link>
-        <guid isPermaLink="true">http://localhost:4000/good_job/2016/11/25/les-nouvelles-formes-organisation-%C3%A0-la-lumiere-des-communs.html</guid>
+        <pubDate>Fri, 25 Nov 2016 00:00:00 +0100</pubDate>
+        <link>https://clairezed.github.io/marges/good_job/2016/11/25/les-nouvelles-formes-organisation-%C3%A0-la-lumiere-des-communs.html</link>
+        <guid isPermaLink="true">https://clairezed.github.io/marges/good_job/2016/11/25/les-nouvelles-formes-organisation-%C3%A0-la-lumiere-des-communs.html</guid>
         
         <category>communs</category>
         
@@ -464,9 +464,9 @@ La transmission de valeurs communes peut aussi passer par le “onboarding”, d
 
 &lt;p&gt;&lt;em&gt;(oui mais qui décide que telle ou telle décision est une réussite ou un échec ? Sur quels critères ? Et comment sont fixés ces critères ? )&lt;/em&gt;&lt;/p&gt;
 </description>
-        <pubDate>Fri, 11 Nov 2016 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/good_job/2016/11/11/reinventing-organizations-summary.html</link>
-        <guid isPermaLink="true">http://localhost:4000/good_job/2016/11/11/reinventing-organizations-summary.html</guid>
+        <pubDate>Fri, 11 Nov 2016 00:00:00 +0100</pubDate>
+        <link>https://clairezed.github.io/marges/good_job/2016/11/11/reinventing-organizations-summary.html</link>
+        <guid isPermaLink="true">https://clairezed.github.io/marges/good_job/2016/11/11/reinventing-organizations-summary.html</guid>
         
         <category>faire a plusieurs</category>
         
@@ -522,9 +522,9 @@ La transmission de valeurs communes peut aussi passer par le “onboarding”, d
 &lt;p&gt;Source : &lt;a href=&quot;http://www.shareable.net/blog/how-freelancers-are-reinventing-work-through-new-collective-enterprises&quot;&gt;How freelancers are reinventing work through new collective enterprises&lt;/a&gt;&lt;/p&gt;
 
 </description>
-        <pubDate>Sun, 30 Oct 2016 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/good_job/2016/10/30/les-independants-s-organisent.html</link>
-        <guid isPermaLink="true">http://localhost:4000/good_job/2016/10/30/les-independants-s-organisent.html</guid>
+        <pubDate>Sun, 30 Oct 2016 00:00:00 +0200</pubDate>
+        <link>https://clairezed.github.io/marges/good_job/2016/10/30/les-independants-s-organisent.html</link>
+        <guid isPermaLink="true">https://clairezed.github.io/marges/good_job/2016/10/30/les-independants-s-organisent.html</guid>
         
         <category>engagement</category>
         
@@ -558,9 +558,9 @@ La transmission de valeurs communes peut aussi passer par le “onboarding”, d
 &lt;p&gt;Source : &lt;a href=&quot;http://www.soufron.com/quelle-place-pour-la-justice-sociale-dans-la-silicon-valley-et-son-empire/&quot;&gt;Quelle place pour la justice sociale dans la Silicon Valley et son empire ?&lt;/a&gt;&lt;/p&gt;
 
 </description>
-        <pubDate>Thu, 20 Oct 2016 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/sustainable_code/2016/10/20/justice-sociale-silliconn%C3%A9e.html</link>
-        <guid isPermaLink="true">http://localhost:4000/sustainable_code/2016/10/20/justice-sociale-silliconn%C3%A9e.html</guid>
+        <pubDate>Thu, 20 Oct 2016 00:00:00 +0200</pubDate>
+        <link>https://clairezed.github.io/marges/sustainable_code/2016/10/20/justice-sociale-silliconn%C3%A9e.html</link>
+        <guid isPermaLink="true">https://clairezed.github.io/marges/sustainable_code/2016/10/20/justice-sociale-silliconn%C3%A9e.html</guid>
         
         <category>faire a plusieurs</category>
         
@@ -681,9 +681,9 @@ Il n’y avait pas non plus, de ce que je sache, de communautés de profils de p
 &lt;p&gt;Source : &lt;a href=&quot;http://www.grand-nancy.org/gn/momentsdinvention/&quot;&gt;Moments d’invention 2016&lt;/a&gt;&lt;/p&gt;
 
 </description>
-        <pubDate>Mon, 10 Oct 2016 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/sustainable_code/2016/10/10/moments-dinvention-nancy.html</link>
-        <guid isPermaLink="true">http://localhost:4000/sustainable_code/2016/10/10/moments-dinvention-nancy.html</guid>
+        <pubDate>Mon, 10 Oct 2016 00:00:00 +0200</pubDate>
+        <link>https://clairezed.github.io/marges/sustainable_code/2016/10/10/moments-dinvention-nancy.html</link>
+        <guid isPermaLink="true">https://clairezed.github.io/marges/sustainable_code/2016/10/10/moments-dinvention-nancy.html</guid>
         
         <category>evenement</category>
         
@@ -721,9 +721,9 @@ Il n’y avait pas non plus, de ce que je sache, de communautés de profils de p
 &lt;p&gt;Source : &lt;a href=&quot;https://uxdesign.cc/product-design-for-sustainability-3fffbb2a7f0e&quot;&gt;Product Design for Sustainability&lt;/a&gt;&lt;/p&gt;
 
 </description>
-        <pubDate>Tue, 04 Oct 2016 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/sustainable_code/2016/10/04/numerique-contribuer-developpement-durable.html</link>
-        <guid isPermaLink="true">http://localhost:4000/sustainable_code/2016/10/04/numerique-contribuer-developpement-durable.html</guid>
+        <pubDate>Tue, 04 Oct 2016 00:00:00 +0200</pubDate>
+        <link>https://clairezed.github.io/marges/sustainable_code/2016/10/04/numerique-contribuer-developpement-durable.html</link>
+        <guid isPermaLink="true">https://clairezed.github.io/marges/sustainable_code/2016/10/04/numerique-contribuer-developpement-durable.html</guid>
         
         <category>ecologie</category>
         
