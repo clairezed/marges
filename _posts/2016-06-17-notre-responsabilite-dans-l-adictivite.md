@@ -30,6 +30,8 @@ Mais c'est quoi, le modèle économique d'un outil qui a notamment pour objectif
 
 Source : [Dix façons dont la technologie nous manipule][source]
 
+Lire aussi: [How Technology Hijacks People’s Minds — from a Magician and Google’s Design Ethicist](https://medium.com/swlh/how-technology-hijacks-peoples-minds-from-a-magician-and-google-s-design-ethicist-56d62ef5edf3#.8sbu88b87), par Tristan Harris
+
 
 [source]: http://rue89.nouvelobs.com/2016/06/16/10-facons-dont-technologie-manipule-264364
 

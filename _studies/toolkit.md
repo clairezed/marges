@@ -22,10 +22,6 @@ Comment bien commencer un projet ? Quelques outils déjà utilisés ou à tester
 
 ## <a name="design"></a> Design
 
-### Retoucher vite fait une image
-
-- [pixlr](https://pixlr.com/)
-- [photopea](https://www.photopea.com/) : quick webapp picture editor
 
 
 ### Listes de ressources
@@ -41,6 +37,25 @@ Comment bien commencer un projet ? Quelques outils déjà utilisés ou à tester
 - [UX Recipe](https://uxrecipe.github.io/#)
 - [UX Checklist](https://uxchecklist.github.io/)
 - [IXD Checklist](http://ixdchecklist.com/)
+
+### Mockups
+
+-   http://littleplaneapp.com/
+
+### COuleurs
+
+- http://www.palettable.io/
+- http://www.vanschneider.com/colors/
+- https://coolors.co
+
+### Templates
+
+- https://html5up.net/
+
+### Retoucher vite fait une image
+
+- [pixlr](https://pixlr.com/)
+- [photopea](https://www.photopea.com/) : quick webapp picture editor
 
 ### Trouver l'inspiration
 
@@ -65,19 +80,40 @@ Comment bien commencer un projet ? Quelques outils déjà utilisés ou à tester
 
 - [Discover Typography](http://discover.typography.com/)
 
+#### Plutôt agences
+
+- [Extra Bold](http://www.extra-bold.net/references/)
+- [Collectif Yay](http://www.collectif-yay.com/)
+- [SuperHuit](http://superhuit.ch/)
+
+#### Plutôt sites web
+
+- [Makeshift](http://mkshft.org/)
+
 
 ## <a name="code"></a> Code
+
+### Listes de ressources
+
+* [Liste de listes *awesome*](https://github.com/sindresorhus/awesome)
+* [Repos les + likés sur github](https://github.com/search?utf8=%E2%9C%93&q=stars%3A%3E0&type=Repositories&ref=searchresults)
 
 ### Boilerplates
 
 * http://megaboilerplate.com/
 * https://github.com/holyjs/holyjs
+* [Node.js hackathon starter](https://github.com/sahat/hackathon-starter)
 
 ### Lib
 
 - [Accelerated Mobile Pages (AMP) Project](https://www.ampproject.org/) : Fast and responsive custom elements as part of a larger spec to build content pages easily.
 - [Packery](http://packery.metafizzy.co/) : Gapless, draggable grid layouts
 - [Simple Sharing Buttons Generator](https://simplesharingbuttons.com) : Create light-weight, mobile-friendly sharing buttons for Facebook, Twitter, Google+ and other social networks -- it's all completely free!
+
+### Software tendance ESS
+
+- [www.cagette.net](http://www.cagette.net/) :
+Une application libre pour développer le circuit court / le logiciel libre des AMAP et groupements d'achat citoyens. Projet Open Source, vend l'hébergement
 
 
 ## <a name="devops"></a> DevOps
@@ -90,6 +126,7 @@ Comment bien commencer un projet ? Quelques outils déjà utilisés ou à tester
 - www.000webhost.com
 - yunohost
 - unhosted
+- https://netlib.re/ : Netlib.re vous donne un nom de domaine, gratuitement et simplement
 
 ### Sys Admin
 
@@ -99,14 +136,16 @@ Comment bien commencer un projet ? Quelques outils déjà utilisés ou à tester
 
 ## <a name="bureautique"></a> Bureautique
 
-### Mail anonyme
+### Mail anonyme / secure
 
 - spamgourmet
 - mailinator
 Zaclys : comme openmailbox mais mieux
+- [protonmail](https://protonmail.com/)
 
 ### Gestion de docs
 
 - seafile
 - owncloud
+- nextcloud (fork de owncloud)
 - [pyd.io](https://pydio.com/)

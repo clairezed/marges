@@ -178,14 +178,17 @@ Process
 ## Needs
 
 - Priority high
-  - plugins use
+  - affichage firefox
+  - nommage automatique des fichiers/url en fonction du titre
+  - tags dans l'ordre alphabetique
+  - pagination
 
 - priority medium
   - use jade !
   - ease of post (post title, post date)
-  - pagination
-  - updated_at on studies (dernière modification)
   - mixer les categories et tags des depeches et dossiers
+  - gérer facilement les liens internes (d'un article à l'autre)
+  - améliorer l'affichage (markdown)
 
 - priority low
   - es2015 ?
@@ -194,11 +197,9 @@ Process
   - image optimization/resizing
   - styles autoprefixing
   - CI, automation, with jenkins (https://indefiniteloop.com/blog/code/jekyll-jenkins-blogging-on-the-go.html)
+  - cloudinary
 
 ## A lire
 
 - https://www.smashingmagazine.com/2016/05/content-first-prototyping/
 -
-
-
-

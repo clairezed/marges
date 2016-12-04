@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Techniques pour faire des choses à plusieurs
-permalink: outils-animation-communaute
+permalink: faire-ensemble
 tags: [faire a plusieurs]
 category: good_job
 ---
@@ -10,7 +10,31 @@ Prise de note sur la collaboration, l'animation de communauté...
 
 <!--more-->
 
-## Sources 
+<!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+
+- [Sources](#sources)
+- [Designer des services à plusieurs](#designer-des-services-plusieurs)
+	- [Minimix - Des résidences pour imaginer les services de demain avec les usagers](#minimix-des-rsidences-pour-imaginer-les-services-de-demain-avec-les-usagers)
+- [Prise de note Cornu](#prise-de-note-cornu)
+	- [Postulats de départ](#postulats-de-dpart)
+	- [Comprendre les éléments clés du groupe](#comprendre-les-lments-cls-du-groupe)
+		- [1. Carte d'orientation de la communauté](#1-carte-dorientation-de-la-communaut)
+			- [Typologies de groupes collaboratifs :](#typologies-de-groupes-collaboratifs-)
+			- [Les différents stades d'un groupe (de plus en plus impliqué) :](#les-diffrents-stades-dun-groupe-de-plus-en-plus-impliqu-)
+			- [Quatre type d'activités nécessaires pour faciliter tant les projets que la communauté :](#quatre-type-dactivits-ncessaires-pour-faciliter-tant-les-projets-que-la-communaut-)
+		- [2. Des projets ouverts pour faire ensemble](#2-des-projets-ouverts-pour-faire-ensemble)
+			- [Le facilitateur de projet](#le-facilitateur-de-projet)
+		- [3. La communauté](#3-la-communaut)
+		- [4. L'information](#4-linformation)
+		- [5. Des rencontres pour booster les + actifs (+ techniques d'animation)](#5-des-rencontres-pour-booster-les-actifs-techniques-danimation)
+		- [6. Des discussions entre les rencontres y compris pour les moins actifs](#6-des-discussions-entre-les-rencontres-y-compris-pour-les-moins-actifs)
+	- [Mettre en place ou réorganiser une communauté pas à pas](#mettre-en-place-ou-rorganiser-une-communaut-pas-pas)
+	- [Faire vivre la communauté](#faire-vivre-la-communaut)
+	- [Sources](#sources)
+
+<!-- /TOC -->
+
+## Sources
 
 - ["Une heure par semaine pour animer une grande communauté"](https://docs.google.com/document/d/1A5Ep7s2yAHLi3DxPANKpGTbeZctwRvDPYpK9KDsH_EI)
 - [MultiBào](http://www.multibao.org/) ( dont [la contribution de Lilian Ricaud](http://www.multibao.org/#lilianricaud/travail-en-reseau))
@@ -21,8 +45,38 @@ Prise de note sur la collaboration, l'animation de communauté...
 - [Digital Principles](http://digitalprinciples.org/) : Design with the User, Understand the Existing Ecosystem, Design for Scale, Build for Sustainability, Be Data Driven, Use Open Standards Open Data Open Source and Open Innovation, Reuse and Improve, Address Privacy & Security, Be Collaborative
 - [The Info-Activism How-To Guide](https://howto.informationactivism.org/) : Strategies and tools for digital campaigning
 - [UK Government Digital Service Design Principles](https://www.gov.uk/design-principles)
+- [Ouishare Fest Toolkit](https://ouishare.gitbooks.io/ouishare-fest-toolkit/content/)
+- [kaleidos-coop](http://kaleidos-coop.org/wakka.php?wiki=PagePrincipale)
 
-## Postulats de départ
+## Designer des services à plusieurs
+
+### Minimix - Des résidences pour imaginer les services de demain avec les usagers
+
+Espace de dialogue et de « faire » autour de problématiques de départ identifiées collectivement par des professionnels et des usagers d’un lieu.
+
+1/ **phase d’exploration** (des représentations et des pratiques existantes) au seins de l’espace en résidence
+
+2/ plusieurs  problématiques définies sont documentées et proposées comme base de travail.
+
+3/ Un **groupe de travail est alors constitué**, intégrant les professionnels de ces lieux ainsi que des usagers ou non-usagers souhaitant participer à la démarche. Ce groupe est enrichi par l’apport de compétences externes issues des SHS (sciences humaines et sociales), du design et du numérique.
+
+4/ Via l’animation d’**étapes d’ateliers**, de discussions collectives, de temps de découverte, l’ensemble du groupe fait émerger des idées, des pistes de changement. L’ensemble de ces propositions est documenté de façon illustrée. (dessin, animation, posters)
+
+5/ Une **étape de sélection** des propositions permet de converger vers un ou deux scénarios de services qui pourraient intégrer l’offre existante.
+
+6/ Les dispositifs, aménagements ou modes d’organisation imaginés sont alors **prototypés** (fabrication, développement) de façon légère (comme un décor de cinéma) de manière à préparer leur mise en scène sous la forme de fictions vidéo réalistes.
+
+7/ Une **projection** dans le lieu de ces vidéos est l’occasion d’un rendez-vous public, ouvert aux usagers et professionnels des lieux. Chacun donne alors son retour, enrichit les propositions.
+
+8/ **Etape de synthèse** permet de documenter l’ensemble du parcours. Un carnet de propositions est alors remis à l’équipe d’accueil qui pourra choisir de poursuivre la mise en oeuvre des scénarios de transformation proposés.
+
+Sources :
+- http://lafabulerie.com/blog/projet/mnm/
+- https://issuu.com/axellebenaich/docs/minimix_cahier_d_exploration_et_d_i?e=6134143/37000564
+- https://issuu.com/axellebenaich
+## Prise de note Cornu
+
+### Postulats de départ
 
 - **Tout le monde n’a pas tout son temps pour le groupe ni parfois l’intention de coopérer**. Il faut bien sûr faciliter l’implication, mais également organiser le groupe afin qu’il fonctionne même avec une implication réduite ;
 - **Comprendre un aspect du groupe et trouver une solution pour l’améliorer ne suffit pas**. Si vous réparez un pied cassé de votre tabouret en oubliant les deux autres, vous risquez de vous retrouver par terre !
@@ -33,11 +87,11 @@ Prise de note sur la collaboration, l'animation de communauté...
 - Au-delà de 12, c'est la loi des 90-9-1 qui s'applique.
 
 
-## Comprendre les éléments clés du groupe
+### Comprendre les éléments clés du groupe
 
-### 1. Carte d'orientation de la communauté
+#### 1. Carte d'orientation de la communauté
 
-#### Typologies de groupes collaboratifs :
+##### Typologies de groupes collaboratifs :
 
 - du **groupes de travail** qui développent des projets
 - aux **communautés** où au contraire on cherche à toucher le plus grand nombre de personnes
@@ -50,7 +104,7 @@ Prise de note sur la collaboration, l'animation de communauté...
 - **trouver des idées ou de faire des choix** pas seulement en additionnant les contributions de chacun mais en développant également les interactions pour enrichir chaque contribution par celles des autres -> intelligence collective
 
 
-###### Quatre type d'activités nécessaires pour faciliter tant les projets que la communauté :
+##### Quatre type d'activités nécessaires pour faciliter tant les projets que la communauté :
 
 - des **informations** : ces “flux d’actualités” permettent au plus grand nombre, en dedans et en dehors de la communauté, de suivre régulièrement ce qui se passe, voire de “s’accrocher au wagon” ;
 - des **rencontres** : qu’ils soient en présentiel et/ou à distance, ces moments synchrones accélèrent les projets et facilitent l’implication des plus actifs ;
@@ -62,15 +116,15 @@ La priorité donnée à certaines activités dépend de la culture des personnes
 - ceux qui sont plutôt **réticents aux technologies** privilégient les rencontres physiques mais négligent souvent les échanges entre les rencontres car ils impliquent la plupart du temps des outils de discussion à distance ;
 - les **passionnés de technologies** vont d’abord penser aux outils mais peuvent se cacher derrière eux en espérant qu’ils  traiteront seuls tous les aspects humains…
 
-### 2. Des projets ouverts pour faire ensemble
+#### 2. Des projets ouverts pour faire ensemble
 
 Dans un **projet ouvert**, l’avancement est partagé avec une **communauté plus large** qui peut y contribuer sans être aussi impliquée que **“l’équipe projet”** elle-même.
 
 Deux types de participants pour un projet ouvert :
 - les **membres de l’équipe projet** pour lesquels cela pose un problème s’ils ne font pas ce à quoi ils se sont engagés ;
-- les **autres membres de la communauté** qui **enrichissent** le projet à chaque fois que l’un d’entre eux contribue ;
+- les **autres membres de la communauté** qui **enrichissent** le projet à chaque fois que l’un d’entre eux contribue.
 
-#### Le facilitateur de projet
+##### Le facilitateur de projet
 
 Role clé du **facilitateur de projet** (!= porteur de projet, qui lui est focalisé sur son projet) : proactif, le facilitateur va s’intéresser au lien entre la communauté et ses différents projets.
 - De façon régulière, le facilitateur de projets va **prendre l’initiative de contacter les référents de chaque projet** au moins une fois par mois
@@ -81,15 +135,15 @@ Le facilitateur pose 3 questions au référent :
 - quelle est la **prochaine date de rencontre** de l’équipe projet ?
 - a-t-il **partagé ces informations** avec le reste de la communauté ? (si au bout d’un certain temps, le référent n’arrive pas à prendre le temps de partager les informations, le facilitateur peut le faire à sa place, mais il est bien plus intéressant pour la vie de la communauté d’avoir plusieurs porteurs de projets qui y interviennent).
 
-### 3. La communauté
+#### 3. La communauté
 
 - La communauté a pour **but la vie de la communauté** alors que l’équipe projet à pour but le développement d’un projet.
-- L’équipe projet gère des contraintes alors qu’une vaste communauté 
+- L’équipe projet gère des contraintes alors qu’une vaste communauté
 **ouvre des opportunités**
 
 **Loi des 90-9-1 :**
-- les **proactifs**, ceux qui prennent des initiatives, sont quelques pour cent (entre 1 et 5%) 
-- les **réactifs**, ceux qui réagissent lorsqu’on les sollicite, sont quelques dizaines de pour cent (entre 10 et 20%) 
+- les **proactifs**, ceux qui prennent des initiatives, sont quelques pour cent (entre 1 et 5%)
+- les **réactifs**, ceux qui réagissent lorsqu’on les sollicite, sont quelques dizaines de pour cent (entre 10 et 20%)
 - les autres sont soit **observateurs** (ils suivent ce qui se passe sans contribuer) ou **inactifs** (ils ne suivent pas ce qui se passe et ont même peut être oublié qu’ils font partie du groupe)
 
 A quoi sert une communauté ?
@@ -103,31 +157,31 @@ Rôle capital dans une communauté : le **leader**
 - idéalement suffisamment connus pour donner envie de devenir membre de la communauté et suffisamment légitimes pour servir d’arbitre
 - attention à réussir à laisser de la place, accompagner
 
-### 4. L'information
+#### 4. L'information
 
-La principale clé de l’information dans une communauté n’est souvent pas d’identifier qui elle ne doit pas toucher, mais plutôt de prendre en compte qu’elle **va s’adresser à des personnes qui n’ont pas le temps**. 
+La principale clé de l’information dans une communauté n’est souvent pas d’identifier qui elle ne doit pas toucher, mais plutôt de prendre en compte qu’elle **va s’adresser à des personnes qui n’ont pas le temps**.
 
 Penser aux **titres pleins**.
 
-Difficultés : 
+Difficultés :
 - trop de monde diffuse sans concertation des informations visibles en dehors de la communauté -> centralisre l'information ?
 - pas assez de monde pense à diffuser de l’information -> confier ce projet à un groupe ou une personne ?
 
 
-### 5. Des rencontres pour booster les + actifs (+ techniques d'animation)
+#### 5. Des rencontres pour booster les + actifs (+ techniques d'animation)
 
-Prise de note : tenter le rapport d'étonnement ?  plutôt que de chercher un compte rendu exhaustif, 
-mettez simplement les quelques éléments qui vous ont le plus étonnés dans ce qui s’est dit : ce 
+Prise de note : tenter le rapport d'étonnement ?  plutôt que de chercher un compte rendu exhaustif,
+mettez simplement les quelques éléments qui vous ont le plus étonnés dans ce qui s’est dit : ce
 qui vous a intrigué, stimulé, énervé, amusé
 
 Ne pas oublier de fixer la date de la prochaine rencontre.
 
-Etapes d'une rencontre : 
-- au début, ice breaking : chacun prend al parole une fois (15-20 minutes) : 
+Etapes d'une rencontre :
+- au début, ice breaking : chacun prend al parole une fois (15-20 minutes) :
   - présentation (en mot clé pour éviter les monologues ? 140 caractères ? )
   - point météo
 - au milieu : différents types d'animation possible (cf [MultiBao](http://www.multibao.org))
-  - [Accélérateur de projet](http://www.multibao.org/#multibao/contributions/blob/master/contributions/accelerateur_de_projets.md)  : faire intervenir des pairs pour résoudre les problèmes d’un projet 
+  - [Accélérateur de projet](http://www.multibao.org/#multibao/contributions/blob/master/contributions/accelerateur_de_projets.md)  : faire intervenir des pairs pour résoudre les problèmes d’un projet
   - [Atelier de rue](http://www.multibao.org/#chiendent/atelier-de-rue/blob/master/outil_atelier_rue.md)  : façon d'échanger autour d'un thème, avec les habitants, passants ou usagers du lieu dans lequel il s'installe.
   - [Avis à la population](http://www.multibao.org/#lilianricaud/travail-en-reseau/blob/master/Avis_a_la_population.md)  : demander aux participants de representer le projet ou produit étudié sous forme d'une affiche, ce format permet de croiser des réprésentations de manière constructive (évite les oui mais).
   - [Action World-Cafe](http://www.multibao.org/#lilianricaud/travail-en-reseau/blob/master/Action-World-Cafe.md)  : variante de World Café adapté specifiquement pour produire une liste d'action à mener facilitant une mise en oeuvre concrète.
@@ -137,40 +191,40 @@ Etapes d'une rencontre :
   - [Cartographie communautaire](http://www.multibao.org/#multibao/contributions/blob/master/contributions/cartographie_communautaire.md) : faire appel à des membres de la collectivité afin qu'ils dessinent des cartes des ressources, de l'utilisation des terres, des structures, des institutions et des associations de leur collectivité.
   - [Cercle excentrique / Fish Bowl](http://www.multibao.org/#multibao/contributions/blob/master/contributions/cercle_excentrique.md) : manière d'impliquer un plus grand groupe dans la discussion d'un plus petit groupe (5 – 8 personnes); son principe de base est qu'un participant doit écouter et attendre avant de s'exprimer.
   - [Les champs de force](http://www.multibao.org/#multibao/contributions/blob/master/contributions/champs_de_force.md) : identifier les problèmes, analyser  les  forces  positives  et  négatives  au  sein  d’une organisation ou d’un groupe à un  moment précis.
-  - [Débat mouvant](http://www.multibao.org/#multibao/contributions/blob/master/contributions/debat_mouvant.md)  : débat dynamique favorisant l’émulation et la prise de position 
-  - [Donut](http://www.multibao.org/#reseautransitionwb/reseau_transition/blob/master/pratiques_sensibilisation/donut.md)  : ouvrir les participants à la vision des autres 
+  - [Débat mouvant](http://www.multibao.org/#multibao/contributions/blob/master/contributions/debat_mouvant.md)  : débat dynamique favorisant l’émulation et la prise de position
+  - [Donut](http://www.multibao.org/#reseautransitionwb/reseau_transition/blob/master/pratiques_sensibilisation/donut.md)  : ouvrir les participants à la vision des autres
   - [Les excercices énergisants](http://www.multibao.org/#multibao/contributions/blob/master/contributions/energizers.md)  : excercices sont à utiliser quand les participants ont un "coup de mou", pour dynamiser les activités, ou encore simplement aider les participants à se réveiller en bougeant en début de journée.
-  - [Facilitation graphique](http://www.multibao.org/#multibao/contributions/blob/master/contributions/facilitation_graphique.md)  : saisir au vol les paroles, les mots, les idées 
-  - [Forum Ouvert](http://www.multibao.org/#multibao/contributions/blob/master/contributions/forum_ouvert.md)  : explorer un sujet avec un nombre non limité de participants 
+  - [Facilitation graphique](http://www.multibao.org/#multibao/contributions/blob/master/contributions/facilitation_graphique.md)  : saisir au vol les paroles, les mots, les idées
+  - [Forum Ouvert](http://www.multibao.org/#multibao/contributions/blob/master/contributions/forum_ouvert.md)  : explorer un sujet avec un nombre non limité de participants
   - [Gestion de parole](http://www.multibao.org/#multibao/contributions/blob/master/contributions/gestion_parole.md)  : liste non exhaustive des différents types de pratiques de gestion de parole en réunion/formation.
   - [Gouvernance / organisations en cercle](http://www.multibao.org/#multibao/contributions/blob/master/contributions/gouvernance_par_cercle.md)  : alternative au mode de gouvernance pyramidal classique.
-  - [Lean Canvas]()  : valider et documenter un modèle économique 
-  - [Marché de savoirs]()  : échanges de savoirs au sein d’un ensemble de stands 
+  - [Lean Canvas]()  : valider et documenter un modèle économique
+  - [Marché de savoirs]()  : échanges de savoirs au sein d’un ensemble de stands
   - [Matrice d'appréciation](http://www.multibao.org/#multibao/contributions/blob/master/contributions/matrice_appreciation.md)  : permet aux membres de la collectivité de décider de leurs préférences et de faire des choix parmi diverses options, à l'aide des critères qu'ils auront élaborés.
   - [Matrice du degré de satisfaction](http://www.multibao.org/#multibao/contributions/blob/master/contributions/matrice_satisfaction.md)  : consiste à demander aux membres de la collectivité de préciser à quel point ils sont satisfaits d'un aspect ou l'autre de leur collectivité.
   - [Moi, à ta place, je](http://www.multibao.org/#multibao/contributions/blob/master/contributions/moi_a_ta_place_je.md)  : se mettre au service d'un projet / d'une problématique / d'une personne / d'une équipe en faisant émerger l'intelligence collective et la créativité.
-  - [Organiser un événement participatif]()  : mieux faire vivre la coopération en présence 
+  - [Organiser un événement participatif]()  : mieux faire vivre la coopération en présence
   - [Planification d'activités](http://www.multibao.org/#multibao/contributions/blob/master/contributions/planification_activité.md)  : préciser et noter les mesures à prendre pour atteindre des résultats précis.
-  - [Pratiques dynamiques de présentation](http://www.multibao.org/#multibao/contributions/blob/master/contributions/pratiques_presentation.md)  : différentes pratiques de présentation qui peuvent prendre place dans une animation ou une formation. 
-  - [Présent et futur /  « analyse des champs de forces »](http://www.multibao.org/#multibao/contributions/blob/master/contributions/present_et_futur.md)  : aider à élaborer et à valider une vision commune, en plus de faire ressortir les questions sur lesquelles il importe de se pencher ainsi que les ressources disponibles pour réaliser cette vision. 
-  - [Pomodoro synchrone](http://www.multibao.org/#lilianricaud/travail-en-reseau/blob/master/Co-Pomodoro.md)  : ne pas se déranger mutuellement quand on travaille ensemble 
+  - [Pratiques dynamiques de présentation](http://www.multibao.org/#multibao/contributions/blob/master/contributions/pratiques_presentation.md)  : différentes pratiques de présentation qui peuvent prendre place dans une animation ou une formation.
+  - [Présent et futur /  « analyse des champs de forces »](http://www.multibao.org/#multibao/contributions/blob/master/contributions/present_et_futur.md)  : aider à élaborer et à valider une vision commune, en plus de faire ressortir les questions sur lesquelles il importe de se pencher ainsi que les ressources disponibles pour réaliser cette vision.
+  - [Pomodoro synchrone](http://www.multibao.org/#lilianricaud/travail-en-reseau/blob/master/Co-Pomodoro.md)  : ne pas se déranger mutuellement quand on travaille ensemble
   - [Regardons plus loin…](http://www.multibao.org/#multibao/contributions/blob/master/contributions/regarder_plus_loin.md)  : Soutenir un groupe pour qu’il s’organise et  réalise des activités concrètes
-  - [Six chapeaux pour penser](http://www.multibao.org/#multibao/contributions/blob/master/contributions/six_chapeaux.md)  :  technique pour examiner sous toutes les coutures telle ou telle décision. Elle nous aide à passer de styles de réflexion habituels à une vue plus complète de la situation. 
+  - [Six chapeaux pour penser](http://www.multibao.org/#multibao/contributions/blob/master/contributions/six_chapeaux.md)  :  technique pour examiner sous toutes les coutures telle ou telle décision. Elle nous aide à passer de styles de réflexion habituels à une vue plus complète de la situation.
   - [Surmonter les obstacles](http://www.multibao.org/#multibao/contributions/blob/master/contributions/surmonter_obstacles.md) : Situer les problèmes à l’intérieur d’un  groupe ou d’un travail, et planifier  un  travail  en  tenant  compte  des obstacles potentiels
   - [Sociocratie]()  : prise de décision et mode de gouvernance auto­organisé  
-  - [Table découverte]()  : une expérience ou un projet découvert chaque quart d’heure 
-  - [Théatre forum](http://www.multibao.org/#multibao/contributions/blob/master/contributions/theatre_forum.md)  : débat participatif avec des scénarios mis en scènes par des comédiens 
-  - [Tiers lieux éphémères](http://www.multibao.org/#multibao/contributions/blob/master/contributions/tiers_lieux_ephemeres.md) : Tiers Lieux à part entière que nous allons co-construire à l'occasion d'une journée ou d'un événement spécifique. Il s'agit la plus part du temps d'un lieu physique et/ou numérique que vous allez habiter un temps donné en lui donnant une âme et une dynamique d'ouverture par un processus d'animation appelé la conciergerie. 
+  - [Table découverte]()  : une expérience ou un projet découvert chaque quart d’heure
+  - [Théatre forum](http://www.multibao.org/#multibao/contributions/blob/master/contributions/theatre_forum.md)  : débat participatif avec des scénarios mis en scènes par des comédiens
+  - [Tiers lieux éphémères](http://www.multibao.org/#multibao/contributions/blob/master/contributions/tiers_lieux_ephemeres.md) : Tiers Lieux à part entière que nous allons co-construire à l'occasion d'une journée ou d'un événement spécifique. Il s'agit la plus part du temps d'un lieu physique et/ou numérique que vous allez habiter un temps donné en lui donnant une âme et une dynamique d'ouverture par un processus d'animation appelé la conciergerie.
   - [World café](http://www.multibao.org/#multibao/contributions/blob/master/contributions/world_cafe.md)  : générer des idées par petits groupes, les participants changeant de table  
 - à la fin (15 min)
   - rapport d'étonnement
   - récap des actions à faire
 
-### 6. Des discussions entre les rencontres y compris pour les moins actifs 
+#### 6. Des discussions entre les rencontres y compris pour les moins actifs
 
-## Mettre en place ou réorganiser une communauté pas à pas
+### Mettre en place ou réorganiser une communauté pas à pas
 
-## Faire vivre la communauté
+### Faire vivre la communauté
 
-## Sources
+### Sources
 - [Une heure par semaine pour animer une grande communauté](https://docs.google.com/document/d/1A5Ep7s2yAHLi3DxPANKpGTbeZctwRvDPYpK9KDsH_EI)
