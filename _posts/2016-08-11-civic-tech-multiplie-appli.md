@@ -1,9 +1,11 @@
 ---
+title: La civic tech ne dope que les meilleurs athlètes
+date: '2016-08-11 00:00:00'
 layout: post
-title: "La civic tech ne dope que les meilleurs athlètes"
-category: binary_transition
-tags: [civic tech]
-
+tags:
+- civic tech
+categories:
+- binary_transition
 ---
 
 Encore une ressource autour de la civic tech, mais plus riche en analyse et en réserve que bon nombre d'écrits parcourus ces derniers temps. Et la réserve sur les phénomènes tech en vogue, j'aime bien.

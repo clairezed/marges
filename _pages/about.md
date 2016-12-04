@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Qu'est-ce donc que ceci ?
-permalink: /c-est-quoi-don
+layout: page
+permalink: "/c-est-quoi-don"
 ---
 *Juillet 2016 - ouverture de ce carnet\\
 Le placo vient à peine d'être posé, le choix de la peinture est même pas définitif et les finitions ne sont qu'un horizon très lointain. Mais il faut bien ouvrir ce carnet à un moment, sinon les brouillons d'articles et de notes s'accumulent ! (rassurez-vous, c'est déjà plus que le cas. Si vous aimez les articles antédatés, vous allez vous régaler.)\\

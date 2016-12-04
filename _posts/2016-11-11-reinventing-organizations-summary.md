@@ -1,9 +1,11 @@
 ---
-layout: post
 title: Reinventing Organizations, la fiche de lecture
-category: good_job
-tags: [faire a plusieurs]
-
+date: '2016-11-11 00:00:00'
+layout: post
+tags:
+- faire a plusieurs
+categories:
+- good_job
 ---
 
 J'ai croisé plusieurs fois ces derniers mois des références au livre "Reinventing Organizations" de Frederic Laloux, présentant apparemment de façon limpide et inspirante une révolution douce en cours dans les modes d'organisation du travail.

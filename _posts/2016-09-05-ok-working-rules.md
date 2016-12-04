@@ -1,8 +1,12 @@
 ---
-layout: post
 title: Les tables de la loi de l'interaction inter-personnelle
-category: good_job
-tags: [bonheur, faire a plusieurs]
+date: '2016-09-05 00:00:00'
+layout: post
+tags:
+- bonheur
+- faire a plusieurs
+categories:
+- good_job
 ---
 
 Le service numérique du gouvernement britannique recrutait au printemps dernier, et en a profiter pour rédiger et partager quelques règles de ce qu'une nouvelle (ou pas) recrue est en droit d'attendre en intégrant leurs services. Humanité, bienveillance, compréhension et liberté. Au top.

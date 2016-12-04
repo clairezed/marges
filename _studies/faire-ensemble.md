@@ -1,9 +1,12 @@
 ---
+title: Techniques pour faire des choses à plusieurs
+date: '2016-12-04 21:37:05'
 layout: page
-title:  Techniques pour faire des choses à plusieurs
 permalink: faire-ensemble
-tags: [faire a plusieurs]
-category: good_job
+tags:
+- faire a plusieurs
+categories:
+- good_job
 ---
 
 Prise de note sur la collaboration, l'animation de communauté...

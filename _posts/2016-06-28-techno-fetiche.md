@@ -1,9 +1,13 @@
 ---
+title: Repolitiser un contrat social mâtiné de numérique
+date: '2016-06-28 00:00:00'
 layout: post
-title: "Repolitiser un contrat social mâtiné de numérique"
-category: binary_transition
-tags: [washing, politique, start up]
-
+tags:
+- washing
+- politique
+- start up
+categories:
+- binary_transition
 ---
 
 L'entrepreneuriat numérique n'est pas un doudou miracle pour gouvernants en mal de projet politique.

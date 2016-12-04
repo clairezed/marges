@@ -1,9 +1,12 @@
 ---
+title: Jekyll workflow
+date: '2016-12-04 21:37:05'
 layout: page
-title:  "Jekyll workflow"
 permalink: kekyll-workflow
-tags: [jekyll]
-category: sustainable_code
+tags:
+- jekyll
+categories:
+- sustainable_code
 ---
 
 Quelques commandes ou réflexion pour me permettre de mieux utiliser jekyll.

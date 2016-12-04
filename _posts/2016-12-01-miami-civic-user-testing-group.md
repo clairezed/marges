@@ -1,9 +1,11 @@
 ---
-layout: post
 title: Viens chéri, on va tester l'appli de la mairie et se faire de la maille
-category: binary_transition
-tags: [civic tech]
-
+date: '2016-12-01 00:00:00'
+layout: post
+tags:
+- civic tech
+categories:
+- binary_transition
 ---
 
 Et si les collectivités qui veulent lancer de nouveaux services pouvaient s'appuyer sur une communauté d'habitants testeurs ? C'est apparemment ce qu'il se passe dans le comté de Miami, et je trouve l'idée vraiment chouette.

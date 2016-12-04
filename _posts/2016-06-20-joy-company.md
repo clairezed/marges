@@ -1,9 +1,11 @@
 ---
+title: 'Siffloter en travaillant ? '
+date: '2016-06-20 00:00:00'
 layout: post
-title: "Siffloter en travaillant ? "
-category: good_job
-tags: [bonheur]
-
+tags:
+- bonheur
+categories:
+- good_job
 ---
 
 Le pdg d'une boîte informatique du Michigan a planché sur différents moyens de rendre ses salariés heureux (en partant du principe que "qui dit content, dit plus créatifs et plus productifs", ce n'est pas juste pour la beauté du geste).

@@ -1,9 +1,12 @@
 ---
-layout: post
 title: Comment faire des choses entre gens débordés ?
-category: binary_transition
-tags: [a lire, faire a plusieurs]
-
+date: '2016-07-09 00:00:00'
+layout: post
+tags:
+- a lire
+- faire a plusieurs
+categories:
+- binary_transition
 ---
 
 Jean-Michel Cornu propose le guide ["Une heure par semaine pour animer une grande communauté"][source], soit comme il le dit ***" animer un ensemble de personnes qui n’ont pas le temps… avec des personnes qui n’ont pas le temps"***.

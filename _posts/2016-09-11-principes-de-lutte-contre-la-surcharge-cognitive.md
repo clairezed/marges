@@ -1,9 +1,12 @@
 ---
+title: Principes de lutte contre la surcharge cognitive
+date: '2016-09-11 00:00:00'
 layout: post
-title: "Principes de lutte contre la surcharge cognitive"
-category: binary_transition
-tags: [design, ui/ux]
-
+tags:
+- design
+- ui/ux
+categories:
+- binary_transition
 ---
 
 Dans [Smashing Magazine](https://www.smashingmagazine.com/), Danny Halarewich revient sur quelques principes qui visent à éviter la surcharge cognitive chez les utilisateurs d'un site. Capital pour concevoir des outils utiles, utilisables et utilisés.

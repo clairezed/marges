@@ -1,9 +1,12 @@
 ---
+title: Toolkit
+date: '2016-12-04 21:37:05'
 layout: page
-title:  "Toolkit"
 permalink: toolkits
-tags: [hackathon]
-category: sustainable_code
+tags:
+- hackathon
+categories:
+- sustainable_code
 ---
 
 

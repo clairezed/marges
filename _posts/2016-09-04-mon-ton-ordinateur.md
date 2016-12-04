@@ -1,8 +1,11 @@
 ---
-layout: post
 title: C'est "mon" ou "ton" ordinateur ?
-category: sustainable_code
-tags: [ui/ux]
+date: '2016-09-04 00:00:00'
+layout: post
+tags:
+- ui/ux
+categories:
+- sustainable_code
 ---
 
 Quelle différence y a-t-il, dans les interfaces de nos outils numériques, quand la machine affiche dans les menus "Mes photos" ou bien "Vos dossiers" ? Une question bête et finalement captivante à laquelle répond cet article de John Saito.

@@ -1,9 +1,12 @@
 ---
+title: Initiatives cools
+date: '2016-12-04 21:37:05'
 layout: page
-title:  Initiatives cools
 permalink: initiatives-cool
-tags: [civic tech]
-category: binary_transition
+tags:
+- civic tech
+categories:
+- binary_transition
 ---
 
 Quelques initiatives (qui m'ont l'air) cools sur lesquelles jeter ou garder un oeil.

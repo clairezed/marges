@@ -1,8 +1,12 @@
 ---
+title: Socialiser le numérique ?
+date: '2016-06-16 00:00:00'
 layout: post
-title: "Socialiser le numérique ?"
-category: binary_transition
-tags: [ess, start up]
+tags:
+- ess
+- start up
+categories:
+- binary_transition
 ---
 
 Jean-Philippe Courtois, notamment président de Microsoft International, parle de la pénétration des outils numériques dans l'Economie Sociale et Solidaire pour faire la promotion d'un programme destiné -quelle surprise- à lacher dans un écosystème qui n'en demandait pas tant une nouvelle poignée de start up à connotation sociale.

@@ -1,9 +1,13 @@
 ---
+title: Ruby & Rails Cheatsheet
+date: '2016-12-04 21:37:05'
 layout: page
-title:  "Ruby & Rails Cheatsheet"
 permalink: cheat-sheet-ruby
-tags: [ruby, rails]
-category: sustainable_code
+tags:
+- ruby
+- rails
+categories:
+- sustainable_code
 ---
 
 Conseils à la volée pour écrire du meilleur code en ruby.

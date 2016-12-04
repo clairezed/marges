@@ -1,9 +1,11 @@
 ---
+title: De la tech civique chez les agents de l'Etat
+date: '2016-09-06 00:00:00'
 layout: post
-title: "De la tech civique chez les agents de l'Etat"
-category: binary_transition
-tags: [civic tech]
-
+tags:
+- civic tech
+categories:
+- binary_transition
 ---
 
 La [Gazette des communes](http://www.lagazettedescommunes.com/) aussi s'emparent des civic tech. Un oeil jeté sur ce qui se dit sur le sujet parmi les agents de l'état, et des éléments d'analyse pas inintéressants.

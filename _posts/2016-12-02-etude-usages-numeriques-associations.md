@@ -1,9 +1,11 @@
 ---
-layout: post
 title: Association et numérique, l'édition 2016
-category: sustainable_code
-tags: [civic tech]
-
+date: '2016-12-02 00:00:00'
+layout: post
+tags:
+- civic tech
+categories:
+- sustainable_code
 ---
 
 L'agence du numérique relaie une étude de Solidatech et Recherches et Solidarité autour de la place du numérique dans les associations françaises. Evidemment, c'est une lecture plus qu'utile (et intéressée) pour quiconque se destine à faire du numérique pour ce type de structure...

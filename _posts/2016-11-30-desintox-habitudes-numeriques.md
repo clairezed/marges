@@ -1,9 +1,11 @@
 ---
-layout: post
 title: Se mettre en desintox du scroll
-category: sustainable_code
-tags: [civic tech]
-
+date: '2016-11-30 00:00:00'
+layout: post
+tags:
+- civic tech
+categories:
+- sustainable_code
 ---
 
 Un designer (Geofrey Dorne) partage ses trucs pour assainir ses pratiques numériques (et nous explique pourquoi il le fait). Des liens et astuces précieuses !

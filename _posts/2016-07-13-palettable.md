@@ -1,9 +1,13 @@
 ---
-layout: post
 title: On a tinderisé les palettes de couleurs
-category: sustainable_code
-tags: [toolkit, design, color]
-
+date: '2016-07-13 00:00:00'
+layout: post
+tags:
+- toolkit
+- design
+- color
+categories:
+- sustainable_code
 ---
 
 Découverte via [Sidebar](http://sidebar.io/) d'une -encore- nouvelle application pour créer des palettes de couleurs, [Palettable][source].

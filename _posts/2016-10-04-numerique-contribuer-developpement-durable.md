@@ -1,9 +1,11 @@
 ---
-layout: post
 title: Comment le numérique peut contribuer au développement durable ?
-category: sustainable_code
-tags: [ecologie]
-
+date: '2016-10-04 00:00:00'
+layout: post
+tags:
+- ecologie
+categories:
+- sustainable_code
 ---
 
 Est-ce moi qui suis plus à l'affût sur ces problématiques, ou y'a-t-il de plus en plus de littérature (toute proportion gardée hein) creusant les implications du numérique dans les grandes questions de société ? Aujourd'hui, un article creusant les connexions qui pourraient être faites entre outils numériques et développement durable.

@@ -1,9 +1,12 @@
 ---
-layout: post
 title: Le comportementalisme et le design numérique au secours du vote
-category: binary_transition
-tags: [politique, engagement]
-
+date: '2016-10-03 00:00:00'
+layout: post
+tags:
+- politique
+- engagement
+categories:
+- binary_transition
 ---
 
 "Théorie comportementale", "Engagement politique", "Incitation au vote"... L'incitation au clic fonctionne sur des mots clés particuliers pour moi, et l'auteur de cet article a tapé en plein dans le mille.
