@@ -1,0 +1,32 @@
+---
+title: Marges
+description: Prise de notes des internets de claire zuliani
+url: http://localhost:4000
+markdown: kramdown
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..2
+  enable_coderay: false
+highlighter: rouge
+excerpt_separator: "<!--more-->"
+sass:
+  sass_dir: _sass
+  style: compressed
+timezone: Europe/Paris
+encoding: utf-8
+locale: fr
+include:
+- _pages
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: default
+collections:
+  studies:
+    output: true
+    permalink: "/:collection/:path/"
+    title: Dossiers

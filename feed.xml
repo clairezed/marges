@@ -3,11 +3,571 @@
   <channel>
     <title>Marges</title>
     <description>Prise de notes des internets de claire zuliani</description>
-    <link>https://clairezed.github.io/marges/</link>
-    <atom:link href="https://clairezed.github.io/marges/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 10 Oct 2016 22:33:10 +0200</pubDate>
-    <lastBuildDate>Mon, 10 Oct 2016 22:33:10 +0200</lastBuildDate>
-    <generator>Jekyll v3.2.1</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 04 Dec 2016 21:37:16 +0000</pubDate>
+    <lastBuildDate>Sun, 04 Dec 2016 21:37:16 +0000</lastBuildDate>
+    <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>Comment effectuer sa recherche de mécénat en tant que développeur indépendant ?</title>
+        <description>&lt;p&gt;Aujourd’hui, je découvre qu’on peut, en tant que développeur notamment, tester en quelques clics la pertinence d’idées, et mettre en place un système de “mécénat récurrent” de particuliers pour pouvoir se consacrer à ses idées les plus populaires. Un nouveau modèle de financement ?&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Au détours d’un tweet, je découvre l’initiative d’un développeur (Adrien Joly) qui a testé la popularité de certaines idées de projets qu’il avait en tête, sur une plateforme dédiée à ça. Après ça, il décide de tout plaquer pour se consacrer entièrement au développement de celles recueillant le plus de suffrage. Pour subvenir, il s’appuie sur une plateforme permettant de recueillir de la part d’individus intéressés par son travail des micro-paiements mensuels. Le mécénat originel revisité, en quelques sortes.&lt;/p&gt;
+
+&lt;p&gt;Les plateformes en question, que je découvre :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.pitchcard.io&quot;&gt;Pitchcard&lt;/a&gt; : pour lancer des idées et sondé leur intérêt, avec une campagne de crowdfunding factice (cf &lt;a href=&quot;https://www.pitchcard.io/u/adrienjoly&quot;&gt;les pitch d’Adrien Joly&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.patreon.com/&quot;&gt;Patreon&lt;/a&gt;(cf &lt;a href=&quot;https://www.patreon.com/adrienjoly&quot;&gt;la page d’Adrien Joly&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Au delà de la démarche, et du sérieux avec lequel Adrien Joly la mène (faites un tour sur ses pages en lien ; je trouve sa façon d’expliquer son projet, de prendre en considération et d’intégrer les retours qu’on lui fait, assez clair et classe), c’est surtout l’émergence de plateformes induisant d’autres façons de travailler qui m’interpelle.&lt;/p&gt;
+
+&lt;p&gt;Tester et faire valider la pertinence (ou au moins l’attente) de certains projets me semble aller dans le bon sens. Pour la souscription mensuelle, pourquoi pas.&lt;/p&gt;
+
+&lt;p&gt;Edit :
+Les hasards de twitter me font aussi découvrir, cité à côté de Patreon, le projet &lt;a href=&quot;opencollective.com&quot;&gt;Open Collective&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 02 Dec 2016 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/good_job/2016/12/02/nouvelles-formes-mecenat-pour-projets-de-developpement.html</link>
+        <guid isPermaLink="true">http://localhost:4000/good_job/2016/12/02/nouvelles-formes-mecenat-pour-projets-de-developpement.html</guid>
+        
+        <category>civic tech</category>
+        
+        
+        <category>good_job</category>
+        
+      </item>
+    
+      <item>
+        <title>Association et numérique, l'édition 2016</title>
+        <description>&lt;p&gt;L’agence du numérique relaie une étude de Solidatech et Recherches et Solidarité autour de la place du numérique dans les associations françaises. Evidemment, c’est une lecture plus qu’utile (et intéressée) pour quiconque se destine à faire du numérique pour ce type de structure…&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Les données que je retiens pour identifier où en sont les asso dans leur rapport au numérique et quels sont leurs besoins actuellement sont les suivantes.&lt;/p&gt;
+
+&lt;h2 id=&quot;quest-ce-qui-est-utilis-et-en-quelle-proportion-&quot;&gt;Qu’est-ce qui est utilisé et en quelle proportion ?&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;73 % des associations interrogées disposent d’un &lt;strong&gt;site internet propre&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;62 % d’entre elles utilisent les &lt;strong&gt;réseaux sociaux&lt;/strong&gt; ; c’est le premier poste de progrès (+ 26 points depuis 2013).&lt;/li&gt;
+  &lt;li&gt;Les &lt;strong&gt;outils collaboratifs&lt;/strong&gt; ont également fortement progressé entre 2013 (22 %) et 2016 (43 %), soit + 21 points.&lt;/li&gt;
+  &lt;li&gt;41 % des associations utilisent des &lt;strong&gt;logiciels libres&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;35 % des associations connectées ont mis en place des &lt;strong&gt;projets numériques au service de leurs bénéficiaires ou d’une cause sociale&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;A ce sujet :&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;« La complexité des projets varie et n’implique pas nécessairement des compétences techniques importantes, l’&lt;strong&gt;objectif étant d’accélérer son impact social par le biais du numérique&lt;/strong&gt;. L’inclusion numérique auprès de publics fragiles (personnes en situation de précarité, seniors, personnes en situation de handicap) est aussi devenue en soi un projet associatif ».&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;## Qu’est-ce qu’apporte de positif le numérique ?&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;« C’est le &lt;strong&gt;partage de l’information&lt;/strong&gt; qui apparaît comme effet le plus positif (85 %). Il permettrait le renforcement de la cohésion de l’équipe, de l’efficacité, du suivi et de l’évaluation des actions, comme de son impact positif sur l’implication des adhérents, des bénévoles ou salariés »&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;quelle-prsence-du-logiciel-libre-&quot;&gt;Quelle présence du logiciel libre ?&lt;/h2&gt;
+
+&lt;p&gt;On compte &lt;strong&gt;plus d’utilisateurs de logiciels libres&lt;/strong&gt; dans :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;les associations « connectées » : 63%,&lt;/li&gt;
+  &lt;li&gt;les associations de taille moyenne (entre 3 et 19 salariés) : 47%,&lt;/li&gt;
+  &lt;li&gt;les associations qui se déclarent dans une situation
+financière difficile : 46%,&lt;/li&gt;
+  &lt;li&gt;le secteur des loisirs, de la jeunesse
+et de l’éducation populaire : 44%.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;quels-risques--lutilisation-du-numrique-&quot;&gt;Quels risques à l’utilisation du numérique ?&lt;/h2&gt;
+
+&lt;p&gt;Les risques signalés par les associations :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Exclusion des personnes non initiées et &lt;strong&gt;risque de fracture&lt;/strong&gt; en interne.&lt;/li&gt;
+  &lt;li&gt;Découragement par l’&lt;strong&gt;excès d’informations&lt;/strong&gt;
+(importance de savoir écrire pour être lu et compris).&lt;/li&gt;
+  &lt;li&gt;Frein à la réflexion du fait de la &lt;strong&gt;rapidité, voire de l’immédiateté
+des échanges&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Redistribution des rôles&lt;/strong&gt; / des pouvoirs (nouveaux circuits de décision).&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Révélation de modes de fonctionnement dépassés&lt;/strong&gt;, inefficaces :
+des tensions possibles, voire des conflits.&lt;/li&gt;
+  &lt;li&gt;Eloignement par rapport au projet associatif lui-même.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;quels-obstacles-et-comment-les-dpasser-&quot;&gt;Quels obstacles et comment les dépasser ?&lt;/h2&gt;
+
+&lt;p&gt;Pour une utilisation optimale du numérique, les structures disent manquer de temps et de disponibilité pour :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Définir les objectifs.&lt;/li&gt;
+  &lt;li&gt;Trouver les outils adaptés.&lt;/li&gt;
+  &lt;li&gt;Savoir les utiliser.&lt;/li&gt;
+  &lt;li&gt;Les partager avec les autres utilisateurs potentiels.&lt;/li&gt;
+  &lt;li&gt;Initier les nouveaux utilisateurs et lever les éventuelles craintes.&lt;/li&gt;
+  &lt;li&gt;Mesurer leurs impacts.&lt;/li&gt;
+  &lt;li&gt;Savoir quand et comment les renouveler.
+Besoin aussi d’un savoir-faire technique et de moyens financiers.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Ce qui aiderait une association à tirer le meilleur parti du numérique serait, selon elle :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Une &lt;strong&gt;meilleure connaissance&lt;/strong&gt; des outils numériques existants : 49%&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;mise à niveau&lt;/strong&gt; des membres pas ou peu initiés : 48%&lt;/li&gt;
+  &lt;li&gt;volonté pleinement partagée de s’appuyer sur le numérique : 36%&lt;/li&gt;
+  &lt;li&gt;aide personnalisée pour définir une stratégie numérique : 29%&lt;/li&gt;
+  &lt;li&gt;temps d’échange et de réflexion en interne : 28%&lt;/li&gt;
+  &lt;li&gt;formation tehcique pour chaque usage ou outil : 27%&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Source : &lt;a href=&quot;http://agencedunumerique.gouv.fr/forte-croissance-des-usages-numeriques-dans-le-monde-associatif-2/&quot;&gt;Etude “La place du numérique dans le projet associatif” - novembre 2016&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 02 Dec 2016 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/sustainable_code/2016/12/02/etude-usages-numeriques-associations.html</link>
+        <guid isPermaLink="true">http://localhost:4000/sustainable_code/2016/12/02/etude-usages-numeriques-associations.html</guid>
+        
+        <category>civic tech</category>
+        
+        
+        <category>sustainable_code</category>
+        
+      </item>
+    
+      <item>
+        <title>Viens chéri, on va tester l'appli de la mairie et se faire de la maille</title>
+        <description>&lt;p&gt;Et si les collectivités qui veulent lancer de nouveaux services pouvaient s’appuyer sur une communauté d’habitants testeurs ? C’est apparemment ce qu’il se passe dans le comté de Miami, et je trouve l’idée vraiment chouette.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Dans la lignée de &lt;a href=&quot;www.codeforamerica.org&quot;&gt;Code for America&lt;/a&gt;, des sous-groupes rattachés à des villes ou régions se sont créées. Le Miami CUT (Civic User testing) group est ainsi une initiative de Code for Miami, qui a aussi pour objectif de remobiliser les habitants de la région, parmi les moins engagés socialement / civiquement du pays.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Si ça ne fonctionne pas pour vous, ça ne fonctionne pas.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;em&gt;Slogan du Miami CUT group&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Comment ça marche ?&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;les habitants qui veulent tester un site ou une appli s’inscrivent sur &lt;a href=&quot;http://cutgroup.miami/&quot;&gt;un site&lt;/a&gt;, et reçoivent une carte cadeau de 5$.&lt;/li&gt;
+  &lt;li&gt;le site est disponible en anglais, espagnol et créole (Haïti)&lt;/li&gt;
+  &lt;li&gt;les organisateurs tablent sur un test par mois&lt;/li&gt;
+  &lt;li&gt;les habitants qui se sont déclarés volontaires et ont été sélectionnés (pas d’info sur comment se fait la sélection) participent à des sessions de tests dans des bibliothèques, des centres sociaux (community centers) ou en ligne.&lt;/li&gt;
+  &lt;li&gt;à chaque test achevé, le participant reçoit une carte cadeau de 20$&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Je trouve l’initiative intéressante sur le principe : dans une logique living lab, des services sont testés par de vrais gens, mais ici ça va encore plus loin. L’incitation financière permet peut-être de mobiliser en plus grand nombre ; et de faire participer des profils plus variés, des personnes qui sont moins acculturés à l’utilisation d’outils numériques (les retours n’en seront que plus pertinents).&lt;/p&gt;
+
+&lt;p&gt;Par contre, j’ai encore un paquet de questions auxquelles l’article répond pas :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;d’où vient la thune ? C’est quoi ces cartes cadeaux, qui les finance, et ça représente quel budget ?&lt;/li&gt;
+  &lt;li&gt;quels sont les projets sélectionnés pour être testé ? Comment sont-ils sélectionnés ?&lt;/li&gt;
+  &lt;li&gt;l’initiative est-elle soutenue par des collectivités ?&lt;/li&gt;
+  &lt;li&gt;quels sont les premiers retours d’expérience ?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;A creuser à l’occasion.&lt;/p&gt;
+
+&lt;p&gt;Source : &lt;a href=&quot;https://medium.com/cutgroup-miami/making-government-technology-suck-less-in-miami-d55d169060d#.2fgo66k05&quot;&gt;Comment agir sur ses habitudes numériques ?&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/binary_transition/2016/12/01/miami-civic-user-testing-group.html</link>
+        <guid isPermaLink="true">http://localhost:4000/binary_transition/2016/12/01/miami-civic-user-testing-group.html</guid>
+        
+        <category>civic tech</category>
+        
+        
+        <category>binary_transition</category>
+        
+      </item>
+    
+      <item>
+        <title>Se mettre en desintox du scroll</title>
+        <description>&lt;p&gt;Un designer (Geofrey Dorne) partage ses trucs pour assainir ses pratiques numériques (et nous explique pourquoi il le fait). Des liens et astuces précieuses !&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Merci à &lt;a href=&quot;https://graphism.fr&quot;&gt;Geoffrey Dorne&lt;/a&gt; pour ce post, dont les liens viennent enrichir et compléter les quelques notes déjà prises ici.&lt;/p&gt;
+
+&lt;p&gt;Je me permets de repomper les liens ici, histoire de toujours les avoir sous la main. Et je compte bien m’en servir pour nourrir mon éthique professionnelle, par opposition.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.internetactu.net/2016/11/02/comment-lemployabilite-a-t-elle-tue-le-temps-libre/&quot;&gt;comment l’employabilité tue le temps libre&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.internetactu.net/2016/11/09/design-de-nos-vulnerabilites-la-silicon-valley-est-elle-a-la-recherche-dune-conscience/&quot;&gt;le design de nos vulnérabilités&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://graphism.fr/persuasive-design-vs-dark-patterns/&quot;&gt;le persuasive design &amp;amp; les dark patterns&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.internetactu.net/search/morozov&quot;&gt;tous les articles de Morozov&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://graphism.fr/les-dark-pattern-ou-la-perversion-conomique-du-webdesign/&quot;&gt;la perversion économique du webdesign&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://graphism.fr/pour-design-de-la-vie-prive/&quot;&gt;le privacy by design&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.casilli.fr/2016/02/20/recension-de-quest-ce-que-le-digital-labor-dans-la-revue-francaise-de-sciences-politiques-vol-1-no-66-2016/&quot;&gt;tous les écrits de Antonio Casili sur le Digital Labor&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Pour ma part, je traverse une période où j’ai l’impression que certaines de mes habitudes numériques me sont néfastes (perte de temps / stress de la profusion ingérable), et j’ai l’envie de revoir et contraindre un peu mes façons de faire pour y remédier. Avec des résultats mitigés pour le moment, j’avoue.&lt;/p&gt;
+
+&lt;p&gt;Parmi les services que Geoffrey Dorne suggère pour reprendre la main sur sa vie numériquement phagocytée, certains sont déjà dans ma boîte à outil (&lt;a href=&quot;https://unroll.me/&quot;&gt;unroll.me&lt;/a&gt; a déjà bien permis de désengorgé ma boîte, je recommande). Je jetterai un oeil sur d’autres, qui permettent de &lt;a href=&quot;https://chrome.google.com/webstore/detail/pixelblock/jmpmfcjnflbcoidlgapblgpgbilinlem&quot;&gt;supprimer les accusés de réception de gmail&lt;/a&gt; ou &lt;a href=&quot;https://duckduckgo.com/?q=unseen+plugin&amp;amp;atb=v36-2a_&amp;amp;ia=web&quot;&gt;de facebook&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;D’autres outils me posent un peu + questions.&lt;/p&gt;
+
+&lt;p&gt;En ce moment, je fais énormément de veille et de prospection professionnelle. Au fil du temps, facebook est devenu l’un de mes canaux de veille principal, et les algo de suggestion des réseaux sociaux me sont précieux pour identifier des inititiatives, même si j’ai conscience de leurs effets pervers. Je cherche donc, plutôt que de les supprimer, un moyen de filtrer les données des réseaux uniquement dans une optique de veille efficace. Pour twitter, j’ai configurer des listes thématiques, mais je cherche encore un moyen de supprimer les doublons (revoir 15 fois le même lien largement partagé dans mon réseau ne m’apporte rien). Pour facebook, je peux mettre dans un groupe particulier les personnes que je suis uniquement dans une optique de veille ; mais il n’est pas possible d’ajouter des pages ou des groupes à ces regroupements. A cresuer, donc !&lt;/p&gt;
+
+&lt;p&gt;Ensuite, Geoffrey utilise des outils qui permettent de supprimer les boutons like. Ici encore je suis partagée. Le bouton like est pour moi un bouton de soutien d’initiatives ou d’actions, que j’utilise généralement en espérant donner une visibilité supplémentaire ou en marquant mon support à une inititiative (sans compter la valeur psychologique de ce like reçut au milieu de la nuit qui permet de ne pas se sentir seul :)). Alors, même si je comprends la logique de lutte contre des mécanismes addictifs, je ne suis pas encore prête à passer le cap.&lt;/p&gt;
+
+&lt;p&gt;Source : &lt;a href=&quot;https://graphism.fr/comment-agir-sur-ses-habitudes-numeriques/&quot;&gt;Comment agir sur ses habitudes numériques ?&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 30 Nov 2016 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/sustainable_code/2016/11/30/desintox-habitudes-numeriques.html</link>
+        <guid isPermaLink="true">http://localhost:4000/sustainable_code/2016/11/30/desintox-habitudes-numeriques.html</guid>
+        
+        <category>civic tech</category>
+        
+        
+        <category>sustainable_code</category>
+        
+      </item>
+    
+      <item>
+        <title>Les nouvelles formes d'organisation à la lumière des communs</title>
+        <description>&lt;p&gt;Un article récent de Michel Bauwens vient faire furieusement écho à ma lecture de Reinventing Organizations. Des concepts complémentaires qui viennent encore nourrir la compréhension des nouvelles possibilités (souhaitables) xd’organisation.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Je fais l’hypothèse que le capitalisme a changé d’un capitalisme anti-commun qui employait le travail comme commodité pour créer des marchandises vers un capitalisme qui facilite les dynamiques du commun et qui essaye de capter directement la sur-value créée par les communs.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Pour Bauwens, 3 types de structures (“institutions”, dit-il) émergent :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;la communauté productive&lt;/strong&gt; : systèmes productifs ouverts qui ne sont pas basés sur le travail-marchandise mais sur la contribution (ex : wikipedia, linux)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;la coalition entrepreneuriale&lt;/strong&gt; : extractive (capitalisme qui capte la sur-value du commun) ou générative (des commoners eux-mêmes qui réfléchissent à créer des formes entreprenariales ou autres qui créent des moyens de vivre de leurs communs). Même si elle est capitaliste, elle est co-dépendante des communs et donc elle doit tenir compte des communs. (ex: IBM qui contribue à Linux)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;la « for benefit association »&lt;/strong&gt; : Ces associations font le lien entre les communautés productives et les « entredonneurs » (ici des donateurs) (ex: Wikimedia Foundation, la Linux Foundation)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Et Bauwens de citer Bernard Friot :&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;« la vraie lutte des classes ce n’est pas le partage du gâteau (ça c’est la lutte sociale), c’est qui détermine ce qu’est la valeur »&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Pour permettre une souveraineté de définition de ce qu’est la valeur :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;la comptabilité contributive&lt;/strong&gt; : &lt;em&gt;“on n’est plus dans la division du travail mais dans la distribution volontaire des tâches. On considère la contribution comme l’unité de valeur. Ces contributions peuvent être très diverses : je donne une machine à la communauté, j’ai travaillé quelques heures pour développer ce logiciel particulier, j’ai testé la machine, j’ai participé au financement d’un projet,…”&lt;/em&gt;”&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;une licence à réciprocité renforcée&lt;/strong&gt; : licence qui dit 1/ que le partage reste protégé : il n’est pas question de diminuer le partage, tout le monde peut utiliser la connaissance. 2/ que la commercialisation est conditionnée à une forme de réciprocité, dont les termes sont définis par les communautés.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Bauwens développe ensuite une vision intéressante, à partir des communs, de 4 entreprises dont certaines fréquemment citées dès qu’on parle “nouvelles formes d’organisations” :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;http://www.sensorica.co/&quot;&gt;Sensorica&lt;/a&gt;&lt;/strong&gt; : alliance qui crée du hardware scientifique ouvert (Open Scientific Hardware). Perçus presque comme “anarco-capitalistes” par Bauwens, tout du moins “ils ont un côté très individualiste”. Chaque individu peut simplement entrer dans ce système, commencer à travailler, et sera jugé par ses pairs par une évaluation contributive.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;http://enspiral.com/&quot;&gt;Enspiral&lt;/a&gt;&lt;/strong&gt; : beaucoup plus communautaire, avec comme communs, Loomio et Co-Budget.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://english.lasindias.com/what-is-las-indias&quot;&gt;Las Indias&lt;/a&gt;&lt;/strong&gt; : guilde maçonnique en Espagne. A Las Indias, on entre dans une maison communautaire, on a 3 mois pour se rendre utile. Si on n’est pas autonome, cela ne marche pas, donc on s’en va. Si on se rend utile on devient « fellow » (compagnon). Un compagnon travaille pour les projets puis devient « sous-chef » ou « chef de projet » puis quand on devient « maître » on sort du système productif et on devient entièrement libre et on travaille pour la communauté.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;http://www.ethosvo.org/&quot;&gt;Ethos&lt;/a&gt;&lt;/strong&gt; : le + capitaliste des projets. en interne ils sont organisés en communauté. Ils ont inventé les double shares (double actions) : tous les gens qui travaillent pour le marché sont rémunérés en actions et tous les gens qui travaillent pour la communauté mais pas directement pour le marché sont rémunérés par des actions qui seront vendues dans 5 ans. De cette façon, ils vont capter la sur-value qu’ils ont apportée à l’écosystème.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Bauwens parle aussi de &lt;strong&gt;transvesment&lt;/strong&gt; :&lt;em&gt;“pratiques de reverse cooptation” (cooptation à l’envers). Il ne s’agit plus de se poser la question « Comment le capitalisme va-t-il nous capter ? » mais la question contraire « Comment va-t-on capter la valeur du système dominant ? », c’est à dire toutes les ressources qui sont aujourd’hui contrôlées soit par le capital, soit par l’Etat. Exemple : accepter des investissements avec un retour garanti de 3, 4 ou 5 % dans 10 ou 15 ans. L’investisseur a donc un retour sur son investissement. Mais il y a un mur entre le management du réseau et l’argent, ce qui signifie que ce n’est pas comme du capital-risque, l’investisseur n’entre pas dans la co-propriété ni la co-gouvernance du projet. Il est mis en « quarantaine ». Ce qui est amusant c’est qu’après le projet, il y a un rituel de remerciement : « Merci capitaliste éclairé, nous allons donner cette ressource au commun ».&lt;/em&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Aujourd’hui nous avons un système que Kōjin Karatani appelle « Capital-State-Nation » (le capital, l’état et la nation). Selon Karl Polanyi, historiquement c’était la nation qui se révolte, qui force l’état à discipliner le capital, mais cela ne fonctionne plus puisque le capital est devenu transnational et que l’état opère au niveau de l’Etat-Nation. L’idée c’est donc d’aller vers un système commun entouré d’un marché réciproque lui-même entouré d’un état partenaire. On réarrange les meubles en faveur des communs…&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Source : &lt;a href=&quot;http://coopdescommuns.com/fr/forces-et-limites-de-la-demarche-pair-a-pair/&quot;&gt;Forces et limites de la démarche pair à pair&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 25 Nov 2016 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/good_job/2016/11/25/les-nouvelles-formes-organisation-%C3%A0-la-lumiere-des-communs.html</link>
+        <guid isPermaLink="true">http://localhost:4000/good_job/2016/11/25/les-nouvelles-formes-organisation-%C3%A0-la-lumiere-des-communs.html</guid>
+        
+        <category>communs</category>
+        
+        
+        <category>good_job</category>
+        
+      </item>
+    
+      <item>
+        <title>Reinventing Organizations, la fiche de lecture</title>
+        <description>&lt;p&gt;J’ai croisé plusieurs fois ces derniers mois des références au livre “Reinventing Organizations” de Frederic Laloux, présentant apparemment de façon limpide et inspirante une révolution douce en cours dans les modes d’organisation du travail.
+Jusqu’à ce que je découvre il y a peu que son auteur rendait son ouvrage accessible à prix libre (et en deux versions distinctes, en plus !). Plus de prétexte : version “enfant” (celle avec les dessins) téléchargée, et récapitulatif du bouquin ici.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;&lt;em&gt;[Travail en cours, la lecture n’est pas encore bouclée]&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;types-dorganisations&quot;&gt;Types d’organisations&lt;/h2&gt;
+
+&lt;p&gt;Par leur ordre historique d’apparition :&lt;/p&gt;
+
+&lt;h3 id=&quot;organsation-impulsive-rouge&quot;&gt;Organsation impulsive (Rouge)&lt;/h3&gt;
+
+&lt;p&gt;Le plus fort s’impose et protège sa tribu. Modèle de la meute de loup.&lt;/p&gt;
+
+&lt;p&gt;Exemples : Mafia, Gang&lt;/p&gt;
+
+&lt;p&gt;Apports :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;division du travail&lt;/li&gt;
+  &lt;li&gt;Autorité qui vient du haut (top-down authority)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Exemple du fonctionnement pour la négociation salariale : décision arbitraire et révocable du boss.&lt;/p&gt;
+
+&lt;h3 id=&quot;organisation-conformiste-ambre&quot;&gt;Organisation conformiste (ambre)&lt;/h3&gt;
+
+&lt;p&gt;Règles intériorisées et croyances communes, fondées sur culpabilité et honte. Si tu suis les règles, tu es des nôtres et tu seras sauvé. Sinon, rejet et excommunion. Monde de stabilité et de certitudes.&lt;/p&gt;
+
+&lt;p&gt;Exemples : armée, église catholique, université (hiérarchie forte)&lt;/p&gt;
+
+&lt;p&gt;Apports :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;processus stables et réplicables (ex: moisson), dont le savoir est inscrit dans l’organisation même et non dans un individu. Toute personne est donc remplaçable.&lt;/li&gt;
+  &lt;li&gt;organigramme clair et stable&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Exemple du fonctionnement pour la négociation salariale : même travail, même paie. Pas de négociation, pas de distinction.&lt;/p&gt;
+
+&lt;h3 id=&quot;organisation-autour-du-rsultat-orange&quot;&gt;Organisation autour du résultat (orange)&lt;/h3&gt;
+
+&lt;p&gt;Révolutions scientifique et industrielle. On peut être qui on veut, pour peu d’être un peu plus malin, rapide, innovant que les autres.Posibilité d’imaginer d’autres mondes et d’inventer (“Et si.. ?”). La règle de la loi et de la démocracie remplace le système féodal. Organisations vues comme des machines.&lt;/p&gt;
+
+&lt;p&gt;Exemples : Wall Street, Wallmart, Nike, CocaCola.. Business &amp;amp; politics&lt;/p&gt;
+
+&lt;p&gt;Apports :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;innovation&lt;/li&gt;
+  &lt;li&gt;accountability (management par objectifs)&lt;/li&gt;
+  &lt;li&gt;méritocratie&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Riques : croissance pour la croissance, succès uniquement via fric et reconnaisance, obsession matérialiste, inégalités sociales, perte de la communauté, nature en danger&lt;/p&gt;
+
+&lt;p&gt;Exemple du fonctionnement pour la négociation salariale : incitation individuelle, prime sur objectifs, écarts de salaires importants sont tolérés s’ils reflètent le mérite.&lt;/p&gt;
+
+&lt;h3 id=&quot;organisation-pluraliste-vert&quot;&gt;Organisation pluraliste (vert)&lt;/h3&gt;
+
+&lt;p&gt;Mouvements sociaux, contre culture années 60-70. Organisation comme une famille, où chacun a sa place.&lt;/p&gt;
+
+&lt;p&gt;Exemples : postmodern academic thinking, in nonprofits, and among social workers
+and community activists. Southwest Airlines, Ben &amp;amp; Jerry’s&lt;/p&gt;
+
+&lt;p&gt;Apports:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;empowerment, bottom-up&lt;/li&gt;
+  &lt;li&gt;culture guidée par les valeurs (qui remplacent les gros livres de règlements)&lt;/li&gt;
+  &lt;li&gt;Stakeholder value, “resonsabilité écologique et sociale des entreprises” (plutôt que shareolders, actionnaires)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Limites :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;conservation d’une structure pyramidale malgré la volonté d’horizontalité et de consensus (recherche du consensus menant souvent à paralysie). Ces organisations ne parviennent pas à se débarasser des boss, et insiste plutôt sur la notion d’empowerment (les managers essaient de faciliter la prise d’initiatives des employés)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Exemple du fonctionnement pour la négociation salariale : bonus d’équipe, et limitation des écarts de salaire&lt;/p&gt;
+
+&lt;h3 id=&quot;organisation-evolutive-evolutionnary-turquoise&quot;&gt;Organisation evolutive (evolutionnary) (turquoise)&lt;/h3&gt;
+
+&lt;p&gt;Pensé par Maslow, Graves, Kegan.
+Pas les GAFA, pas de tables de ping pong et de mobilier design&lt;/p&gt;
+
+&lt;p&gt;Exemples : Gore Tex,Buurtzorg, FAVI (pièces auto, France), RHD (USA human service), Sun Hydraulics, Heiligenfeld, Morning Star (tomatoes), Holacracy, ESBZ (German), Patagonia (outdoor apprel maker), AES (electricity), BSO/Origin (IT services), Sounds true (multimedia)&lt;/p&gt;
+
+&lt;p&gt;Apports :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;self-management&lt;/strong&gt; : système fluide d’&lt;strong&gt;autorité distribuée&lt;/strong&gt; et d’intelligence collective.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;wholeness&lt;/strong&gt; : pas de délimitation entre le “moi professionnel” (souvent limité) et le moi “personnel”. Venez au taf comme vous êtes, en gros.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Evolutionary purpose&lt;/strong&gt; : pas de plan tout établi, la structure évolue au fil du temps&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;comment-fonctionnent-les-organisations-colutives-&quot;&gt;Comment fonctionnent les organisations écolutives ?&lt;/h2&gt;
+
+&lt;h3 id=&quot;self-management&quot;&gt;Self management&lt;/h3&gt;
+
+&lt;p&gt;Dans un monde complexe, la personne au sommet de la structure hiérarchique ne peut pas tout appréhender, ce qui mène à perte de temps (préparation pendant des heures des entretiens liminaires avec le boss, our ses subalternes) ou mauvaises décisions.&lt;/p&gt;
+
+&lt;p&gt;Contrairement aux idées reçues:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;il y a tout de même des structures, des rôles, des process, mis en place (et non absence de structure et anarchie)&lt;/li&gt;
+  &lt;li&gt;il ne s’agit pas ici de décision par consentement interminable, mais de processus de décision + rapide.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Pour qu’une organisation deviennent évolutive, de nombreuses pratiques de management doivent être revues.&lt;/p&gt;
+
+&lt;h4 id=&quot;structures-dorganisations--petites-units-autonomes&quot;&gt;Structures d’organisations : petites unités autonomes&lt;/h4&gt;
+
+&lt;p&gt;Petites unités  de 10 -12 personnes max, contact aussi direct que possible avec le client final ou la concurrence ; compréhension des enjeux à chaque échelon…
+Le coach n’a pas d’objectif chiffré mais vient en appui des unités qui en feraient la demande.&lt;/p&gt;
+
+&lt;h4 id=&quot;prise-de-dcision--par-prise-davis&quot;&gt;Prise de décision : par prise d’avis&lt;/h4&gt;
+
+&lt;p&gt;Ni top-down, ni consensus (prend du temps), ni vote.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;One company called it the &lt;strong&gt;Advice Process&lt;/strong&gt;, a name that captures its essence well. The principle is that &lt;strong&gt;anyone
+can make any decision&lt;/strong&gt;, including spending company money. But first, that person has to seek advice :&lt;/p&gt;
+  &lt;ul&gt;
+    &lt;li&gt;from people who have expertise about the topic,&lt;/li&gt;
+    &lt;li&gt;from those that will be meaningfully affected, that will have to live with the decision.&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Pour les grosses décisions, impliquant tout le monde, certains (Buurtzorg) écrivent un post de blog pour proposer un changement, et tous les employés peuvent commenter, approuver, corriger… Si pas d’assentiment, le CEO soit fait une proposition corrigée, soit propose de monter un groupe de travail volontaire.
+&lt;em&gt;(oui mais… quid si les commentaires sont partagés ? C’est toujours le boss qui décide en dernière instance ? Et y’at-il toujours des volontaires pour le groupe de travail ? Ou pour commenter assez ?)&lt;/em&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;compensations-et-incitations-financires&quot;&gt;Compensations et incitations financières&lt;/h4&gt;
+
+&lt;p&gt;Cf exemple de Morning Star : chaque année, chacun propose comment il veut être augmenté, après en avoir discuté avec des collègues. Le panel de collègues étudie les demandes et procure un avis. S’il y a dissensus fort entre ce que souhaite l’employé et l’avis du panel, ça déclenche un mécanisme de résolution du conflit.&lt;/p&gt;
+
+&lt;h4 id=&quot;management-de-la-performance&quot;&gt;Management de la performance&lt;/h4&gt;
+
+&lt;p&gt;Motivation intrinsèque, émulation par les pairs (les performances de chaque équipe sont publiques), et demande du marché (la connaissance du marché, de la concurrence, est un meilleur moteur que la hiérarchie).&lt;/p&gt;
+
+&lt;h4 id=&quot;hirarchie-naturelle-plutt-que-par-le-pouvoir&quot;&gt;Hiérarchie “naturelle” plutôt que par le pouvoir&lt;/h4&gt;
+
+&lt;p&gt;Certains employés sont “naturellement bons” ou intéressés dans certaines compétences (connaissances académiques, écoute, gestion des conflits..) et deviennent des références pour les autres.
+&lt;em&gt;oui mais quand plusieurs personnes sont sur le même champs de compétences ? Comment éviter jalousie, envie, concurrence ? Comment faire en sorte que chacun se sente doué en quelque chose ? Comment s’accorde-t-on sur le fait qu’untel ou untel est doué dans telle chose ?&lt;/em&gt;
+&lt;em&gt;et comment sait-on au début à qui s’adresser?&lt;/em&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The goal is not to make everyone &lt;strong&gt;equally&lt;/strong&gt; powerful, but to make everyone &lt;strong&gt;fully&lt;/strong&gt; powerful.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;entiret-wholeness&quot;&gt;Entièreté (Wholeness)&lt;/h3&gt;
+
+&lt;p&gt;Dans la plupart des entreprises, seule la partie “masculine” (volontaire, sûre d’elle, décidée…) est valorisée. Et uniquement le côté rationnel (et non les côtés émotionnel, intuitif, spirituel).&lt;/p&gt;
+
+&lt;p&gt;Comment, hum, l’entreprise permet de révéler l’entièreté de soi-même ?
+Par exemple en laissant entrer dans l’entreprise les chiens ou les enfants des employés, et laisser leur collègue s’en occuper, les caliner, etc.
+&lt;em&gt;oui mais qui d de ceux qui peuvent pas saquer les chiens ou les enfants ? De ceux qui s’opposent à ce qu’un clebard qui pue participe à une réunion ?&lt;/em&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;safe-space&quot;&gt;Safe space&lt;/h4&gt;
+
+&lt;p&gt;Il faut déjà faire prendre conscience que nos mots et actions peuvent influer sur l’ambiance de travail, faire accepter des valeurs communes, se mettre d’accord sur ce qui est un comportement offensant.
+Cf Resource for Human Development (RHD), et son “Bill of Rights and Responsibilities for Employees and Consumers”.
+La transmission de valeurs communes peut aussi passer par le “onboarding”, des études ou événements particulier.&lt;/p&gt;
+
+&lt;h4 id=&quot;reflective-spaces&quot;&gt;Reflective Spaces&lt;/h4&gt;
+
+&lt;p&gt;Temps individuels ou communs de méditation, de yoga…&lt;/p&gt;
+
+&lt;p&gt;Cf Heiligenfeld :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;The company offers every new employee the opportunity to learn to meditate. And every day, there is a thirty-minute meditation session planned for anyone interested.&lt;/li&gt;
+  &lt;li&gt;Every employee —cleaning staff, cooks, and everyone else- who struggles with an issue can book individual coaching sessions from a vast menu of coaching techniques.&lt;/li&gt;
+  &lt;li&gt;All work teams pause somewhere between two to four times a year to work with an external coach through any tensions or upsets.&lt;/li&gt;
+  &lt;li&gt;Chaque semaine, 1h15 de réflexion commune, sur des thèmes comme “conflict resolution, dealing with failure, company values, interpersonal communication, bureaucracy, IT innovations, personal health”. Chaque session commence par une présentation / cadrage ; puis discussion en groupe de 6 à 10 personnes.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;storytelling&quot;&gt;Storytelling&lt;/h4&gt;
+
+&lt;p&gt;Exemple : Center for Courage &amp;amp; Renewal.&lt;/p&gt;
+
+&lt;h4 id=&quot;runions&quot;&gt;Réunions&lt;/h4&gt;
+
+&lt;p&gt;&lt;em&gt;(oui mais qui décide que telle ou telle décision est une réussite ou un échec ? Sur quels critères ? Et comment sont fixés ces critères ? )&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 11 Nov 2016 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/good_job/2016/11/11/reinventing-organizations-summary.html</link>
+        <guid isPermaLink="true">http://localhost:4000/good_job/2016/11/11/reinventing-organizations-summary.html</guid>
+        
+        <category>faire a plusieurs</category>
+        
+        
+        <category>good_job</category>
+        
+      </item>
+    
+      <item>
+        <title>Code hors norme (du travail)</title>
+        <description>&lt;p&gt;Coopération d’indépendants plutôt que concurrence ? Vive le retour de hype des formes de structuration des travailleurs !&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;&lt;a href=&quot;www.shaerable.net&quot;&gt;Shareable&lt;/a&gt; n’est jamais le dernier à saluer le (re-)déploiement de mécanismes favorisant la collaboration sur la concurrence. Cet état des lieux, des regroupements de cyclistes Take eat easy cherchant à faire valoir leurs droits au collectif d’entrepreneurs décentralisés d’Enspiral, permet de dégage des lignes de force à ces structurations :&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Whether &lt;strong&gt;fighting for living wages and basic rights&lt;/strong&gt;, or &lt;strong&gt;collaborating on projects with fellow freelancers&lt;/strong&gt;, these initiatives share the larger aim of &lt;strong&gt;creating meaning, dignity, and power in their work together&lt;/strong&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;There’s a substantive difference between freelancers organizing to get more work, and independent workers protecting themselves against abuse on the job&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;J’extrapole un peu sur ces distinctions. Ici, l’organisation collective sert à l’un ou l’autre but : faire émerger de nouvelles formes de travail (ou de contribution) plus justes, ou bien créer et mener des projets ensemble. En y réfléchissant, ce sont les deux à la fois que je souhaite mettre en oeuvre. Etre attentive à une certaine éthique aussi bien dans le fond (physionomie et objectifs des projets dans lesquels je m’engage) que dans la forme (m’intégrer dans des logiques de travail solidaires, inclusives et équitables).&lt;/p&gt;
+
+&lt;p&gt;Retour sur des changements de paradigmes :&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;There is a long-term shift of power from workers to employers since the 1970s.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Today’s freelancer collectives are driven not just by fancy technology and well-remunerated innovation — they’re sometimes driven by a passion for social change at community and societal levels.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;L’exemple de la &lt;a href=&quot;http://cooperativa.cat/en/&quot;&gt;Cooperativa Integral Catalana&lt;/a&gt; est assez édifiante. L’organisation propose :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;des espaces de réunion communs (&lt;em&gt;“common meeting places”&lt;/em&gt;)&lt;/li&gt;
+  &lt;li&gt;des échanges structurés sur les alternatives économiques (&lt;em&gt;“community dialogues on economic alternatives”&lt;/em&gt;)&lt;/li&gt;
+  &lt;li&gt;des bénéfices sur les impôts sur le revenu (&lt;em&gt;” income tax benefits”&lt;/em&gt;)&lt;/li&gt;
+  &lt;li&gt;des celliers (pantries) collectives ou la nourriture locale est partagée (&lt;em&gt;“community pantries where people share local food.”&lt;/em&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Et de pointer l’un des risques du recours aux fonds d’investissement :&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“The main limit is people themselves: the moment startups are financed by VC’s (NdT : venture capital, fonds d’investissement), they are protecting their assets — ‘it is my database, my network, my clients’ — and they lose their ability to share,” he says.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;L’article ne s’attache pas uniquement aux coopératives de freelances dans le domaine du numérique, mais aussi dans d’autres secteurs d’activités (notamment le milieu des services, avec l’exemple d’une compagnie d’esthéticien-es trans latinos). Et ce qui se passe dans d’autres secteurs est au moins tout autant source d’inspiration.&lt;/p&gt;
+
+&lt;p&gt;Source : &lt;a href=&quot;http://www.shareable.net/blog/how-freelancers-are-reinventing-work-through-new-collective-enterprises&quot;&gt;How freelancers are reinventing work through new collective enterprises&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 30 Oct 2016 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/good_job/2016/10/30/les-independants-s-organisent.html</link>
+        <guid isPermaLink="true">http://localhost:4000/good_job/2016/10/30/les-independants-s-organisent.html</guid>
+        
+        <category>engagement</category>
+        
+        <category>cooperative</category>
+        
+        
+        <category>good_job</category>
+        
+      </item>
+    
+      <item>
+        <title>Justice sociale silliconnée</title>
+        <description>&lt;p&gt;Quelle place pour la justice sociale dans la Silicon Valley et son empire ? D’excellentes références, un état des lieux un peu flippant, un gros travail à fournir.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Ca parle aussi “économie du like”, “destruction destructive”, d’“abandonner le parallèle artificiel entre croissance et progrès”, de “capitalisme inclusif”… L’article me fait aussi découvrir les écrits du philosophe socialiste et anarchiste &lt;strong&gt;Murray Bookchin&lt;/strong&gt;, notamment &lt;em&gt;« Vers une technologie libératrice »&lt;/em&gt;, publié en 1965.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Participant aux débats de cette époque sur l’émergence de la cybernétique, il insistait sur le fait que le numérique n’est pas qu’une question d’optimisation, de marché de masse et d’effet de réseau. Il a également un &lt;strong&gt;impact puissant sur les pratiques quotidiennes des individus, sur l’artisanat, sur la solidarité et les libertés individuelles&lt;/strong&gt;. Anticipant l’émergence du mouvement des makers, du « libre » et du « partage » aujourd’hui dévoyés, il soulignait l’importance du contexte social et politique dans lequel s’inscrirait l’évolution technologique.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Pour l’auteur de l’article, aujourd’hui, le numérique est &lt;em&gt;plus réactionnaire que révolutionnaire&lt;/em&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Il n’a pas d’impact sur l’infrastructure de la société. Il n’améliore ni la démocratie, ni le lien social, ni l’estime de soi. Comme depuis les débuts de la révolution industrielle, les travailleurs sont menacés par l’automatisation, les entreprises restent les principaux intervenants du monde économique, et tous expliquent que c’est aux individus de s’adapter aux évolutions technologiques s’ils veulent espérer conserver leur place dans la société. Malgré les effets d’annonce, peu de réalisations du numérique traduisent une vision aussi ambitieuse que celles qui ont conduit à l’instauration de grandes innovations sociales comme la monnaie, la Sécurité sociale, le suffrage universel, ou l’État de droit !”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Et d’appeler en conclusion à ce que les investisseurs apprennent à &lt;em&gt;“financer des projets sans en retirer de bénéfice autre que celui de l’existence même de ces projets”&lt;/em&gt;; et à préconiser la mise en place de systèmes favorisant &lt;em&gt;“les entreprises qui produisent du flux plutôt que de la croissance (comme Wikipedia), des entreprises locales et des modes de gouvernance partagée”&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Source : &lt;a href=&quot;http://www.soufron.com/quelle-place-pour-la-justice-sociale-dans-la-silicon-valley-et-son-empire/&quot;&gt;Quelle place pour la justice sociale dans la Silicon Valley et son empire ?&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 20 Oct 2016 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/sustainable_code/2016/10/20/justice-sociale-silliconn%C3%A9e.html</link>
+        <guid isPermaLink="true">http://localhost:4000/sustainable_code/2016/10/20/justice-sociale-silliconn%C3%A9e.html</guid>
+        
+        <category>faire a plusieurs</category>
+        
+        
+        <category>sustainable_code</category>
+        
+      </item>
     
       <item>
         <title>Moments d'invention 2016 - partage sur l'humanisme numérique à Nancy</title>
@@ -121,9 +681,9 @@ Il n’y avait pas non plus, de ce que je sache, de communautés de profils de p
 &lt;p&gt;Source : &lt;a href=&quot;http://www.grand-nancy.org/gn/momentsdinvention/&quot;&gt;Moments d’invention 2016&lt;/a&gt;&lt;/p&gt;
 
 </description>
-        <pubDate>Mon, 10 Oct 2016 00:00:00 +0200</pubDate>
-        <link>https://clairezed.github.io/marges/sustainable_code/2016/10/10/moments-dinvention-nancy.html</link>
-        <guid isPermaLink="true">https://clairezed.github.io/marges/sustainable_code/2016/10/10/moments-dinvention-nancy.html</guid>
+        <pubDate>Mon, 10 Oct 2016 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/sustainable_code/2016/10/10/moments-dinvention-nancy.html</link>
+        <guid isPermaLink="true">http://localhost:4000/sustainable_code/2016/10/10/moments-dinvention-nancy.html</guid>
         
         <category>evenement</category>
         
@@ -142,11 +702,15 @@ Il n’y avait pas non plus, de ce que je sache, de communautés de profils de p
 
 &lt;!--more--&gt;
 
-&lt;p&gt;L’impact connexe du numérique sur le développement durable n’est pas mon champs prioritaire (je suis plus sur un impact direct : outil dont l’objet même est d’inciter et promouvoir au développement durable ; plutôt qu’outil destiné à tout autre chose et incitant à la marge à ne pas imprimer trop, par exemple). Cet article m’intéresse tout de même en ce qu’il reflète une préoccupation croissante des gens du numérique dans ce que leur activité numérique implique sur le reste du monde (Hasard ? En gros au même moment, apparaissaient dans la presse française des &lt;a href=&quot;http://rue89.nouvelobs.com/2016/10/04/10-ecogestes-numeriques-a-adopter-absolument-265336&quot;&gt;articles sur les “éco-gestes numériques”&lt;/a&gt;.)&lt;/p&gt;
+&lt;p&gt;Dans cet article, il est surtout question de l’impact indirect du numérique sur le développement durable : comment un outil numérique, quelque soit sa finalité, peut à la marge entrer dans une logique de développement durable (en conduisant à ne pas imprimer trop, par exemple).&lt;/p&gt;
 
-&lt;p&gt;Les pistes et exemples donnés concernent des grands services existants (par exemple, que google maps propose d’abord l’itinéraire en transport en commun ou en vélo plutôt que celui en voiture, pour inciter aux déplacements doux),&lt;/p&gt;
+&lt;p&gt;En vérité, ce type d’impact, connexe, n’est pas mon champs d’intérêt prioritaire. Je me focalise plus sur le développement durable en tant qu’objectif direct d’un outil numérique, sur comment le numérique peut être la matière première d’outils incitant et favorisant le développement durable.&lt;/p&gt;
 
-&lt;p&gt;Je tenais à garder trace de cet article aussi pour les liens à creuser filer en bas d’article (hop, je conserve ici par précaution) :&lt;/p&gt;
+&lt;p&gt;Cet article m’intéresse tout de même en ce qu’il reflète une préoccupation croissante des gens du numérique dans ce que leur activité implique sur le reste du monde. En gros au même moment, apparaissaient dans la presse française des &lt;a href=&quot;http://rue89.nouvelobs.com/2016/10/04/10-ecogestes-numeriques-a-adopter-absolument-265336&quot;&gt;articles sur les “éco-gestes numériques”&lt;/a&gt;. Coïncidence ?&lt;/p&gt;
+
+&lt;p&gt;Les pistes et exemples donnés dans l’article concernent des grands services existants (par exemple,une proposition pour que google maps propose d’abord l’itinéraire en transport en commun ou en vélo plutôt que celui en voiture, pour inciter aux déplacements doux),&lt;/p&gt;
+
+&lt;p&gt;Je tenais à garder trace de cet article aussi pour les liens filés en bas d’article (hop, je conserve ici par précaution) :&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;http://rosenfeldmedia.com/books/design-is-the-problem/&quot;&gt;Design Is the Problem&lt;/a&gt; (by Nathan Shedroff, 2011)&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;designing for sustainability&quot;&gt;Designing for Sustainability&lt;/a&gt; (by Tim Frick, 2016) - livre O Reilly payant&lt;/li&gt;
@@ -157,463 +721,14 @@ Il n’y avait pas non plus, de ce que je sache, de communautés de profils de p
 &lt;p&gt;Source : &lt;a href=&quot;https://uxdesign.cc/product-design-for-sustainability-3fffbb2a7f0e&quot;&gt;Product Design for Sustainability&lt;/a&gt;&lt;/p&gt;
 
 </description>
-        <pubDate>Tue, 04 Oct 2016 00:00:00 +0200</pubDate>
-        <link>https://clairezed.github.io/marges/sustainable_code/2016/10/04/numerique-contribuer-developpement-durable.html</link>
-        <guid isPermaLink="true">https://clairezed.github.io/marges/sustainable_code/2016/10/04/numerique-contribuer-developpement-durable.html</guid>
+        <pubDate>Tue, 04 Oct 2016 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/sustainable_code/2016/10/04/numerique-contribuer-developpement-durable.html</link>
+        <guid isPermaLink="true">http://localhost:4000/sustainable_code/2016/10/04/numerique-contribuer-developpement-durable.html</guid>
         
         <category>ecologie</category>
         
         
         <category>sustainable_code</category>
-        
-      </item>
-    
-      <item>
-        <title>Le comportementalisme et le design numérique au secours du vote</title>
-        <description>&lt;p&gt;“Théorie comportementale”, “Engagement politique”, “Incitation au vote”… Chacun est sensible différement aux termes présents dans un chapeau d’article, et là clairement l’auteur a trouvé de quoi me faire cliquer.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;Comment designer un outil, une interface (notamment numérique), pour que celle-ci incite à l’action dans un domaine aussi peu sexy que le vote ?&lt;/p&gt;
-
-&lt;p&gt;Bien évidemment, les pistes données par l’&lt;a href=&quot;https://medium.com/sap-design/looking-at-the-voting-process-through-a-behavioral-lens-e9a0443b9cb2#.8wcgwcmgn&quot;&gt;article&lt;/a&gt; de &lt;a href=&quot;https://medium.com/@sfath&quot;&gt;Sarah Fathallah&lt;/a&gt; en référence aux prochaines élections américaines, peuvent avoir des implications purement mercantiles également. Mais focalisons-nous sur ce qu’on peut en retirer pour le bien de l’humanité.&lt;/p&gt;
-
-&lt;p&gt;En substance, selon un certain &lt;a href=&quot;http://behaviormodel.org/&quot;&gt;BJ Fogg&lt;/a&gt;, docteur en science du comportement, un comportement est dépendant de 3 dimensions :&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;la motivation&lt;/strong&gt; : plus quelqu’un se sent concerné par la politique, plus il aura de motivation à aller voter, par exemple.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;la capacité&lt;/strong&gt; (ability) : entendu comme difficulté ou simplicité à accomplir une action. Dès ici, le design entre en jeu. Plus on rend une interface simple, moins on met de barrière entre un utilisateur et l’objectif de l’outil; et plus l’utilisateur s’engage. Bon, pour pousser au vote, les marges de manoeuvre sont tout de même assez réduites.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;le déclencheur&lt;/strong&gt; (trigger) : l’élément qui se produit au bon moment et pousse à l’action.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;A trigger can take many forms — an alarm that sounds, a text message, an announcement that a sale is ending, a growling stomach, and so on. [S]uccessful triggers have three characteristics: First, we notice the trigger. Second, we associate the trigger with a target behavior. Third, the trigger happens when we are both motivated and able to perform the behavior. This last issue — timing — is often the missing element in behavior change. In fact, this element is so important the ancient Greeks had a name for it: &lt;strong&gt;kairos&lt;/strong&gt; — the opportune moment to persuade.
-&lt;em&gt;— BJ Fogg (2009), “A Behavior Model for Persuasive Design.&lt;/em&gt;”&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;C’est sur ce déclencheur qu’il est possible de jouer en tant que concepteur de système informatique, notamment en travaillant sur deux aspect :&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;le &lt;strong&gt;“timing”&lt;/strong&gt; : choisir un moment où l’intérêt pour la question est relancé (déclencher non pas chaque semaine à heure fixe, mais avant un débat important, par exemple)&lt;/li&gt;
-  &lt;li&gt;la &lt;strong&gt;confiance&lt;/strong&gt; : faire en sorte que le déclencheur soit activé par une connaissance (créer des scripts ou déclencheurs tout fait, qui puissent être activés simplement par de vraies personnes et partagés à leur entourage)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Source : &lt;a href=&quot;https://medium.com/sap-design/looking-at-the-voting-process-through-a-behavioral-lens-e9a0443b9cb2#.8wcgwcmgn&quot;&gt;The Voting Process through a Behavioral Lens&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 03 Oct 2016 00:00:00 +0200</pubDate>
-        <link>https://clairezed.github.io/marges/binary_transition/2016/10/03/le-comportementalisme-au-secours-du-vote.html</link>
-        <guid isPermaLink="true">https://clairezed.github.io/marges/binary_transition/2016/10/03/le-comportementalisme-au-secours-du-vote.html</guid>
-        
-        <category>politique</category>
-        
-        <category>engagement</category>
-        
-        
-        <category>binary_transition</category>
-        
-      </item>
-    
-      <item>
-        <title>L'entrepreneuriat collectif, une piste pour renouveller l'ESS ?</title>
-        <description>&lt;p&gt;Avant de finaliser et mettre en ligne (le temps que ça décante) des comptes-rendus de &lt;a href=&quot;http://www.grand-nancy.org/gn/momentsdinvention/&quot;&gt;Moments d’invention&lt;/a&gt; et &lt;a href=&quot;http://tcrm-blida.com/agenda/393_Futur-O-Klatsch-Rencontre-nationale-des-Tiers-Lieux&quot;&gt;Futur O Klatsch&lt;/a&gt;, événements lorrains croisant numérique, culturel et innovation sociale auxquels j’ai assistés cette semaine, je partage un article sur l’entrepreneuriat collectif que je découvre tout juste, et qui fait écho à certains des enjeux que j’ai vu traverser les échanges de ces derniers jours. Fin de cette phrase introductive bien trop longue.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;h2 id=&quot;ess-versus-entrepreneuriat-social-grille-de-lecture&quot;&gt;ESS versus Entrepreneuriat social, grille de lecture&lt;/h2&gt;
-
-&lt;p&gt;L’&lt;a href=&quot;https://medium.com/@pierrefournier/lentrepreneuriat-collectif-l-ess-du-21%C3%A8me-si%C3%A8cle-3e53bfdc3c75#.91vw52uyw&quot;&gt;article de Pierre Fournier&lt;/a&gt; propose une grille de lecture des tensions traversant le secteur de l’ESS, entre structures d’économie sociale “traditionnelles” et nouvelle figure de l’entrepreneur social.&lt;/p&gt;
-
-&lt;p&gt;Problématiques repérées du côté de l’ESS classique :&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;em&gt;“Ces structures associatives fonctionnent actuellement sur un besoin de financement basé sur l’adaptation de politiques publiques et/ou de subventions de collectivités territoriales.”&lt;/em&gt;&lt;/li&gt;
-  &lt;li&gt;Du fait de la baisse de ces financements publics, il y a une &lt;em&gt;“&lt;strong&gt;concurrence accrue&lt;/strong&gt; entre les acteurs associatifs, fusion entre elles comme dans le médico-social ou le secteur culturel par exemple,&lt;/em&gt;” et une &lt;em&gt;“&lt;strong&gt;perte de liberté d’action et d’indépendance&lt;/strong&gt; car elles répondent à un cahier des charges bien précis défini par le politique.”&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Ce sont des problématiques qui plombent depuis déjà un petit paquet d’années tout le secteur associatif, et l’essor de l’entrepreneuriat social, avec son pragmatisme économique, a été l’une des réponses apportées à cette crise.&lt;/p&gt;
-
-&lt;p&gt;Problématiques repérées du côté de l’entrepreneuriat social :&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;em&gt;“Certains projets sont parfois des &lt;strong&gt;redites&lt;/strong&gt; de ce qui existent déjà.”&lt;/em&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;“La mesure de l’&lt;strong&gt;impact social&lt;/strong&gt; se fait-il seulement sur la création d’emploi ? Comment mesurer l’impact qualitatif de l’innovation sociale ?”&lt;/em&gt;&lt;/li&gt;
-  &lt;li&gt;Difficulté à se positionner en termes de vision et projet politique, notamment sur deux sujets :
-    &lt;ul&gt;
-      &lt;li&gt;&lt;em&gt;“la réalisation de la &lt;strong&gt;gouvernance démocratique&lt;/strong&gt;, elle est souvent non transparente et parfois cette question n’est pas posée.”&lt;/em&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;em&gt;“la &lt;strong&gt;rétribution de la valeur créée&lt;/strong&gt;, comme souvent la valeur est créée par des citoyens qui n’ont aucun engagement légal vis à vis de la structure (pas d’adhérent, pas de sociétaire), cette valeur est donc souvent capté et peu redistribuée de façon équitable.”&lt;/em&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;(Réflexion personnelle : N’est-ce pas déjà suffisant que ces structures changent les façons de faire et intègrent une préoccupation sociale dans leurs activités économiques ? C’est mieux que rien, bien sûr (il vaut mieux que ça existe plutôt que ça n’existe pas), mais à titre personnel, cela ne me suffit pas. Il me manque effectivement une portée politique plus globale, une réelle visée de transformation politique. Oui, je suis un bisounours révolutionnaire.)&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Dans tous les cas, la véritable force au sein de ces structures (NdA : asso, coopératives, mutuelles) est qu’il y a un réel projet politique défini et partagé par les membres (coopérateurs, sociétaires ou adhérents) basé sur une répartition de la valeur (mutuelle et coopérative) et une gouvernance démocratique. Il y a un important travail sur le “Pourquoi on le fait ? ”
-L’entrepreneuriat social arrive avec une forte démarche économique. Les entrepreneurs sociaux observent un problème, ils essayent de le comprendre afin de trouver une solution pour le résoudre avec un objectif de viabilité économique. Pour répondre à la question du “Comment on fait?” .&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;entrepreneuriat-collectif-une-solution-pour-dpasser-les-clivages-&quot;&gt;Entrepreneuriat collectif, une solution pour dépasser les clivages ?&lt;/h2&gt;
-
-&lt;p&gt;L’entrepreneuriat collectif, c’est -encore- un concept québécois. Il se fonde sur la définition de l’entrepreneuriat social tel que définit par la loi cadre sur l’économie social au Québec.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;En clair, pour faire partie de l’économie sociale au Québec, il faut avoir une démarche commerciale (vendre un produit ou un service) afin d’être pérenne dans le temps et d’être indépendant de subvention publique ou privée. Il faut être une coopérative, mutuelle ou une association. Cette activité commerciale sert l’intérêt de la collectivité afin de répondre à un besoin social/environnemental, il y a une gouvernance démocratique claire et définie par les membres.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Cette définition disqualifie d’entrée en France les associations (pas de démarche commerciale) et les entreprises sociales (pas de gouvernance démocratique).&lt;/p&gt;
-
-&lt;p&gt;Mais c’est le terme d’entrepreneuriat collectif qui domine au Québec, plutôt que celui d’entrepreneuriat social. L’auteur en définit les spécificités suivantes :&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Les dirigeants d’une coopérative ou d’une Organisation à But Non lucratif sont &lt;strong&gt;élus&lt;/strong&gt; (une personne = un vote) par l’assemblée des membres. Elles sont forcément &lt;strong&gt;collectives&lt;/strong&gt; et elle ne peuvent pas être créés par une seule personne.&lt;/li&gt;
-  &lt;li&gt;Les surplus sont réinvestis dans l’entreprise ou au profit de la communauté/collectivité (&lt;strong&gt;partage de la richesse&lt;/strong&gt;).&lt;/li&gt;
-  &lt;li&gt;Elles répondent à une &lt;strong&gt;mission sociale définie par la communauté&lt;/strong&gt; par une démarche commerciale.&lt;/li&gt;
-  &lt;li&gt;Ces entreprises sont inaliénables. Elles ne peuvent &lt;strong&gt;ni être délocalisées, ni être vendues&lt;/strong&gt;. Elles ne cherchent pas à faire des profits à court terme et ne vont pas fermer leurs portes à la moindre difficulté financière. De plus, elles n’iront pas s’établir ailleurs pour profiter d’une main-d’œuvre bon marché.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Exemples que retient l’auteur en France : &lt;a href=&quot;http://dons.cooplalouve.fr/&quot;&gt;la Louve&lt;/a&gt;, &lt;a href=&quot;http://www.coopaname.coop/&quot;&gt;Coopaname&lt;/a&gt;, &lt;a href=&quot;http://www.enercoop.fr/&quot;&gt;Enercoop&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Ok, je garde ces pistes en tête.&lt;/p&gt;
-
-&lt;p&gt;Source : &lt;a href=&quot;https://medium.com/@pierrefournier/lentrepreneuriat-collectif-l-ess-du-21%C3%A8me-si%C3%A8cle-3e53bfdc3c75#.91vw52uyw&quot;&gt;L’entrepreneuriat collectif, l’ESS du 21ème siècle?&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Sun, 02 Oct 2016 00:00:00 +0200</pubDate>
-        <link>https://clairezed.github.io/marges/binary_transition/2016/10/02/du-clivage-vers-entrepreneuriat-collectif.html</link>
-        <guid isPermaLink="true">https://clairezed.github.io/marges/binary_transition/2016/10/02/du-clivage-vers-entrepreneuriat-collectif.html</guid>
-        
-        <category>ess</category>
-        
-        
-        <category>binary_transition</category>
-        
-      </item>
-    
-      <item>
-        <title>Organiser, méta-dater, bookmarker les internets</title>
-        <description>&lt;p&gt;Il y a un petit paquet de mois, en pleine période de confusion mentale post-attentats et alors que je m’abreuvais de lectures disparates sur le web pour essayer de retrouver une cohérence, je fantasmais sur un outil qui me permette très facilement de stocker des bouts de texte, de les réorganiser ensuite, et de conserver toutes leurs méta-données pour les recontextualiser au besoin. N’ayant pas trouver l’outil correspondant, je me jurais que &lt;em&gt;“quand j’aurais le temps, j’essaierai de créer cet outil”&lt;/em&gt;. D’autres l’ont fait avant moi, et c’est tant mieux.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;Ca s’appelle &lt;a href=&quot;https://www.candybank.com&quot;&gt;Candy&lt;/a&gt;, je viens tout juste d’installer l’extension Chrome, et elle va peut-être devenir ma nouvelle meilleure amie. (oui, j’ai même pas testé en profondeur avant d’en causer, mais je suis trop excitée et j’ai besoin de le partager :) )&lt;/p&gt;
-
-&lt;p&gt;Source : &lt;a href=&quot;https://www.candybank.com&quot;&gt;www.candybank.com&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Sat, 24 Sep 2016 00:00:00 +0200</pubDate>
-        <link>https://clairezed.github.io/marges/sustainable_code/2016/09/24/organiser-metadater-bookmarker-les-internets.html</link>
-        <guid isPermaLink="true">https://clairezed.github.io/marges/sustainable_code/2016/09/24/organiser-metadater-bookmarker-les-internets.html</guid>
-        
-        <category>design</category>
-        
-        
-        <category>sustainable_code</category>
-        
-      </item>
-    
-      <item>
-        <title>Damned, j'ai été &quot;pawned&quot;</title>
-        <description>&lt;p&gt;Une pincée de sérendipité m’amène à retomber sur ce site de salubrité publique : &lt;a href=&quot;https://haveibeenpwned.com/&quot;&gt;Have I been pawned ?&lt;/a&gt; qui permet de savir si ses données personnelles ont été piratées.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;De mon côté, j’ai testé deux adresses et pas de surprise : elles se sont faites chopées 1 et 5 fois (la fameuse adresse poubelle :) ) chacune. J’avoue ne plus me rappeler si j’avais bien modifié tous mes mots de passe au moment des brèches ; dans le doute je vais faire un brin de ménage prochainement&lt;/p&gt;
-
-&lt;p&gt;Source : &lt;a href=&quot;https://haveibeenpwned.com/&quot;&gt;Have I been pawned ?&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 22 Sep 2016 00:00:00 +0200</pubDate>
-        <link>https://clairezed.github.io/marges/sustainable_code/2016/09/22/pawned.html</link>
-        <guid isPermaLink="true">https://clairezed.github.io/marges/sustainable_code/2016/09/22/pawned.html</guid>
-        
-        <category>design</category>
-        
-        
-        <category>sustainable_code</category>
-        
-      </item>
-    
-      <item>
-        <title>Journée d'étude sur &quot;le design pour sauver le monde&quot;</title>
-        <description>&lt;p&gt;Je découvrais hier, alors même qu’elle se déroulait, la tenue d’une journée d’étude au programme alléchant : &lt;strong&gt;“Design, innovation sociale et vie publique”&lt;/strong&gt;, par Design en recherche, réseau de doctorant.e.s en design. Heureusement, il en reste des traces.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;Avec comme mot d’ordre &lt;strong&gt;Le design peut­-il / doit­-il “changer le monde” ?&lt;/strong&gt;, la journée présentait des communications comme &lt;em&gt;“Généalogie des engagements sociaux du graphisme”&lt;/em&gt;, &lt;em&gt;“Transformer les territoires ruraux à travers le design”&lt;/em&gt;, &lt;em&gt;“Que peut le design pour les populations défavorisées ?”&lt;/em&gt;… Yummy !&lt;/p&gt;
-
-&lt;p&gt;Comme porte d’entrée pour creuser les interventions, rien de mieux que &lt;a href=&quot;https://hackpad.com/Design-innovation-sociale-et-vie-publique.-LTVxzyt5rmU&quot;&gt;le compte-rendu collaboratif&lt;/a&gt; de l’événement.&lt;/p&gt;
-
-&lt;p&gt;Quelques uns des liens que je tenais à conserver :&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;la plateforme &lt;a href=&quot;http://www.plateforme-socialdesign.net/&quot;&gt;Social Design&lt;/a&gt;, que j’aime recroiser et promouvoir&lt;/li&gt;
-  &lt;li&gt;le cycle de conférences &lt;a href=&quot;http://www.whatdesigncando.com/&quot;&gt;“What design can do ?”&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.designwithoutborders.com/&quot;&gt;Design without borders&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Et la citation qui m’a stoppée dans ma lecture :&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“Se fait-on complice du statu quo en l’améliorant à la marge ?” (Jean-Gilles Cahn)&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Source : &lt;a href=&quot;https://hackpad.com/Design-innovation-sociale-et-vie-publique.-LTVxzyt5rmU&quot;&gt;Design, innovation sociale et vie publique.Compte-rendu de la journée d’étude du réseau de doctorant.e.s en design, Design en recherche Jeudi 15 Septembre 2016, Strate College.&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 16 Sep 2016 00:00:00 +0200</pubDate>
-        <link>https://clairezed.github.io/marges/binary_transition/2016/09/16/journee-etude-design-changer-monde.html</link>
-        <guid isPermaLink="true">https://clairezed.github.io/marges/binary_transition/2016/09/16/journee-etude-design-changer-monde.html</guid>
-        
-        <category>design</category>
-        
-        
-        <category>binary_transition</category>
-        
-      </item>
-    
-      <item>
-        <title>Principes de lutte contre la surcharge cognitive</title>
-        <description>&lt;p&gt;Dans &lt;a href=&quot;https://www.smashingmagazine.com/&quot;&gt;Smashing Magazine&lt;/a&gt;, Danny Halarewich revient sur quelques principes qui visent à éviter la surcharge cognitive chez les utilisateurs d’un site. Capital pour concevoir des outils utiles, utilisables et utilisés.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;The best user experience is the one the user doesn’t notice.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Ainsi commence l’article, et c’est l’un des points figurant en haut de ma table des lois mentale, quand je réfléchis à la conception d’un site (ce qui ne signifie pas que j’arrive systématiquement à m’y tenir bien évidemment) .&lt;/p&gt;
-
-&lt;h2 id=&quot;quelques-enseignements-du-livre-dont-make-me-think-de-steve-krug&quot;&gt;Quelques enseignements du livre Don’t Make me Think, de Steve Krug&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Chaque page devrait se suffire à elle-même et ne pas nécessiter d’explication, car un utilisateur est susceptible de débarquer sur le site à n’importe quelle page.&lt;/li&gt;
-  &lt;li&gt;L’utilisabilité d’un système peut être considérée comme bonne quand une personne de capacité ou d’expérience moyenne peut accomplir son objectif.&lt;/li&gt;
-  &lt;li&gt;La plupart des usages du web sont guidés par la motivation de gagner du temps.&lt;/li&gt;
-  &lt;li&gt;Le bouton “Retour” est le + utilisé dans les navigateurs.&lt;/li&gt;
-  &lt;li&gt;Même s’il n’est jamais utilisé, le bouton “accueil” rassure les utilisateurs.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;les-principales-causes-de-surcharge-cognitive&quot;&gt;Les principales causes de surcharge cognitive&lt;/h2&gt;
-
-&lt;h3 id=&quot;les-actions-non-ncessaires&quot;&gt;Les actions non nécessaires&lt;/h3&gt;
-
-&lt;p&gt;&lt;em&gt;Exemple&lt;/em&gt; : exiger l’inscription d’un utilisateur avant toute utilisation du site.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Solutions&lt;/em&gt; :&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Lister toutes les étapes que doit effectuer un utilisateur pour accomplir une tâche, supprimer celles qu’on peut supprimer (regarder les redondances); par exemple un click supplémentaire qui pourrait être évité grâce à l’autofocus sur un champs.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;sur-stimulation&quot;&gt;Sur-stimulation&lt;/h3&gt;
-
-&lt;p&gt;&lt;em&gt;Exemple&lt;/em&gt; : des animations simultanées sur une même page&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Solutions&lt;/em&gt; :&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;se débarasser de tout ce qui n’est pas essentiel. (Voir aussi une &lt;a href=&quot;https://static.googleusercontent.com/external_content/untrusted_dlcp/research.google.com/en/us/pubs/archive/38315.pdf&quot;&gt;étude&lt;/a&gt; démontrant que les utilisateurs préfères les sites simples par rapport à ceux visuellement complexes)&lt;/li&gt;
-  &lt;li&gt;diversifier le contenu en alternant texte et image&lt;/li&gt;
-  &lt;li&gt;privilégier les mises en page symétriques ou à l’asymétrie construite&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;trop-doptions-loi-dhicks&quot;&gt;Trop d’options (Loi d’Hicks)&lt;/h3&gt;
-
-&lt;p&gt;Plus on a d’options, plus on met de temps à prendre une décision.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Solutions&lt;/em&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;grouper les options multiples sous des catégories parapluie&lt;/li&gt;
-  &lt;li&gt;mais attention à ne pas avoir trop de sous menus et navigations cachées, qui limitent la capacité de découverte -&amp;gt; on peut aussi dans ce cas revoir l’architecture globale et réduire le nombre de catégories de façon à ce que toutes les catégories puissent entrer dans la principale barre de navigation.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;trop-de-contenu&quot;&gt;Trop de contenu&lt;/h3&gt;
-
-&lt;p&gt;&lt;em&gt;Exemple&lt;/em&gt; : afficher tous les produits d’un coup (&lt;a href=&quot;http://www.arngren.net/&quot;&gt;www.arngren.net&lt;/a&gt;)&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Solutions&lt;/em&gt; :&lt;/p&gt;
-
-&lt;p&gt;Morceler le contenu (“chunking”, en v.o., avec plein d’exemples dans cet &lt;a href=&quot;https://www.nngroup.com/articles/chunking/&quot;&gt;article&lt;/a&gt;)&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;regroupement d’images dans des “cards”, à la Etsy&lt;/li&gt;
-  &lt;li&gt;formulaires en plusieurs étapes&lt;/li&gt;
-  &lt;li&gt;découper les longs textes en courts paragraphes avec des titres clairs&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;une-interface-ambigue&quot;&gt;Une interface ambigue&lt;/h3&gt;
-
-&lt;p&gt;&lt;em&gt;Exemple&lt;/em&gt; : icône inconnue&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Solutions&lt;/em&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Réutiliser comme icône des visuels familiers&lt;/li&gt;
-  &lt;li&gt;Utiliser des termes connus dans la labellisation de la navigation et des boutons&lt;/li&gt;
-  &lt;li&gt;En cas de fonctionnalité inédite, se fier à des principes de skeuomorphism pour le rattacher à une expérience connue&lt;/li&gt;
-  &lt;li&gt;ne pas oublier l’“onboarding” si l’interface recèle des subtilités&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;pages-et-fonctionnalits-difficiles--trouver&quot;&gt;Pages et fonctionnalités difficiles à trouver&lt;/h3&gt;
-
-&lt;p&gt;Là encore, faire simple et connu, mais malgré ça vous pouvez très bien ne pas avoir la même façon de réfléchir et de vous orienter que l’utilisateur final.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Solutions&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Quelques tests à effectuer avec un groupe d’utilisateur type :&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Test de tri de carte (&lt;a href=&quot;https://www.smashingmagazine.com/2014/10/improving-information-architecture-card-sorting-beginners-guide/&quot;&gt;card-sorting test&lt;/a&gt;)&lt;/li&gt;
-  &lt;li&gt;Test d’arbre (&lt;a href=&quot;http://www.measuringu.com/blog/tree-testing-ia.php&quot;&gt;tree test&lt;/a&gt;)&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.asis.org/Bulletin/Aug-10/AugSep10_Brown.pdf&quot;&gt;8 principes de l’architecture d’information&lt;/a&gt;, parmi lesquels :
-    &lt;ul&gt;
-      &lt;li&gt;classification multiple : utiliser différentes méthodes de classification pour s’adapter aux différentes façon de penser des utilisateurs&lt;/li&gt;
-      &lt;li&gt;divulgation : ne révéler que la quantité nécessaire d’info pour que l’utilisateur sache à quoi s’attendre&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;se débarrasser des redondances en combinant les pages ou les items de menu (une seule page pour toutes les bios des membres d’une équipe, par exemple)&lt;/li&gt;
-  &lt;li&gt;si certaines fonctionnalités sont + importantes que d’autres, utiliser des techniques pour les mettre en avant (taille, animation, couleur…)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;incohrence-interne&quot;&gt;Incohérence interne&lt;/h3&gt;
-
-&lt;p&gt;&lt;em&gt;Exemple&lt;/em&gt; :  utiliser différente façon d’indiquer un lien (une fois souligné, une fois non) suivant la page&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Solutions&lt;/em&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;mettre en place un “Style Guide”&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Source : &lt;a href=&quot;https://www.smashingmagazine.com/2016/09/reducing-cognitive-overload-for-a-better-user-experience/&quot;&gt;Reducing Cognitive Overload For A Better User Experience&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Sun, 11 Sep 2016 00:00:00 +0200</pubDate>
-        <link>https://clairezed.github.io/marges/binary_transition/2016/09/11/principes-de-lutte-contre-la-surcharge-cognitive.html</link>
-        <guid isPermaLink="true">https://clairezed.github.io/marges/binary_transition/2016/09/11/principes-de-lutte-contre-la-surcharge-cognitive.html</guid>
-        
-        <category>design</category>
-        
-        <category>ui/ux</category>
-        
-        
-        <category>binary_transition</category>
-        
-      </item>
-    
-      <item>
-        <title>De la tech civique chez les agents de l'Etat</title>
-        <description>&lt;p&gt;La &lt;a href=&quot;http://www.lagazettedescommunes.com/&quot;&gt;Gazette des communes&lt;/a&gt; aussi s’emparent des civic tech. Un oeil jeté sur ce qui se dit sur le sujet parmi les agents de l’état, et des éléments d’analyse pas inintéressants.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;En adjonction d’un &lt;a href=&quot;http://www.lagazettedescommunes.com/dossiers/politique-de-la-ville-la-participation-citoyenne-prend-forme/&quot;&gt;dossier consacré à la participation citoyenne&lt;/a&gt; (encore plein d’articles que j’adorerais prendre le temps de lire), un énième article sur les civic tech paraît en cette rentrée. Mais ce qui change ici est que ce n’est ni un point de vue journalistique, ni le point de vue des concepteurs des solutions civic tech qui est adopté, mais celui du “donneur d’ordre”, du client public. L’article apporte des pistes à la question &lt;em&gt;“En quoi le numérique peut-il être intéressant pour ma collectivité ?”&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;Ce que j’en retiens :&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;La prochaine phase, ce sera le &lt;strong&gt;décloisonnement des pratiques entre institutionnels et non-institutionnels&lt;/strong&gt;, il y a une tendance à l’hybridation.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;à l’occasion, jeter un oeil sur le rapport &lt;a href=&quot;http://www.renaissancenumerique.org/publications/rn/792-2016-04-18-08-25-24&quot;&gt;“Démocratie : mise à jour”&lt;/a&gt;, dirigé par Clément Mabi, enseignant-chercheur spécialiste des questions de la participation citoyenne et vice-président du collectif Démocratie ouverte.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Cependant, on reste souvent dans une logique de prestation de services, plutôt que dans une réelle participation des citoyens à la fabrique de la ville. Pour faciliter la coproduction, il faut &lt;strong&gt;assurer la transparence du processus et de l’outil, ainsi que l’ouverture des sujets et des possibilités de contribution pour les administrés&lt;/strong&gt;.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;les chercheurs identifient &lt;strong&gt;3 types de rôles donné aux citoyens&lt;/strong&gt; :
-    &lt;ul&gt;
-      &lt;li&gt;le &lt;strong&gt;citoyen capteur&lt;/strong&gt;, qui transmet des données de manière plus ou moins consciente,&lt;/li&gt;
-      &lt;li&gt;le &lt;strong&gt;citoyen usager&lt;/strong&gt;, dont on attend des retours d’usage, à travers des outils de signalement par exemple,&lt;/li&gt;
-      &lt;li&gt;le &lt;strong&gt;citoyen partie prenante dans la coconstruction&lt;/strong&gt;, comme dans les budgets participatifs, où l’on combine l’outil numérique avec les projets associatifs.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Je n’avais pas encore remarqué que Démocratie ouverte faisait aussi office de &lt;a href=&quot;http://democratieouverte.org/themes/search/Projet&quot;&gt;catalogue d’outils et de projets civiques&lt;/a&gt; à destination notamment des collectivités. C’est nouveau ? L’article incite ainsi les &lt;em&gt;“collectivités qui n’ont pas les moyens, financiers et humains, de monter leurs propres plateformes”&lt;/em&gt; à venir se renseigner ici.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Parmi les propositions du rapport “Démocratie : mise à jour” :
-    &lt;ul&gt;
-      &lt;li&gt;l’acculturation numérique des fonctionnaires,&lt;/li&gt;
-      &lt;li&gt;l’enseignement de la culture numérique à l’école,&lt;/li&gt;
-      &lt;li&gt;la création d’un statut d’administrateur des données à l’échelle régionale,&lt;/li&gt;
-      &lt;li&gt;la généralisation des plateformes pour organiser l’implication des citoyens dans le processus législatif.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Source : &lt;a href=&quot;http://www.lagazettedescommunes.com/458022/le-numerique-au-service-de-la-participation-citoyenne/&quot;&gt;Le numérique, un outil au service de la participation citoyenne&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 06 Sep 2016 00:00:00 +0200</pubDate>
-        <link>https://clairezed.github.io/marges/binary_transition/2016/09/06/de-la-tech-civique-chez-les-agents-de-l-etat.html</link>
-        <guid isPermaLink="true">https://clairezed.github.io/marges/binary_transition/2016/09/06/de-la-tech-civique-chez-les-agents-de-l-etat.html</guid>
-        
-        <category>civic tech</category>
-        
-        
-        <category>binary_transition</category>
-        
-      </item>
-    
-      <item>
-        <title>Les tables de la loi de l'interaction inter-personnelle</title>
-        <description>&lt;p&gt;Le service numérique du gouvernement britannique recrutait au printemps dernier, et en a profiter pour rédiger et partager quelques règles de ce qu’une nouvelle (ou pas) recrue est en droit d’attendre en intégrant leurs services. Humanité, bienveillance, compréhension et liberté. Au top.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;Du coup, je me les copie-colle ici, pour penser à les intégrer comme fondement de ce que je souhaite être toutes mes relations professionnelles futures.&lt;/p&gt;
-
-&lt;blockquote&gt;
-
-  &lt;p&gt;It’s ok to:&lt;/p&gt;
-  &lt;ul&gt;
-    &lt;li&gt;say “I don’t know”&lt;/li&gt;
-    &lt;li&gt;ask for more clarity&lt;/li&gt;
-    &lt;li&gt;stay at home when you feel ill&lt;/li&gt;
-    &lt;li&gt;say you don’t understand&lt;/li&gt;
-    &lt;li&gt;ask what acronyms stand for&lt;/li&gt;
-    &lt;li&gt;ask why, and why not&lt;/li&gt;
-    &lt;li&gt;forget things&lt;/li&gt;
-    &lt;li&gt;introduce yourself&lt;/li&gt;
-    &lt;li&gt;depend on the team&lt;/li&gt;
-    &lt;li&gt;ask for help&lt;/li&gt;
-    &lt;li&gt;not know everything&lt;/li&gt;
-    &lt;li&gt;have quiet days&lt;/li&gt;
-    &lt;li&gt;have loud days, to talk, joke and laugh&lt;/li&gt;
-    &lt;li&gt;put your headphones on&lt;/li&gt;
-    &lt;li&gt;say “No” when you’re too busy&lt;/li&gt;
-    &lt;li&gt;make mistakes&lt;/li&gt;
-    &lt;li&gt;sing&lt;/li&gt;
-    &lt;li&gt;sigh&lt;/li&gt;
-    &lt;li&gt;not check your email out of hours&lt;/li&gt;
-    &lt;li&gt;not check your email constantly during hours&lt;/li&gt;
-    &lt;li&gt;just Slack it&lt;/li&gt;
-    &lt;li&gt;walk over and ask someone face-to-face&lt;/li&gt;
-    &lt;li&gt;go somewhere else to concentrate&lt;/li&gt;
-    &lt;li&gt;offer feedback on other people’s work&lt;/li&gt;
-    &lt;li&gt;challenge things you’re not comfortable with&lt;/li&gt;
-    &lt;li&gt;say yes when anyone does a coffee run&lt;/li&gt;
-    &lt;li&gt;prefer tea&lt;/li&gt;
-    &lt;li&gt;snack&lt;/li&gt;
-    &lt;li&gt;have a messy desk&lt;/li&gt;
-    &lt;li&gt;have a tidy desk&lt;/li&gt;
-    &lt;li&gt;work how you like to work&lt;/li&gt;
-    &lt;li&gt;ask the management to fix it&lt;/li&gt;
-    &lt;li&gt;have off-days&lt;/li&gt;
-    &lt;li&gt;have days off&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Source : &lt;a href=&quot;https://gds.blog.gov.uk/2016/05/25/its-ok-to-say-whats-ok/&quot;&gt;It’s ok to say what’s ok&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 05 Sep 2016 00:00:00 +0200</pubDate>
-        <link>https://clairezed.github.io/marges/good_job/2016/09/05/ok-working-rules.html</link>
-        <guid isPermaLink="true">https://clairezed.github.io/marges/good_job/2016/09/05/ok-working-rules.html</guid>
-        
-        <category>bonheur</category>
-        
-        <category>faire a plusieurs</category>
-        
-        
-        <category>good_job</category>
         
       </item>
     
