@@ -5,9 +5,117 @@
     <description>Prise de notes des internets de claire zuliani</description>
     <link>https://clairezed.github.io/marges/</link>
     <atom:link href="https://clairezed.github.io/marges/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 04 Dec 2016 22:54:26 +0100</pubDate>
-    <lastBuildDate>Sun, 04 Dec 2016 22:54:26 +0100</lastBuildDate>
+    <pubDate>Tue, 06 Dec 2016 15:19:37 +0100</pubDate>
+    <lastBuildDate>Tue, 06 Dec 2016 15:19:37 +0100</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>A la poursuite des common-tech</title>
+        <description>&lt;p&gt;Plaidoyer pour le développement d’une “common-tech”.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;A la lecture du &lt;a href=&quot;https://medium.com/open-source-politics/notre-histoire-c61bbec90334#.p1996qyqy&quot;&gt;feuillet de présentation d’Open Source Politics&lt;/a&gt;, j’avais déjà eu le sentiment qu’on était un peu sur la même longueur d’onde. Aujourd’hui, avec ce nouveau billet de Valentin Chaput, je confirme que ça me déplairait pas de bosser avec ces gars-là.&lt;/p&gt;
+
+&lt;p&gt;Que raconte-t-il ? En substance, qu’&lt;strong&gt;il est temps de se préoccuper de la portée politique des civic tech&lt;/strong&gt;. Politique, non au sens des objectifs explicites des solutions civic tech (par définition, “politique”), mais due projet sous-tendu par leur architecture ;ses valeurs qui portées par leurs choix techniques, et de leurs implications.&lt;/p&gt;
+
+&lt;p&gt;C’est le moment de placer, comme Valentin Chaput le fit, la petite référence à &lt;a href=&quot;https://framablog.org/2010/05/22/code-is-law-lessig/&quot;&gt;Lawrence Lessig - Code is law&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Ce n’est pas entre régulation et absence de régulation que nous avons à choisir. Le code régule. Il implémente – ou non – un certain nombre de valeurs. Il garantit certaines libertés, ou les empêche. Il protège la vie privée, ou promeut la surveillance. Des gens décident comment le code va se comporter. Des gens l’écrivent. La question n’est donc pas de savoir qui décidera de la manière dont le cyberespace est régulé  : ce seront les codeurs. La seule question est de savoir si nous aurons collectivement un rôle dans leur choix – et donc dans la manière dont ces valeurs sont garanties – ou si nous laisserons aux codeurs le soin de choisir nos valeurs à notre place.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;pol-gov-et-common-sont-sur-un-bteau&quot;&gt;Pol, gov et common sont sur un bâteau&lt;/h2&gt;
+
+&lt;p&gt;Valentin Chaput fait la distinction entre différents types de civic tech.&lt;/p&gt;
+
+&lt;h3 id=&quot;pol-tech&quot;&gt;Pol-tech&lt;/h3&gt;
+
+&lt;p&gt;Les &lt;strong&gt;pol-tech&lt;/strong&gt; sont des &lt;em&gt;“outils d’action au service des intérêts particuliers qui s’affrontent dans la vie politicienne”&lt;/em&gt;. Scalables (le coût marginal d’un nouvel utilisateur tend vers zéro), avec pour contrepartie la centralisation et l’uniformisation des plateformes.&lt;/p&gt;
+
+&lt;p&gt;Exemple : &lt;a href=&quot;http://www.gov-app.net/&quot;&gt;Gov&lt;/a&gt;, &lt;a href=&quot;https://www.change.org/&quot;&gt;change.org&lt;/a&gt;, &lt;a href=&quot;http://nationbuilder.com/&quot;&gt;Nation builder&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;gov-tech&quot;&gt;Gov-tech&lt;/h3&gt;
+
+&lt;p&gt;Les &lt;strong&gt;gov-tech&lt;/strong&gt;, concerne la prise de décisions et leur évaluation, et dépend de l’initiative des gouvernements et collectivités. Parfois développé en interne ; majoritairement par des prestataires privés. Ces plateformes peuvent être dupliquées et adaptées à la marge pour différents contextes (deux villes souhaitant lancer une plateforme de budget participatif, par exemple). Ici, cohabitent des logiques ouvertes et des logiques propriétaires.&lt;/p&gt;
+
+&lt;p&gt;Exemple de solutions propriétaires :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Tell my city, applications de signalement&lt;/li&gt;
+  &lt;li&gt;Fluicity, application mobile de communication entre une municipalité et ses administrés&lt;/li&gt;
+  &lt;li&gt;OpenDataSoft, solution intégrée pour des portails open data&lt;/li&gt;
+  &lt;li&gt;Cap Collectif, qui commercialise des plateformes de consultation&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Inconvénients :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;manque de transparence&lt;/li&gt;
+  &lt;li&gt;abandon de la souveraineté&lt;/li&gt;
+  &lt;li&gt;absence de collaboration durable&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Le versant “libre” de ces outils appartient plutôt à une 3e voie :&lt;/p&gt;
+
+&lt;h3 id=&quot;common-tech&quot;&gt;Common-tech&lt;/h3&gt;
+
+&lt;p&gt;Outils développés dans des logiques libres, open source; qu’on retrouve pas mal dans le mouvement civic-tech hors de France.&lt;/p&gt;
+
+&lt;p&gt;Pour des exemples, &lt;a href=&quot;/marges/tech-changement-social-open-source&quot;&gt;rdv sur la page d’un tout nouveau dossier, ici-même&lt;/a&gt;, inauguré aujourd’hui pour recenser les solutions ouvertes réutilisables pour différentes fonctions.&lt;/p&gt;
+
+&lt;h2 id=&quot;pour-une-rorientation-des-civic-tech&quot;&gt;Pour une réorientation des civic tech&lt;/h2&gt;
+
+&lt;p&gt;Quelques extraits éclairants, mais je vous invite à lire le texte intégralement, il y a vraiment plein de choses intéressantes.&lt;/p&gt;
+
+&lt;p&gt;Au sujet de la rsponsabilité des acteurs de la civic tech dans la confusion inefficace actuelle :&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Nous sommes collectivement responsables d’avoir laissé grandir la confusion qui entoure la civic-tech, cet objet politique non-identifié derrière lequel nous nous sommes réfugiés avec espoir et enthousiasme. Nous avons décliné un jargon fleuri composé d’« open gov », de « hackathon », d’« open data », d’« API », de « do it yourself », de « crowdsourcing » et de « proxy voting » sur la « blockchain » qui rend nos projets littéralement incompréhensibles pour la très large majorité de la population que nous voulons toucher. Nous avons par ailleurs été piégés par &lt;a href=&quot;https://medium.com/france/la-civic-tech-arrivera-t-elle-%C3%A0-r%C3%A9pondre-au-d%C3%A9sir-d-alternative-d%C3%A9mocratique-c4222d6124d0#.ymr8pybmb&quot;&gt;nos propres définitions de la civic-tech&lt;/a&gt;, si englobantes qu’elles ne permettent pas la distinction entre plusieurs réalités techniques, économiques et finalement éminemment politiques.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;A ce jour, la civic-tech n’est qu’un passe-temps pour la classe moyenne urbaine désabusée par le spectacle de sa représentation politique. A de très rares exceptions près, nos initiatives ne sont pas inclusives et ne touchent pas les citoyens des quartiers populaires et des périphéries qui forment les bastions d’abstentionnistes et de votes extrêmes. La tâche est immense tant le fossé à combler est profond, tant les fractures seront longues à cicatriser.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Au sujet des coûts / apports d’une “common-tech” :&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Le paramétrage technique [des solutions open source], la traduction, l’ajout de fonctionnalités nécessitent du temps et des compétences de développement — parfois plus que pour une solution propriétaire qui existe déjà et dont le coup de duplication est infiniment plus faible que le prix de la licence d’exploitation que l’entreprise vous fait payer. En revanche, l’amélioration ainsi financée bénéficie à tous les acteurs de la communauté. Partout dans le monde.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;[…]&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Ce modèle est probablement moins rentable pour des investisseurs à court terme, mais beaucoup plus pour les citoyens à moyen terme. Et donc pour la démocratie à long terme.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Au sujet de la responsabilité des pouvoirs publics :&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Dans son ouvrage de référence sur les nouveaux modèles de pair-à-pair, Michel Bauwens explique qu’un commun a peu de chance de triompher s’il est isolé face à des concurrents privés, mais finit toujours par l’emporter s’il s’allie avec des acteurs publics ou privés qui apportent une stabilité et une rétribution au travail de la communauté.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;[…]&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Il faut un soutien fort en faveur du développement de nouveaux outils numériques capables de se répandre de plus en plus facilement sur tout le territoire, afin d’intensifier nos pratiques démocratiques dans les écoles, les associations et les entreprises, de multiplier les consultations et les redditions de comptes transparentes, d’équiper les collectifs citoyens locaux qui sont les seuls en position d’associer les exclus. C’est la condition de la transition démocratique.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Source : &lt;a href=&quot;https://medium.com/open-source-politics/la-civic-tech-fran%C3%A7aise-risque-de-se-d%C3%A9tourner-de-la-cr%C3%A9ation-des-biens-communs-num%C3%A9riques-dont-9ebcf5c55c2e#.7j14lefsc&quot;&gt;La civic-tech française risque de se détourner de la création des biens communs numériques&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 02 Dec 2016 00:00:00 +0100</pubDate>
+        <link>https://clairezed.github.io/marges/sustainable_code/2016/12/02/a-la-poursuite-des-commons-tech.html</link>
+        <guid isPermaLink="true">https://clairezed.github.io/marges/sustainable_code/2016/12/02/a-la-poursuite-des-commons-tech.html</guid>
+        
+        <category>civic tech</category>
+        
+        
+        <category>sustainable_code</category>
+        
+      </item>
     
       <item>
         <title>Comment effectuer sa recherche de mécénat en tant que développeur indépendant ?</title>
@@ -690,42 +798,6 @@ Il n’y avait pas non plus, de ce que je sache, de communautés de profils de p
         <category>faire a plusieurs</category>
         
         <category>politique</category>
-        
-        
-        <category>sustainable_code</category>
-        
-      </item>
-    
-      <item>
-        <title>Comment le numérique peut contribuer au développement durable ?</title>
-        <description>&lt;p&gt;Est-ce moi qui suis plus à l’affût sur ces problématiques, ou y’a-t-il de plus en plus de littérature (toute proportion gardée hein) creusant les implications du numérique dans les grandes questions de société ? Aujourd’hui, un article creusant les connexions qui pourraient être faites entre outils numériques et développement durable.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;Dans cet article, il est surtout question de l’impact indirect du numérique sur le développement durable : comment un outil numérique, quelque soit sa finalité, peut à la marge entrer dans une logique de développement durable (en conduisant à ne pas imprimer trop, par exemple).&lt;/p&gt;
-
-&lt;p&gt;En vérité, ce type d’impact, connexe, n’est pas mon champs d’intérêt prioritaire. Je me focalise plus sur le développement durable en tant qu’objectif direct d’un outil numérique, sur comment le numérique peut être la matière première d’outils incitant et favorisant le développement durable.&lt;/p&gt;
-
-&lt;p&gt;Cet article m’intéresse tout de même en ce qu’il reflète une préoccupation croissante des gens du numérique dans ce que leur activité implique sur le reste du monde. En gros au même moment, apparaissaient dans la presse française des &lt;a href=&quot;http://rue89.nouvelobs.com/2016/10/04/10-ecogestes-numeriques-a-adopter-absolument-265336&quot;&gt;articles sur les “éco-gestes numériques”&lt;/a&gt;. Coïncidence ?&lt;/p&gt;
-
-&lt;p&gt;Les pistes et exemples donnés dans l’article concernent des grands services existants (par exemple,une proposition pour que google maps propose d’abord l’itinéraire en transport en commun ou en vélo plutôt que celui en voiture, pour inciter aux déplacements doux),&lt;/p&gt;
-
-&lt;p&gt;Je tenais à garder trace de cet article aussi pour les liens filés en bas d’article (hop, je conserve ici par précaution) :&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://rosenfeldmedia.com/books/design-is-the-problem/&quot;&gt;Design Is the Problem&lt;/a&gt; (by Nathan Shedroff, 2011)&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;designing for sustainability&quot;&gt;Designing for Sustainability&lt;/a&gt; (by Tim Frick, 2016) - livre O Reilly payant&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://sustainableux.com/&quot;&gt;SustainableUX 2017&lt;/a&gt; (by Jen Briselli, Jenn Schlick, James Christie) - événement en ligne gratuit, prévu le 16/02/2017&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://sustainability.stackexchange.com/&quot;&gt;Sustainability StackExchange&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Source : &lt;a href=&quot;https://uxdesign.cc/product-design-for-sustainability-3fffbb2a7f0e&quot;&gt;Product Design for Sustainability&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 04 Oct 2016 00:00:00 +0200</pubDate>
-        <link>https://clairezed.github.io/marges/sustainable_code/2016/10/04/numerique-contribuer-developpement-durable.html</link>
-        <guid isPermaLink="true">https://clairezed.github.io/marges/sustainable_code/2016/10/04/numerique-contribuer-developpement-durable.html</guid>
-        
-        <category>ecologie</category>
         
         
         <category>sustainable_code</category>
