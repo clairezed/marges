@@ -143,10 +143,17 @@ Commentaires
 - la doc du projet github est une très bonne source d'info, tant technique qu'opérationnelle.
 
 
+### Ushahidi
+
+Cartographie collaborative
+
+https://www.ushahidi.com/
+
+
 ### Cartographies ESS, etc
 
 - http://www.apur.org/dataviz/ess/index.html
-- - [Plateforme Utoies Concrètes](http://utopies-concretes.org/#/fr/map)
+- - [Plateforme Utopies Concrètes](http://utopies-concretes.org/#/fr/map)
 
 
 ## Projet : carte de l'innovation sociale et numérique Grand Est
