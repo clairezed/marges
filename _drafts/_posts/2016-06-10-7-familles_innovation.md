@@ -1,6 +1,6 @@
 ---
 title: avenir solidarités
-date: '2016-05-31 13:35:44'
+date: '2016-05-31 00:00:00'
 layout: post
 tags:
 - professionnalisation

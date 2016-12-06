@@ -1,6 +1,6 @@
 ---
 title: Quels sont les outils numériques d'une révolution politique
-date: '2016-04-09 13:35:44'
+date: '2016-04-09 00:00:00'
 layout: post
 tags:
 - nuitdebout revolution

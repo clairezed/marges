@@ -1,6 +1,6 @@
 ---
 title: Initiatives cools
-date: '2016-12-04 21:37:05'
+date: '2016-12-04 00:00:00'
 layout: page
 permalink: initiatives-cool
 tags:
