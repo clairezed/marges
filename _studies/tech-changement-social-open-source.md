@@ -1,6 +1,6 @@
 ---
 title: Les outils de changement social open source
-date: '2016-12-06 00:00:00'
+date: '2016-12-06 14:19:39'
 layout: page
 permalink: tech-changement-social-open-source
 tags:
