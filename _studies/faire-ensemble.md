@@ -1,6 +1,6 @@
 ---
 title: Techniques pour faire des choses à plusieurs
-date: '2016-12-04 00:00:00'
+date: '2016-12-04 21:37:05'
 layout: page
 permalink: faire-ensemble
 tags:

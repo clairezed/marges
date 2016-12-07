@@ -1,6 +1,6 @@
 ---
 title: asso versus entrepreneurs socaiux
-date: '2016-05-31 00:00:00'
+date: '2016-05-31 13:35:44'
 layout: post
 tags:
 - professionnalisation
