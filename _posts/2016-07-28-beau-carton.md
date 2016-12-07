@@ -1,12 +1,9 @@
 ---
-title: Remettre la main sur du beau carton
-date: '2016-07-28 00:00:00'
 layout: post
-tags:
-- tiers-lieux
-- faire a plusieurs
-categories:
-- binary_transition
+title: "Remettre la main sur du beau carton"
+category: binary_transition
+tags: [tiers-lieux, faire a plusieurs]
+
 ---
 
 Une pincée de sérendipité me permet de retrouver l'initiative qui m'avait le plus enthousiasmée et donnée plein d'envies, lors de l'une des dernières éditions de la Biennale du Design de Saint Etienne.

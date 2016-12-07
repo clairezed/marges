@@ -1,12 +1,9 @@
 ---
-title: Mon ESS à moi
-date: '2016-12-04 21:37:05'
 layout: page
+title:  "Mon ESS à moi"
 permalink: ess
-tags:
-- ess
-categories:
-- good_job
+tags: [ess]
+category: good_job
 ---
 
 Quelques liens et repères sur ce que devient le secteur de l'ESS et de l'entrepreunariat social, l'écosystème local (Grand Est), et mes tactiques d'approche.

@@ -1,12 +1,9 @@
 ---
-title: Code hors norme (du travail)
-date: '2016-10-30 00:00:00'
 layout: post
-tags:
-- engagement
-- cooperative
-categories:
-- good_job
+title: Code hors norme (du travail)
+category: good_job
+tags: [engagement, cooperative]
+
 ---
 
 Coopération d'indépendants plutôt que concurrence ? Vive le retour de hype des formes de structuration des travailleurs !

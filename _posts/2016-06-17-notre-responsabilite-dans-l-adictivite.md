@@ -1,11 +1,9 @@
 ---
-title: Nous sommes tous des dealers de numérique
-date: '2016-06-17 00:00:00'
 layout: post
-tags:
-- dont be evil
-categories:
-- sustainable_code
+title: "Nous sommes tous des dealers de numérique"
+category: sustainable_code
+tags: [dont be evil]
+
 ---
 
 Rue89 pointe 10 stratégies mises en place par les professionnels du web pour créer et perpétuer l'addiction à leur produit. Ce sont les types de mécanismes qu'il m'arrive moi-même de mettre en place, comme bien d'autres de mes collègues (parfois à nos corps défendant). Et je les exècre d'autant plus que j'en suis bien évidemment moi-même victime.

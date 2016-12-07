@@ -1,11 +1,9 @@
 ---
-title: L'entrepreneuriat collectif, une piste pour renouveller l'ESS ?
-date: '2016-10-02 00:00:00'
 layout: post
-tags:
-- ess
-categories:
-- binary_transition
+title: L'entrepreneuriat collectif, une piste pour renouveller l'ESS ?
+category: binary_transition
+tags: [ess]
+
 ---
 
 Avant de finaliser et mettre en ligne (le temps que ça décante) des comptes-rendus de [Moments d'invention](http://www.grand-nancy.org/gn/momentsdinvention/) et [Futur O Klatsch](http://tcrm-blida.com/agenda/393_Futur-O-Klatsch-Rencontre-nationale-des-Tiers-Lieux), événements lorrains croisant numérique, culturel et innovation sociale auxquels j'ai assistés cette semaine, je partage un article sur l'entrepreneuriat collectif que je découvre tout juste, et qui fait écho à certains des enjeux que j'ai vu traverser les échanges de ces derniers jours. Fin de cette phrase introductive bien trop longue.

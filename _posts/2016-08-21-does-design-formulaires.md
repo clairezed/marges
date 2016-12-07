@@ -1,11 +1,9 @@
 ---
-title: Les fashion faux pas des formulaires
-date: '2016-08-21 00:00:00'
 layout: post
-tags:
-- design
-categories:
-- sustainable_code
+title: "Les fashion faux pas des formulaires"
+category: sustainable_code
+tags: [design]
+
 ---
 
 Article à base d'illustrations en do/don't autour du design de formulaire. Je retrouve dans la colonne des "Don't" beaucoup des habitudes de ma boîte actuelle (et donc des miennes)...

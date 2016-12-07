@@ -1,11 +1,9 @@
 ---
-title: Y'a quoi dans ce site ?
-date: '2016-07-08 00:00:00'
 layout: post
-tags:
-- toolkit
-categories:
-- sustainable_code
+title: Y'a quoi dans ce site ?
+category: sustainable_code
+tags: [toolkit]
+
 ---
 
 Ca faisait quelques temps que je cherchais un moyen de déterminer quels étaient les composants, la "stack" des sites cools que je pouvais croiser (car l'inspection du code en console est quand même limitée).

@@ -1,13 +1,9 @@
 ---
-title: Moments d'invention 2016 - partage sur l'humanisme numérique à Nancy
-date: '2016-10-10 00:00:00'
 layout: post
-tags:
-- evenement
-- faire a plusieurs
-- politique
-categories:
-- sustainable_code
+title: Moments d'invention 2016 - partage sur l'humanisme numérique à Nancy
+category: sustainable_code
+tags: [evenement, faire a plusieurs, politique]
+
 ---
 
 La métropôle du Grand Nancy organisait les 29 et 30 septembre **Moments d'invention**,  deux journées de rencontres et de réflexions autour de l'humanisme numérique, destinée à nourrir le projet métropolitain. Rencontre "humanisme" et "numérique"... Une alliance de mots excitante au possible pour moi, une initiative qui se déroule sur mon nouveau territoire, l'occasion de croiser des gens qui, dans la région et ailleurs, se questionnent sur des thèmes similaires à ceux qui me préoccupent actuellement... Forcément, j'y ai été, et tant qu'à faire je partage mes notes.

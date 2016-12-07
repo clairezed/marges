@@ -1,11 +1,9 @@
 ---
-title: Les nouvelles formes d'organisation à la lumière des communs
-date: '2016-11-25 00:00:00'
 layout: post
-tags:
-- communs
-categories:
-- good_job
+title: Les nouvelles formes d'organisation à la lumière des communs
+category: good_job
+tags: [communs]
+
 ---
 
 Un article récent de Michel Bauwens vient faire furieusement écho à ma lecture de Reinventing Organizations. Des concepts complémentaires qui viennent encore nourrir la compréhension des nouvelles possibilités (souhaitables) xd'organisation.

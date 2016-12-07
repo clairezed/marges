@@ -1,9 +1,8 @@
 ---
-title: Given title
 layout: tag_page
-tag:
-- ess
-permalink: "/tags/test"
+title: Given title
+tag: ess
+permalink: /tags/test
 ---
 
 ''

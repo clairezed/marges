@@ -1,11 +1,9 @@
 ---
-title: To read list
-date: '2016-12-04 21:37:05'
 layout: page
+title:  "To read list"
 permalink: toolkits
 tags: []
-categories:
-- sustainable_code
+category: sustainable_code
 ---
 
 Des trucs à lire/voir quand je serai à la retraite (ou que je prendrai un moment).

@@ -1,12 +1,9 @@
 ---
-title: Comment effectuer sa recherche de mécénat en tant que développeur indépendant
-  ?
-date: '2016-12-02 00:00:00'
 layout: post
-tags:
-- civic tech
-categories:
-- good_job
+title: Comment effectuer sa recherche de mécénat en tant que développeur indépendant ?
+category: good_job
+tags: [civic tech]
+
 ---
 
 Aujourd'hui, je découvre qu'on peut, en tant que développeur notamment, tester en quelques clics la pertinence d'idées, et mettre en place un système de "mécénat récurrent" de particuliers pour pouvoir se consacrer à ses idées les plus populaires. Un nouveau modèle de financement ?

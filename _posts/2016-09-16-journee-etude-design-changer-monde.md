@@ -1,11 +1,9 @@
 ---
-title: Journée d'étude sur "le design pour sauver le monde"
-date: '2016-09-16 00:00:00'
 layout: post
-tags:
-- design
-categories:
-- binary_transition
+title: Journée d'étude sur "le design pour sauver le monde"
+category: binary_transition
+tags: [design]
+
 ---
 
 Je découvrais hier, alors même qu'elle se déroulait, la tenue d'une journée d'étude au programme alléchant : **"Design, innovation sociale et vie publique"**, par Design en recherche, réseau de doctorant.e.s en design. Heureusement, il en reste des traces.

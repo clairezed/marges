@@ -1,11 +1,9 @@
 ---
-title: Justice sociale silliconnée
-date: '2016-10-20 00:00:00'
 layout: post
-tags:
-- faire a plusieurs
-categories:
-- sustainable_code
+title: Justice sociale silliconnée
+category: sustainable_code
+tags: [faire a plusieurs]
+
 ---
 
 Quelle place pour la justice sociale dans la Silicon Valley et son empire ? D'excellentes références, un état des lieux un peu flippant, un gros travail à fournir.

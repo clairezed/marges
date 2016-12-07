@@ -1,12 +1,9 @@
 ---
-title: Radiographie d'un site 1 - Moments d'invention 2016
-date: '2016-08-08 00:00:00'
 layout: post
-tags:
-- radiographie
-- toolkit
-categories:
-- sustainable_code
+title: "Radiographie d'un site 1 - Moments d'invention 2016"
+category: sustainable_code
+tags: [radiographie, toolkit]
+
 ---
 
 Quand je tombe sur des sites qui donnent une impression un peu "la classe" tout en paraissant d'un niveau technique atteignable, j'aime bien chercher comment il a été fait. Ca me permet de faire une veille dynamique, en condition réelle, en observant les outils qui sont concrètement utilisés et éprouvés.

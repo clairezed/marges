@@ -1,13 +1,9 @@
 ---
-title: Cartographier par en bas
-date: '2016-12-04 21:37:05'
 layout: page
+title: Cartographier par en bas
 permalink: cartographie-du-bas
-tags:
-- faire a plusieurs
-- carte
-categories:
-- binary_transition
+tags: [faire a plusieurs, carte]
+category: binary_transition
 ---
 
 Depuis mon arrivée dans ma nouvelle ville, je suis fascinée par le nombre de commerces vacants, laissés pour certains à l'abandon depuis ce qui semble etre des années. Ca fait longtemps que je garde une oreille intéressée pour tout ce qui est de l'ordre de la réappropriation par les quidams de toute sorte de chose, et notamment des espaces urbains, et là, voir tous ces potentiels inexploités, ça me fait bouillir.
