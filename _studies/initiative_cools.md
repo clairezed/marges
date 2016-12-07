@@ -74,7 +74,7 @@ Quelques initiatives (qui m'ont l'air) cools sur lesquelles jeter ou garder un o
 
 ### Sassafras
 
-- coopérative de travailleur
+- coopérative de travailleurs
 - créé / améliore des outils techniques pour le changement social (recherche, ux design, développement)
 - pas composé uniquement de gens techniques (mais aussi un peu SHS)
 - font du rails (cerise sur le gâteau)
@@ -86,6 +86,16 @@ Quelques initiatives (qui m'ont l'air) cools sur lesquelles jeter ou garder un o
 Based in Buenos Aires, gcoop Development Company is a cooperative that develops free software under the guiding principle that knowledge is built with contributions from many and that software, like knowledge, should be free.
 
 https://www.gcoop.coop/
+
+### Open Democracy now
+
+### Libre informatique
+
+Coopérative des métiers de l’informatique pour créer des biens communs
+
+http://www.libre-informatique.fr/
+
+#### tags: `quimper` 
 
 ## Clusters d'innovation sociale
 
