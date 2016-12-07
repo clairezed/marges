@@ -1,6 +1,7 @@
 ---
+title: Techniques pour faire des choses à plusieurs
+date: '2016-12-04 00:00:00'
 layout: page
-title:  Techniques pour faire des choses à plusieurs
 permalink: faire-ensemble
 tags: [faire a plusieurs]
 category: good_job

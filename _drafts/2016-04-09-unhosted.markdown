@@ -1,4 +1,6 @@
 ---
+title: Unhosted
+date: '2016-04-09 00:00:00'
 layout: post
 title:  Unhosted
 date:   2016-04-09 15:35:44 +0200

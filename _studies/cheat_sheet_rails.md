@@ -1,6 +1,7 @@
 ---
+title: Ruby & Rails Cheatsheet
+date: '2016-12-04 00:00:00'
 layout: page
-title:  "Ruby & Rails Cheatsheet"
 permalink: cheat-sheet-ruby
 tags: [ruby, rails]
 category: sustainable_code

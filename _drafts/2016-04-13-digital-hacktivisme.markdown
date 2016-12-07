@@ -1,7 +1,7 @@
 ---
+title: Beyond hashtag
+date: '2016-04-09 13:35:44'
 layout: post
-title:  Beyond hashtag
-date:   2016-04-09 15:35:44 +0200
 tags:  hacktivism
 category: binary_transition
 ---

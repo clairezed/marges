@@ -1,6 +1,7 @@
 ---
+title: Mon ESS à moi
+date: '2016-12-04 00:00:00'
 layout: page
-title:  "Mon ESS à moi"
 permalink: ess
 tags: [ess]
 category: good_job

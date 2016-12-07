@@ -1,6 +1,7 @@
 ---
+title: Inspirations graphiques
+date: '2016-12-04 00:00:00'
 layout: page
-title:  Inspirations graphiques
 permalink: inspirations-graphiques
 tags: [design]
 category: binary_transition

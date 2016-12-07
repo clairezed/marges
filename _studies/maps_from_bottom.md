@@ -1,6 +1,7 @@
 ---
-layout: page
 title: Cartographier par en bas
+date: '2016-12-04 00:00:00'
+layout: page
 permalink: cartographie-du-bas
 tags: [faire a plusieurs, carte]
 category: binary_transition

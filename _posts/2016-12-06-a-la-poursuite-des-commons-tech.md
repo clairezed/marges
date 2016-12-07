@@ -1,11 +1,8 @@
 ---
 title: A la poursuite des common-tech
-date: '2016-12-02 00:00:00'
 layout: post
-tags:
-- civic tech
-categories:
-- sustainable_code
+category: sustainable_code
+tags: [civic tech]
 ---
 
 Plaidoyer pour le développement d'une "common-tech".

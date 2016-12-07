@@ -1,7 +1,7 @@
 ---
+title: HOW MUCH DOES A WEBSITE COST
+date: '2016-04-09 13:35:44'
 layout: post
-title:  HOW MUCH DOES A WEBSITE COST
-date:   2016-04-09 15:35:44 +0200
 category: good_job
 tags: money
 ---
