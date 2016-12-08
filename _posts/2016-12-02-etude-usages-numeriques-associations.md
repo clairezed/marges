@@ -6,11 +6,11 @@ tags: [civic tech]
 
 ---
 
-L'agence du numérique relaie une étude de Solidatech et Recherches et Solidarité autour de la place du numérique dans les associations françaises. Evidemment, c'est une lecture plus qu'utile (et intéressée) pour quiconque se destine à faire du numérique pour ce type de structure...
+L'agence du numérique relaie une étude de [Solidatech](solidatech.fr) et [Recherches et Solidarité]( recherches-solidarites.org) autour de la place du numérique dans les associations françaises. Evidemment, c'est une lecture plus qu'utile (et intéressée) pour quiconque se destine à faire du numérique pour ce type de structure...
 
 <!--more-->
 
-Les données que je retiens pour identifier où en sont les asso dans leur rapport au numérique et quels sont leurs besoins actuellement sont les suivantes.
+Où en sont les associations dans leurs usages du numérique ? Quels sont leurs attentes et leurs besoins ? Voici ce que je retiens du rapoprt.
 
 ## Qu'est-ce qui est utilisé et en quelle proportion ?
 
@@ -21,7 +21,9 @@ Les données que je retiens pour identifier où en sont les asso dans leur rappo
 - 35 % des associations connectées ont mis en place des **projets numériques au service de leurs bénéficiaires ou d’une cause sociale**.
 
 A ce sujet :
-> « La complexité des projets varie et n’implique pas nécessairement des compétences techniques importantes, l’**objectif étant d’accélérer son impact social par le biais du numérique**. L’inclusion numérique auprès de publics fragiles (personnes en situation de précarité, seniors, personnes en situation de handicap) est aussi devenue en soi un projet associatif ».
+> « La complexité des projets varie et n’implique pas nécessairement des compétences techniques importantes, l’**objectif étant d’accélérer son impact social par le biais du numérique**.
+>
+L’**inclusion numérique** auprès de publics fragiles (personnes en situation de précarité, seniors, personnes en situation de handicap) est aussi devenue en soi un projet associatif ».
 
 ## Qu'est-ce qu'apporte de positif le numérique ?
 
@@ -41,7 +43,7 @@ et de l’éducation populaire : 44%.
 ## Quels risques à l'utilisation du numérique ?
 
 Les risques signalés par les associations :
-- Exclusion des personnes non initiées et **risque de fracture** en interne.
+- Exclusion des personnes non initiées et **risque de fracture en interne**.
 - Découragement par l’**excès d’informations**
 (importance de savoir écrire pour être lu et compris).
 - Frein à la réflexion du fait de la **rapidité, voire de l’immédiateté
@@ -70,6 +72,24 @@ Ce qui aiderait une association à tirer le meilleur parti du numérique serait,
 - aide personnalisée pour définir une stratégie numérique : 29%
 - temps d'échange et de réflexion en interne : 28%
 - formation tehcique pour chaque usage ou outil : 27%
+
+## Qu'est-ce qui faciliterait l'usage du numérique ?
+
+Flécher des moyens financiers en priorité sur :
+- s'équiper : 42%
+- se former : 33%
+- mobiliser des experts : 22%
+
+
+En termes de dynamiques collectives :
+- Des échanges d’expériences avec d’autres associations : 35%
+- Des outils numériques mutualisés pour partager les coûts : 27%
+
+## Besoin d'accompagnement
+
+- **dimension technique** : Etre guidé face à cette panoplie d’outils qui se renouvelle en permanence.et disposer des moyens pour proposer des formations en interne
+- **dimension collective** : Garantir un niveau de connaissance suffisant pour tous les membres de l’association et faire vivre une volonté partagée de s’appuyer sur le numérique
+- **dimension stratégique** : Etre aidé par des experts pour définir une véritable « stratégie numérique » propre à l’association.
 
 
 Source : [Etude "La place du numérique dans le projet associatif" - novembre 2016][source]
