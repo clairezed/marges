@@ -45,13 +45,13 @@ namespace :git do
     puts "Adding .nojekyll to root"
     system "touch .nojekyll"
 
-    unless git_clean?
+    #unless git_clean?
       puts "Pushing to #{DEPLOY_BRANCH}."
       system "git add -A && git commit -m \"Site updated at #{Time.now.utc}\""
       system "git push origin #{DEPLOY_BRANCH}"
-    else
-      puts "No changes found. Deploy aborted."
-    end
+  #  else
+  #    puts "No changes found. Deploy aborted."
+  #  end
 
     system "git checkout #{SOURCE_BRANCH}"
   end
