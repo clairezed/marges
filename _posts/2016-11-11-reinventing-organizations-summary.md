@@ -7,17 +7,44 @@ tags: [faire a plusieurs]
 ---
 
 J'ai croisé plusieurs fois ces derniers mois des références au livre "Reinventing Organizations" de Frederic Laloux, présentant apparemment de façon limpide et inspirante une révolution douce en cours dans les modes d'organisation du travail.
+
 Jusqu'à ce que je découvre il y a peu que son auteur rendait son ouvrage accessible à prix libre (et en deux versions distinctes, en plus !). Plus de prétexte : version "enfant" (celle avec les dessins) téléchargée, et récapitulatif du bouquin ici.
 
 <!--more-->
 
 *[Travail en cours, la lecture n'est pas encore bouclée]*
 
+<!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+
+- [Types d'organisations](#types-dorganisations)
+	- [Organisation impulsive (Rouge)](#organisation-impulsive-rouge)
+	- [Organisation conformiste (ambre)](#organisation-conformiste-ambre)
+	- [Organisation autour du résultat (orange)](#organisation-autour-du-rsultat-orange)
+	- [Organisation pluraliste (vert)](#organisation-pluraliste-vert)
+	- [Organisation évolutive (evolutionnary) (turquoise)](#organisation-volutive-evolutionnary-turquoise)
+- [Comment fonctionnent les organisations évolutives ?](#comment-fonctionnent-les-organisations-volutives-)
+	- [Self management](#self-management)
+		- [Structures d'organisations : petites unités autonomes](#structures-dorganisations-petites-units-autonomes)
+		- [Prise de décision : par prise d'avis](#prise-de-dcision-par-prise-davis)
+		- [Compensations et incitations financières](#compensations-et-incitations-financires)
+		- [Management de la performance](#management-de-la-performance)
+		- [Hiérarchie "naturelle" plutôt que par le pouvoir](#hirarchie-naturelle-plutt-que-par-le-pouvoir)
+	- [Entièreté (Wholeness)](#entiret-wholeness)
+		- [Safe space](#safe-space)
+		- [Reflective Spaces](#reflective-spaces)
+		- [Storytelling](#storytelling)
+		- [Réunions](#runions)
+		- [Engagement et horaires](#engagement-et-horaires)
+		- [Evaluation des performances](#evaluation-des-performances)
+- [Evolutionary purpose](#evolutionary-purpose)
+
+<!-- /TOC -->
+
 ## Types d'organisations
 
 Par leur ordre historique d'apparition :
 
-### Organsation impulsive (Rouge)
+### Organisation impulsive (Rouge)
 
 Le plus fort s'impose et protège sa tribu. Modèle de la meute de loup.
 
@@ -75,7 +102,7 @@ Limites :
 Exemple du fonctionnement pour la négociation salariale : bonus d'équipe, et limitation des écarts de salaire
 
 
-### Organisation evolutive (evolutionnary) (turquoise)
+### Organisation évolutive (evolutionnary) (turquoise)
 
 Pensé par Maslow, Graves, Kegan.
 Pas les GAFA, pas de tables de ping pong et de mobilier design
@@ -88,7 +115,7 @@ Apports :
 - **Evolutionary purpose** : pas de plan tout établi, la structure évolue au fil du temps
 
 
-## Comment fonctionnent les organisations écolutives ?
+## Comment fonctionnent les organisations évolutives ?
 
 ### Self management
 
@@ -161,8 +188,45 @@ Cf Heiligenfeld :
 
 #### Storytelling
 
-Exemple : Center for Courage & Renewal.
+Exemple : Center for Courage & Renewal. Pour accueillir les nouveaux, chacun fait un souhait pour eux, et raconte l'histoire de ce souhait avec un objet qui le symbolise.
+
+Ou bien, dans un collège allemand, chaque vendredi est organisé une session de louange ou chacun peut, publiquement, remercier quelqu'un.
+
+*(Cette partie là me semble un poil plus vaseuse.)*
 
 #### Réunions
+
+Mise en place de procédures qui permette de laisser de côté les égo et tirer le meilleur parti de réunions.
+
+- A Buurtzorg, utilisation d'une méthode complexe proche de “Integrative Decision Making” dans l'Holacracy.
+- A Sounds True, chaque réunion débute par 1 minute de silence.
+- A FAVI, réunion débutant par chacun partageant une histoire brève au sujet de quelqu'un qu'ils ont récemment remercié ou félicité.
+- Utilisation de petites cymbales, dont un participant à la réunion a la charge. Lorsque les discussions commencent à être parasitées par les égo, ils sonnent les cymbales, et personne n'a le droit de parler tant que le son des cymbales n'est pas complètement dissipé.
+
+#### Engagement et horaires
+
+Possibilité de s'absenter, d'aménager ses horaires, à condition de trouver soi-même un arrangement avec ses collègues.
+
+#### Evaluation des performances
+
+Pas d'entretien unique une fois par an en scrutant une grille d'évaluation.
+
+L'exemple de Sounds True :
+
+Les personnes avec lesquels on bosse le plus répondent à deux questions :
+- qu'est-ce que j'apprécie le plus dans le fait de travailler avec toi ?
+- quel est le domaine où je sens que tu pourrais changer et grandir ?
+
+Puis entretien avec un responsable ou un pair de confiance :
+- What do you take away from the discussions?
+- What did you learn?
+- What do you want to pay attention to in the future?
+- Where do you feel called to go?
+
+## Le but évolutionnaire (Evolutionary purpose)
+
+Les nouvelles organisations parviennent à domestiquer leur peur et leur ego pour ne plus être dans la recherche de leur propre préservation, ce qui laisse l'espace pour explorer vraiment la question du sens et du but. *(ok, je pensais être une irréductible bisounours, mais y'a encore plus ché-per)*.
+
+Les dirigeants des organisations évolutives ne sont plus dans la maxime "Prédire et contrôler", "Stratégie et Exécution", mais plutôt dans "Sentir et répondre".
 
 *(oui mais qui décide que telle ou telle décision est une réussite ou un échec ? Sur quels critères ? Et comment sont fixés ces critères ? )*
