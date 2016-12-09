@@ -24,3 +24,6 @@ Ce carnet, je l'ouvre à un moment où :
 
 Si vous avez des suggestions à me faire, des questions à réfléchir avec moi, des propositions de lectures, ou des propositions de projets, ou des propositions de missions...\\
 **Proposez donc, je n'attends que ça !**
+
+
+<a href="http://www.clairezuliani.com" class="btn btn-primary" title="Portfolio" target="_blank">Portfolio</a>
