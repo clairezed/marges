@@ -24,7 +24,6 @@ Quelques exemples d'outils web, principalement open source (et donc, réutilisab
 
 - [2 minutes 4 my city](http://www.2min4city.com/#/issue/31660), par [Open Knowledge Estonia](http://www.opendata.ee/) (Estonie) : application qui connecte les citoyens avec les actualités et décisions locales
 
-
 ### Mobiliser
 
 - [Meu Rio](http://www.meurio.org.br/) (Brésil): plateforme de lobby citoyen
@@ -40,6 +39,12 @@ Quelques exemples d'outils web, principalement open source (et donc, réutilisab
 - [Democracy OS](http://democracyos.eu/) (Argentine) : plateforme de consultation
 - [Consul](https://github.com/consul/consul) (Espagne) : portail municipale pour les concertations et le budget participatif (cf par ex [decide.madrid.es](decide.madrid.es))
 - [Loomio](https://www.loomio.org/?)
+
+## AMAP et groupements d'achats
+
+- [www.cagette.net](http://www.cagette.net/) :
+Une application libre pour développer le circuit court / le logiciel libre des AMAP et groupements d'achat citoyens. Projet Open Source, vend l'hébergement
+
 
 ## Portails et annuaires à creuser
 

@@ -111,11 +111,6 @@ Comment bien commencer un projet ? Quelques outils déjà utilisés ou à tester
 - [Packery](http://packery.metafizzy.co/) : Gapless, draggable grid layouts
 - [Simple Sharing Buttons Generator](https://simplesharingbuttons.com) : Create light-weight, mobile-friendly sharing buttons for Facebook, Twitter, Google+ and other social networks -- it's all completely free!
 
-### Software tendance ESS
-
-- [www.cagette.net](http://www.cagette.net/) :
-Une application libre pour développer le circuit court / le logiciel libre des AMAP et groupements d'achat citoyens. Projet Open Source, vend l'hébergement
-
 
 ## <a name="devops"></a> DevOps
 
