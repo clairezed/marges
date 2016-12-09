@@ -45,13 +45,13 @@ Comment bien commencer un projet ? Quelques outils déjà utilisés ou à tester
 
 ### COuleurs
 
-- http://www.palettable.io/
-- http://www.vanschneider.com/colors/
-- https://coolors.co
+- [Palettable](http://www.palettable.io/) : générations de palettes cohérentes
+- [Coolors](https://coolors.co) : comme palettable, mais plus touffu
+- [Vanschneider, colors](http://www.vanschneider.com/colors/) : alliance de deux couleurs dans des ptites cartes
 
 ### Templates
 
-- https://html5up.net/
+- [HTML5 up](https://html5up.net/)
 
 ### Retoucher vite fait une image
 
@@ -70,7 +70,7 @@ Comment bien commencer un projet ? Quelques outils déjà utilisés ou à tester
 
 #### Plutot élément web (UI)
 
-- annuaire : https://uxdesign.cc/ui-inspiration-b019453058d7#.vzz3m9qyw
+- [UX design - Ui in](https://uxdesign.cc/ui-inspiration-b019453058d7#.vzz3m9qyw) : annuaire
 
 - [Zurb Patterntap](http://zurb.com/patterntap)
 - [UI patterns](http://ui-patterns.com/)
@@ -101,8 +101,8 @@ Comment bien commencer un projet ? Quelques outils déjà utilisés ou à tester
 
 ### Boilerplates
 
-* http://megaboilerplate.com/
-* https://github.com/holyjs/holyjs
+* [Megaboilerplate](http://megaboilerplate.com/)
+* [Holy JS](https://github.com/holyjs/holyjs)
 * [Node.js hackathon starter](https://github.com/sahat/hackathon-starter)
 
 ### Lib

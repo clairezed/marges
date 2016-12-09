@@ -10,6 +10,12 @@ categories:
 ---
 
 
+Quelques exemples d'outils web, principalement open source (et donc, réutilisable, adaptable et améliorable), pour booster d'une façon ou d'une autre le changement social.
+
+
+<!--more-->
+
+
 ## Civic Tech
 
 ### Informer
