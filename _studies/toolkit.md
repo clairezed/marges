@@ -19,11 +19,16 @@ Comment bien commencer un projet ? Quelques outils déjà utilisés ou à tester
 * [Code](#code)
 * [DevOps](#devops)
 * [Bureautique](#bureautique)
+* [Administratif](#administratif)
+
+
+## Général
+
+- [Awesome](https://github.com/sindresorhus/awesome) : Curated list of awesome lists
+- [Awesome awesomess](https://github.com/bayandin/awesome-awesomeness)
 
 
 ## <a name="design"></a> Design
-
-
 
 ### Listes de ressources
 
@@ -52,6 +57,12 @@ Comment bien commencer un projet ? Quelques outils déjà utilisés ou à tester
 ### Templates
 
 - [HTML5 up](https://html5up.net/)
+- [Start Bootstrap](https://startbootstrap.com/template-categories/popular/)
+- [Bootswatch](https://bootswatch.com/)
+
+### Photos
+- [Unsplash](https://unsplash.com)
+
 
 ### Retoucher vite fait une image
 
@@ -145,3 +156,11 @@ Zaclys : comme openmailbox mais mieux
 - owncloud
 - nextcloud (fork de owncloud)
 - [pyd.io](https://pydio.com/)
+
+### Gif (dans un but pro, bien sûr)
+
+- [Peek - an animated GIF recorder](https://github.com/phw/peek)
+
+## <a name="administratif"></a> Administratif
+
+- [Contrats Français](https://github.com/tibastral/contrats-francais) : Exemples de Conditions générales d'achat, de vente, de développement d'application web, de scénario utilisateurs

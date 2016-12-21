@@ -11,6 +11,11 @@ Conseils à la volée pour écrire du meilleur code en ruby.
 
 <!--more-->
 
+## Rails starter
+
+- [rails starter template](https://github.com/dennybritz/rails_startup_template ) : script qui permet d'installer des gems de bases, et certaines avec des conditions (nécessité de répondre à des questions pdt l'install)
+
+
 ## do / don't
 
 ### Batch process

@@ -15,6 +15,11 @@ Quelques exemples d'outils web, principalement open source (et donc, réutilisab
 
 <!--more-->
 
+## Ressources générales
+
+- [Open Government Partnership Toolbox](https://ogptoolbox.org/fr)
+- [TOOL SELECTION ASSISTANT](https://toolselect.theengineroom.org/)
+
 
 ## Civic Tech
 

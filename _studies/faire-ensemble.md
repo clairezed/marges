@@ -48,6 +48,8 @@ Prise de note sur la collaboration, l'animation de communauté...
 - [UK Government Digital Service Design Principles](https://www.gov.uk/design-principles)
 - [Ouishare Fest Toolkit](https://ouishare.gitbooks.io/ouishare-fest-toolkit/content/)
 - [kaleidos-coop](http://kaleidos-coop.org/wakka.php?wiki=PagePrincipale)
+- [Kit de l'Innovation Métier Publique (Web, USB, Physique)](https://github.com/InnovMetierEtat/Kit-Innovation-Metier)
+- [Peeragogy](https://peeragogy.github.io/)
 
 ## Designer des services à plusieurs
 
