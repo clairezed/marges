@@ -1,5 +1,5 @@
 ---
-title: A la poursuite des common-tech
+title: Des plateformes contributrices au bien commun
 layout: post
 category: binary_transition
 tags: [civic tech]
