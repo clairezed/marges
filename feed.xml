@@ -5,9 +5,67 @@
     <description>Prise de notes des internets de claire zuliani</description>
     <link>http://carnet.clairezuliani.com/</link>
     <atom:link href="http://carnet.clairezuliani.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 09 Dec 2016 22:59:24 +0100</pubDate>
-    <lastBuildDate>Fri, 09 Dec 2016 22:59:24 +0100</lastBuildDate>
-    <generator>Jekyll v3.3.1</generator>
+    <pubDate>Wed, 21 Dec 2016 13:47:19 +0100</pubDate>
+    <lastBuildDate>Wed, 21 Dec 2016 13:47:19 +0100</lastBuildDate>
+    <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>A la poursuite des common-tech</title>
+        <description>&lt;p&gt;Esquisses de modalités d’“encadrement” des plateformes numériques par les pouvoirs publics ; ou comment Waze et Facebook pourraient être sommés de contribuer au bien commun.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;En partant des questions de neutralité du net et de loyauté des plateformes, Godefroy Beauvallet, vice-président du Conseil national du numérique développe des réflexions intéressantes sur la façon dont on pourrait imaginer une régulation des grands acteurs du numériques.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Constater ce hiatus dans le fonctionnement de Waze ouvre la voie à une piste concrète de mise en place de la notation de la loyauté des plateformes  : si les territoires étaient capables de produire des informations sur leurs objectifs de politiques publiques et de bien commun dans des formats ‘ machine-compatibles ’ utilisables par les plateformes en ligne, Waze et consorts pourraient les utiliser dans leurs algorithmes. Et, puisqu’ils le pourraient, on pourrait également tester, et noter, leur contribution positive ou négative à ces politiques publiques.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Ces tests pourraient être automatisés  :&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;ul&gt;
+    &lt;li&gt;les itinéraires conseillés par Waze et ses concurrents pourraient être analysés et notés quant à leur respect des prescriptions publiques  ;&lt;/li&gt;
+    &lt;li&gt;les résultats pourraient être rendus publics et les réputations en dépendre  ;&lt;/li&gt;
+    &lt;li&gt;des &lt;a href=&quot;https://en.oxforddictionaries.com/definition/us/pay-or-play&quot;&gt;systèmes pay-or-play&lt;/a&gt; pourraient venir moduler les impôts payés par ces plateformes ;&lt;/li&gt;
+    &lt;li&gt;un débat démocratique pourrait venir boucler la boucle pour vérifier la validité des prescriptions et leur efficacité.&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;L’exemple avec d’autres plateformes :&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;ul&gt;
+    &lt;li&gt;On pourrait vérifier si AirBnB promeut ou au contraire contrecarre la tranquillité ou la mixité (si ces objectifs sont les bons)  ;&lt;/li&gt;
+    &lt;li&gt;si Amazon promeut des produits éco-progressistes ou non  ;&lt;/li&gt;
+    &lt;li&gt;si Facebook offre une variété de points de vue à ses lecteurs, etc ;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Evidemment, énormément de questions se posent :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;comment produire et maintenir de telles données normées, au coût réel ?&lt;/li&gt;
+  &lt;li&gt;comment contraindre ces hyperstructures et les convaincre de jouer le jeu ?&lt;/li&gt;
+  &lt;li&gt;comment concilier des objectifs de politique publique nationaux avec les politiques commerciales et règles d’usage mondiale des plateformes majeures ?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Toujours est-il que les pistes évoquées sont stimulantes.&lt;/p&gt;
+
+&lt;p&gt;Source : &lt;a href=&quot;http://rue89.nouvelobs.com/2016/12/10/loyaute-plateformes-daccord-loyaute-a-quoi-265869&quot;&gt;La civic-tech française risque de se détourner de la création des biens communs numériques&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 21 Dec 2016 00:00:00 +0100</pubDate>
+        <link>http://carnet.clairezuliani.com/binary_transition/2016/12/21/des-plateformes-contributrices-au-bien-commun.html</link>
+        <guid isPermaLink="true">http://carnet.clairezuliani.com/binary_transition/2016/12/21/des-plateformes-contributrices-au-bien-commun.html</guid>
+        
+        <category>civic tech</category>
+        
+        
+        <category>binary_transition</category>
+        
+      </item>
     
       <item>
         <title>A la poursuite des common-tech</title>
@@ -25,7 +83,7 @@
   &lt;p&gt;Ce n’est pas entre régulation et absence de régulation que nous avons à choisir. Le code régule. Il implémente – ou non – un certain nombre de valeurs. Il garantit certaines libertés, ou les empêche. Il protège la vie privée, ou promeut la surveillance. Des gens décident comment le code va se comporter. Des gens l’écrivent. La question n’est donc pas de savoir qui décidera de la manière dont le cyberespace est régulé  : ce seront les codeurs. La seule question est de savoir si nous aurons collectivement un rôle dans leur choix – et donc dans la manière dont ces valeurs sont garanties – ou si nous laisserons aux codeurs le soin de choisir nos valeurs à notre place.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h2 id=&quot;pol-gov-et-common-sont-sur-un-bâteau&quot;&gt;Pol, gov et common sont sur un bâteau&lt;/h2&gt;
+&lt;h2 id=&quot;pol-gov-et-common-sont-sur-un-bteau&quot;&gt;Pol, gov et common sont sur un bâteau&lt;/h2&gt;
 
 &lt;p&gt;Valentin Chaput fait la distinction entre différents types de civic tech.&lt;/p&gt;
 
@@ -62,7 +120,7 @@
 
 &lt;p&gt;Pour des exemples, &lt;a href=&quot;/tech-changement-social-open-source&quot;&gt;rdv sur la page d’un tout nouveau dossier, ici-même&lt;/a&gt;, inauguré aujourd’hui pour recenser les solutions ouvertes réutilisables pour différentes fonctions.&lt;/p&gt;
 
-&lt;h2 id=&quot;pour-une-réorientation-des-civic-tech&quot;&gt;Pour une réorientation des civic tech&lt;/h2&gt;
+&lt;h2 id=&quot;pour-une-rorientation-des-civic-tech&quot;&gt;Pour une réorientation des civic tech&lt;/h2&gt;
 
 &lt;p&gt;Quelques extraits éclairants, mais je vous invite à lire le texte intégralement, il y a vraiment plein de choses intéressantes.&lt;/p&gt;
 
@@ -157,7 +215,7 @@ Les hasards de twitter me font aussi découvrir, cité à côté de Patreon, le 
 
 &lt;p&gt;Où en sont les associations dans leurs usages du numérique ? Quels sont leurs attentes et leurs besoins ? Voici ce que je retiens du rapoprt.&lt;/p&gt;
 
-&lt;h2 id=&quot;quest-ce-qui-est-utilisé-et-en-quelle-proportion-&quot;&gt;Qu’est-ce qui est utilisé et en quelle proportion ?&lt;/h2&gt;
+&lt;h2 id=&quot;quest-ce-qui-est-utilis-et-en-quelle-proportion-&quot;&gt;Qu’est-ce qui est utilisé et en quelle proportion ?&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;73 % des associations interrogées disposent d’un &lt;strong&gt;site internet propre&lt;/strong&gt;.&lt;/li&gt;
@@ -180,7 +238,7 @@ Les hasards de twitter me font aussi découvrir, cité à côté de Patreon, le 
   &lt;p&gt;« C’est le &lt;strong&gt;partage de l’information&lt;/strong&gt; qui apparaît comme effet le plus positif (85 %). Il permettrait le renforcement de la cohésion de l’équipe, de l’efficacité, du suivi et de l’évaluation des actions, comme de son impact positif sur l’implication des adhérents, des bénévoles ou salariés »&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h2 id=&quot;quelle-présence-du-logiciel-libre-&quot;&gt;Quelle présence du logiciel libre ?&lt;/h2&gt;
+&lt;h2 id=&quot;quelle-prsence-du-logiciel-libre-&quot;&gt;Quelle présence du logiciel libre ?&lt;/h2&gt;
 
 &lt;p&gt;On compte &lt;strong&gt;plus d’utilisateurs de logiciels libres&lt;/strong&gt; dans :&lt;/p&gt;
 &lt;ul&gt;
@@ -192,7 +250,7 @@ financière difficile : 46%,&lt;/li&gt;
 et de l’éducation populaire : 44%.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;quels-risques-à-lutilisation-du-numérique-&quot;&gt;Quels risques à l’utilisation du numérique ?&lt;/h2&gt;
+&lt;h2 id=&quot;quels-risques--lutilisation-du-numrique-&quot;&gt;Quels risques à l’utilisation du numérique ?&lt;/h2&gt;
 
 &lt;p&gt;Les risques signalés par les associations :&lt;/p&gt;
 &lt;ul&gt;
@@ -207,7 +265,7 @@ des tensions possibles, voire des conflits.&lt;/li&gt;
   &lt;li&gt;Eloignement par rapport au projet associatif lui-même.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;quels-obstacles-et-comment-les-dépasser-&quot;&gt;Quels obstacles et comment les dépasser ?&lt;/h2&gt;
+&lt;h2 id=&quot;quels-obstacles-et-comment-les-dpasser-&quot;&gt;Quels obstacles et comment les dépasser ?&lt;/h2&gt;
 
 &lt;p&gt;Pour une utilisation optimale du numérique, les structures disent manquer de temps et de disponibilité pour :&lt;/p&gt;
 &lt;ul&gt;
@@ -231,7 +289,7 @@ Besoin aussi d’un savoir-faire technique et de moyens financiers.&lt;/li&gt;
   &lt;li&gt;formation tehcique pour chaque usage ou outil : 27%&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;quest-ce-qui-faciliterait-lusage-du-numérique-&quot;&gt;Qu’est-ce qui faciliterait l’usage du numérique ?&lt;/h2&gt;
+&lt;h2 id=&quot;quest-ce-qui-faciliterait-lusage-du-numrique-&quot;&gt;Qu’est-ce qui faciliterait l’usage du numérique ?&lt;/h2&gt;
 
 &lt;p&gt;Flécher des moyens financiers en priorité sur :&lt;/p&gt;
 &lt;ul&gt;
@@ -499,7 +557,7 @@ Besoin aussi d’un savoir-faire technique et de moyens financiers.&lt;/li&gt;
 
 &lt;p&gt;Exemple du fonctionnement pour la négociation salariale : même travail, même paie. Pas de négociation, pas de distinction.&lt;/p&gt;
 
-&lt;h3 id=&quot;organisation-autour-du-résultat-orange&quot;&gt;Organisation autour du résultat (orange)&lt;/h3&gt;
+&lt;h3 id=&quot;organisation-autour-du-rsultat-orange&quot;&gt;Organisation autour du résultat (orange)&lt;/h3&gt;
 
 &lt;p&gt;Révolutions scientifique et industrielle. On peut être qui on veut, pour peu d’être un peu plus malin, rapide, innovant que les autres.Posibilité d’imaginer d’autres mondes et d’inventer (“Et si.. ?”). La règle de la loi et de la démocracie remplace le système féodal. Organisations vues comme des machines.&lt;/p&gt;
 
@@ -537,7 +595,7 @@ and community activists. Southwest Airlines, Ben &amp;amp; Jerry’s&lt;/p&gt;
 
 &lt;p&gt;Exemple du fonctionnement pour la négociation salariale : bonus d’équipe, et limitation des écarts de salaire&lt;/p&gt;
 
-&lt;h3 id=&quot;organisation-évolutive-evolutionnary-turquoise&quot;&gt;Organisation évolutive (evolutionnary) (turquoise)&lt;/h3&gt;
+&lt;h3 id=&quot;organisation-volutive-evolutionnary-turquoise&quot;&gt;Organisation évolutive (evolutionnary) (turquoise)&lt;/h3&gt;
 
 &lt;p&gt;Pensé par Maslow, Graves, Kegan.
 Pas les GAFA, pas de tables de ping pong et de mobilier design&lt;/p&gt;
@@ -551,7 +609,7 @@ Pas les GAFA, pas de tables de ping pong et de mobilier design&lt;/p&gt;
   &lt;li&gt;&lt;strong&gt;Evolutionary purpose&lt;/strong&gt; : pas de plan tout établi, la structure évolue au fil du temps&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;comment-fonctionnent-les-organisations-évolutives-&quot;&gt;Comment fonctionnent les organisations évolutives ?&lt;/h2&gt;
+&lt;h2 id=&quot;comment-fonctionnent-les-organisations-volutives-&quot;&gt;Comment fonctionnent les organisations évolutives ?&lt;/h2&gt;
 
 &lt;h3 id=&quot;self-management&quot;&gt;Self management&lt;/h3&gt;
 
@@ -565,12 +623,12 @@ Pas les GAFA, pas de tables de ping pong et de mobilier design&lt;/p&gt;
 
 &lt;p&gt;Pour qu’une organisation deviennent évolutive, de nombreuses pratiques de management doivent être revues.&lt;/p&gt;
 
-&lt;h4 id=&quot;structures-dorganisations--petites-unités-autonomes&quot;&gt;Structures d’organisations : petites unités autonomes&lt;/h4&gt;
+&lt;h4 id=&quot;structures-dorganisations--petites-units-autonomes&quot;&gt;Structures d’organisations : petites unités autonomes&lt;/h4&gt;
 
 &lt;p&gt;Petites unités  de 10 -12 personnes max, contact aussi direct que possible avec le client final ou la concurrence ; compréhension des enjeux à chaque échelon…
 Le coach n’a pas d’objectif chiffré mais vient en appui des unités qui en feraient la demande.&lt;/p&gt;
 
-&lt;h4 id=&quot;prise-de-décision--par-prise-davis&quot;&gt;Prise de décision : par prise d’avis&lt;/h4&gt;
+&lt;h4 id=&quot;prise-de-dcision--par-prise-davis&quot;&gt;Prise de décision : par prise d’avis&lt;/h4&gt;
 
 &lt;p&gt;Ni top-down, ni consensus (prend du temps), ni vote.&lt;/p&gt;
 
@@ -586,7 +644,7 @@ can make any decision&lt;/strong&gt;, including spending company money. But firs
 &lt;p&gt;Pour les grosses décisions, impliquant tout le monde, certains (Buurtzorg) écrivent un post de blog pour proposer un changement, et tous les employés peuvent commenter, approuver, corriger… Si pas d’assentiment, le CEO soit fait une proposition corrigée, soit propose de monter un groupe de travail volontaire.
 &lt;em&gt;(oui mais… quid si les commentaires sont partagés ? C’est toujours le boss qui décide en dernière instance ? Et y’at-il toujours des volontaires pour le groupe de travail ? Ou pour commenter assez ?)&lt;/em&gt;&lt;/p&gt;
 
-&lt;h4 id=&quot;compensations-et-incitations-financières&quot;&gt;Compensations et incitations financières&lt;/h4&gt;
+&lt;h4 id=&quot;compensations-et-incitations-financires&quot;&gt;Compensations et incitations financières&lt;/h4&gt;
 
 &lt;p&gt;Cf exemple de Morning Star : chaque année, chacun propose comment il veut être augmenté, après en avoir discuté avec des collègues. Le panel de collègues étudie les demandes et procure un avis. S’il y a dissensus fort entre ce que souhaite l’employé et l’avis du panel, ça déclenche un mécanisme de résolution du conflit.&lt;/p&gt;
 
@@ -594,7 +652,7 @@ can make any decision&lt;/strong&gt;, including spending company money. But firs
 
 &lt;p&gt;Motivation intrinsèque, émulation par les pairs (les performances de chaque équipe sont publiques), et demande du marché (la connaissance du marché, de la concurrence, est un meilleur moteur que la hiérarchie).&lt;/p&gt;
 
-&lt;h4 id=&quot;hiérarchie-naturelle-plutôt-que-par-le-pouvoir&quot;&gt;Hiérarchie “naturelle” plutôt que par le pouvoir&lt;/h4&gt;
+&lt;h4 id=&quot;hirarchie-naturelle-plutt-que-par-le-pouvoir&quot;&gt;Hiérarchie “naturelle” plutôt que par le pouvoir&lt;/h4&gt;
 
 &lt;p&gt;Certains employés sont “naturellement bons” ou intéressés dans certaines compétences (connaissances académiques, écoute, gestion des conflits..) et deviennent des références pour les autres.
 &lt;em&gt;oui mais quand plusieurs personnes sont sur le même champs de compétences ? Comment éviter jalousie, envie, concurrence ? Comment faire en sorte que chacun se sente doué en quelque chose ? Comment s’accorde-t-on sur le fait qu’untel ou untel est doué dans telle chose ?&lt;/em&gt;
@@ -604,7 +662,7 @@ can make any decision&lt;/strong&gt;, including spending company money. But firs
   &lt;p&gt;The goal is not to make everyone &lt;strong&gt;equally&lt;/strong&gt; powerful, but to make everyone &lt;strong&gt;fully&lt;/strong&gt; powerful.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h3 id=&quot;entièreté-wholeness&quot;&gt;Entièreté (Wholeness)&lt;/h3&gt;
+&lt;h3 id=&quot;entiret-wholeness&quot;&gt;Entièreté (Wholeness)&lt;/h3&gt;
 
 &lt;p&gt;Dans la plupart des entreprises, seule la partie “masculine” (volontaire, sûre d’elle, décidée…) est valorisée. Et uniquement le côté rationnel (et non les côtés émotionnel, intuitif, spirituel).&lt;/p&gt;
 
@@ -638,7 +696,7 @@ La transmission de valeurs communes peut aussi passer par le “onboarding”, d
 
 &lt;p&gt;&lt;em&gt;(Cette partie là me semble un poil plus vaseuse.)&lt;/em&gt;&lt;/p&gt;
 
-&lt;h4 id=&quot;réunions&quot;&gt;Réunions&lt;/h4&gt;
+&lt;h4 id=&quot;runions&quot;&gt;Réunions&lt;/h4&gt;
 
 &lt;p&gt;Mise en place de procédures qui permette de laisser de côté les égo et tirer le meilleur parti de réunions.&lt;/p&gt;
 
@@ -673,7 +731,7 @@ La transmission de valeurs communes peut aussi passer par le “onboarding”, d
   &lt;li&gt;Where do you feel called to go?&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;le-but-évolutionnaire-evolutionary-purpose&quot;&gt;Le but évolutionnaire (Evolutionary purpose)&lt;/h2&gt;
+&lt;h2 id=&quot;le-but-volutionnaire-evolutionary-purpose&quot;&gt;Le but évolutionnaire (Evolutionary purpose)&lt;/h2&gt;
 
 &lt;p&gt;Les nouvelles organisations parviennent à domestiquer leur peur et leur ego pour ne plus être dans la recherche de leur propre préservation, ce qui laisse l’espace pour explorer vraiment la question du sens et du but. &lt;em&gt;(ok, je pensais être une irréductible bisounours, mais y’a encore plus ché-per)&lt;/em&gt;.&lt;/p&gt;
 
@@ -780,133 +838,6 @@ La transmission de valeurs communes peut aussi passer par le “onboarding”, d
         <guid isPermaLink="true">http://carnet.clairezuliani.com/sustainable_code/2016/10/20/justice-sociale-silliconn%C3%A9e.html</guid>
         
         <category>faire a plusieurs</category>
-        
-        
-        <category>sustainable_code</category>
-        
-      </item>
-    
-      <item>
-        <title>Moments d'invention 2016 - partage sur l'humanisme numérique à Nancy</title>
-        <description>&lt;p&gt;La métropôle du Grand Nancy organisait les 29 et 30 septembre &lt;strong&gt;Moments d’invention&lt;/strong&gt;,  deux journées de rencontres et de réflexions autour de l’humanisme numérique, destinée à nourrir le projet métropolitain. Rencontre “humanisme” et “numérique”… Une alliance de mots excitante au possible pour moi, une initiative qui se déroule sur mon nouveau territoire, l’occasion de croiser des gens qui, dans la région et ailleurs, se questionnent sur des thèmes similaires à ceux qui me préoccupent actuellement… Forcément, j’y ai été, et tant qu’à faire je partage mes notes.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;h2 id=&quot;et-en-guise-dintroduction&quot;&gt;Et en guise d’introduction…&lt;/h2&gt;
-
-&lt;p&gt;La première matinée était dévolue aux conférences introductives, posant autant de pistes de réflexions pour la suite. Je découvrais à cette occasion la quasi totalité des orateurs et ai pu confronté mes a priori à l’épreuve de la réalité. Bilan :&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;je ne comprends toujours pas grand chose à la philo, même celle, prometteuse, de &lt;a href=&quot;https://fr.wikipedia.org/wiki/Milad_Doueihi&quot;&gt;Milad Doueihi&lt;/a&gt; autour de l’humanisme numérique ;&lt;/li&gt;
-  &lt;li&gt;l’intervention de &lt;a href=&quot;https://fr.wikipedia.org/wiki/Victoire_de_Margerie&quot;&gt;Victoire de Margerie&lt;/a&gt; m’a permis de confirmer que nous ne partagions définitivement pas la même vision du monde ;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://fr.wikipedia.org/wiki/%C3%89mile_Servan-Schreiber&quot;&gt;Emile Servan Schreiber&lt;/a&gt; est un très bon orateur et m’a surprise dans le bon sens, en revenant sur le fait que &lt;em&gt;“l’intelligence collective du groupe dépend de la qualité de la communication, de l’intelligence émotionnel”&lt;/em&gt;, que &lt;em&gt;“les entreprises les plus innovantes sont celles qui impliquent le plus leurs employés dans l’ idéation”&lt;/em&gt;, que pour nourrir l’intelligence collective il faut de la diversité, de la confrontation, de la liberté (liberté de ne pas se confiner dans la norme) ; et en demandant à ce que + de réfugiés viennent en France pour nous rendre + intelligents ;&lt;/li&gt;
-  &lt;li&gt;Dorte Nielsen d’&lt;a href=&quot;http://www.eurocities.eu/&quot;&gt;Eurocities&lt;/a&gt;, rappelle qu’&lt;em&gt;“il faut une coordination entre digital et non digital pour toucher le + de monde”&lt;/em&gt; (j’approuve)&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://p2pfoundation.net/&quot;&gt;Michel Bauwens&lt;/a&gt;, avec ses voeux de société LSD (libre, solidaire et durable) est vraiment un chic gars avec plein de chouettes idées : &lt;a href=&quot;http://www.lilianricaud.com/travail-en-reseau/la-stigmergie-un-nouvelle-modele-de-gouvernance-collaborative/&quot;&gt;stigmergie&lt;/a&gt;, contributions, communs, écosystèmes de production, Etat comme partenaire du monde contributif…&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;parcours-des-savoirs-partagés&quot;&gt;Parcours des savoirs partagés&lt;/h2&gt;
-
-&lt;p&gt;Ensuite vint le temps de la mise en pratique de l’intelligence collective, par tablées de 4 ou 5 individus, accompagnés de facilitateurs. Chaque groupe cogita sur l’un des 4 grands thèmes de la rencontres, votre serviteuse se voyant propulsée sur le parcours &lt;strong&gt;Savoir partagés&lt;/strong&gt; : &lt;strong&gt;“vers un nouvel imaginaire métropolitain ?”&lt;/strong&gt;. Je n’ai donc qu’une vision hyper parcellaire des trois autres parcours proposés : “Croisements fertiles : vers une nouvelle intelligence collective ?”, “Démocratie vivante : vers un nouveau contrat citoyen ?”, “Nouvelles attentions : vers de nouveaux modèles d’initiatives locales ?”.&lt;/p&gt;
-
-&lt;p&gt;Parmi les questions abordées dans mon parcours : quelle place pour les paroles citoyennes diverses dans la démocratie métropolitaine ? De quoi rêvez vous pour intervenir dans les décisions collectives ? Comment utiliser les outils pour qu’ils relient plus qu’ils ne séparent ? Des questions volontairement floues, polysémiques, pour susciter l’échange.&lt;/p&gt;
-
-&lt;p&gt;Dans ce parcours, on a pu discuté, avec le philosophe &lt;strong&gt;Stéphane Vial&lt;/strong&gt;, de Jacob von Vexküll ou d’autruiphanie (capacité à faire apparaitre autrui, comme les 3 points de suspensions sur Whats app suggèrant la présence de notre interlocuteur); avec &lt;strong&gt;Pierre Cros&lt;/strong&gt; du fait que “la smart city est portée par les entreprises” et de “comment la rendre aux citoyens, passer de la ville intelligente à la ville intelligible ?”, de crainte de marketing territorial, de besoins de formation…&lt;/p&gt;
-
-&lt;h2 id=&quot;air-du-temps-et-redondances&quot;&gt;Air du temps et redondances&lt;/h2&gt;
-
-&lt;p&gt;On a pu voir certains thèmes se répandre ou se répondre d’une table à l’autre, et revenir sur la tapis de façon récurrente même entre groupe qui ne se cotoyèrent pas. Est-ce l’influence de facilitateurs mobiles et polonisateurs ? Etat des lieux subjectifs des questionnements et enjeux dans l’air du temps quand on parle numérique, social et politique :&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;comment refonder la &lt;strong&gt;confiance&lt;/strong&gt; (entre individus, entre citoyen et politique…) ?&lt;/li&gt;
-  &lt;li&gt;plus précisément, comment concilier l’&lt;strong&gt;accélération du monde&lt;/strong&gt; (en grande partie due au numérique) et la confiance, qui prend du temps à s’établir ?&lt;/li&gt;
-  &lt;li&gt;la nécessité de faire accepter le &lt;strong&gt;droit à l’expérimentation&lt;/strong&gt;, et &lt;strong&gt;le droit à l’échec&lt;/strong&gt;. Faire sortir les décideurs d’une posture omnipotente et omnisciente, qui est d’ailleurs souvent la posture attendue de la part des électeurs (y’a du boulot des 2 côtés !)&lt;/li&gt;
-  &lt;li&gt;la thématique des &lt;strong&gt;communs&lt;/strong&gt;, et d’Assemblée des Communs continue à être bien portée&lt;/li&gt;
-  &lt;li&gt;laisser de la &lt;strong&gt;place au chaos&lt;/strong&gt;, à des espaces sans destinée pré-établie&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;casser les silos&lt;/strong&gt;, nouvelle formulation ad hoc pour parler de transversalité, j’ai l’impression&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;initiatives-que-je-retiens&quot;&gt;Initiatives que je retiens&lt;/h2&gt;
-
-&lt;p&gt;Florilèges des initiatives, propositions ou rencontres chouettes que je retiens :&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;“vers une amap de la donnée”&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;“centre de visualisation de data urbaine” (à l’exemple de cette petite ville du nord de la France dont j’arrive pas à retenir le nom, qui utilise des capteurs et données pour faciliter la prise de décision par ses propres concitoyens).&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;des élections “tout au long de la vie” : histoire d’échapper à l’hystérisation émotionnelle des quelques mois qui précèdent une élection, pourquoi ne pas voter tous les ans, chacun à sa propre date anniversaire, pour le candidat que l’on souhaite ? A l’issue du mandat, tous les votes de toutes les années sont pris en compte. (Réflexions personnelles : comment dépasser le “vote pour / vote contre” l’équipe en place ? Comment rendre tangibles le programme des oppositions ?)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Pierre Ammeux, directeur de la Maison Folie Beaulieu et en charge du pôle cultures numériques à Lille, qui a pour ambition de faire comprendre à tous les habitants de son territoire qu’ils peuvent agir, s’emparer des enjeux qui traversent leur ville, et notamment par le biais d’un outil numérique qui n’est pas si inaccessible que ça.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;impôts en équivalent temps d’intérêt général : donner du temps et non de l’argent à la cité, pour le bien être social et citoyen (via Armel Lecoz)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;la &lt;a href=&quot;http://miguelcosta.fr/art.html&quot;&gt;collaboration graphique&lt;/a&gt; entre &lt;a href=&quot;http://www.morganfortems.com/&quot;&gt;Morgan Fortems&lt;/a&gt; et  &lt;a href=&quot;http://www.miguelcosta.fr/&quot;&gt;Miguel Costal&lt;/a&gt;, illustrateurs réactifs et inspirés en ping pong (on peut même &lt;a href=&quot;http://www.miguelcosta.fr/projets/2016/art/pingpongping/PingPongPing-MomentsInvention2016.zip&quot;&gt;télécharger le kit de propagande ici !&lt;/a&gt;)&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;entre-méfiance-et-enthousiasme&quot;&gt;Entre méfiance et enthousiasme&lt;/h2&gt;
-
-&lt;p&gt;Immergée dans des lectures et des milieux où ça cause innovations sociales et numérique, j’étais déjà familière de pas mal des propositions qui ont émergé de ces deux jours. Familière, au même titre que tout un pan des participants d’ailleurs, eux aussi biberonnés des mêmes impulsions et des mêmes utopies.&lt;/p&gt;
-
-&lt;p&gt;Et c’est là que j’ai par moment senti le &lt;strong&gt;hiatus entre deux types de rapport au numérique&lt;/strong&gt;. Car à côté de ce premier groupe plutôt optimiste et plein d’envies, il y a ceux qui sont confrontés au quotidien aux difficultés liées au numérique (je pense à ces personnes, bossant dans l’insertion, constatant combien des compétences numériques basiques pouvaient manquer à certains), croisant ceux (parfois ce sont les mêmes) qui voient avant tout dans le numérique une menace (pour la sécurité des données, pour l’inclusion…) plus ou moins fantasmée. Posture défensive, réclamant des mesures réparatrices, de rattrapage, avant toute chose. Un côté un peu déprimant, une impression de retour en arrière, en retrouvant des discours déjà entendu il y a 6 ou 7 ans, quand je bossais dans l’associatif numérique. La situation n’a-t-elle vraiment pas évolué ?&lt;/p&gt;
-
-&lt;p&gt;Et c’est compliqué, sur un temps si court, de réussir à faire se croiser réellement les deux mondes. Compliqué de trouver les idées, les exemples, qui rassurent les plus méfiants et leur donne envie d’aller de l’avant et d’inventer les interactions numériques qu’ils veulent, plutôt que de les subir. Compliqué, de descendre de la chapelle des idées et de prendre le temps de vraiment se confronter aux retours d’expériences du terrain. Alors que le croisement me semblerait des plus intéressants…&lt;/p&gt;
-
-&lt;h2 id=&quot;flexibilité-adaptabilité-et-connaissances-partagées&quot;&gt;Flexibilité, adaptabilité et connaissances partagées&lt;/h2&gt;
-
-&lt;p&gt;A ce que je sais, il n’y avait &lt;strong&gt;pas de résultat attendu pré-défini&lt;/strong&gt; à ces rencontres. Le cadre, la procédure étaient posées, mais les participants étaient libres à l’intérieur de ces cadres. Encore, ces cadres n’étaient pas rigides : des ajustements ont été fait entre le jour 1 et le jour 2, en fonction des retours des participants. Capacité à être flexible et à s’adapter : l’un des très bons points de l’organisation.&lt;/p&gt;
-
-&lt;p&gt;Chaque moment de discussion autour d’une question était précédé d’une intervention de spécialiste (historien, philosophe, acteur de terrain, sociologue…) chargé d’y apporter un éclairage particulier. Ces moments étaient pour moi précieux : source d’apprentissage (j’aime !), ils permettaient aussi que les contributeurs soient nourris d’un minimum de bases communes ou d’exemples partagés pour entamer la discussion.&lt;/p&gt;
-
-&lt;h2 id=&quot;mais-cétaient-quoi-nos-contributions-&quot;&gt;Mais c’étaient quoi, nos contributions ?&lt;/h2&gt;
-
-&lt;p&gt;Etant quelqu’un parfois un peu binaire (j’avoue), la latitude laissée sur le résultat attendu, le manque d’info sur l’horizon de l’expérience, m’ont tout de même perturbé. Il a fallu par exemple que j’attende le 2e jour pour comprendre que les innombrables discussions devaient nourrir le projet politique de la métropole nancéenne pour les prochaines années. On ne sait pas concrètement &lt;strong&gt;comment seront récupérées, analysées, utilisées les contributions&lt;/strong&gt;. 
-Il n’y avait pas non plus, de ce que je sache, de communautés de profils de participant (spécialiste ou non spécialiste, grand nancéen ou d’ailleurs…), même si la thématique et la manière dont était formulé le projet ont sûrement dû amener à un filtrage naturel.&lt;/p&gt;
-
-&lt;p&gt;Du coup, la nature même de nos contributions demeure flou :&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;était-ce une façon de &lt;strong&gt;sonder les préoccupations et attentes des nancéens&lt;/strong&gt; (auquel cas, le panel de contributeurs n’était pas représentatif) ?&lt;/li&gt;
-  &lt;li&gt;était-ce un &lt;strong&gt;temps de travail de spécialistes pour trouver les meilleures solutions&lt;/strong&gt; ?  Il nous était demandé le 2e jour de faire des propositions concrètes : mais de quoi précisément ? Comment faire des propositions concrètes en si peu de temps ? Alors que les contributeurs ne sont pas spécialistes, pas techniciens ? N’ont pas de réelle connaissance ni des spécificité du terrain, ni des types de solutions déjà expérimentées ailleurs qui pourraient être adaptées ici ?&lt;/li&gt;
-  &lt;li&gt;était-ce un &lt;strong&gt;temps de partage d’expériences entre personnes sensibles à ces problématiques&lt;/strong&gt;, et les rencontrant chacun sous un prisme particulier (il y avait dans les profils aussi bien des étudiants, que des personnes de l’insertion, des développeurs que des agents des collectivités, etc) ? Mais chacun venait sans étiquette précise, uniquement avec son prénom-nom. Principe que je trouve d’ailleurs plutôt chouette :  ça permet d’abattre une partie des a prioris lors des discussions, mais ça passe sous silence la question du &lt;em&gt;“d’où parles-tu ?”&lt;/em&gt; qui peut amener à gagner du temps et de la finesse dans les échanges.Et les temps étaient trop courts pour assimiler et réagir correctement aux expériences de chacun.&lt;/li&gt;
-  &lt;li&gt;est-ce simplement moi qui suis trop rigide dans ma façon de penser et incapable de concevoir un entre deux ?&lt;/li&gt;
-  &lt;li&gt;pourquoi est-ce que je m’emmerde avec toutes ces questions alors que je suis juste une développeuse ?&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Au final, pour moi, l’un des principaux mérites de cette étape est une &lt;strong&gt;acculturation commune&lt;/strong&gt; de quelques centaines de personnes, curieuses, un minimum variées et engagées. L’acculturation porte aussi bien sur des façons de faire (démarche participative, d’intelligence collective) que sur des concepts et connaissances mise en commun.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Prochains défis :&lt;/strong&gt; (car ce serait dommage d’en rester là !)&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;comment &lt;strong&gt;intégrer à cette démarche des personnes plus éloignées de ces problématiques&lt;/strong&gt; ? On a souvent parlé de personnes âgées, de personnes souffrant de handicap, de jeunes sans compétences numériques, mais d’un point de vue extérieur et surplombant, vu qu’aucun des principaux concernés ne participait aux discussions.&lt;/li&gt;
-  &lt;li&gt;comment &lt;strong&gt;capitaliser sur cette expérience avec les personnes qui l’ont vécu&lt;/strong&gt; ? Comment pousser plus loin les pistes floues, contradictoires, disparates qui ont émergé, en continuant à s’appuyer sur les volontaires déjà impliquées ?&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Les organisateurs laissaient entendre qu’il y aurait une suite, j’ai envie de dire que “y’a intérêt”.&lt;/p&gt;
-
-&lt;h2 id=&quot;croiser-les-sources&quot;&gt;Croiser les sources&lt;/h2&gt;
-
-&lt;p&gt;Il y a d’autres traces de Moments d’invention sur le net, parfait pur croiser les sources !&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://storify.com/undessinparjour/getting-started#publicize&quot;&gt;le storify de Catherine Créhange&lt;/a&gt;, qui a fait un gros et bon boulot d’illustration temps réel sur les deux jours, et qui en plus a pris le temps de compiler plein de ressources&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.instagram.com/momentsdinvention/&quot;&gt;instagram ! &lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Source : &lt;a href=&quot;http://www.grand-nancy.org/gn/momentsdinvention/&quot;&gt;Moments d’invention 2016&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 10 Oct 2016 00:00:00 +0200</pubDate>
-        <link>http://carnet.clairezuliani.com/sustainable_code/2016/10/10/moments-dinvention-nancy.html</link>
-        <guid isPermaLink="true">http://carnet.clairezuliani.com/sustainable_code/2016/10/10/moments-dinvention-nancy.html</guid>
-        
-        <category>evenement</category>
-        
-        <category>faire a plusieurs</category>
-        
-        <category>politique</category>
         
         
         <category>sustainable_code</category>
