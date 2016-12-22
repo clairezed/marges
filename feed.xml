@@ -3,11 +3,56 @@
   <channel>
     <title>Marges</title>
     <description>Prise de notes des internets de claire zuliani</description>
-    <link>http://carnet.clairezuliani.com/</link>
-    <atom:link href="http://carnet.clairezuliani.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 21 Dec 2016 13:51:11 +0100</pubDate>
-    <lastBuildDate>Wed, 21 Dec 2016 13:51:11 +0100</lastBuildDate>
+    <link>http://marges.clairezuliani.com/</link>
+    <atom:link href="http://marges.clairezuliani.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 22 Dec 2016 13:47:55 +0100</pubDate>
+    <lastBuildDate>Thu, 22 Dec 2016 13:47:55 +0100</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Toi qui veut contribuer aux communs, sache que</title>
+        <description>&lt;p&gt;Je tombe par hasard sur un papier en forme de bilan d’une contributrice aux communs, et ses éléments d’analyse de l’écosystème, des postures et stratégies individuelles observées, sont éclairantes pour quiconque est tenté de contribuer à son tour.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Je ne suis pas une contributrice aux communs, mais je tourne pas mal autour, et de plus en plus intensément. Pour être tout à fait honnête, je crois que le risque est réel que je tombe dedans. C’est pour ça que les retours d’expérience de cette &lt;a href=&quot;http://maiadereva.semeoz.info/&quot;&gt;Maia&lt;/a&gt; que je ne connais pas personnellement me sont précieux (d’autant plus que je reconnais dans ses exemples un certain nombre des mauvaises habitudes / attitudes dans lesquelles j’ai tendance à m’abandonner).&lt;/p&gt;
+
+&lt;p&gt;Il y a des réflexions intéressantes dans l’ensemble du post, mais je retiens surtout une liste de mises en garde sur lesquelles je compte revenir quand je sentirai que ça sent le roussi, inspirée des comportements qu’elle a pu observer dans le milieu des communs :&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;ul&gt;
+    &lt;li&gt;se lancer bille en tête dans un grand projet, embarquer quelques proches dans l’aventure, mettre en place tous les outils, et s’apercevoir tout à coup qu’on a semé tout le monde et que le projet n’a de collaboratif que le nom ;&lt;/li&gt;
+    &lt;li&gt;créer de toutes pièces une ressource sans mesurer l’énergie qui sera nécessaire à maintenir sa pérennité, puis appeler à l’aide de tous côtés en déplorant le manque de motivation des autres ;&lt;/li&gt;
+    &lt;li&gt;critiquer un commun dont on se sert pour améliorer son propre commun sans contribuer à l’amélioration du premier ;&lt;/li&gt;
+    &lt;li&gt;considérer les communs comme une vaste épicerie gratuite à ciel ouvert  sans jamais évoquer les questions de réciprocité ;&lt;/li&gt;
+    &lt;li&gt;espérer qu’une réciprocité se développera naturellement et sans effort car, c’est bien connu, tous les commoners sont des gens intelligents et respectueux qui ne se comportent jamais en passagers clandestins ;&lt;/li&gt;
+    &lt;li&gt;créer un nième outil dans un secteur déjà saturé en pensant sincèrement qu’on est le/la seul.e à pouvoir produire un objet exempt des défauts de tous les précédents ;&lt;/li&gt;
+    &lt;li&gt;critiquer ceux/celles qui créent un nième outil dans un secteur déjà saturé en omettant de considérer que chacun.e a besoin d’expérimenter et d’écrire sa propre histoire (graphique, conceptuelle, communautaire,…) ;&lt;/li&gt;
+    &lt;li&gt;créer une ressource totalement ouverte et libre d’accès en faisant confiance à l’auto-organisation et finir par constater que l’absence de limites claires et de gouvernance crée une confusion conduisant de facto à une centralisation des compétences et des moyens d’actions ;&lt;/li&gt;
+    &lt;li&gt;tenter de structurer tout ce qui bouge en rédigeant des chartes, des règlements, des modèles de gouvernance ou des outils d’évaluation sans concevoir que ce faisant on étouffe toute possibilité de créer du nouveau en écartant la possibilité de la relation de confiance ;&lt;/li&gt;
+    &lt;li&gt;mettre en place une gouvernance horizontale participative en pensant que les « opprimé.e.s » vont désormais pouvoir s’exprimer, et être déçu.e de constater que sur une communauté de 100 personnes, seules 10 contribuent réellement. Ne pas comprendre quelles motivations poussent les 90 individus inactifs à se déclarer quand même membres du collectif ;&lt;/li&gt;
+    &lt;li&gt;concevoir un modèle ou un outil que l’on estime propice à une dissémination virale mondialisée puis passer son temps à donner des leçons en fustigeant tout ceux qui ne suivent pas ce modèle pourtant génial ;&lt;/li&gt;
+    &lt;li&gt;chercher désespérément une légitimation narcissique, parfois projetée sur le nom d’un collectif ou d’un outil, en comptant frénétiquement les « J’aime »  et les « Partages » sur les réseaux sociaux, quitte à se sentir personnellement désavoué lorsque cela ne fonctionne pas ;&lt;/li&gt;
+    &lt;li&gt;penser que les relations sont des rapports de force et que la vie en société est nécessairement une gestion de la conflictualité ; entretenir volontairement des polémiques considérées comme seules sources de fertilité et n’envisager à aucun moment que le développement d’une individuation fondée sur la bienveillance et la confiance puisse être d’un quelconque recours dans cette dialectique ;&lt;/li&gt;
+    &lt;li&gt;s’estimer détenteur d’une objectivité scientifique auto-légitimitée par un microcosme d’appartenance, en niant que toute production conceptuelle puisse être le fruit de la structure psychologique subjective de son auteur.e ;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Source : &lt;a href=&quot;http://maiadereva.semeoz.info/cest-quoi-plan/&quot;&gt;C’est quoi ton plan ?&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 22 Dec 2016 00:00:00 +0100</pubDate>
+        <link>http://marges.clairezuliani.com/good_job/2016/12/22/toi-qui-veut-contribuer-aux-communs-sache-que.html</link>
+        <guid isPermaLink="true">http://marges.clairezuliani.com/good_job/2016/12/22/toi-qui-veut-contribuer-aux-communs-sache-que.html</guid>
+        
+        <category>communs</category>
+        
+        <category>faire a plusieurs</category>
+        
+        
+        <category>good_job</category>
+        
+      </item>
     
       <item>
         <title>Des plateformes contributrices au bien commun</title>
@@ -57,8 +102,8 @@
 
 </description>
         <pubDate>Wed, 21 Dec 2016 00:00:00 +0100</pubDate>
-        <link>http://carnet.clairezuliani.com/binary_transition/2016/12/21/des-plateformes-contributrices-au-bien-commun.html</link>
-        <guid isPermaLink="true">http://carnet.clairezuliani.com/binary_transition/2016/12/21/des-plateformes-contributrices-au-bien-commun.html</guid>
+        <link>http://marges.clairezuliani.com/binary_transition/2016/12/21/des-plateformes-contributrices-au-bien-commun.html</link>
+        <guid isPermaLink="true">http://marges.clairezuliani.com/binary_transition/2016/12/21/des-plateformes-contributrices-au-bien-commun.html</guid>
         
         <category>civic tech</category>
         
@@ -165,8 +210,8 @@
 
 </description>
         <pubDate>Tue, 06 Dec 2016 00:00:00 +0100</pubDate>
-        <link>http://carnet.clairezuliani.com/sustainable_code/2016/12/06/a-la-poursuite-des-commons-tech.html</link>
-        <guid isPermaLink="true">http://carnet.clairezuliani.com/sustainable_code/2016/12/06/a-la-poursuite-des-commons-tech.html</guid>
+        <link>http://marges.clairezuliani.com/sustainable_code/2016/12/06/a-la-poursuite-des-commons-tech.html</link>
+        <guid isPermaLink="true">http://marges.clairezuliani.com/sustainable_code/2016/12/06/a-la-poursuite-des-commons-tech.html</guid>
         
         <category>civic tech</category>
         
@@ -197,8 +242,8 @@
 Les hasards de twitter me font aussi découvrir, cité à côté de Patreon, le projet &lt;a href=&quot;opencollective.com&quot;&gt;Open Collective&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 03 Dec 2016 00:00:00 +0100</pubDate>
-        <link>http://carnet.clairezuliani.com/good_job/2016/12/03/nouvelles-formes-mecenat-pour-projets-de-developpement.html</link>
-        <guid isPermaLink="true">http://carnet.clairezuliani.com/good_job/2016/12/03/nouvelles-formes-mecenat-pour-projets-de-developpement.html</guid>
+        <link>http://marges.clairezuliani.com/good_job/2016/12/03/nouvelles-formes-mecenat-pour-projets-de-developpement.html</link>
+        <guid isPermaLink="true">http://marges.clairezuliani.com/good_job/2016/12/03/nouvelles-formes-mecenat-pour-projets-de-developpement.html</guid>
         
         <category>civic tech</category>
         
@@ -316,8 +361,8 @@ Besoin aussi d’un savoir-faire technique et de moyens financiers.&lt;/li&gt;
 
 </description>
         <pubDate>Fri, 02 Dec 2016 00:00:00 +0100</pubDate>
-        <link>http://carnet.clairezuliani.com/sustainable_code/2016/12/02/etude-usages-numeriques-associations.html</link>
-        <guid isPermaLink="true">http://carnet.clairezuliani.com/sustainable_code/2016/12/02/etude-usages-numeriques-associations.html</guid>
+        <link>http://marges.clairezuliani.com/sustainable_code/2016/12/02/etude-usages-numeriques-associations.html</link>
+        <guid isPermaLink="true">http://marges.clairezuliani.com/sustainable_code/2016/12/02/etude-usages-numeriques-associations.html</guid>
         
         <category>civic tech</category>
         
@@ -365,8 +410,8 @@ Besoin aussi d’un savoir-faire technique et de moyens financiers.&lt;/li&gt;
 
 </description>
         <pubDate>Thu, 01 Dec 2016 00:00:00 +0100</pubDate>
-        <link>http://carnet.clairezuliani.com/binary_transition/2016/12/01/miami-civic-user-testing-group.html</link>
-        <guid isPermaLink="true">http://carnet.clairezuliani.com/binary_transition/2016/12/01/miami-civic-user-testing-group.html</guid>
+        <link>http://marges.clairezuliani.com/binary_transition/2016/12/01/miami-civic-user-testing-group.html</link>
+        <guid isPermaLink="true">http://marges.clairezuliani.com/binary_transition/2016/12/01/miami-civic-user-testing-group.html</guid>
         
         <category>civic tech</category>
         
@@ -409,8 +454,8 @@ Besoin aussi d’un savoir-faire technique et de moyens financiers.&lt;/li&gt;
 
 </description>
         <pubDate>Wed, 30 Nov 2016 00:00:00 +0100</pubDate>
-        <link>http://carnet.clairezuliani.com/sustainable_code/2016/11/30/desintox-habitudes-numeriques.html</link>
-        <guid isPermaLink="true">http://carnet.clairezuliani.com/sustainable_code/2016/11/30/desintox-habitudes-numeriques.html</guid>
+        <link>http://marges.clairezuliani.com/sustainable_code/2016/11/30/desintox-habitudes-numeriques.html</link>
+        <guid isPermaLink="true">http://marges.clairezuliani.com/sustainable_code/2016/11/30/desintox-habitudes-numeriques.html</guid>
         
         <category>civic tech</category>
         
@@ -465,8 +510,8 @@ Besoin aussi d’un savoir-faire technique et de moyens financiers.&lt;/li&gt;
 
 </description>
         <pubDate>Fri, 25 Nov 2016 00:00:00 +0100</pubDate>
-        <link>http://carnet.clairezuliani.com/good_job/2016/11/25/les-nouvelles-formes-organisation-%C3%A0-la-lumiere-des-communs.html</link>
-        <guid isPermaLink="true">http://carnet.clairezuliani.com/good_job/2016/11/25/les-nouvelles-formes-organisation-%C3%A0-la-lumiere-des-communs.html</guid>
+        <link>http://marges.clairezuliani.com/good_job/2016/11/25/les-nouvelles-formes-organisation-%C3%A0-la-lumiere-des-communs.html</link>
+        <guid isPermaLink="true">http://marges.clairezuliani.com/good_job/2016/11/25/les-nouvelles-formes-organisation-%C3%A0-la-lumiere-des-communs.html</guid>
         
         <category>communs</category>
         
@@ -740,8 +785,8 @@ La transmission de valeurs communes peut aussi passer par le “onboarding”, d
 &lt;p&gt;&lt;em&gt;(oui mais qui décide que telle ou telle décision est une réussite ou un échec ? Sur quels critères ? Et comment sont fixés ces critères ? )&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 11 Nov 2016 00:00:00 +0100</pubDate>
-        <link>http://carnet.clairezuliani.com/good_job/2016/11/11/reinventing-organizations-summary.html</link>
-        <guid isPermaLink="true">http://carnet.clairezuliani.com/good_job/2016/11/11/reinventing-organizations-summary.html</guid>
+        <link>http://marges.clairezuliani.com/good_job/2016/11/11/reinventing-organizations-summary.html</link>
+        <guid isPermaLink="true">http://marges.clairezuliani.com/good_job/2016/11/11/reinventing-organizations-summary.html</guid>
         
         <category>faire a plusieurs</category>
         
@@ -798,8 +843,8 @@ La transmission de valeurs communes peut aussi passer par le “onboarding”, d
 
 </description>
         <pubDate>Sun, 30 Oct 2016 00:00:00 +0200</pubDate>
-        <link>http://carnet.clairezuliani.com/good_job/2016/10/30/les-independants-s-organisent.html</link>
-        <guid isPermaLink="true">http://carnet.clairezuliani.com/good_job/2016/10/30/les-independants-s-organisent.html</guid>
+        <link>http://marges.clairezuliani.com/good_job/2016/10/30/les-independants-s-organisent.html</link>
+        <guid isPermaLink="true">http://marges.clairezuliani.com/good_job/2016/10/30/les-independants-s-organisent.html</guid>
         
         <category>engagement</category>
         
@@ -807,40 +852,6 @@ La transmission de valeurs communes peut aussi passer par le “onboarding”, d
         
         
         <category>good_job</category>
-        
-      </item>
-    
-      <item>
-        <title>Justice sociale silliconnée</title>
-        <description>&lt;p&gt;Quelle place pour la justice sociale dans la Silicon Valley et son empire ? D’excellentes références, un état des lieux un peu flippant, un gros travail à fournir.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;Ca parle aussi “économie du like”, “destruction destructive”, d’“abandonner le parallèle artificiel entre croissance et progrès”, de “capitalisme inclusif”… L’article me fait aussi découvrir les écrits du philosophe socialiste et anarchiste &lt;strong&gt;Murray Bookchin&lt;/strong&gt;, notamment &lt;em&gt;« Vers une technologie libératrice »&lt;/em&gt;, publié en 1965.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Participant aux débats de cette époque sur l’émergence de la cybernétique, il insistait sur le fait que le numérique n’est pas qu’une question d’optimisation, de marché de masse et d’effet de réseau. Il a également un &lt;strong&gt;impact puissant sur les pratiques quotidiennes des individus, sur l’artisanat, sur la solidarité et les libertés individuelles&lt;/strong&gt;. Anticipant l’émergence du mouvement des makers, du « libre » et du « partage » aujourd’hui dévoyés, il soulignait l’importance du contexte social et politique dans lequel s’inscrirait l’évolution technologique.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Pour l’auteur de l’article, aujourd’hui, le numérique est &lt;em&gt;plus réactionnaire que révolutionnaire&lt;/em&gt;.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Il n’a pas d’impact sur l’infrastructure de la société. Il n’améliore ni la démocratie, ni le lien social, ni l’estime de soi. Comme depuis les débuts de la révolution industrielle, les travailleurs sont menacés par l’automatisation, les entreprises restent les principaux intervenants du monde économique, et tous expliquent que c’est aux individus de s’adapter aux évolutions technologiques s’ils veulent espérer conserver leur place dans la société. Malgré les effets d’annonce, peu de réalisations du numérique traduisent une vision aussi ambitieuse que celles qui ont conduit à l’instauration de grandes innovations sociales comme la monnaie, la Sécurité sociale, le suffrage universel, ou l’État de droit !”&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Et d’appeler en conclusion à ce que les investisseurs apprennent à &lt;em&gt;“financer des projets sans en retirer de bénéfice autre que celui de l’existence même de ces projets”&lt;/em&gt;; et à préconiser la mise en place de systèmes favorisant &lt;em&gt;“les entreprises qui produisent du flux plutôt que de la croissance (comme Wikipedia), des entreprises locales et des modes de gouvernance partagée”&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;Source : &lt;a href=&quot;http://www.soufron.com/quelle-place-pour-la-justice-sociale-dans-la-silicon-valley-et-son-empire/&quot;&gt;Quelle place pour la justice sociale dans la Silicon Valley et son empire ?&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 20 Oct 2016 00:00:00 +0200</pubDate>
-        <link>http://carnet.clairezuliani.com/sustainable_code/2016/10/20/justice-sociale-silliconn%C3%A9e.html</link>
-        <guid isPermaLink="true">http://carnet.clairezuliani.com/sustainable_code/2016/10/20/justice-sociale-silliconn%C3%A9e.html</guid>
-        
-        <category>faire a plusieurs</category>
-        
-        
-        <category>sustainable_code</category>
         
       </item>
     
