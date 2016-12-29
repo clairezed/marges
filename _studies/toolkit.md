@@ -149,6 +149,7 @@ Comment bien commencer un projet ? Quelques outils déjà utilisés ou à tester
 - mailinator
 Zaclys : comme openmailbox mais mieux
 - [protonmail](https://protonmail.com/)
+- [Gérer soi-même son mail](http://mathieu.agopian.info/blog/quitter-gmail.html)
 
 ### Gestion de docs
 
@@ -156,6 +157,17 @@ Zaclys : comme openmailbox mais mieux
 - owncloud
 - nextcloud (fork de owncloud)
 - [pyd.io](https://pydio.com/)
+
+### Sauvegarde / Partage de docs
+
+- [Tresorit](https://tresorit.com/) : moins de 1 To
+- [Arq](https://www.arqbackup.com/) : gros stockage crypté en cloud, 50$
+- [Wallabag](https://www.wallabag.org/) (comme pocket)
+
+### Messagerie
+
+- [Signal](https://whispersystems.org/)
+- [Ricochet](https://ricochet.im/)
 
 ### Gif (dans un but pro, bien sûr)
 
