@@ -5,9 +5,69 @@
     <description>Prise de notes des internets de claire zuliani</description>
     <link>http://marges.clairezuliani.com/</link>
     <atom:link href="http://marges.clairezuliani.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 22 Dec 2016 13:47:55 +0100</pubDate>
-    <lastBuildDate>Thu, 22 Dec 2016 13:47:55 +0100</lastBuildDate>
+    <pubDate>Mon, 02 Jan 2017 22:07:04 +0100</pubDate>
+    <lastBuildDate>Mon, 02 Jan 2017 22:07:04 +0100</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Nowwwel reader's digest</title>
+        <description>&lt;p&gt;Je prends enfin le temps de faire un petit tour sur les différents écrits réalisés pour &lt;a href=&quot;https://twitter.com/search?q=%23nowwwel&quot;&gt;#nowwwel&lt;/a&gt; (&lt;a href=&quot;https://www.hteumeuleu.fr/en-decembre-ecrivez-partagez-hashtag-nowwwel/&quot;&gt;très chouette proposition à l’initiative de Hteumeuleu&lt;/a&gt;) et de relever quelques articles qui me parlent.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;h2 id=&quot;un-peu-de-technique&quot;&gt;Un peu de technique&lt;/h2&gt;
+
+&lt;h3 id=&quot;services-tiers&quot;&gt;Services tiers&lt;/h3&gt;
+
+&lt;p&gt;Lorsqu’on développe des sites statiques, on peut vite recourir à des services tiers pour l’ajout de fonctionnalités dynamiques. En apprenant que Disqus, service de gestion de commentaires, &lt;a href=&quot;https://www.smashingmagazine.com/2016/12/web-development-reading-list-163/#privacy&quot;&gt;revoyait son fonctionnement d’une manière peu avenante&lt;/a&gt;, je me suis dit que ça valait le coup d’être vraiment attentive aux services utilisés et à la manière de les utiliser.&lt;/p&gt;
+
+&lt;p&gt;Jean-Pierre Vincent (&lt;a href=&quot;https://twitter.com/theystolemynick&quot;&gt;@theystolemynick&lt;/a&gt;) en remet une couche sous l’angle de la performance, avec deux articles qui comprennent bon nombre d’enseignements et de recommendations : &lt;a href=&quot;http://braincracking.org/2016/12/21/combien-coute-un-service-tiers-gratuit/&quot;&gt;Combien coûte un service tiers gratuit ?&lt;/a&gt; et  &lt;a href=&quot;http://braincracking.org/2016/12/21/les-manques-a-gagner-de-la-publicite-pour-les-editeurs/&quot;&gt;Les manques à gagner de la publicité pour les éditeurs&lt;/a&gt; (quitte à être tenu de mettre des pubs, autant le faire du mieux possible, et avoir sous la main des arguments pour en mettre le moins possible)&lt;/p&gt;
+
+&lt;h3 id=&quot;progressive-web-apps&quot;&gt;Progressive web apps&lt;/h3&gt;
+
+&lt;p&gt;Stéphanie Walter revient sur &lt;a href=&quot;https://blog.stephaniewalter.fr/super-pouvoirs-navigateurs-mobiles/&quot;&gt;Les super pouvoirs des navigateurs mobiles&lt;/a&gt; : utilisation des fonctionnalités audio, vidéo, photo des navigateurs mobiles, transformer son site en PWA… La littérature sur le sujet est déjà assez abondante, mais les articles en français pas si fréquents.&lt;/p&gt;
+
+&lt;h3 id=&quot;guideline&quot;&gt;Guideline&lt;/h3&gt;
+
+&lt;p&gt;Quand une agence renommée partage les arcanes de son organisation, il y a généralement toujours de quoi apprendre. Alsacréation partage ses &lt;a href=&quot;https://github.com/alsacreations/guidelines&quot;&gt;guidelines&lt;/a&gt; sur différents thèmes : accessibilité, css, développement, html, js, workflow.&lt;/p&gt;
+
+&lt;h3 id=&quot;libert-vie-prive-scurit&quot;&gt;Liberté, vie privée, sécurité&lt;/h3&gt;
+
+&lt;p&gt;Quelques conseils simples pour améliorer la sécurité de sa navigation, sa communication numérique, son partage ou sa sauvegarde de fichiers ou ses mots de passe. C’est sur le &lt;a href=&quot;https://larlet.fr/david/blog/2016/militantisme-festif/&quot;&gt;blog de David Larlet&lt;/a&gt;, membre de Scopyleft, et ça me permet d’alimenter ma &lt;a href=&quot;/toolkits&quot;&gt;boite à outils&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;concevoir-pour-durer&quot;&gt;Concevoir pour durer&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://borisschapira.com&quot;&gt;Boris Schapira&lt;/a&gt; nous questionne sur la capacité à survivre dans la durée des sites que nous produisons. A l’invitation de son article sur &lt;a href=&quot;https://borisschapira.com/2016/12/le-web-au-futur/&quot;&gt;le web du futur&lt;/a&gt;, et si on était + attentif à :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;construire un design modulable plutôt que clinquant,&lt;/li&gt;
+  &lt;li&gt;penser un design fluide plutôt qu’inventer les breakpoints de supports qui n’existent pas encore,&lt;/li&gt;
+  &lt;li&gt;vérifier la durabilité de ses dépendances et les rendre lisibles&lt;/li&gt;
+  &lt;li&gt;écrire du code lisible et compréhensible par les générations futures (et favoriser le &lt;a href=&quot;https://fr.wikipedia.org/wiki/Principe_KISS&quot;&gt;KISS&lt;/a&gt; plutôt que le &lt;a href=&quot;https://fr.wikipedia.org/wiki/Ne_vous_r%C3%A9p%C3%A9tez_pas&quot;&gt;DRY&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;ne se lancer sur de nouvelles technologies qu’en cadrant précisément le projet et en prenant un maximum de précautions&lt;/li&gt;
+  &lt;li&gt;anticiper la vie du site après son déploiement&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;un-peu-de-priphrique--la-technique&quot;&gt;Un peu de périphérique à la technique&lt;/h2&gt;
+
+&lt;h3 id=&quot;facturation&quot;&gt;Facturation&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.creativejuiz.fr/blog/retours-experience/facturer-a-la-tete-du-client&quot;&gt;Geoffrey Crofte&lt;/a&gt; propose de facturer à la tête du client, en appliquant des bonus / malus à un tarif de base en fonction de critères plus ou moins subjectifs : pénibilité (est-ce que j’aime faire ça ? est-ce que le client est “facile” ?), finalité (importance du projet pour le client, nombre de destinataires…), disponibilité (du client, que je suis tenue d’avoir, etc)&lt;/p&gt;
+
+&lt;h3 id=&quot;inclusion&quot;&gt;Inclusion&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/goulvench&quot;&gt;Goulven&lt;/a&gt; nous parle diversité et inclusion dans le milieu informatique, avec  &lt;a href=&quot;http://userland.fr/linformatique-nest-pas-un-monde-dhomme/&quot;&gt;l’informatique n’est pas un monde d’homme&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Source : &lt;a href=&quot;http://maiadereva.semeoz.info/cest-quoi-plan/&quot;&gt;C’est quoi ton plan ?&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 31 Dec 2016 00:00:00 +0100</pubDate>
+        <link>http://marges.clairezuliani.com/sustainable_code/2016/12/31/nowwwel-readers-digest.html</link>
+        <guid isPermaLink="true">http://marges.clairezuliani.com/sustainable_code/2016/12/31/nowwwel-readers-digest.html</guid>
+        
+        
+        <category>sustainable_code</category>
+        
+      </item>
     
       <item>
         <title>Toi qui veut contribuer aux communs, sache que</title>
@@ -563,9 +623,20 @@ Besoin aussi d’un savoir-faire technique et de moyens financiers.&lt;/li&gt;
           &lt;li&gt;&lt;a href=&quot;#evaluation-des-performances&quot;&gt;Evaluation des performances&lt;/a&gt;&lt;/li&gt;
         &lt;/ul&gt;
       &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#le-but-volutionnaire-evolutionary-purpose&quot;&gt;Le but évolutionnaire (Evolutionary purpose)&lt;/a&gt;
+        &lt;ul&gt;
+          &lt;li&gt;&lt;a href=&quot;#stratgie&quot;&gt;Stratégie&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#budget&quot;&gt;Budget&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#conduite-du-changement&quot;&gt;Conduite du changement&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#evolutionary-purpose&quot;&gt;Evolutionary purpose&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#comment-arrive-t-on-une-organisation-volutionaire-&quot;&gt;Comment arrive-t-on à une organisation évolutionaire ?&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#les-conditions-ncessaires&quot;&gt;Les conditions nécessaires&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;!-- /TOC --&gt;
@@ -776,11 +847,45 @@ La transmission de valeurs communes peut aussi passer par le “onboarding”, d
   &lt;li&gt;Where do you feel called to go?&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;le-but-volutionnaire-evolutionary-purpose&quot;&gt;Le but évolutionnaire (Evolutionary purpose)&lt;/h2&gt;
+&lt;h3 id=&quot;le-but-volutionnaire-evolutionary-purpose&quot;&gt;Le but évolutionnaire (Evolutionary purpose)&lt;/h3&gt;
 
-&lt;p&gt;Les nouvelles organisations parviennent à domestiquer leur peur et leur ego pour ne plus être dans la recherche de leur propre préservation, ce qui laisse l’espace pour explorer vraiment la question du sens et du but. &lt;em&gt;(ok, je pensais être une irréductible bisounours, mais y’a encore plus ché-per)&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Poursuivre un noble but fait disparaitre la compétition&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Les dirigeants des organisations évolutives ne sont plus dans la maxime “Prédire et contrôler”, “Stratégie et Exécution”, mais plutôt dans “Sentir et répondre”.&lt;/p&gt;
+&lt;p&gt;Les nouvelles organisations parviennent à domestiquer les peurs et les ego de leurs membres, ce qui leur permet de ne plus être dans la recherche de leur propre préservation, et laisse l’espace pour explorer vraiment la question du sens et du but. &lt;em&gt;(ok, je pensais être une irréductible bisounours, mais y’a encore plus ché-per)&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;En se concentrant sur le noble but de l’entreprise (faire en sorte que les patients reçoivent les meilleurs soins possibles, qu’ils soient prodigués par notre entreprise ou une autre, par exemple), la notion de compétition ou de concurrence disparait. Voir l’exemple du fondateur de Buurtzorg qui prodigue gratuitement des conseils à ses concurrents.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Une organisation evolutive s’adapte aux changements (internes et externes)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Aux maximes “Prédire et contrôler” ou “Stratégie et Exécution”, les dirigeants des organisations évolutives préfèrent “Sentir et répondre”.&lt;/p&gt;
+
+&lt;h4 id=&quot;stratgie&quot;&gt;Stratégie&lt;/h4&gt;
+
+&lt;p&gt;Les organisations évolutives prônent le “self-management”, qui permet à chacun d’être un “capteur”, de sentir les besoins ou opportunités, et d’initier des changements.&lt;/p&gt;
+
+&lt;p&gt;Cf Buurtzorg : 2 soignantes ont testé de faire un peu de prévention, et souhaitaient que ça se généralise à l’entreprise. Le dirigeant n’a pas évalué le pour et le contre, puis lancé une cellule pilote avant de généraliser peu à peu, région après région, non. A la place, il a suggéreé aux soignantes de décrire leur expérience, en donnant le maximum de d’éléments pour qu’elle soit reproductible, et de la partager aux autres équipes. N’importe quelle équipe que ça branchait avait alors la latitude pour commencer à faire à son tour de la prévention.&lt;/p&gt;
+
+&lt;p&gt;Le but n’est pas que chacun ait le même pouvoir, mais que chacun ait du pouvoir.&lt;/p&gt;
+
+&lt;p&gt;Des méthodes permettent de sentir collectivement où l’organisation veut aller : technique de la chaise vide (représentant l’organisation pendant les réunions), Theory U (par Otto Scharmer), Appreciative Inquiry, Open Space, Future Search, and World Café.&lt;/p&gt;
+
+&lt;h4 id=&quot;budget&quot;&gt;Budget&lt;/h4&gt;
+
+&lt;p&gt;Pas de budget ni d’objectifs chiffrés.&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;our goal is to be profitable not knowing how, instead of losing money knowing exactly why. (FAVI)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4 id=&quot;conduite-du-changement&quot;&gt;Conduite du changement&lt;/h4&gt;
+
+&lt;p&gt;Le changement se fait naturellement en interne, donc il n’y a pas à accompagner le changement&lt;/p&gt;
+
+&lt;h2 id=&quot;comment-arrive-t-on--une-organisation-volutionaire-&quot;&gt;Comment arrive-t-on à une organisation évolutionaire ?&lt;/h2&gt;
+
+&lt;h3 id=&quot;les-conditions-ncessaires&quot;&gt;Les conditions nécessaires&lt;/h3&gt;
+
+&lt;p&gt;1/ Le chef / fondateur / CEO doit voir le monde à travers la lentille évolutionnaire.
+2/ Les propriétaires de l’organisation aussi (pour que le leader ait les mains libres)&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;(oui mais qui décide que telle ou telle décision est une réussite ou un échec ? Sur quels critères ? Et comment sont fixés ces critères ? )&lt;/em&gt;&lt;/p&gt;
 </description>
@@ -789,66 +894,6 @@ La transmission de valeurs communes peut aussi passer par le “onboarding”, d
         <guid isPermaLink="true">http://marges.clairezuliani.com/good_job/2016/11/11/reinventing-organizations-summary.html</guid>
         
         <category>faire a plusieurs</category>
-        
-        
-        <category>good_job</category>
-        
-      </item>
-    
-      <item>
-        <title>Code hors norme (du travail)</title>
-        <description>&lt;p&gt;Coopération d’indépendants plutôt que concurrence ? Vive le retour de hype des formes de structuration des travailleurs !&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;&lt;a href=&quot;www.shaerable.net&quot;&gt;Shareable&lt;/a&gt; n’est jamais le dernier à saluer le (re-)déploiement de mécanismes favorisant la collaboration sur la concurrence. Cet état des lieux, des regroupements de cyclistes Take eat easy cherchant à faire valoir leurs droits au collectif d’entrepreneurs décentralisés d’Enspiral, permet de dégage des lignes de force à ces structurations :&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Whether &lt;strong&gt;fighting for living wages and basic rights&lt;/strong&gt;, or &lt;strong&gt;collaborating on projects with fellow freelancers&lt;/strong&gt;, these initiatives share the larger aim of &lt;strong&gt;creating meaning, dignity, and power in their work together&lt;/strong&gt;.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;There’s a substantive difference between freelancers organizing to get more work, and independent workers protecting themselves against abuse on the job&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;J’extrapole un peu sur ces distinctions. Ici, l’organisation collective sert à l’un ou l’autre but : faire émerger de nouvelles formes de travail (ou de contribution) plus justes, ou bien créer et mener des projets ensemble. En y réfléchissant, ce sont les deux à la fois que je souhaite mettre en oeuvre. Etre attentive à une certaine éthique aussi bien dans le fond (physionomie et objectifs des projets dans lesquels je m’engage) que dans la forme (m’intégrer dans des logiques de travail solidaires, inclusives et équitables).&lt;/p&gt;
-
-&lt;p&gt;Retour sur des changements de paradigmes :&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;There is a long-term shift of power from workers to employers since the 1970s.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Today’s freelancer collectives are driven not just by fancy technology and well-remunerated innovation — they’re sometimes driven by a passion for social change at community and societal levels.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;L’exemple de la &lt;a href=&quot;http://cooperativa.cat/en/&quot;&gt;Cooperativa Integral Catalana&lt;/a&gt; est assez édifiante. L’organisation propose :&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;des espaces de réunion communs (&lt;em&gt;“common meeting places”&lt;/em&gt;)&lt;/li&gt;
-  &lt;li&gt;des échanges structurés sur les alternatives économiques (&lt;em&gt;“community dialogues on economic alternatives”&lt;/em&gt;)&lt;/li&gt;
-  &lt;li&gt;des bénéfices sur les impôts sur le revenu (&lt;em&gt;” income tax benefits”&lt;/em&gt;)&lt;/li&gt;
-  &lt;li&gt;des celliers (pantries) collectives ou la nourriture locale est partagée (&lt;em&gt;“community pantries where people share local food.”&lt;/em&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Et de pointer l’un des risques du recours aux fonds d’investissement :&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“The main limit is people themselves: the moment startups are financed by VC’s (NdT : venture capital, fonds d’investissement), they are protecting their assets — ‘it is my database, my network, my clients’ — and they lose their ability to share,” he says.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;L’article ne s’attache pas uniquement aux coopératives de freelances dans le domaine du numérique, mais aussi dans d’autres secteurs d’activités (notamment le milieu des services, avec l’exemple d’une compagnie d’esthéticien-es trans latinos). Et ce qui se passe dans d’autres secteurs est au moins tout autant source d’inspiration.&lt;/p&gt;
-
-&lt;p&gt;Source : &lt;a href=&quot;http://www.shareable.net/blog/how-freelancers-are-reinventing-work-through-new-collective-enterprises&quot;&gt;How freelancers are reinventing work through new collective enterprises&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Sun, 30 Oct 2016 00:00:00 +0200</pubDate>
-        <link>http://marges.clairezuliani.com/good_job/2016/10/30/les-independants-s-organisent.html</link>
-        <guid isPermaLink="true">http://marges.clairezuliani.com/good_job/2016/10/30/les-independants-s-organisent.html</guid>
-        
-        <category>engagement</category>
-        
-        <category>cooperative</category>
         
         
         <category>good_job</category>

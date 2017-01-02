@@ -179,11 +179,16 @@ Process
 
 - Priority high
   - affichage firefox
-  - nommage automatique des fichiers/url en fonction du titre
-  - tags dans l'ordre alphabetique
   - pagination
+  - tags dans l'ordre alphabetique
+  - nommage automatique des fichiers/url en fonction du titre
+  - Dates en français
+  - search (algolia ?)
 
 - priority medium
+  - amélioration design :
+    - interprétation markdown
+    - design global
   - use jade !
   - ease of post (post title, post date)
   - mixer les categories et tags des depeches et dossiers
