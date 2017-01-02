@@ -36,7 +36,12 @@ Jusqu'à ce que je découvre il y a peu que son auteur rendait son ouvrage acces
 		- [Réunions](#runions)
 		- [Engagement et horaires](#engagement-et-horaires)
 		- [Evaluation des performances](#evaluation-des-performances)
-- [Evolutionary purpose](#evolutionary-purpose)
+	- [Le but évolutionnaire (Evolutionary purpose)](#le-but-volutionnaire-evolutionary-purpose)
+		- [Stratégie](#stratgie)
+		- [Budget](#budget)
+		- [Conduite du changement](#conduite-du-changement)
+- [Comment arrive-t-on à une organisation évolutionaire ?](#comment-arrive-t-on-une-organisation-volutionaire-)
+	- [Les conditions nécessaires](#les-conditions-ncessaires)
 
 <!-- /TOC -->
 
@@ -223,10 +228,43 @@ Puis entretien avec un responsable ou un pair de confiance :
 - What do you want to pay attention to in the future?
 - Where do you feel called to go?
 
-## Le but évolutionnaire (Evolutionary purpose)
+### Le but évolutionnaire (Evolutionary purpose)
 
-Les nouvelles organisations parviennent à domestiquer leur peur et leur ego pour ne plus être dans la recherche de leur propre préservation, ce qui laisse l'espace pour explorer vraiment la question du sens et du but. *(ok, je pensais être une irréductible bisounours, mais y'a encore plus ché-per)*.
+**Poursuivre un noble but fait disparaitre la compétition**
 
-Les dirigeants des organisations évolutives ne sont plus dans la maxime "Prédire et contrôler", "Stratégie et Exécution", mais plutôt dans "Sentir et répondre".
+Les nouvelles organisations parviennent à domestiquer les peurs et les ego de leurs membres, ce qui leur permet de ne plus être dans la recherche de leur propre préservation, et laisse l'espace pour explorer vraiment la question du sens et du but. *(ok, je pensais être une irréductible bisounours, mais y'a encore plus ché-per)*.
+
+En se concentrant sur le noble but de l'entreprise (faire en sorte que les patients reçoivent les meilleurs soins possibles, qu'ils soient prodigués par notre entreprise ou une autre, par exemple), la notion de compétition ou de concurrence disparait. Voir l'exemple du fondateur de Buurtzorg qui prodigue gratuitement des conseils à ses concurrents.
+
+**Une organisation evolutive s'adapte aux changements (internes et externes)**
+
+Aux maximes "Prédire et contrôler" ou "Stratégie et Exécution", les dirigeants des organisations évolutives préfèrent "Sentir et répondre".
+
+#### Stratégie
+
+Les organisations évolutives prônent le "self-management", qui permet à chacun d'être un "capteur", de sentir les besoins ou opportunités, et d'initier des changements.
+
+Cf Buurtzorg : 2 soignantes ont testé de faire un peu de prévention, et souhaitaient que ça se généralise à l'entreprise. Le dirigeant n'a pas évalué le pour et le contre, puis lancé une cellule pilote avant de généraliser peu à peu, région après région, non. A la place, il a suggéreé aux soignantes de décrire leur expérience, en donnant le maximum de d'éléments pour qu'elle soit reproductible, et de la partager aux autres équipes. N'importe quelle équipe que ça branchait avait alors la latitude pour commencer à faire à son tour de la prévention.
+
+Le but n'est pas que chacun ait le même pouvoir, mais que chacun ait du pouvoir.
+
+Des méthodes permettent de sentir collectivement où l'organisation veut aller : technique de la chaise vide (représentant l'organisation pendant les réunions), Theory U (par Otto Scharmer), Appreciative Inquiry, Open Space, Future Search, and World Café.
+
+#### Budget
+
+Pas de budget ni d'objectifs chiffrés.
+> our goal is to be profitable not knowing how, instead of losing money knowing exactly why. (FAVI)
+
+#### Conduite du changement
+
+Le changement se fait naturellement en interne, donc il n'y a pas à accompagner le changement
+
+
+## Comment arrive-t-on à une organisation évolutionaire ?
+
+### Les conditions nécessaires
+
+1/ Le chef / fondateur / CEO doit voir le monde à travers la lentille évolutionnaire.
+2/ Les propriétaires de l'organisation aussi (pour que le leader ait les mains libres)
 
 *(oui mais qui décide que telle ou telle décision est une réussite ou un échec ? Sur quels critères ? Et comment sont fixés ces critères ? )*

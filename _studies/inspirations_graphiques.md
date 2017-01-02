@@ -14,3 +14,9 @@ Inspirations graphiques, probablement dans une optique assez simple, fonctionnel
 
 http://lafabulerie.com/
 Noir et blanc, minimaliste, un peu rétro mais côté sympa
+
+https://panache.fr/
+Site d'agence. Simplicité, animation, couleurs, humour
+
+
+http://www.collectif-yay.com/

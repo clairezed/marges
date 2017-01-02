@@ -1,4 +1,8 @@
 // Surcharges Spectre
+.menu-section p a {
+  color: inherit;
+  text-decoration: underline;
+}
 
 .menu {
   margin-bottom: 2rem;
@@ -29,6 +33,7 @@
     .item {
       margin: .2rem 0rem;
       padding: 0rem 0rem 0rem 1rem;
+      white-space: normal;
     }
     &:hover .item{
       color: $brand-primary;
@@ -39,5 +44,6 @@
   .item .label {
     float: right;
     padding: 0 0.4em;
+    display: inline-block;
   }
 }

@@ -227,25 +227,22 @@ http://lafabulerie.com/
 ### Coopaname
 
 ### Faircoop
-https://fair.coop/fr/
 
 Coopérative organisée via internet qui vise à réduire les inégalités. Son organisation repose sur les principes de **collaboration pair-à-pair** établis par la P2P Foundation. La décentralisation est un élément clef de l’organisation qui repose sur des assemblées ouvertes, des formes de participation libre, un processus de décision démocratique et sur la transparence. FairCoop est organisé en groupes de travail, eux-mêmes organisés en assemblée ouverte. Pour se coordonner, les coopérants ont recours à Trello, permettant d’organiser les flux de travail des différents groupes en priorités. Actuellement, les animateurs réfléchissent à développer un système démocratique et un processus de réputation basé sur la Blockchain.
 
-https://fair.coop/fr/
+[fair.coop](https://fair.coop/fr/)
 
 ### Enspiral
-http://www.enspiral.com/
 
 Réseau de freelances qui développe des outils collaboratifs. Enspiral est à l’origine de **Loomio**, un outil de prise de décision partagée particulièrement évolué (vidéo) et de **CoBudget**, un outil pour gérer de manière collaborative les revenus et les dépenses d’un projet. Enspiral fonctionne sur le principe de groupes et de cercles de décisions. Fort de plus de 300 personnes impliquées dans ses projets – pour beaucoup basés en Nouvelle-Zélande, mais également dans le monde entier -, Enspiral fonctionne depuis des espaces de collaboration en ligne. L’organisation utilise ses propres outils (mais pas seulement, elle utilise également l’outil de gestion de projets Trello – il en existe bien d’autres, comme Jira, souvent adaptés des outils de suivi de projets informatiques pour “méthodes agiles”). Elle organise également des rencontres régulières pour créer de la confiance entre ses membres, des “retraites” pour que ceux qui participent du projet puissent le faire évoluer. Enspiral se définit comme une organisation plate, sans hiérarchie, “une expérience” en évolution constante, un laboratoire.
 
-http://www.enspiral.com/
+[www.enspiral.com](http://www.enspiral.com/)
 
 ### Lab Coop
-http://www.lab.coop/
 
 Coopérative de développeurs qui utilise la méthode holacratique. **Holacratie** : système d’organisation de la gouvernance qui dissémine les mécanismes de prise de décision par cercles de responsabilité interconnectée, et qui, contrairement à ce que l’on pense souvent, n’est pas démocratique (tout le monde ne vote pas la moindre décision), mais vise à autonomiser les décisions par consentement dynamique, via des processus très institués comme la sollicitation d’avis ou des méthodes de résolution de conflit par exemple. Cchaque employé est copropriétaire pour développer l’esprit de responsabilité et d’initiative.
 
-http://www.lab.coop/
+[www.lab.coop](http://www.lab.coop/)
 
 ### WeMind
 http://www.wemind.io
@@ -253,21 +250,25 @@ http://www.wemind.io
 Couverture santé, logement, comité d'entreprise, pour freelances.
 
 ### Koumbit
-https://www.koumbit.org/fr/apropos
-
 Coopérative de dev au Québec
 
-https://www.koumbit.org/fr/apropos
+[www.koumbit.org](https://www.koumbit.org/fr/apropos)
 
 ### Territoires.coop
-http://territoires.coop/
 
 Territoires est une coopérative de solidarité composée d’une dizaine de membres travailleuses et travailleurs, qui travaillent à la conception de succulents outils numériques contribuant au développement culturel et social des territoires. Montréal.
 
-http://territoires.coop/
+[territoires.coop](http://territoires.coop/)
 
 ### Colab.coop
-https://colab.coop/
+[colab.coop](https://colab.coop/)
+
+### Coliga
+
+Coliga is a tool that lets communities of independent workers share and receive job offers as a collective
+cf [Article explicatif dans ouishare](http://magazine.ouishare.net/2016/11/getting-paid-not-played-a-community-business-model-for-collaborative-entrepreneurship/?utm_source=twitter&utm_medium=social&utm_campaign=SocialWarfare)
+
+[coliga.co](https://coliga.co/)
 
 ## Civic techish
 
