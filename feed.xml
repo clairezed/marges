@@ -5,13 +5,84 @@
     <description>Prise de notes des internets de claire zuliani</description>
     <link>http://marges.clairezuliani.com/</link>
     <atom:link href="http://marges.clairezuliani.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 02 Jan 2017 22:07:04 +0100</pubDate>
-    <lastBuildDate>Mon, 02 Jan 2017 22:07:04 +0100</lastBuildDate>
-    <generator>Jekyll v3.2.1</generator>
+    <pubDate>Tue, 03 Jan 2017 22:43:30 +0100</pubDate>
+    <lastBuildDate>Tue, 03 Jan 2017 22:43:30 +0100</lastBuildDate>
+    <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>Sauter à pieds joints dans le bain nouveau de 2017</title>
+        <description>&lt;p&gt;Parce que 2016 a été une année un brin éprouvante, parce qu’il y a du pain sur la planche pour que 2017 ne soit pas du même acabit, j’ai enfin cédé à mes propres tentations. Ca y est, je me lance en solo pour essayer de changer -un peu- le monde.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;h2 id=&quot;en-résumé-tldr-pour-les-intimes&quot;&gt;En résumé (TLDR, pour les intimes)&lt;/h2&gt;
+
+&lt;p&gt;Début 2017, je quitte ma boîte et me lance à mon compte, avec l’envie d’apporter mes compétences à des projets qui aient du sens pour moi, sur mon territoire.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;je veux &lt;strong&gt;m’adresser aux porteurs-ses de projet dans le secteur de l’ESS&lt;/strong&gt; (économie sociale et solidaire) et de l’entrepreneuriat social, et leur apporter des solutions techniques qui répondent à leurs spécificités (moyens financiers réduits, respect d’une éthique forte, besoin d’adaptabilité… )&lt;/li&gt;
+  &lt;li&gt;dans cette optique, je cherche à &lt;strong&gt;bosser avec d’autres professionnel-le-s&lt;/strong&gt; partageant mes envies, que ce soit des pairs du numérique (développeurs-ses ou designers), ou d’autres secteurs (urbanistes, sociologues, agents de collectivités, travailleurs-ses sociaux…) pour concevoir des projets les plus utiles et adaptés possibles.&lt;/li&gt;
+  &lt;li&gt;enfin, je veux à terme que mes activités s’inscrivent dans une &lt;strong&gt;structure professionnelle collective&lt;/strong&gt;, et trouver ou inventer les formes de travail qui me conviennent&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;Les concepts qui me tiennent chaud en ce moment :
+#communs, #open source, #écoconception, #centré humain, #open data, #coopérative, #circuits courts&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Et ci-dessous, la version longue :&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;du-culturel-au-numérique-et-retour&quot;&gt;Du culturel au numérique, et retour&lt;/h2&gt;
+
+&lt;p&gt;Il y a 8 ans, je terminais mes études en gestion de projets culturels et intégrais une association lyonnaise de développement des arts et cultures numériques, en tant qu’administratrice et chargée de communication. Merci à l’&lt;a href=&quot;www.aadn.com&quot;&gt;AADN&lt;/a&gt;, une école riche, exigeante, qui a permis de déniaiser la jeune professionnelle idéaliste que j’étais, de lui faire découvrir des modes d’organisation et de communication alternatifs (collégialité, communication non violente, méthodes d’intelligence collective…) et un paquet de gens formidables, et de développer une appétence au numérique.&lt;/p&gt;
+
+&lt;p&gt;Il y a 4 ans, je faisais le choix de quitter cette structure et le secteur culturel. J’avais le sentiment que ce n’était plus dans la création artistique ou culturelle, mais dans le champs social, sociétal ; de façon plus directe en somme, que je souhaitais agir sur la société. Mais la priorité, à ce moment là, était avant tout de quitter un métier aux réalisations “impalpable”, comportant son lot de frustrations, et aux débouchés maigres, pour un autre plus concret et plus porteur. C’est ainsi qu’à 28 ans, je retrouvais les couloirs de la fac pour devenir développeuse web.&lt;/p&gt;
+
+&lt;p&gt;Peu après, j’intégrais une agence web spécialisée en ruby on rails (qui deviendrait donc mon langage de prédilection) et en méthodologies agiles. C’est à &lt;a href=&quot;www.studio-hb.com&quot;&gt;Studio HB&lt;/a&gt; que j’apprends à développer, à écrire du code pour des êtres humains, à trouver avec un client la meilleure solution à son problème. Une équipe soudée et une ambiance de travail bienveillante, je ne pouvais rêver mieux pour mon apprentissage. Mais au fur et à mesure que je gagne en autonomie technique, mes aspirations au changement social reviennent, lancinantes.&lt;/p&gt;
+
+&lt;p&gt;Alors que je sens dans la société des glissements qui ne me ravissent pas (rigidification, pessimisme, extrêmisme…), mais que je vois aussi en miroir éclorent de nombreuses alternatives optimistes, la tension est devenue trop forte. Et c’est ainsi que j’ai fait le choix de quitter mon entreprise et de m’assumer en tant que bisounours (&lt;em&gt;“un autre monde est possible”&lt;/em&gt;) révolutionnaire (&lt;em&gt;“et je veux que ce monde advienne”&lt;/em&gt;) qui code (&lt;em&gt;“car coder, ça me rend contente”&lt;/em&gt;).&lt;/p&gt;
+
+&lt;h2 id=&quot;les-intuitions-du-bisounours-révolutionnaire-qui-code&quot;&gt;Les intuitions du bisounours révolutionnaire qui code&lt;/h2&gt;
+
+&lt;p&gt;Ô, inconsciente que je suis, je me lance dans le vide sans client en poche, sans contrat déjà signé. Qu’est-ce qui m’a convaincue malgré tout de passer le cap, maintenant ? L’envie de prendre le temps nécessaire pour faire les choses correctement, des perspectives qui ne manquent pas, et des intuitions quant à ce que je pourrais apporter.&lt;/p&gt;
+
+&lt;p&gt;Ces intuitions sont les suivantes :&lt;/p&gt;
+
+&lt;p&gt;1/ dans le secteur de l’ESS, il y a tout un pan de &lt;strong&gt;besoins non résolus&lt;/strong&gt; auxquels le numérique peut apporter une réponse. Ces réponses vont du site vitrine le plus classique à l’outil de gestion assez poussé, de la communication interne au processus métier spécifique. C’est un micro marché dans l’angle mort de la plupart des agences et entreprises web, délaissé faute de rentabilité apparente (secteur sans grandes ressources financières, dans une logique parfois plus décroissante que technologisante).&lt;/p&gt;
+
+&lt;p&gt;2/ il est contre toute attente &lt;strong&gt;possible de travailler pour ce secteur et d’en vivre&lt;/strong&gt;. Evidemment, ça demande un peu plus de débrouille. Ca demande de bien penser une offre de service économe, efficace, reproductible, voire d’envisager des modes de rétribution alternatifs (échange landing page contre panier de légume ?).&lt;/p&gt;
+
+&lt;p&gt;3/ pour contribuer à l’essor du secteur, et être en mesure de tenir tête au milieu marchand traditionnel tout en marquant la différence (transparence, éthique, etc), &lt;strong&gt;les outils numériques doivent se fonder sur l’open source, la mutualisation, la contribution&lt;/strong&gt;. Ceci implique de libérer le code des nouveaux outils pour qu’ils servent la communauté. Ceci implique aussi que les solutions open source existantes soient connues et tant que possible ré-exploitées et améliorées (ne pas réinventer la roue, résister à la tentation de récréer un outil similaire “forcément mieux”, etc).&lt;/p&gt;
+
+&lt;p&gt;4/ pour que les outils conçus soient pertinents, il faut que leur conception se fasse &lt;strong&gt;au plus près de leurs utilisateurs-trices&lt;/strong&gt;. Gardons en tête que le numérique n’est qu’un outil parmi d’autres, qu’il doit se mettre au service de personnes réelles (et non d’utilisateurs-trices fantasmé-e-s), et doit apporter des solutions à un réel problème (qui n’est pas forcément le plus apparent, s’affine au fil du temps et ne saurait se résumer à “il y a un marché émergent là, il faut y aller”). Suivant l’échelle et le commanditaire du projet, différentes démarches peuvent être mises en oeuvre pour éviter de produire de la technologie “hors-sol”. Dans le format le plus court, on peut penser à l’immersion ponctuelle des équipes techniques auprès des usagers ou à la mise en place de tests utilisateurs. Dans une forme plus ambitieuse, pourquoi ne pas aller vers de la “résidence de prototypage d’outils”, temps de recherche et développement sur le terrain, fait d’aller-retours avec les utilisateurs finaux, en collaboration avec des professionnels de disciplines connexes (urbanistes, sociologues, historiens…)&lt;/p&gt;
+
+&lt;h2 id=&quot;le-tour-de-lest-des-écosystèmes-numérique-et-économie-sociale&quot;&gt;Le tour de l’Est des écosystèmes numérique et économie sociale&lt;/h2&gt;
+
+&lt;p&gt;L’enjeu des prochains temps va être d’&lt;strong&gt;éprouver ces intuitions&lt;/strong&gt; auprès des personnes les plus à même de les infirmer, de les confirmer, ou de les faire évoluer. L’idée est de vérifier rapidement si je fais complètement fausse route, et si je ne ferais pas mieux de retourner cultiver des courgettes sur ma terrasse. Si tel n’est pas le cas, j’espère pouvoir identifier concrètement où se situent les besoins sur mon territoire, afin d’affiner ma recherche des outils existants qui puissent être adaptés et adoptés, de définir mon plan d’auto-formation en conséquence, ou de partir en quête des profils complémentaires pour pouvoir répondre à ces besoins.&lt;/p&gt;
+
+&lt;p&gt;Je me laisse quelques mois pour creuser la question, en rencontrant de part et d’autre de la région Grand Est les têtes de pont, les agences, les collectifs, associations ou coopératives; en interrogeant les habitants, les entrepreneurs, les agents territoriaux, les professionnels concernés par la question de l’ESS ; en discutant avec les pépinières, les développeurs, les designers, les tiers-lieux.&lt;/p&gt;
+
+&lt;p&gt;En parallèle, je pars à la recherche de la &lt;strong&gt;forme juridique qui me convienne pour travailler&lt;/strong&gt;, et me permette de faire correspondre le fond (produire un travail éthique et utile) et la forme (adopter un cadre juridique qui n’“ubérise”   pas le droit social). Comment concilier autonomie et collectif, flexibilité et protection ? Mon tour de l’Est incluera donc des étapes auprès de coopératives d’activités et d’emploi, et certainement un crochet parisien pour en savoir plus sur &lt;a href=&quot;http://www.coopaname.coop/&quot;&gt;Coopaname&lt;/a&gt; ou des structures similaires.&lt;/p&gt;
+
+&lt;p&gt;J’espère pouvoir partager au fil du temps le résultat de mes investigations ici, et je compte bien rendre compte de l’évolution de mes projections.&lt;/p&gt;
+
+&lt;p&gt;Si jamais mes intuitions vous parlent, ou si vous êtes dans une démarche similaire, dans le Grand Est ou ailleurs, ne vous retenez surtout pas de &lt;a href=&quot;http://www.clairezuliani.com/contact&quot;&gt;prendre contact avec moi&lt;/a&gt; !&lt;/p&gt;
+</description>
+        <pubDate>Tue, 03 Jan 2017 00:00:00 +0100</pubDate>
+        <link>http://marges.clairezuliani.com/good_job/2017/01/03/solo.html</link>
+        <guid isPermaLink="true">http://marges.clairezuliani.com/good_job/2017/01/03/solo.html</guid>
+        
+        <category>ess</category>
+        
+        <category>et moi</category>
+        
+        
+        <category>good_job</category>
+        
+      </item>
     
       <item>
         <title>Nowwwel reader's digest</title>
-        <description>&lt;p&gt;Je prends enfin le temps de faire un petit tour sur les différents écrits réalisés pour &lt;a href=&quot;https://twitter.com/search?q=%23nowwwel&quot;&gt;#nowwwel&lt;/a&gt; (&lt;a href=&quot;https://www.hteumeuleu.fr/en-decembre-ecrivez-partagez-hashtag-nowwwel/&quot;&gt;très chouette proposition à l’initiative de Hteumeuleu&lt;/a&gt;) et de relever quelques articles qui me parlent.&lt;/p&gt;
+        <description>&lt;p&gt;Je prends enfin le temps de faire un petit tour sur les différents écrits réalisés pour &lt;a href=&quot;https://twitter.com/search?q=%23nowwwel&quot;&gt;#nowwwel&lt;/a&gt; (&lt;a href=&quot;https://www.hteumeuleu.fr/en-decembre-ecrivez-partagez-hashtag-nowwwel/&quot;&gt;très chouette proposition&lt;/a&gt; à l’initiative de Hteumeuleu) et de relever quelques articles qui me parlent.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
@@ -31,7 +102,7 @@
 
 &lt;p&gt;Quand une agence renommée partage les arcanes de son organisation, il y a généralement toujours de quoi apprendre. Alsacréation partage ses &lt;a href=&quot;https://github.com/alsacreations/guidelines&quot;&gt;guidelines&lt;/a&gt; sur différents thèmes : accessibilité, css, développement, html, js, workflow.&lt;/p&gt;
 
-&lt;h3 id=&quot;libert-vie-prive-scurit&quot;&gt;Liberté, vie privée, sécurité&lt;/h3&gt;
+&lt;h3 id=&quot;liberté-vie-privée-sécurité&quot;&gt;Liberté, vie privée, sécurité&lt;/h3&gt;
 
 &lt;p&gt;Quelques conseils simples pour améliorer la sécurité de sa navigation, sa communication numérique, son partage ou sa sauvegarde de fichiers ou ses mots de passe. C’est sur le &lt;a href=&quot;https://larlet.fr/david/blog/2016/militantisme-festif/&quot;&gt;blog de David Larlet&lt;/a&gt;, membre de Scopyleft, et ça me permet d’alimenter ma &lt;a href=&quot;/toolkits&quot;&gt;boite à outils&lt;/a&gt;.&lt;/p&gt;
 
@@ -47,7 +118,7 @@
   &lt;li&gt;anticiper la vie du site après son déploiement&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;un-peu-de-priphrique--la-technique&quot;&gt;Un peu de périphérique à la technique&lt;/h2&gt;
+&lt;h2 id=&quot;un-peu-de-périphérique-à-la-technique&quot;&gt;Un peu de périphérique à la technique&lt;/h2&gt;
 
 &lt;h3 id=&quot;facturation&quot;&gt;Facturation&lt;/h3&gt;
 
@@ -63,6 +134,8 @@
         <pubDate>Sat, 31 Dec 2016 00:00:00 +0100</pubDate>
         <link>http://marges.clairezuliani.com/sustainable_code/2016/12/31/nowwwel-readers-digest.html</link>
         <guid isPermaLink="true">http://marges.clairezuliani.com/sustainable_code/2016/12/31/nowwwel-readers-digest.html</guid>
+        
+        <category>a lire</category>
         
         
         <category>sustainable_code</category>
@@ -158,7 +231,7 @@
 
 &lt;p&gt;Toujours est-il que les pistes évoquées sont stimulantes.&lt;/p&gt;
 
-&lt;p&gt;Source : &lt;a href=&quot;http://rue89.nouvelobs.com/2016/12/10/loyaute-plateformes-daccord-loyaute-a-quoi-265869&quot;&gt;La civic-tech française risque de se détourner de la création des biens communs numériques&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a href=&quot;http://rue89.nouvelobs.com/2016/12/10/loyaute-plateformes-daccord-loyaute-a-quoi-265869&quot;&gt;Loyauté des plateformes, d’accord, mais loyauté à quoi ?&lt;/a&gt;&lt;/p&gt;
 
 </description>
         <pubDate>Wed, 21 Dec 2016 00:00:00 +0100</pubDate>
@@ -188,7 +261,7 @@
   &lt;p&gt;Ce n’est pas entre régulation et absence de régulation que nous avons à choisir. Le code régule. Il implémente – ou non – un certain nombre de valeurs. Il garantit certaines libertés, ou les empêche. Il protège la vie privée, ou promeut la surveillance. Des gens décident comment le code va se comporter. Des gens l’écrivent. La question n’est donc pas de savoir qui décidera de la manière dont le cyberespace est régulé  : ce seront les codeurs. La seule question est de savoir si nous aurons collectivement un rôle dans leur choix – et donc dans la manière dont ces valeurs sont garanties – ou si nous laisserons aux codeurs le soin de choisir nos valeurs à notre place.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h2 id=&quot;pol-gov-et-common-sont-sur-un-bteau&quot;&gt;Pol, gov et common sont sur un bâteau&lt;/h2&gt;
+&lt;h2 id=&quot;pol-gov-et-common-sont-sur-un-bâteau&quot;&gt;Pol, gov et common sont sur un bâteau&lt;/h2&gt;
 
 &lt;p&gt;Valentin Chaput fait la distinction entre différents types de civic tech.&lt;/p&gt;
 
@@ -225,7 +298,7 @@
 
 &lt;p&gt;Pour des exemples, &lt;a href=&quot;/tech-changement-social-open-source&quot;&gt;rdv sur la page d’un tout nouveau dossier, ici-même&lt;/a&gt;, inauguré aujourd’hui pour recenser les solutions ouvertes réutilisables pour différentes fonctions.&lt;/p&gt;
 
-&lt;h2 id=&quot;pour-une-rorientation-des-civic-tech&quot;&gt;Pour une réorientation des civic tech&lt;/h2&gt;
+&lt;h2 id=&quot;pour-une-réorientation-des-civic-tech&quot;&gt;Pour une réorientation des civic tech&lt;/h2&gt;
 
 &lt;p&gt;Quelques extraits éclairants, mais je vous invite à lire le texte intégralement, il y a vraiment plein de choses intéressantes.&lt;/p&gt;
 
@@ -275,6 +348,8 @@
         
         <category>civic tech</category>
         
+        <category>communs</category>
+        
         
         <category>sustainable_code</category>
         
@@ -305,7 +380,9 @@ Les hasards de twitter me font aussi découvrir, cité à côté de Patreon, le 
         <link>http://marges.clairezuliani.com/good_job/2016/12/03/nouvelles-formes-mecenat-pour-projets-de-developpement.html</link>
         <guid isPermaLink="true">http://marges.clairezuliani.com/good_job/2016/12/03/nouvelles-formes-mecenat-pour-projets-de-developpement.html</guid>
         
-        <category>civic tech</category>
+        <category>financement</category>
+        
+        <category>freelancing</category>
         
         
         <category>good_job</category>
@@ -320,7 +397,7 @@ Les hasards de twitter me font aussi découvrir, cité à côté de Patreon, le 
 
 &lt;p&gt;Où en sont les associations dans leurs usages du numérique ? Quels sont leurs attentes et leurs besoins ? Voici ce que je retiens du rapoprt.&lt;/p&gt;
 
-&lt;h2 id=&quot;quest-ce-qui-est-utilis-et-en-quelle-proportion-&quot;&gt;Qu’est-ce qui est utilisé et en quelle proportion ?&lt;/h2&gt;
+&lt;h2 id=&quot;quest-ce-qui-est-utilisé-et-en-quelle-proportion-&quot;&gt;Qu’est-ce qui est utilisé et en quelle proportion ?&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;73 % des associations interrogées disposent d’un &lt;strong&gt;site internet propre&lt;/strong&gt;.&lt;/li&gt;
@@ -343,7 +420,7 @@ Les hasards de twitter me font aussi découvrir, cité à côté de Patreon, le 
   &lt;p&gt;« C’est le &lt;strong&gt;partage de l’information&lt;/strong&gt; qui apparaît comme effet le plus positif (85 %). Il permettrait le renforcement de la cohésion de l’équipe, de l’efficacité, du suivi et de l’évaluation des actions, comme de son impact positif sur l’implication des adhérents, des bénévoles ou salariés »&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h2 id=&quot;quelle-prsence-du-logiciel-libre-&quot;&gt;Quelle présence du logiciel libre ?&lt;/h2&gt;
+&lt;h2 id=&quot;quelle-présence-du-logiciel-libre-&quot;&gt;Quelle présence du logiciel libre ?&lt;/h2&gt;
 
 &lt;p&gt;On compte &lt;strong&gt;plus d’utilisateurs de logiciels libres&lt;/strong&gt; dans :&lt;/p&gt;
 &lt;ul&gt;
@@ -355,7 +432,7 @@ financière difficile : 46%,&lt;/li&gt;
 et de l’éducation populaire : 44%.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;quels-risques--lutilisation-du-numrique-&quot;&gt;Quels risques à l’utilisation du numérique ?&lt;/h2&gt;
+&lt;h2 id=&quot;quels-risques-à-lutilisation-du-numérique-&quot;&gt;Quels risques à l’utilisation du numérique ?&lt;/h2&gt;
 
 &lt;p&gt;Les risques signalés par les associations :&lt;/p&gt;
 &lt;ul&gt;
@@ -370,7 +447,7 @@ des tensions possibles, voire des conflits.&lt;/li&gt;
   &lt;li&gt;Eloignement par rapport au projet associatif lui-même.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;quels-obstacles-et-comment-les-dpasser-&quot;&gt;Quels obstacles et comment les dépasser ?&lt;/h2&gt;
+&lt;h2 id=&quot;quels-obstacles-et-comment-les-dépasser-&quot;&gt;Quels obstacles et comment les dépasser ?&lt;/h2&gt;
 
 &lt;p&gt;Pour une utilisation optimale du numérique, les structures disent manquer de temps et de disponibilité pour :&lt;/p&gt;
 &lt;ul&gt;
@@ -394,7 +471,7 @@ Besoin aussi d’un savoir-faire technique et de moyens financiers.&lt;/li&gt;
   &lt;li&gt;formation tehcique pour chaque usage ou outil : 27%&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;quest-ce-qui-faciliterait-lusage-du-numrique-&quot;&gt;Qu’est-ce qui faciliterait l’usage du numérique ?&lt;/h2&gt;
+&lt;h2 id=&quot;quest-ce-qui-faciliterait-lusage-du-numérique-&quot;&gt;Qu’est-ce qui faciliterait l’usage du numérique ?&lt;/h2&gt;
 
 &lt;p&gt;Flécher des moyens financiers en priorité sur :&lt;/p&gt;
 &lt;ul&gt;
@@ -425,6 +502,8 @@ Besoin aussi d’un savoir-faire technique et de moyens financiers.&lt;/li&gt;
         <guid isPermaLink="true">http://marges.clairezuliani.com/sustainable_code/2016/12/02/etude-usages-numeriques-associations.html</guid>
         
         <category>civic tech</category>
+        
+        <category>association</category>
         
         
         <category>sustainable_code</category>
@@ -475,6 +554,8 @@ Besoin aussi d’un savoir-faire technique et de moyens financiers.&lt;/li&gt;
         
         <category>civic tech</category>
         
+        <category>empowerment</category>
+        
         
         <category>binary_transition</category>
         
@@ -482,7 +563,7 @@ Besoin aussi d’un savoir-faire technique et de moyens financiers.&lt;/li&gt;
     
       <item>
         <title>Se mettre en desintox du scroll</title>
-        <description>&lt;p&gt;Un designer (Geofrey Dorne) partage ses trucs pour assainir ses pratiques numériques (et nous explique pourquoi il le fait). Des liens et astuces précieuses !&lt;/p&gt;
+        <description>&lt;p&gt;Un designer (Geoffrey Dorne) partage ses trucs pour assainir ses pratiques numériques (et nous explique pourquoi il le fait). Des liens et astuces précieuses !&lt;/p&gt;
 
 &lt;!--more--&gt;
 
@@ -518,6 +599,8 @@ Besoin aussi d’un savoir-faire technique et de moyens financiers.&lt;/li&gt;
         <guid isPermaLink="true">http://marges.clairezuliani.com/sustainable_code/2016/11/30/desintox-habitudes-numeriques.html</guid>
         
         <category>civic tech</category>
+        
+        <category>detox</category>
         
         
         <category>sustainable_code</category>
@@ -574,326 +657,6 @@ Besoin aussi d’un savoir-faire technique et de moyens financiers.&lt;/li&gt;
         <guid isPermaLink="true">http://marges.clairezuliani.com/good_job/2016/11/25/les-nouvelles-formes-organisation-%C3%A0-la-lumiere-des-communs.html</guid>
         
         <category>communs</category>
-        
-        
-        <category>good_job</category>
-        
-      </item>
-    
-      <item>
-        <title>Reinventing Organizations, la fiche de lecture</title>
-        <description>&lt;p&gt;J’ai croisé plusieurs fois ces derniers mois des références au livre “Reinventing Organizations” de Frederic Laloux, présentant apparemment de façon limpide et inspirante une révolution douce en cours dans les modes d’organisation du travail.&lt;/p&gt;
-
-&lt;p&gt;Jusqu’à ce que je découvre il y a peu que son auteur rendait son ouvrage accessible à prix libre (et en deux versions distinctes, en plus !). Plus de prétexte : version “enfant” (celle avec les dessins) téléchargée, et récapitulatif du bouquin ici.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;&lt;em&gt;[Travail en cours, la lecture n’est pas encore bouclée]&lt;/em&gt;&lt;/p&gt;
-
-&lt;!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 --&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;#types-dorganisations&quot;&gt;Types d’organisations&lt;/a&gt;
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#organisation-impulsive-rouge&quot;&gt;Organisation impulsive (Rouge)&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#organisation-conformiste-ambre&quot;&gt;Organisation conformiste (ambre)&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#organisation-autour-du-rsultat-orange&quot;&gt;Organisation autour du résultat (orange)&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#organisation-pluraliste-vert&quot;&gt;Organisation pluraliste (vert)&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#organisation-volutive-evolutionnary-turquoise&quot;&gt;Organisation évolutive (evolutionnary) (turquoise)&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#comment-fonctionnent-les-organisations-volutives-&quot;&gt;Comment fonctionnent les organisations évolutives ?&lt;/a&gt;
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#self-management&quot;&gt;Self management&lt;/a&gt;
-        &lt;ul&gt;
-          &lt;li&gt;&lt;a href=&quot;#structures-dorganisations-petites-units-autonomes&quot;&gt;Structures d’organisations : petites unités autonomes&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#prise-de-dcision-par-prise-davis&quot;&gt;Prise de décision : par prise d’avis&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#compensations-et-incitations-financires&quot;&gt;Compensations et incitations financières&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#management-de-la-performance&quot;&gt;Management de la performance&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#hirarchie-naturelle-plutt-que-par-le-pouvoir&quot;&gt;Hiérarchie “naturelle” plutôt que par le pouvoir&lt;/a&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#entiret-wholeness&quot;&gt;Entièreté (Wholeness)&lt;/a&gt;
-        &lt;ul&gt;
-          &lt;li&gt;&lt;a href=&quot;#safe-space&quot;&gt;Safe space&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#reflective-spaces&quot;&gt;Reflective Spaces&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#storytelling&quot;&gt;Storytelling&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#runions&quot;&gt;Réunions&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#engagement-et-horaires&quot;&gt;Engagement et horaires&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#evaluation-des-performances&quot;&gt;Evaluation des performances&lt;/a&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#le-but-volutionnaire-evolutionary-purpose&quot;&gt;Le but évolutionnaire (Evolutionary purpose)&lt;/a&gt;
-        &lt;ul&gt;
-          &lt;li&gt;&lt;a href=&quot;#stratgie&quot;&gt;Stratégie&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#budget&quot;&gt;Budget&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#conduite-du-changement&quot;&gt;Conduite du changement&lt;/a&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#comment-arrive-t-on-une-organisation-volutionaire-&quot;&gt;Comment arrive-t-on à une organisation évolutionaire ?&lt;/a&gt;
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#les-conditions-ncessaires&quot;&gt;Les conditions nécessaires&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;!-- /TOC --&gt;
-
-&lt;h2 id=&quot;types-dorganisations&quot;&gt;Types d’organisations&lt;/h2&gt;
-
-&lt;p&gt;Par leur ordre historique d’apparition :&lt;/p&gt;
-
-&lt;h3 id=&quot;organisation-impulsive-rouge&quot;&gt;Organisation impulsive (Rouge)&lt;/h3&gt;
-
-&lt;p&gt;Le plus fort s’impose et protège sa tribu. Modèle de la meute de loup.&lt;/p&gt;
-
-&lt;p&gt;Exemples : Mafia, Gang&lt;/p&gt;
-
-&lt;p&gt;Apports :&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;division du travail&lt;/li&gt;
-  &lt;li&gt;Autorité qui vient du haut (top-down authority)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Exemple du fonctionnement pour la négociation salariale : décision arbitraire et révocable du boss.&lt;/p&gt;
-
-&lt;h3 id=&quot;organisation-conformiste-ambre&quot;&gt;Organisation conformiste (ambre)&lt;/h3&gt;
-
-&lt;p&gt;Règles intériorisées et croyances communes, fondées sur culpabilité et honte. Si tu suis les règles, tu es des nôtres et tu seras sauvé. Sinon, rejet et excommunion. Monde de stabilité et de certitudes.&lt;/p&gt;
-
-&lt;p&gt;Exemples : armée, église catholique, université (hiérarchie forte)&lt;/p&gt;
-
-&lt;p&gt;Apports :&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;processus stables et réplicables (ex: moisson), dont le savoir est inscrit dans l’organisation même et non dans un individu. Toute personne est donc remplaçable.&lt;/li&gt;
-  &lt;li&gt;organigramme clair et stable&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Exemple du fonctionnement pour la négociation salariale : même travail, même paie. Pas de négociation, pas de distinction.&lt;/p&gt;
-
-&lt;h3 id=&quot;organisation-autour-du-rsultat-orange&quot;&gt;Organisation autour du résultat (orange)&lt;/h3&gt;
-
-&lt;p&gt;Révolutions scientifique et industrielle. On peut être qui on veut, pour peu d’être un peu plus malin, rapide, innovant que les autres.Posibilité d’imaginer d’autres mondes et d’inventer (“Et si.. ?”). La règle de la loi et de la démocracie remplace le système féodal. Organisations vues comme des machines.&lt;/p&gt;
-
-&lt;p&gt;Exemples : Wall Street, Wallmart, Nike, CocaCola.. Business &amp;amp; politics&lt;/p&gt;
-
-&lt;p&gt;Apports :&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;innovation&lt;/li&gt;
-  &lt;li&gt;accountability (management par objectifs)&lt;/li&gt;
-  &lt;li&gt;méritocratie&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Riques : croissance pour la croissance, succès uniquement via fric et reconnaisance, obsession matérialiste, inégalités sociales, perte de la communauté, nature en danger&lt;/p&gt;
-
-&lt;p&gt;Exemple du fonctionnement pour la négociation salariale : incitation individuelle, prime sur objectifs, écarts de salaires importants sont tolérés s’ils reflètent le mérite.&lt;/p&gt;
-
-&lt;h3 id=&quot;organisation-pluraliste-vert&quot;&gt;Organisation pluraliste (vert)&lt;/h3&gt;
-
-&lt;p&gt;Mouvements sociaux, contre culture années 60-70. Organisation comme une famille, où chacun a sa place.&lt;/p&gt;
-
-&lt;p&gt;Exemples : postmodern academic thinking, in nonprofits, and among social workers
-and community activists. Southwest Airlines, Ben &amp;amp; Jerry’s&lt;/p&gt;
-
-&lt;p&gt;Apports:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;empowerment, bottom-up&lt;/li&gt;
-  &lt;li&gt;culture guidée par les valeurs (qui remplacent les gros livres de règlements)&lt;/li&gt;
-  &lt;li&gt;Stakeholder value, “resonsabilité écologique et sociale des entreprises” (plutôt que shareolders, actionnaires)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Limites :&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;conservation d’une structure pyramidale malgré la volonté d’horizontalité et de consensus (recherche du consensus menant souvent à paralysie). Ces organisations ne parviennent pas à se débarasser des boss, et insiste plutôt sur la notion d’empowerment (les managers essaient de faciliter la prise d’initiatives des employés)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Exemple du fonctionnement pour la négociation salariale : bonus d’équipe, et limitation des écarts de salaire&lt;/p&gt;
-
-&lt;h3 id=&quot;organisation-volutive-evolutionnary-turquoise&quot;&gt;Organisation évolutive (evolutionnary) (turquoise)&lt;/h3&gt;
-
-&lt;p&gt;Pensé par Maslow, Graves, Kegan.
-Pas les GAFA, pas de tables de ping pong et de mobilier design&lt;/p&gt;
-
-&lt;p&gt;Exemples : Gore Tex,Buurtzorg, FAVI (pièces auto, France), RHD (USA human service), Sun Hydraulics, Heiligenfeld, Morning Star (tomatoes), Holacracy, ESBZ (German), Patagonia (outdoor apprel maker), AES (electricity), BSO/Origin (IT services), Sounds true (multimedia)&lt;/p&gt;
-
-&lt;p&gt;Apports :&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;self-management&lt;/strong&gt; : système fluide d’&lt;strong&gt;autorité distribuée&lt;/strong&gt; et d’intelligence collective.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;wholeness&lt;/strong&gt; : pas de délimitation entre le “moi professionnel” (souvent limité) et le moi “personnel”. Venez au taf comme vous êtes, en gros.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Evolutionary purpose&lt;/strong&gt; : pas de plan tout établi, la structure évolue au fil du temps&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;comment-fonctionnent-les-organisations-volutives-&quot;&gt;Comment fonctionnent les organisations évolutives ?&lt;/h2&gt;
-
-&lt;h3 id=&quot;self-management&quot;&gt;Self management&lt;/h3&gt;
-
-&lt;p&gt;Dans un monde complexe, la personne au sommet de la structure hiérarchique ne peut pas tout appréhender, ce qui mène à perte de temps (préparation pendant des heures des entretiens liminaires avec le boss, our ses subalternes) ou mauvaises décisions.&lt;/p&gt;
-
-&lt;p&gt;Contrairement aux idées reçues:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;il y a tout de même des structures, des rôles, des process, mis en place (et non absence de structure et anarchie)&lt;/li&gt;
-  &lt;li&gt;il ne s’agit pas ici de décision par consentement interminable, mais de processus de décision + rapide.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Pour qu’une organisation deviennent évolutive, de nombreuses pratiques de management doivent être revues.&lt;/p&gt;
-
-&lt;h4 id=&quot;structures-dorganisations--petites-units-autonomes&quot;&gt;Structures d’organisations : petites unités autonomes&lt;/h4&gt;
-
-&lt;p&gt;Petites unités  de 10 -12 personnes max, contact aussi direct que possible avec le client final ou la concurrence ; compréhension des enjeux à chaque échelon…
-Le coach n’a pas d’objectif chiffré mais vient en appui des unités qui en feraient la demande.&lt;/p&gt;
-
-&lt;h4 id=&quot;prise-de-dcision--par-prise-davis&quot;&gt;Prise de décision : par prise d’avis&lt;/h4&gt;
-
-&lt;p&gt;Ni top-down, ni consensus (prend du temps), ni vote.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;One company called it the &lt;strong&gt;Advice Process&lt;/strong&gt;, a name that captures its essence well. The principle is that &lt;strong&gt;anyone
-can make any decision&lt;/strong&gt;, including spending company money. But first, that person has to seek advice :&lt;/p&gt;
-  &lt;ul&gt;
-    &lt;li&gt;from people who have expertise about the topic,&lt;/li&gt;
-    &lt;li&gt;from those that will be meaningfully affected, that will have to live with the decision.&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Pour les grosses décisions, impliquant tout le monde, certains (Buurtzorg) écrivent un post de blog pour proposer un changement, et tous les employés peuvent commenter, approuver, corriger… Si pas d’assentiment, le CEO soit fait une proposition corrigée, soit propose de monter un groupe de travail volontaire.
-&lt;em&gt;(oui mais… quid si les commentaires sont partagés ? C’est toujours le boss qui décide en dernière instance ? Et y’at-il toujours des volontaires pour le groupe de travail ? Ou pour commenter assez ?)&lt;/em&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;compensations-et-incitations-financires&quot;&gt;Compensations et incitations financières&lt;/h4&gt;
-
-&lt;p&gt;Cf exemple de Morning Star : chaque année, chacun propose comment il veut être augmenté, après en avoir discuté avec des collègues. Le panel de collègues étudie les demandes et procure un avis. S’il y a dissensus fort entre ce que souhaite l’employé et l’avis du panel, ça déclenche un mécanisme de résolution du conflit.&lt;/p&gt;
-
-&lt;h4 id=&quot;management-de-la-performance&quot;&gt;Management de la performance&lt;/h4&gt;
-
-&lt;p&gt;Motivation intrinsèque, émulation par les pairs (les performances de chaque équipe sont publiques), et demande du marché (la connaissance du marché, de la concurrence, est un meilleur moteur que la hiérarchie).&lt;/p&gt;
-
-&lt;h4 id=&quot;hirarchie-naturelle-plutt-que-par-le-pouvoir&quot;&gt;Hiérarchie “naturelle” plutôt que par le pouvoir&lt;/h4&gt;
-
-&lt;p&gt;Certains employés sont “naturellement bons” ou intéressés dans certaines compétences (connaissances académiques, écoute, gestion des conflits..) et deviennent des références pour les autres.
-&lt;em&gt;oui mais quand plusieurs personnes sont sur le même champs de compétences ? Comment éviter jalousie, envie, concurrence ? Comment faire en sorte que chacun se sente doué en quelque chose ? Comment s’accorde-t-on sur le fait qu’untel ou untel est doué dans telle chose ?&lt;/em&gt;
-&lt;em&gt;et comment sait-on au début à qui s’adresser?&lt;/em&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;The goal is not to make everyone &lt;strong&gt;equally&lt;/strong&gt; powerful, but to make everyone &lt;strong&gt;fully&lt;/strong&gt; powerful.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&quot;entiret-wholeness&quot;&gt;Entièreté (Wholeness)&lt;/h3&gt;
-
-&lt;p&gt;Dans la plupart des entreprises, seule la partie “masculine” (volontaire, sûre d’elle, décidée…) est valorisée. Et uniquement le côté rationnel (et non les côtés émotionnel, intuitif, spirituel).&lt;/p&gt;
-
-&lt;p&gt;Comment, hum, l’entreprise permet de révéler l’entièreté de soi-même ?
-Par exemple en laissant entrer dans l’entreprise les chiens ou les enfants des employés, et laisser leur collègue s’en occuper, les caliner, etc.
-&lt;em&gt;oui mais qui d de ceux qui peuvent pas saquer les chiens ou les enfants ? De ceux qui s’opposent à ce qu’un clebard qui pue participe à une réunion ?&lt;/em&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;safe-space&quot;&gt;Safe space&lt;/h4&gt;
-
-&lt;p&gt;Il faut déjà faire prendre conscience que nos mots et actions peuvent influer sur l’ambiance de travail, faire accepter des valeurs communes, se mettre d’accord sur ce qui est un comportement offensant.
-Cf Resource for Human Development (RHD), et son “Bill of Rights and Responsibilities for Employees and Consumers”.
-La transmission de valeurs communes peut aussi passer par le “onboarding”, des études ou événements particulier.&lt;/p&gt;
-
-&lt;h4 id=&quot;reflective-spaces&quot;&gt;Reflective Spaces&lt;/h4&gt;
-
-&lt;p&gt;Temps individuels ou communs de méditation, de yoga…&lt;/p&gt;
-
-&lt;p&gt;Cf Heiligenfeld :&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;The company offers every new employee the opportunity to learn to meditate. And every day, there is a thirty-minute meditation session planned for anyone interested.&lt;/li&gt;
-  &lt;li&gt;Every employee —cleaning staff, cooks, and everyone else- who struggles with an issue can book individual coaching sessions from a vast menu of coaching techniques.&lt;/li&gt;
-  &lt;li&gt;All work teams pause somewhere between two to four times a year to work with an external coach through any tensions or upsets.&lt;/li&gt;
-  &lt;li&gt;Chaque semaine, 1h15 de réflexion commune, sur des thèmes comme “conflict resolution, dealing with failure, company values, interpersonal communication, bureaucracy, IT innovations, personal health”. Chaque session commence par une présentation / cadrage ; puis discussion en groupe de 6 à 10 personnes.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;storytelling&quot;&gt;Storytelling&lt;/h4&gt;
-
-&lt;p&gt;Exemple : Center for Courage &amp;amp; Renewal. Pour accueillir les nouveaux, chacun fait un souhait pour eux, et raconte l’histoire de ce souhait avec un objet qui le symbolise.&lt;/p&gt;
-
-&lt;p&gt;Ou bien, dans un collège allemand, chaque vendredi est organisé une session de louange ou chacun peut, publiquement, remercier quelqu’un.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;(Cette partie là me semble un poil plus vaseuse.)&lt;/em&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;runions&quot;&gt;Réunions&lt;/h4&gt;
-
-&lt;p&gt;Mise en place de procédures qui permette de laisser de côté les égo et tirer le meilleur parti de réunions.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;A Buurtzorg, utilisation d’une méthode complexe proche de “Integrative Decision Making” dans l’Holacracy.&lt;/li&gt;
-  &lt;li&gt;A Sounds True, chaque réunion débute par 1 minute de silence.&lt;/li&gt;
-  &lt;li&gt;A FAVI, réunion débutant par chacun partageant une histoire brève au sujet de quelqu’un qu’ils ont récemment remercié ou félicité.&lt;/li&gt;
-  &lt;li&gt;Utilisation de petites cymbales, dont un participant à la réunion a la charge. Lorsque les discussions commencent à être parasitées par les égo, ils sonnent les cymbales, et personne n’a le droit de parler tant que le son des cymbales n’est pas complètement dissipé.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;engagement-et-horaires&quot;&gt;Engagement et horaires&lt;/h4&gt;
-
-&lt;p&gt;Possibilité de s’absenter, d’aménager ses horaires, à condition de trouver soi-même un arrangement avec ses collègues.&lt;/p&gt;
-
-&lt;h4 id=&quot;evaluation-des-performances&quot;&gt;Evaluation des performances&lt;/h4&gt;
-
-&lt;p&gt;Pas d’entretien unique une fois par an en scrutant une grille d’évaluation.&lt;/p&gt;
-
-&lt;p&gt;L’exemple de Sounds True :&lt;/p&gt;
-
-&lt;p&gt;Les personnes avec lesquels on bosse le plus répondent à deux questions :&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;qu’est-ce que j’apprécie le plus dans le fait de travailler avec toi ?&lt;/li&gt;
-  &lt;li&gt;quel est le domaine où je sens que tu pourrais changer et grandir ?&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Puis entretien avec un responsable ou un pair de confiance :&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;What do you take away from the discussions?&lt;/li&gt;
-  &lt;li&gt;What did you learn?&lt;/li&gt;
-  &lt;li&gt;What do you want to pay attention to in the future?&lt;/li&gt;
-  &lt;li&gt;Where do you feel called to go?&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;le-but-volutionnaire-evolutionary-purpose&quot;&gt;Le but évolutionnaire (Evolutionary purpose)&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;Poursuivre un noble but fait disparaitre la compétition&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Les nouvelles organisations parviennent à domestiquer les peurs et les ego de leurs membres, ce qui leur permet de ne plus être dans la recherche de leur propre préservation, et laisse l’espace pour explorer vraiment la question du sens et du but. &lt;em&gt;(ok, je pensais être une irréductible bisounours, mais y’a encore plus ché-per)&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;En se concentrant sur le noble but de l’entreprise (faire en sorte que les patients reçoivent les meilleurs soins possibles, qu’ils soient prodigués par notre entreprise ou une autre, par exemple), la notion de compétition ou de concurrence disparait. Voir l’exemple du fondateur de Buurtzorg qui prodigue gratuitement des conseils à ses concurrents.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Une organisation evolutive s’adapte aux changements (internes et externes)&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Aux maximes “Prédire et contrôler” ou “Stratégie et Exécution”, les dirigeants des organisations évolutives préfèrent “Sentir et répondre”.&lt;/p&gt;
-
-&lt;h4 id=&quot;stratgie&quot;&gt;Stratégie&lt;/h4&gt;
-
-&lt;p&gt;Les organisations évolutives prônent le “self-management”, qui permet à chacun d’être un “capteur”, de sentir les besoins ou opportunités, et d’initier des changements.&lt;/p&gt;
-
-&lt;p&gt;Cf Buurtzorg : 2 soignantes ont testé de faire un peu de prévention, et souhaitaient que ça se généralise à l’entreprise. Le dirigeant n’a pas évalué le pour et le contre, puis lancé une cellule pilote avant de généraliser peu à peu, région après région, non. A la place, il a suggéreé aux soignantes de décrire leur expérience, en donnant le maximum de d’éléments pour qu’elle soit reproductible, et de la partager aux autres équipes. N’importe quelle équipe que ça branchait avait alors la latitude pour commencer à faire à son tour de la prévention.&lt;/p&gt;
-
-&lt;p&gt;Le but n’est pas que chacun ait le même pouvoir, mais que chacun ait du pouvoir.&lt;/p&gt;
-
-&lt;p&gt;Des méthodes permettent de sentir collectivement où l’organisation veut aller : technique de la chaise vide (représentant l’organisation pendant les réunions), Theory U (par Otto Scharmer), Appreciative Inquiry, Open Space, Future Search, and World Café.&lt;/p&gt;
-
-&lt;h4 id=&quot;budget&quot;&gt;Budget&lt;/h4&gt;
-
-&lt;p&gt;Pas de budget ni d’objectifs chiffrés.&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;our goal is to be profitable not knowing how, instead of losing money knowing exactly why. (FAVI)&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h4 id=&quot;conduite-du-changement&quot;&gt;Conduite du changement&lt;/h4&gt;
-
-&lt;p&gt;Le changement se fait naturellement en interne, donc il n’y a pas à accompagner le changement&lt;/p&gt;
-
-&lt;h2 id=&quot;comment-arrive-t-on--une-organisation-volutionaire-&quot;&gt;Comment arrive-t-on à une organisation évolutionaire ?&lt;/h2&gt;
-
-&lt;h3 id=&quot;les-conditions-ncessaires&quot;&gt;Les conditions nécessaires&lt;/h3&gt;
-
-&lt;p&gt;1/ Le chef / fondateur / CEO doit voir le monde à travers la lentille évolutionnaire.
-2/ Les propriétaires de l’organisation aussi (pour que le leader ait les mains libres)&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;(oui mais qui décide que telle ou telle décision est une réussite ou un échec ? Sur quels critères ? Et comment sont fixés ces critères ? )&lt;/em&gt;&lt;/p&gt;
-</description>
-        <pubDate>Fri, 11 Nov 2016 00:00:00 +0100</pubDate>
-        <link>http://marges.clairezuliani.com/good_job/2016/11/11/reinventing-organizations-summary.html</link>
-        <guid isPermaLink="true">http://marges.clairezuliani.com/good_job/2016/11/11/reinventing-organizations-summary.html</guid>
-        
-        <category>faire a plusieurs</category>
         
         
         <category>good_job</category>

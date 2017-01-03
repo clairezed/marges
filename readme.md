@@ -189,6 +189,9 @@ Process
   - amélioration design :
     - interprétation markdown
     - design global
+  - Nouveau design possible :
+    - http://lanyon.getpoole.com/
+    - https://github.com/andrewbanchich/editorial-jekyll-theme
   - use jade !
   - ease of post (post title, post date)
   - mixer les categories et tags des depeches et dossiers
