@@ -2,7 +2,7 @@
 layout: post
 title: Association et numérique, l'édition 2016
 category: sustainable_code
-tags: [civic tech]
+tags: [civic tech, association]
 
 ---
 

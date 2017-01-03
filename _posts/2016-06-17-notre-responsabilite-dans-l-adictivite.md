@@ -2,7 +2,7 @@
 layout: post
 title: "Nous sommes tous des dealers de numérique"
 category: sustainable_code
-tags: [dont be evil]
+tags: [dont be evil, detox]
 
 ---
 
@@ -34,5 +34,3 @@ Lire aussi: [How Technology Hijacks People’s Minds — from a Magician and
 
 
 [source]: http://rue89.nouvelobs.com/2016/06/16/10-facons-dont-technologie-manipule-264364
-
-

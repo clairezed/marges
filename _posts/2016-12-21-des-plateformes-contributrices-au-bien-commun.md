@@ -37,6 +37,6 @@ Evidemment, énormément de questions se posent :
 
 Toujours est-il que les pistes évoquées sont stimulantes.
 
-Source : [La civic-tech française risque de se détourner de la création des biens communs numériques][source]
+Source : [Loyauté des plateformes, d’accord, mais loyauté à quoi ?][source]
 
 [source]: http://rue89.nouvelobs.com/2016/12/10/loyaute-plateformes-daccord-loyaute-a-quoi-265869

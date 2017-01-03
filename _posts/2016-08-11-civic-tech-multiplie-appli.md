@@ -2,7 +2,7 @@
 layout: post
 title: "La civic tech ne dope que les meilleurs athlètes"
 category: binary_transition
-tags: [civic tech]
+tags: [civic tech, tech-washing]
 
 ---
 

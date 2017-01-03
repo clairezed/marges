@@ -2,7 +2,7 @@
 title: A la poursuite des common-tech
 layout: post
 category: sustainable_code
-tags: [civic tech]
+tags: [civic tech, communs]
 ---
 
 Plaidoyer pour le développement d'une "common-tech".

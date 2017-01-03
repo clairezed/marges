@@ -92,7 +92,7 @@
     position: fixed;
     top: 62px;
     right: 0;
-    padding: 1rem 2rem;
+    padding: 1rem 2rem 7rem; // padding-bottom pour contrebalancer le top: 62px
     backface-visibility: hidden;
     text-align: left;
     height: 100%;

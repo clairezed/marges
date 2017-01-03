@@ -2,7 +2,7 @@
 layout: post
 title: "Repolitiser un contrat social mâtiné de numérique"
 category: binary_transition
-tags: [washing, politique, start up]
+tags: [tech-washing, politique, start up]
 
 ---
 
@@ -30,5 +30,3 @@ Source : [La politisation de la question technologique, condition d'un nouveau c
 
 
 [source]: http://www.huffingtonpost.fr/diana-filippova/la-politisation-de-la-que_b_10707504.html
-
-

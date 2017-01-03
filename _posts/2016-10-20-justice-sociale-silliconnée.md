@@ -2,7 +2,7 @@
 layout: post
 title: Justice sociale silliconnée
 category: sustainable_code
-tags: [faire a plusieurs]
+tags: [faire a plusieurs, dont be evil]
 
 ---
 

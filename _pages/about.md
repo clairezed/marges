@@ -26,4 +26,4 @@ Si vous avez des suggestions à me faire, des questions à réfléchir avec moi,
 **Proposez donc, je n'attends que ça !**
 
 
-<a href="http://www.clairezuliani.com" class="btn btn-primary" title="Portfolio" target="_blank">Portfolio</a>
+<a href="http://www.clairezuliani.com" class="btn btn-primary" title="Portfolio" target="_blank">Aller voir mon site</a>

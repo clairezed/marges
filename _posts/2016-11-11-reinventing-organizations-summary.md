@@ -2,7 +2,7 @@
 layout: post
 title: Reinventing Organizations, la fiche de lecture
 category: good_job
-tags: [faire a plusieurs]
+tags: [faire a plusieurs, a lire]
 
 ---
 

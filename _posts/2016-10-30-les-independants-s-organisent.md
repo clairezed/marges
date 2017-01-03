@@ -10,7 +10,7 @@ Coopération d'indépendants plutôt que concurrence ? Vive le retour de hype de
 
 <!--more-->
 
-[Shareable](www.shaerable.net) n'est jamais le dernier à saluer le (re-)déploiement de mécanismes favorisant la collaboration sur la concurrence. Cet état des lieux, des regroupements de cyclistes Take eat easy cherchant à faire valoir leurs droits au collectif d'entrepreneurs décentralisés d'Enspiral, permet de dégage des lignes de force à ces structurations :
+[Shareable](http://www.shareable.net/) n'est jamais le dernier à saluer le (re-)déploiement de mécanismes favorisant la collaboration sur la concurrence. Cet état des lieux, qui va des regroupements de cyclistes Take eat easy cherchant à faire valoir leurs droits au collectif d'entrepreneurs décentralisés d'Enspiral, permet de dégage des lignes de force à ces structurations :
 
 > Whether **fighting for living wages and basic rights**, or **collaborating on projects with fellow freelancers**, these initiatives share the larger aim of **creating meaning, dignity, and power in their work together**.
 

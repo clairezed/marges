@@ -2,7 +2,7 @@
 layout: post
 title: Viens chéri, on va tester l'appli de la mairie et se faire de la maille
 category: binary_transition
-tags: [civic tech]
+tags: [civic tech, empowerment]
 
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: Comment effectuer sa recherche de mécénat en tant que développeur indépendant ?
 category: good_job
-tags: [civic tech]
+tags: [financement, freelancing]
 
 ---
 

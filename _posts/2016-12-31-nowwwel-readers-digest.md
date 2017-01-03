@@ -2,10 +2,10 @@
 title: Nowwwel reader's digest
 layout: post
 category: sustainable_code
-tags: []
+tags: [a lire]
 ---
 
-Je prends enfin le temps de faire un petit tour sur les différents écrits réalisés pour [#nowwwel](https://twitter.com/search?q=%23nowwwel) ([très chouette proposition à l'initiative de Hteumeuleu](https://www.hteumeuleu.fr/en-decembre-ecrivez-partagez-hashtag-nowwwel/)) et de relever quelques articles qui me parlent.
+Je prends enfin le temps de faire un petit tour sur les différents écrits réalisés pour [#nowwwel](https://twitter.com/search?q=%23nowwwel) ([très chouette proposition](https://www.hteumeuleu.fr/en-decembre-ecrivez-partagez-hashtag-nowwwel/) à l'initiative de Hteumeuleu) et de relever quelques articles qui me parlent.
 
 <!--more-->
 
