@@ -7,17 +7,18 @@ url: http://localhost:4000
 
 markdown: kramdown
 kramdown:
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..2
-  enable_coderay: false
+  # auto_ids: true
+  # footnote_nr: 1
+  # entity_output: as_char
+  # toc_levels: 1..2
+  # enable_coderay: false
   # input: GFM
-  # hard_wrap: true
+  hard_wrap: true
 highlighter: rouge
 # lsi:         false
 excerpt_separator: <!--more-->
 # incremental: false
+encoding: utf-8
 
 # Sass ------------------------------------------------
 
@@ -43,6 +44,15 @@ include:
   - _pages
 # keep_files: []
 # permalink: /:categories/:title/
+
+# Exclusions
+exclude:
+  - "scripts"
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "readme.md"
+  - "Rakefile"
+
 
 # Collections ----------------------------------------------
 

@@ -226,7 +226,9 @@ http://lafabulerie.com/
 
 ### Coopaname
 
-### Faircoop
+[coopaname.coop](http://www.coopaname.coop/)
+
+### Fair Coop
 
 Coopérative organisée via internet qui vise à réduire les inégalités. Son organisation repose sur les principes de **collaboration pair-à-pair** établis par la P2P Foundation. La décentralisation est un élément clef de l’organisation qui repose sur des assemblées ouvertes, des formes de participation libre, un processus de décision démocratique et sur la transparence. FairCoop est organisé en groupes de travail, eux-mêmes organisés en assemblée ouverte. Pour se coordonner, les coopérants ont recours à Trello, permettant d’organiser les flux de travail des différents groupes en priorités. Actuellement, les animateurs réfléchissent à développer un système démocratique et un processus de réputation basé sur la Blockchain.
 

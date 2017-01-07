@@ -13,22 +13,55 @@ Comment bien commencer un projet ? Quelques outils déjà utilisés ou à tester
 
 <!--more-->
 
-**MICRO SOMMAIRE :**
+<!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-* [Design](#design)
-* [Code](#code)
-* [DevOps](#devops)
-* [Bureautique](#bureautique)
-* [Administratif](#administratif)
+- [Général](#gnral)
+	- [Listes](#listes)
+	- [Alternatives](#alternatives)
+- [Design](#design)
+	- [Listes de ressources](#listes-de-ressources)
+	- [Checklist](#checklist)
+	- [Prototypage / Wireframe / Mockups](#prototypage-wireframe-mockups)
+	- [Couleurs](#couleurs)
+	- [Templates](#templates)
+	- [Photos](#photos)
+	- [Retoucher vite fait une image](#retoucher-vite-fait-une-image)
+	- [Trouver l'inspiration](#trouver-linspiration)
+		- [Plutôt web](#plutt-web)
+		- [Plutot élément web (UI)](#plutot-lment-web-ui)
+		- [Plutôt typo](#plutt-typo)
+		- [Plutôt agences et sites qui me bottent](#plutt-agences-et-sites-qui-me-bottent)
+- [Code](#code)
+	- [Boilerplates](#boilerplates)
+	- [Lib](#lib)
+- [DevOps](#devops)
+	- [Performance](#performance)
+	- [Hébergement](#hbergement)
+	- [Sys Admin](#sys-admin)
+- [Bureautique](#bureautique)
+	- [Mail anonyme / secure](#mail-anonyme-secure)
+	- [Gestion de docs](#gestion-de-docs)
+	- [Sauvegarde / Partage de docs](#sauvegarde-partage-de-docs)
+	- [Messagerie](#messagerie)
+	- [Gif (dans un but pro, bien sûr)](#gif-dans-un-but-pro-bien-sr)
+- [Administratif](#administratif)
 
+<!-- /TOC -->
 
 ## Général
 
+### Listes
+
 - [Awesome](https://github.com/sindresorhus/awesome) : Curated list of awesome lists
 - [Awesome awesomess](https://github.com/bayandin/awesome-awesomeness)
+- [Repos les + likés sur github](https://github.com/search?utf8=%E2%9C%93&q=stars%3A%3E0&type=Repositories&ref=searchresults)
 
 
-## <a name="design"></a> Design
+### Alternatives
+
+- [Indieweb](https://indieweb.org/)
+
+## Design
 
 ### Listes de ressources
 
@@ -44,11 +77,13 @@ Comment bien commencer un projet ? Quelques outils déjà utilisés ou à tester
 - [UX Checklist](https://uxchecklist.github.io/)
 - [IXD Checklist](http://ixdchecklist.com/)
 
-### Mockups
+### Prototypage / Wireframe / Mockups
 
 -   http://littleplaneapp.com/
+- [Pingendo](http://pingendo.com/v4-beta/) : Dead-simple builder for Bootstrap 4
+- [Figma](https://www.figma.com/)
 
-### COuleurs
+### Couleurs
 
 - [Palettable](http://www.palettable.io/) : générations de palettes cohérentes
 - [Coolors](https://coolors.co) : comme palettable, mais plus touffu
@@ -92,23 +127,15 @@ Comment bien commencer un projet ? Quelques outils déjà utilisés ou à tester
 
 - [Discover Typography](http://discover.typography.com/)
 
-#### Plutôt agences
+#### Plutôt agences et sites qui me bottent
 
 - [Extra Bold](http://www.extra-bold.net/references/)
 - [Collectif Yay](http://www.collectif-yay.com/)
 - [SuperHuit](http://superhuit.ch/)
-
-#### Plutôt sites web
-
 - [Makeshift](http://mkshft.org/)
 
 
-## <a name="code"></a> Code
-
-### Listes de ressources
-
-* [Liste de listes *awesome*](https://github.com/sindresorhus/awesome)
-* [Repos les + likés sur github](https://github.com/search?utf8=%E2%9C%93&q=stars%3A%3E0&type=Repositories&ref=searchresults)
+## Code
 
 ### Boilerplates
 
@@ -121,9 +148,10 @@ Comment bien commencer un projet ? Quelques outils déjà utilisés ou à tester
 - [Accelerated Mobile Pages (AMP) Project](https://www.ampproject.org/) : Fast and responsive custom elements as part of a larger spec to build content pages easily.
 - [Packery](http://packery.metafizzy.co/) : Gapless, draggable grid layouts
 - [Simple Sharing Buttons Generator](https://simplesharingbuttons.com) : Create light-weight, mobile-friendly sharing buttons for Facebook, Twitter, Google+ and other social networks -- it's all completely free!
+- [flatpickr](https://github.com/chmln/flatpickr) : lightweight and powerful datetimepicker with no dependencies
 
 
-## <a name="devops"></a> DevOps
+## DevOps
 
 ### Performance
 - [Perftool](http://performance-tool.devbridge.com/) : Collect information about your website and display it in an easy-to-digest manner.
@@ -133,7 +161,7 @@ Comment bien commencer un projet ? Quelques outils déjà utilisés ou à tester
 - www.000webhost.com
 - yunohost
 - unhosted
-- https://netlib.re/ : Netlib.re vous donne un nom de domaine, gratuitement et simplement
+- [Netlib](https://netlib.re/) : Netlib.re vous donne un nom de domaine, gratuitement et simplement
 
 ### Sys Admin
 
@@ -141,7 +169,7 @@ Comment bien commencer un projet ? Quelques outils déjà utilisés ou à tester
 - [Security guide for developers (github)](https://github.com/FallibleInc/security-guide-for-developers)
 
 
-## <a name="bureautique"></a> Bureautique
+## Bureautique
 
 ### Mail anonyme / secure
 
@@ -173,6 +201,6 @@ Zaclys : comme openmailbox mais mieux
 
 - [Peek - an animated GIF recorder](https://github.com/phw/peek)
 
-## <a name="administratif"></a> Administratif
+##  Administratif
 
 - [Contrats Français](https://github.com/tibastral/contrats-francais) : Exemples de Conditions générales d'achat, de vente, de développement d'application web, de scénario utilisateurs

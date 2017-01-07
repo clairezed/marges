@@ -50,6 +50,8 @@ Prise de note sur la collaboration, l'animation de communauté...
 - [kaleidos-coop](http://kaleidos-coop.org/wakka.php?wiki=PagePrincipale)
 - [Kit de l'Innovation Métier Publique (Web, USB, Physique)](https://github.com/InnovMetierEtat/Kit-Innovation-Metier)
 - [Peeragogy](https://peeragogy.github.io/)
+- [hyperisland toolbox](http://toolbox.hyperisland.com/) : A resource kit you can use to apply creative collaboration and unleash potential in your team or organization
+- [MediaLab Amsterdam Toolkit](http://medialabamsterdam.com/toolkit/)
 
 ## Designer des services à plusieurs
 
