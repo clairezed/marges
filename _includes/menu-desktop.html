@@ -41,7 +41,8 @@
 
   <ul class="menu">
     <li class="menu-header"> Tags ({{site.tags.size}}) </li>
-    {% for tag in site.tags %}
+    {% assign tags = site.tags | sort %}
+    {% for tag in tags %}
       <li class="menu-item">
         <a class="item" href="{{ site.baseurl }}/tags/{{tag[0]}}">
          {{ tag[0] }}

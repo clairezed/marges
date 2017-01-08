@@ -18,7 +18,6 @@ highlighter: rouge
 # lsi:         false
 excerpt_separator: <!--more-->
 # incremental: false
-encoding: utf-8
 
 # Sass ------------------------------------------------
 
@@ -62,7 +61,7 @@ defaults:
       path: "" # an empty string here means all files in the project
       type: "posts" #pages, posts, drafts
     values:
-      layout: "default"
+      layout: "post"
 
 collections:
   studies:

@@ -3,7 +3,7 @@
     <h4 class="card-title">
       <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
     </h4>
-    <h6 class="card-meta">{{ post.date | date: "%b %-d, %Y" }}</h6>
+    <h6 class="card-meta">{{ post.date | localize: ":excerpt" }}</h6>
   </div>
   <div class="card-body">
     {{ post.excerpt | microtypo: "fr_FR" }}

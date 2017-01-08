@@ -5,8 +5,7 @@ permalink: tech-changement-social-open-source
 tags:
 - faire a plusieurs
 - carte
-categories:
-- binary_transition
+category: binary_transition
 ---
 
 

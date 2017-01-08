@@ -3,13 +3,15 @@
     <h4 class="card-title">
       <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
     </h4>
-    <h6 class="card-meta">{{ post.updated_at | date: "%b %-d, %Y" }}</h6>
+    <h6 class="card-meta">Dernière mise à jour : {{ post.updated_at | localize: ":excerpt" }}</h6>
   </div>
   <div class="card-body">
     {{ post.excerpt }}
   </div>
   <div class="card-footer">
-    <a href="{{ post.url | prepend: site.baseurl }}" class="btn btn-link float-right">Lire +</a>
+    <a href="{{ post.url | prepend: site.baseurl }}" class="btn btn-link float-right">
+      Lire <span class="icon icon-arrow-right2"></span>
+    </a>
     <a href="{{ site.baseurl }}/lubies/{{post.category}}">
       <span class="post-meta label label-primary">{{ site.data.categories[post.category].title }}</span>
     </a>
@@ -21,4 +23,3 @@
 
   </div>
 </div>
-

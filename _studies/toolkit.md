@@ -133,6 +133,8 @@ Comment bien commencer un projet ? Quelques outils déjà utilisés ou à tester
 - [Collectif Yay](http://www.collectif-yay.com/)
 - [SuperHuit](http://superhuit.ch/)
 - [Makeshift](http://mkshft.org/)
+- [Elbow](http://elbowsydney.com.au/contact-us/)
+- [Jeff Chang](http://jeffchang.net/)
 
 
 ## Code
