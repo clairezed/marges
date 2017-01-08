@@ -9,7 +9,9 @@
     {{ post.excerpt | microtypo: "fr_FR" }}
   </div>
   <div class="card-footer">
-    <a href="{{ post.url | prepend: site.baseurl }}" class="btn btn-link float-right">Lire +</a>
+    <a href="{{ post.url | prepend: site.baseurl }}" class="btn btn-link float-right">
+      Lire <span class="icon icon-arrow-right2"></span>
+    </a>
     <a href="{{ site.baseurl }}/lubies/{{post.category}}">
       <span class="post-meta label label-primary">{{ site.data.categories[post.category].title }}</span>
     </a>

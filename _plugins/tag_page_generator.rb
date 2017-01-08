@@ -13,7 +13,8 @@ module Jekyll
       self.process(@name)
       self.read_yaml(File.join(base, '_layouts'), 'tag_page.html')
       self.data['tag'] = tag
-      self.data['title'] = "Contenu avec le tag #{tag}"
+      self.data['title'] = tag
+      self.data['subtitle'] = "Toutes les dépêches avec le tag \"#{tag}\""
     end
   end
 

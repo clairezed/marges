@@ -4,14 +4,17 @@ title: Dossiers
 permalink: /dossiers
 ---
 
-<header class="post-header card-header">
-  <h1 class="post-title">{{ page.title }}</h1>
+<header class="page-header">
+  <h1 class="post-title">
+    <span>{{ page.title }}</span>
+  </h1>
+
+  <span class="icon icon-arrow-right2"></span>
+  <p class="desc">
+    <span>Liste des dossiers et investigations, des gros morceaux sur lesquels je travaille et que je fais évoluer un peu en continu.</span>
+  <p>
 </header>
 
-<p>Liste des dossiers et investigations, des gros morceaux sur lesquels je travaille et que je fais évoluer un peu en continu.<p>
-
-<hr>
-<br>
 
 <div class="post-list">
 {% assign studies = (site.studies | sort: 'updated_at') | reverse %}
@@ -19,4 +22,3 @@ permalink: /dossiers
     {% include _page-card-excerpt.html %}
   {% endfor %}
 </div>
-
