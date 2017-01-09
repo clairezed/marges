@@ -9,6 +9,8 @@ p, li {
     vertical-align: bottom;
     /*overflow: hidden;*/
     font-weight: 600;
+    overflow: hidden;
+    font-weight: 500;
 
     /*&:hover{
       color: $brand-primary;
@@ -27,30 +29,14 @@ p, li {
       font-smoothing: antialiased;
   }
 
-  a {
-    overflow: hidden;
-    font-weight: 500;
-  }
-  // 
-  // a::before {
-  //   position: absolute;
-  //   top: 0;
-  //   left: 0;
-  //   z-index: -1;
-  //   width: 100%;
-  //   height: 100%;
-  //   background-color: rgba(52,73,94,0.2);
-  //   content: '';
-  //   -webkit-transition: -webkit-transform 0.2s;
-  //   transition: transform 0.2s;
-  //   -webkit-transform: translateY(95%);
-  //   transform: translateY(95%);
-  // }
-  //
-  // a:hover::before,
-  // a:focus::before {
-  //   -webkit-transform: translateY(0);
-  //   transform: translateY(0);
-  // }
+}
+.link-underline:hover {
+  text-decoration: underline;
+}
+.tag-list::after {
+  content: ",";
+}
 
+.tag-list:last-child::after {
+    content: "";
 }

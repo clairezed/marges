@@ -9,6 +9,16 @@
   <div class="card-body">
     {{ post.excerpt }}
   </div>
+<!-- <div class="container">
+  <div class="columns">
+      <div class="column col-md-2 col-xs-4">Date</div>
+      <div class="column col-md-2 col-xs-4">reading_speed</div>
+      <div class="column col-md-2 col-xs-4">categories</div>
+      <div class="column col-md-4 col-xs-8">tags</div>
+      <div class="column col-md-2 col-xs-4">read</div>
+  </div>
+  </div> -->
+
 
 
   <table class="table table-meta">
@@ -16,21 +26,40 @@
       <tr>
         <td>
           <span title="Date de la dernière mise à jour">
-            <span class="icon icon-calendar"></span>
-            {{ post.updated_at | localize: ":excerpt" }}
+            <span class="icon icon-calendar hide-xs"></span>
+            <span class="hide-xs">{{ post.updated_at | localize: ":excerpt" }}</span>
+            <span class="show-xs">{{ post.updated_at | localize: "%d %b %y" }}</span>
           </span>
         </td>
         <td>
           <span>{% include _reading_time.html.liquid content=post.content %}</span>
         </td>
         <td>
-          <a href="{{ site.baseurl }}/lubies/{{post.category}}">
+          <a class="link-underline" href="{{ site.baseurl }}/lubies/{{post.category}}">
             <span>{{ site.data.categories[post.category].title }}</span>
           </a>
         </td>
-
+        <!-- Hidden on mobile -->
         {% if post.tags.size > 0 %}
-          <td>
+          <td class="hide-xs">
+            <span class="icon icon-price-tag"></span>
+            {% for tag in post.tags %}
+            <a class="link-underline tag-list" href="{{ site.baseurl }}/tags/{{tag}}">
+              <span class="">{{ tag }}</span>
+            </a>
+            {% endfor %}
+          </td>
+        {% endif %}
+        <td class="table-read-link hide-xs">
+          <a href="{{ post.url | prepend: site.baseurl }}">
+            Lire l'article
+          </a>
+        </td>
+      </tr>
+      <!-- Shown on mobile -->
+      <tr class="show-xs" >
+        {% if post.tags.size > 0 %}
+          <td colspan="2">
             <span class="icon icon-price-tag"></span>
             {% for tag in post.tags %}
             <a href="{{ site.baseurl }}/tags/{{tag}}">

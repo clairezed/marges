@@ -1,4 +1,4 @@
-.table.table-meta{
+.table-meta{
   font-size: 1.3rem;
   color: $brand-primary;
   margin-top: 1.5rem;
@@ -8,14 +8,20 @@
     padding: 0.8rem 1.5rem;
     &:not(:first-child){
       border-left: .1rem solid $brand-primary;
-
     }
+  }
+  a{
+    @include transition (all 0.7s ease-in-out);
+  }
+  a:hover{
+    color: darken($brand-primary, 10%);
   }
   .table-read-link{
     text-align: right;
     background-color: $brand-primary;
     color: #fff;
     cursor: pointer;
+    @include transition (all 0.7s ease-in-out);
     &:hover{
       background-color: darken($brand-primary, 10%);
     }
