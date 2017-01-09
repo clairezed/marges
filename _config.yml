@@ -68,3 +68,6 @@ collections:
     output: true
     permalink: /:collection/:path/
     title: Dossiers
+
+# config vars -------------------------------------------------
+reading_speed: 200

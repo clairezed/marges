@@ -4,6 +4,7 @@
       <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
     </h4>
     <h6 class="card-meta">{{ post.date | localize: ":excerpt" }}</h6>
+    <h6 class="card-meta">{% include _reading_time.html.liquid content=post.content %}</h6>
   </div>
   <div class="card-body">
     {{ post.excerpt | microtypo: "fr_FR" }}

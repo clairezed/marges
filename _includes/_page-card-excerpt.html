@@ -1,25 +1,76 @@
 <div class="card">
+
   <div class="card-header">
-    <h4 class="card-title">
+    <h2 class="card-title">
       <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-    </h4>
-    <h6 class="card-meta">Dernière mise à jour : {{ post.updated_at | localize: ":excerpt" }}</h6>
+    </h2>
   </div>
+
   <div class="card-body">
     {{ post.excerpt }}
   </div>
-  <div class="card-footer">
-    <a href="{{ post.url | prepend: site.baseurl }}" class="btn btn-link float-right">
-      Lire <span class="icon icon-arrow-right2"></span>
-    </a>
-    <a href="{{ site.baseurl }}/lubies/{{post.category}}">
-      <span class="post-meta label label-primary">{{ site.data.categories[post.category].title }}</span>
-    </a>
-    {% for tag in post.tags %}
-    <a href="{{ site.baseurl }}/tags/{{tag}}">
-      <span class="post-meta label">{{ tag }}</span>
-      </a>
-    {% endfor %}
 
-  </div>
+
+  <table class="table table-meta">
+    <tbody>
+      <tr>
+        <td>
+          <span title="Date de la dernière mise à jour">
+            <span class="icon icon-calendar"></span>
+            {{ post.updated_at | localize: ":excerpt" }}
+          </span>
+        </td>
+        <td>
+          <span>{% include _reading_time.html.liquid content=post.content %}</span>
+        </td>
+        <td>
+          <a href="{{ site.baseurl }}/lubies/{{post.category}}">
+            <span>{{ site.data.categories[post.category].title }}</span>
+          </a>
+        </td>
+
+        {% if post.tags.size > 0 %}
+          <td>
+            <span class="icon icon-price-tag"></span>
+            {% for tag in post.tags %}
+            <a href="{{ site.baseurl }}/tags/{{tag}}">
+              <span>{{ tag }}</span>
+            </a>
+            {% endfor %}
+          </td>
+        {% endif %}
+        <td class="table-read-link">
+          <a href="{{ post.url | prepend: site.baseurl }}">
+            Lire l'article
+          </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+  <!--
+  <table class="table table-meta">
+    <tbody>
+      <tr>
+        {% if post.tags.size > 0 %}
+          <td>
+            <span class="icon icon-price-tag"></span>
+            {% for tag in post.tags %}
+            <a href="{{ site.baseurl }}/tags/{{tag}}">
+              <span>{{ tag }}</span>
+            </a>
+            {% endfor %}
+          </td>
+        {% endif %}
+        <td class="table-read-link">
+          <a href="{{ post.url | prepend: site.baseurl }}">
+            Lire l'article
+          </a>
+        </td>
+      </tr>
+    </tbody>
+  </table> -->
+
+
+
 </div>

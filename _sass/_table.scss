@@ -1,0 +1,31 @@
+.table.table-meta{
+  font-size: 1.3rem;
+  color: $brand-primary;
+  margin-top: 1.5rem;
+  td{
+    border-top: .1rem solid $brand-primary;
+    border-bottom: 0;
+    padding: 0.8rem 1.5rem;
+    &:not(:first-child){
+      border-left: .1rem solid $brand-primary;
+
+    }
+  }
+  .table-read-link{
+    text-align: right;
+    background-color: $brand-primary;
+    color: #fff;
+    cursor: pointer;
+    &:hover{
+      background-color: darken($brand-primary, 10%);
+    }
+    a{
+      display:block;
+      width: 100%;
+      height: 100%;
+      &:hover{
+        color: #fff;
+      }
+    }
+  }
+}

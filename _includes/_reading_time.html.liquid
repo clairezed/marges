@@ -1,0 +1,9 @@
+{% capture readtime %}
+  {{ include.content | number_of_words | append: '.0' | divided_by:site.reading_speed | ceil }}
+{% endcapture %}
+<span title=" Environ {{readtime}} min de lecture">
+  <span class="icon icon-clock">
+    <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-clock"></use>
+  </span>
+  {{ readtime }} min
+</span>

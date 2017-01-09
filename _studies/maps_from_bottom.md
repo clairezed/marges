@@ -63,13 +63,20 @@ https://wiki.transformaps.net/wiki/Main_Page
 - [L'épopée d'un développeur front au pays des cartes](https://www.paris-web.fr/2016/conferences/l-epopee-d-un-developpeur-front-au-pays-des-cartes.php) ([diaporama](https://docs.google.com/presentation/d/1SCyIQAczqyZCQWKS-K8nTVMnVJP6_DLHK3QG9t7ToXc/edit#slide=id.g1132b3dbc3_0_0))
 - http://www.fantasticmaps.com/
 - [Geofabrik Tools - Map Compare](http://tools.geofabrik.de/)
+- [Le jour où j'ai fait les poubelles](http://florian.lainez.fr/le-jour-ou-jai-fait-les-poubelles/) : récit d'une collecte et traitement de données sur open street map
 
 ### Tech
+
+#### Collecte des données
+
+- [Mapotempo](https://www.mapotempo.com/) : Logiciels de planification et d’optimisation de tournées
+- [Mapillary](https://www.mapillary.com/) : Street-Level Photos for Everyone -> positionnement de photo sur une carte à la street view
 
 #### Formats
 
 - geoJSON
 - KML
+- référentiels à créer dans openstreetmap : https://wiki.openstreetmap.org/wiki/WikiProject_France/FR:Trilib
 
 #### Javascript API
 
@@ -78,6 +85,7 @@ https://wiki.transformaps.net/wiki/Main_Page
 - mapbox
 - [Mapzen](https://mapzen.com/)
 - CartoDB  (PostgreSQL + PostGIS + CARTO + CartoCSS)
+- [map contrib](https://www.cartes.xyz/) : Thematic OpenStreetMap contribution
 
 #### Ingrédients
 
