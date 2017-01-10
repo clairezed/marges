@@ -1,0 +1,45 @@
+---
+layout: base
+---
+<article class="card">
+
+  <header class="page-header card-header">
+    <h1 class="post-title">
+      <span>{{ page.title }}</span>
+    </h1>
+  </header>
+
+  <div class="post-content card-body">
+    {{ content | microtypo: "fr_FR" }}
+  </div>
+
+  <!-- DESKTOP -->
+
+  <table class="table table-meta">
+    <tbody>
+      <tr>
+        <!-- portfolio-->
+        <td>
+          <span>
+            <a href="http://www.clairezuliani.com/contact" title="Prendre contact" target="_blank">Contact</a>
+          </span>
+        </td>
+        <!-- portfolio-->
+        <td>
+          <span>
+            <a href="http://www.clairezuliani.com" title="Portfolio" target="_blank">Portfolio</a>
+          </span>
+        </td>
+
+        <!-- github -->
+        <td>
+          <span class="icon icon-github">
+            <a href="https://github.com/clairezed" title="Github" target="_blank">Github</a>
+          </span>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+
+</article>

@@ -1,15 +1,10 @@
 ---
-layout: page
+layout: about
 title: Qu'est-ce donc que ceci ?
 permalink: /c-est-quoi-don
 ---
-*Juillet 2016 - ouverture de ce carnet\\
-Le placo vient à peine d'être posé, le choix de la peinture est même pas définitif et les finitions ne sont qu'un horizon très lointain. Mais il faut bien ouvrir ce carnet à un moment, sinon les brouillons d'articles et de notes s'accumulent ! (rassurez-vous, c'est déjà plus que le cas. Si vous aimez les articles antédatés, vous allez vous régaler.)\\
-Bref, rien de tout ceci n'est fini, j'espère bienveillance et indulgence !*
 
----
-
-Ce carnet est rédigé par une trentenaire qui veut **ré-assembler ensemble des petites pièces disparates**.
+Ce carnet est rédigé par une développeuse web trentenaire qui veut **ré-assembler ensemble des petites pièces disparates**.
 
 Après avoir fait des études et exercé le métier de **cultureuse associative** (et en être revenue), je suis depuis une poignée d'années **tuyauteuse de code** (développeuse principalement back-end, quoi).
 
@@ -24,6 +19,3 @@ Ce carnet, je l'ouvre à un moment où :
 
 Si vous avez des suggestions à me faire, des questions à réfléchir avec moi, des propositions de lectures, ou des propositions de projets, ou des propositions de missions...\\
 **Proposez donc, je n'attends que ça !**
-
-
-<a href="http://www.clairezuliani.com" class="btn btn-primary" title="Portfolio" target="_blank">Aller voir mon site</a>

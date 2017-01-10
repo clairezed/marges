@@ -41,6 +41,8 @@ $desktop-width: 1024px;
    }
 }
 
+
+
 .show-xs {
   @include tablet {
     display: none!important;

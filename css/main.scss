@@ -5,12 +5,26 @@
 
 @font-face{
 	font-family: 'Rubik';
+	font-style: normal;
+	font-weight: 400;
 	src: url('../font/Rubik-Regular-webfont.eot');
 	src: url('../font/Rubik-Regular-webfont.eot?iefix') format('eot'),
 	     url('../font/Rubik-Regular-webfont.woff') format('woff'),
 	     url('../font/Rubik-Regular-webfont.ttf') format('truetype'),
 	     url('../font/Rubik-Regular-webfont.svg#webfont') format('svg');
 }
+
+@font-face{
+	font-family: 'Rubik';
+	font-style: normal;
+	font-weight: 800;
+	src: url('../font/Rubik-Bold-webfont.eot');
+	src: url('../font/Rubik-Bold-webfont.eot?iefix') format('eot'),
+	     url('../font/Rubik-Bold-webfont.woff') format('woff'),
+	     url('../font/Rubik-Bold-webfont.ttf') format('truetype'),
+	     url('../font/Rubik-Bold-webfont.svg#webfont') format('svg');
+}
+
 // Our variables
 $base-font-family: "Rubik", "Helvetica Neue", Helvetica, Arial, sans-serif;
 $base-font-size:   16px;
@@ -74,5 +88,6 @@ $brand-primary-dark:    darken($brand-primary, 5%);
         "card",
         "table",
 				"page",
+				"content",
         "syntax-highlighting"
 ;

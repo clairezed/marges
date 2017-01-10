@@ -17,11 +17,16 @@
     color: darken($brand-primary, 10%);
   }
   .table-read-link{
-    text-align: right;
     background-color: $brand-primary;
     color: #fff;
-    cursor: pointer;
+    text-align: center;
+    padding: 0.8rem 1.5rem;
     @include transition (all 0.7s ease-in-out);
+    cursor: pointer;
+    &.table-read-link-excerpt{
+      width: 100px;
+      text-align: right;
+    }
     &:hover{
       background-color: darken($brand-primary, 10%);
     }

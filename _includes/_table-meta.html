@@ -1,0 +1,126 @@
+<!-- DESKTOP -->
+
+<table class="table table-meta hide-xs">
+  <tbody>
+    <tr>
+      <!-- previous page -->
+      {% if page.previous.url %}
+        <td class="table-read-link">
+          <a class="post-link" href="{{ page.previous.url | prepend: site.baseurl }}"
+          title="Article précédent : {{ page.previous.title }}">
+            <span class="icon icon-arrow-left2"></span>
+          </a>
+        </td>
+      {% endif %}
+
+      <!-- date to display -->
+      <td>
+        <span title="{{include.date_title}}">
+          <span class="icon icon-calendar"></span>
+          <span>
+              {{ include.display_date | date: "%d %b %Y" }}
+            </span>
+        </span>
+      </td>
+
+      <!-- reading time -->
+      <td>
+        <span>{% include _reading_time.html.liquid content=page.content %}</span>
+      </td>
+
+      <!-- lubies -->
+      <td>
+        <a class="link-underline" href="{{ site.baseurl }}/lubies/{{page.category}}">
+          <span>{{ site.data.categories[page.category].title }}</span>
+        </a>
+      </td>
+      <!-- Tags -->
+      {% if page.tags.size > 0 %}
+        <td>
+          <span class="icon icon-price-tag"></span>
+          {% for tag in page.tags %}
+          <a class="link-underline tag-list" href="{{ site.baseurl }}/tags/{{tag}}">
+            <span class="">{{ tag }}</span>
+          </a>
+          {% endfor %}
+        </td>
+      {% endif %}
+
+      {% if page.next.url %}
+        <td class="table-read-link">
+          <a class="post-link float-right" href="{{ page.next.url | prepend: site.baseurl }}"
+            title="Article suivant : {{page.next.title}}">
+            <span class="icon icon-arrow-right2"></span>
+          </a>
+        </td>
+      {% endif %}
+
+    </tr>
+  </tbody>
+</table>
+
+<!-- MOBILE ================================================================-->
+
+<table class="table table-meta show-xs">
+  <tbody>
+    <tr>
+      <!-- date to display -->
+      <td>
+        <span title="{{include.date_title}}">
+          <span class="icon icon-calendar"></span>
+          <span>
+            {{ include.display_date | date: "%d %b %y" }}
+          </span>
+        </span>
+      </td>
+      <!-- lubies -->
+      <td>
+        <a class="link-underline" href="{{ site.baseurl }}/lubies/{{page.category}}">
+          <span>{{ site.data.categories[page.category].title }}</span>
+        </a>
+      </td>
+    </tr>
+
+    <tr>
+      <!-- reading time -->
+      <td>
+        <span>{% include _reading_time.html.liquid content=page.content %}</span>
+      </td>
+
+      <!-- Tags -->
+        <td>
+          {% if page.tags.size > 0 %}
+          <span class="icon icon-price-tag"></span>
+          {% for tag in page.tags %}
+          <a class="link-underline tag-list" href="{{ site.baseurl }}/tags/{{tag}}">
+            <span class="">{{ tag }}</span>
+          </a>
+          {% endfor %}
+          {% endif %}
+        </td>
+    </tr>
+
+      <!-- previous page -->
+      <td class="table-read-link">
+        {% if page.previous.url %}
+        <a class="post-link" href="{{ page.previous.url | prepend: site.baseurl }}"
+        title="Article précédent : {{ page.previous.title }}">
+        <span class="icon icon-arrow-left2"></span>
+      </a>
+      {% endif %}
+    </td>
+
+        <td class="table-read-link">
+          {% if page.next.url %}
+          <a class="post-link float-right" href="{{ page.next.url | prepend: site.baseurl }}"
+            title="Article suivant : {{page.next.title}}">
+            <span class="icon icon-arrow-right2"></span>
+          </a>
+          {% endif %}
+        </td>
+    </tr>
+
+
+
+  </tbody>
+</table>

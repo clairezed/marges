@@ -7,9 +7,15 @@ tags: [faire a plusieurs, carte]
 category: binary_transition
 ---
 
-Depuis mon arrivée dans ma nouvelle ville, je suis fascinée par le nombre de commerces vacants, laissés pour certains à l'abandon depuis ce qui semble etre des années. Ca fait longtemps que je garde une oreille intéressée pour tout ce qui est de l'ordre de la réappropriation par les quidams de toute sorte de chose, et notamment des espaces urbains, et là, voir tous ces potentiels inexploités, ça me fait bouillir.
+Depuis mon arrivée dans ma nouvelle ville, je suis fascinée par le nombre de commerces vacants, laissés pour certains à l'abandon depuis ce qui semble être des années. Ca fait longtemps que je garde une oreille intéressée pour tout ce qui est de l'ordre de la réappropriation par les quidams de toute sorte de chose, et notamment des espaces urbains, et là, voir tous ces potentiels inexploités, ça me fait bouillir.
 
 <!--more-->
+
+Alors, peut être est-ce dans l'air du temps, peut être suis-je tout simplement + attentive actuellement à ce type de projets... Toujours est-il que je tombe beaucoup en ce moment sur des projets de cartographie d'espaces vacants, de répertoires de lieux à transformer, de processus de récupération d'endroits inexploités.
+
+
+Il est temps de commencer un recueil, étude préliminaire avant de commencer (bientôt ?) un projet.
+
 
 
 <!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
@@ -17,20 +23,17 @@ Depuis mon arrivée dans ma nouvelle ville, je suis fascinée par le nombre de c
 - [Ressources générales](#ressources-gnrales)
 	- [TransforMap](#transformap)
 	- [Articles, présentations](#articles-prsentations)
-	- [Tech](#tech)
-		- [Formats](#formats)
-		- [Javascript API](#javascript-api)
-		- [Ingrédients](#ingrdients)
+- [Tech](#tech)
+	- [Collecte des données](#collecte-des-donnes)
+	- [Réalisation de cartes](#ralisation-de-cartes)
+	- [Fonds de carte, basemap](#fonds-de-carte-basemap)
+		- [Réexploiter des styles existants](#rexploiter-des-styles-existants)
+		- [Créer des styles custom](#crer-des-styles-custom)
 - [Projets existants](#projets-existants)
 	- [Lande](#lande)
-		- [Qui](#qui)
-		- [Application web (2015)](#application-web-2015)
-		- [Recherche (2016)](#recherche-2016)
 	- [596 acres](#596-acres)
-		- [Application web (2011)](#application-web-2011)
-	- [Cartographies ESS, etc](#cartographies-ess-etc)
-- [Projet : carte de l'innovation sociale et numérique Grand Est](#projet-carte-de-linnovation-sociale-et-numrique-grand-est)
-	- [Exemples](#exemples)
+	- [Ushahidi](#ushahidi)
+- [Exemples de cartographies d'acteurs locaux](#exemples-de-cartographies-dacteurs-locaux)
 - [Projet : cartographie des espaces vacants](#projet-cartographie-des-espaces-vacants)
 	- [Cartographie de base](#cartographie-de-base)
 	- [Cartographie informative](#cartographie-informative)
@@ -38,11 +41,6 @@ Depuis mon arrivée dans ma nouvelle ville, je suis fascinée par le nombre de c
 	- [Besoins techniques](#besoins-techniques)
 
 <!-- /TOC -->
-
-
-Alors, peut etre est-ce dans l'air du temps, peut etre suis-je tout simplement + attentive actuellement à ce type de projets... Toujours est-il que je tombe beaucoup en ce moment sur des projets de cartographie d'espaces vacants, de répertoires de lieux à transformer, de processus de récupération d'endroits inexploités.
-
-Il est temps de commencer un recueil. L'étude préliminaire avant de commencer (bientôt ?) un projet ici.
 
 ## Ressources générales
 
@@ -53,75 +51,64 @@ TransforMap works towards an online platform to visualize the myriad of alternat
 
 Ca parle d'outils, de taxonomie, d'api communs, mais je n'en trouve pas de traces véritablement formalisées.
 
-http://transformap.co/
-https://wiki.transformaps.net/wiki/Main_Page
+[Site web transformap](http://transformap.co/)
+[wiki transformap](https://wiki.transformaps.net/wiki/Main_Page)
 
 
 ### Articles, présentations
 
-- http://www.reconomy.org/30-maps-to-help-local-change-makers-and-community-organisers/
+- [30 maps to help local change-makers and community organisers](http://www.reconomy.org/30-maps-to-help-local-change-makers-and-community-organisers/) (2013)
 - [L'épopée d'un développeur front au pays des cartes](https://www.paris-web.fr/2016/conferences/l-epopee-d-un-developpeur-front-au-pays-des-cartes.php) ([diaporama](https://docs.google.com/presentation/d/1SCyIQAczqyZCQWKS-K8nTVMnVJP6_DLHK3QG9t7ToXc/edit#slide=id.g1132b3dbc3_0_0))
-- http://www.fantasticmaps.com/
+- [Fantasticmaps](http://www.fantasticmaps.com/) : Fantasy maps and mapmaking tutorials by Jonathan Roberts
 - [Geofabrik Tools - Map Compare](http://tools.geofabrik.de/)
 - [Le jour où j'ai fait les poubelles](http://florian.lainez.fr/le-jour-ou-jai-fait-les-poubelles/) : récit d'une collecte et traitement de données sur open street map
 
-### Tech
+## Tech
 
-#### Collecte des données
+### Collecte des données
 
 - [Mapotempo](https://www.mapotempo.com/) : Logiciels de planification et d’optimisation de tournées
 - [Mapillary](https://www.mapillary.com/) : Street-Level Photos for Everyone -> positionnement de photo sur une carte à la street view
 
-#### Formats
 
-- geoJSON
-- KML
-- référentiels à créer dans openstreetmap : https://wiki.openstreetmap.org/wiki/WikiProject_France/FR:Trilib
+### Réalisation de cartes
 
-#### Javascript API
-
-- customisation graphique des gmaps : https://snazzymaps.com
-- leaflet
-- mapbox
+- [Leaflet](http://leafletjs.com/)
+- [Mapbox](https://www.mapbox.com/)
 - [Mapzen](https://mapzen.com/)
-- CartoDB  (PostgreSQL + PostGIS + CARTO + CartoCSS)
+- [carto.com](https://carto.com/) : (anciennement CartoDB : PostgreSQL + PostGIS + CARTO + CartoCSS)
 - [map contrib](https://www.cartes.xyz/) : Thematic OpenStreetMap contribution
+- [SnazzyMaps](https://snazzymaps.com) : customisation graphique des google maps
+- [mapinseconds](http://mapinseconds.com/)
 
-#### Ingrédients
+### Fonds de carte, basemap
 
-**Basemap**
-
-Réutiliser :
+#### Réexploiter des styles existants
 - tuiles OSM
-- CARTO (positron)
-- Stamen (toner...)
+- [Stamen](http://maps.stamen.com/)
 - Mapbox (streets...)
-- Google Maps
 
-Créer:
-- TileMill
-- Mapbox Studio
-- Mapzen Tangram
+#### Créer des styles custom
+- [TileMill](https://tilemill-project.github.io/tilemill/)
+- [Mapbox Studio](https://www.mapbox.com/mapbox-studio/)
+- [Mapzen Tangram](https://mapzen.com/products/tangram/)
 
 ## Projets existants
 
 ### Lande
-
-Montréal.
-Depuis 2014.
 [landemtl.com](http://www.landemtl.com/)
 
-Objet : Lande facilite la réappropriation permanente ou temporaire des terrains vacants montréalais par les résidents.
+Montréal, depuis 2014.
 
-#### Qui
+Projet mené par rofessionnels en droit, en urbanisme, en gestion de projets communautaires, en communication, en design et en agriculture urbaine.
 
-Professionnels en droit, en urbanisme, en gestion de projets communautaires, en communication, en design et en agriculture urbaine.
 
-#### Application web (2015)
+**Objet** : Lande facilite la réappropriation permanente ou temporaire des terrains vacants montréalais par les résidents.
 
-Plateforme web permettant aux habitants de répertorier les terrains vacants ainsi que d'amorcer des projets de réappropriation
 
-Commentaires :
+**Application web (2015)** : Plateforme web permettant aux habitants de répertorier les terrains vacants ainsi que d'amorcer des projets de réappropriation
+
+Remarques personnelles :
 - site en wordpress (ce qui me semble pas des plus adaptés)
 - pas d'application smartphone, version responsive vite fait (utilisation de bootstrap)
 - pas réussi à capter comment on contribue à la revalorisation (bug ?)
@@ -129,22 +116,18 @@ Commentaires :
 - pas l'impression que le code soit open source (idem que remarque précédente)
 
 
-#### Recherche (2016)
+**Recherche (2016)** : Volonté de créer des connaissances sur les terrains vacants montréalais. Cette première recherche porte sur le thème de la **gouvernance**.
 
-Volonté de créer des connaissances sur les terrains vacants montréalais. Cette première recherche porte sur le thème de la **gouvernance**.
-
-[Réglementation sur les terrains publics vacants à Montréal](https://www.docdroid.net/JX3RdkI/rglementation-sur-les-terrains-publics-vacants-montral-lande-2016.pdf.html), Etat des lieux et comparaisaons avec d'autres villes en Amérique du Nord (avril 2016)
+[Réglementation sur les terrains publics vacants à Montréal](https://www.docdroid.net/JX3RdkI/rglementation-sur-les-terrains-publics-vacants-montral-lande-2016.pdf.html) : Etat des lieux et comparaisons avec d'autres villes en Amérique du Nord (avril 2016)
 
 
 ### 596 acres
 
-https://github.com/596acres/django-livinglots
+[Repo github](https://github.com/596acres/django-livinglots)
 
-#### Application web (2011)
+**Application web (2011)** : 1ere version développée pour Brooklyn (NY), qui a ensuite fait des petits aux USA. Aujourd'hui, il existe une brique de base, open source, réutilisable par qui le souhaite.
 
-1ere version développée pour Brooklyn (NY), qui a ensuite fait des petits aux USA. Aujourd'hui, il existe une brique de base, open source, réutilisable par qui le souhaite.
-
-Commentaires
+Remarques personnelles :
 - la doc du projet github est une très bonne source d'info, tant technique qu'opérationnelle.
 
 
@@ -152,19 +135,13 @@ Commentaires
 
 Cartographie collaborative
 
-https://www.ushahidi.com/
+[ushahidi.com](https://www.ushahidi.com/)
 
 
-### Cartographies ESS, etc
+## Exemples de cartographies d'acteurs locaux
 
-- http://www.apur.org/dataviz/ess/index.html
-- - [Plateforme Utopies Concrètes](http://utopies-concretes.org/#/fr/map)
-
-
-## Projet : carte de l'innovation sociale et numérique Grand Est
-
-### Exemples
-
+- [Carte des acteurs des économies solidaires et innovantes](http://www.apur.org/dataviz/ess/index.html)
+- [Plateforme Utopies Concrètes](http://utopies-concretes.org/#/fr/map)
 - [Carte des acteurs du numérique Ilde de France - Techonmap](http://data.iledefrance.fr/explore/dataset/tech-on-map/?tab=metas&dataChart=eyJxdWVyaWVzIjpbeyJjb25maWciOnsiZGF0YXNldCI6InRlY2gtb24tbWFwIiwib3B0aW9ucyI6eyJ0YWIiOiJhbmFseXplIn19LCJjaGFydHMiOlt7InR5cGUiOiJsaW5lIiwiZnVuYyI6IkNPVU5UIiwiY29sb3IiOiIjZmYwMDAwIn1dLCJ4QXhpcyI6ImNyZWF0aW9ueWVhciIsIm1heHBvaW50cyI6IiIsInRpbWVzY2FsZSI6InllYXIiLCJzb3J0IjoiIn1dLCJ0aW1lc2NhbGUiOiJ5ZWFyIn0%3D&refine.category=Tiers-lieu&location=9,48.73083,2.38541) : avec tableau données, api, etc
 - [TIERS LIEUX (hybride)et ECOCENTRE de FRANCE](https://www.google.com/maps/d/viewer?hl=fr&authuser=0&mid=1Nks47bdhbdvJxfCcYyRgh6pbmko) : google maps...
 - [Fab lab Bretagne](http://guillaume-rouan.net/blog/2015/10/10/carte-des-fablab-de-bretagne/) ([repo github](https://github.com/grouan/bzh_fablab)) : osm, leaflet, geoJSON
@@ -196,7 +173,7 @@ Dans l'idéal, on a :
 
 ### Cartographie comme outil de réappropriation
 
-- module qui permet sur chaque parcelle d'etre mis en contact avec d'autres personnes qui veulent y faire qqch
+- module qui permet sur chaque parcelle d'être mis en contact avec d'autres personnes qui veulent y faire qqch
 - outil développé en open source, ce qui est giga cool
 - outil développé en python (Django), ce qui est carrément moins cool pour moi
 

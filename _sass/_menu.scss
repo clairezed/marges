@@ -1,7 +1,14 @@
 // Surcharges Spectre
-.menu-section p a {
-  color: inherit;
-  text-decoration: underline;
+.menu-section {
+  margin-bottom: 4rem;
+  p {
+    line-height: 1.3;
+    font-size: 1.5rem;
+    a {
+      color: inherit;
+      font-weight: bold;
+    }
+  }
 }
 
 .menu {
@@ -15,14 +22,15 @@
     margin-top: 0;
     font-weight: bold;
     padding: 0;
+    text-transform: uppercase;
     &:after{
-      border-bottom: .3rem solid #efefef;
-      content: "";
-      display: block;
-      height: 1.5rem;
-      -webkit-transform: translateY(-1rem);
-      transform: translateY(-1rem);
-      width: 100%;
+      border-bottom: 0
+      // content: "";
+      // display: block;
+      // height: 1.5rem;
+      // -webkit-transform: translateY(-1rem);
+      // transform: translateY(-1rem);
+      // width: 100%;
     }
   }
   .menu-item {

@@ -1,38 +1,18 @@
 ---
 layout: base
 ---
-<article class="post card" itemscope itemtype="http://schema.org/BlogPosting">
+<article class="card" itemscope itemtype="http://schema.org/BlogPosting">
 
-  <header class="post-header card-header">
-    <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
-    <p class="post-meta card-meta">
-      <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | localize: ":excerpt" }}</time>
-      {% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person">
-        <span itemprop="name">{{ page.author }}</span>
-      </span>{% endif %}
-    </p>
+  <header class="page-header card-header">
+    <h1 class="post-title" itemprop="name headline">
+      <span>{{ page.title }}</span>
+    </h1>
   </header>
 
   <div class="post-content card-body" itemprop="articleBody">
     {{ content | microtypo: "fr_FR" }}
   </div>
 
-  <div class="card-footer">
-
-  <div class="card-labels">
-    {% for tag in page.tags %}
-      <a href="{{ site.baseurl }}/tags/{{tag}}">
-        <span class="post-meta label">{{ tag }}</span>
-      </a>
-    {% endfor %}
-  </div>
-
-
-  {% if page.previous.url %}
-    <a class="post-link" href="{{ page.previous.url | prepend: site.baseurl }}">Avant : {{ page.previous.title }}</a>
-  {% endif %}
-  {% if page.next.url %}
-    <a class="post-link float-right" href="{{ page.next.url | prepend: site.baseurl }}">Après : {{ page.next.title }}</a>
-  {% endif %}
+  {% include _table-meta.html display_date=page.date date_title="Date de publication"%}
 
 </article>
