@@ -4,7 +4,7 @@ module Jekyll
   class CategoryPage < Page
     def initialize(site, base, dir, category)
       # p "initialize TagPage"
-      p dir
+      # p dir
       @site = site
       @base = base
       @dir = dir

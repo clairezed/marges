@@ -42,14 +42,16 @@
       margin: .2rem 0rem;
       padding: 0rem 0rem 0rem 1rem;
       white-space: normal;
+      font-weight: lighter;
     }
-    &:hover .item{
-      color: $brand-primary;
-      background-color: $white;
+    &:hover .item, &.active .item{
+      // color: $brand-primary;
+      color: $white;
+      // background-color: $white;
+      font-weight: bold;
     }
   }
-
-  .item .label {
+  .item .menu-label {
     float: right;
     padding: 0 0.4em;
     display: inline-block;

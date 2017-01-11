@@ -12,16 +12,17 @@
     <li class="menu-header">
       Formats
     </li>
-    <li class="menu-item">
+
+    <li class="menu-item {% if page.url contains 'depeches' %}active{% endif %}">
       <a class="item" href="{{ site.baseurl }}/depeches">
         Dépêches
-        <span class="label label-inverted ">{{ site.posts.size }}</span>
+        <span class="menu-label">{{ site.posts.size }}</span>
       </a>
     </li>
-    <li class="menu-item">
+    <li class="menu-item {% if page.url contains 'dossiers' %}active{% endif %}">
       <a class="item" href="{{ site.baseurl }}/dossiers">
         <span> Dossiers </span>
-        <span class="label label-inverted ">{{ site.studies.size }}</span>
+        <span class="menu-label">{{ site.studies.size }}</span>
       </a>
     </li>
   </ul>
@@ -30,10 +31,10 @@
   <li class="menu-header"> Lubies </li>
   {% for category in site.categories %}
     {% assign lubie_name = category[0] %}
-    <li class="menu-item">
+    <li class="menu-item {% if page.category == lubie_name %}active{% endif %}">
       <a class="item"  href="{{ site.baseurl }}/lubies/{{category[0]}}">
         {{ site.data.categories[lubie_name].title  | capitalize}}
-       <div class="label label-inverted ">{{ category[1].size }}</div>
+       <div class="menu-label">{{ category[1].size }}</div>
       </a>
     </li>
   {% endfor %}
@@ -43,10 +44,10 @@
     <li class="menu-header"> Tags ({{site.tags.size}}) </li>
     {% assign tags = site.tags | sort %}
     {% for tag in tags %}
-      <li class="menu-item">
+      <li class="menu-item  {% if page.tag == tag[0] %}active{% endif %}">
         <a class="item" href="{{ site.baseurl }}/tags/{{tag[0]}}">
          {{ tag[0] }}
-         <div class="label label-inverted">{{ tag[1].size }}</div>
+         <div class="menu-label">{{ tag[1].size }}</div>
         </a>
       </li>
     {% endfor %}

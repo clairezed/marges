@@ -4,7 +4,6 @@ module Jekyll
   class TagPage < Page
     def initialize(site, base, dir, tag)
       # p "initialize TagPage"
-      p dir
       @site = site
       @base = base
       @dir = dir
@@ -26,6 +25,7 @@ module Jekyll
       if site.layouts.key? 'tag_page'
         dir = site.config['tag_dir'] || 'tags'
         site.tags.each_key do |tag|
+
           site.pages << TagPage.new(site, site.source, File.join(dir, tag), tag)
         end
       end
