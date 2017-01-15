@@ -5,9 +5,131 @@
     <description>Prise de notes des internets de claire zuliani</description>
     <link>http://marges.clairezuliani.com/</link>
     <atom:link href="http://marges.clairezuliani.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 11 Jan 2017 21:39:26 +0100</pubDate>
-    <lastBuildDate>Wed, 11 Jan 2017 21:39:26 +0100</lastBuildDate>
+    <pubDate>Sun, 15 Jan 2017 13:47:51 +0100</pubDate>
+    <lastBuildDate>Sun, 15 Jan 2017 13:47:51 +0100</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>L'auto-hébergement, une préoccupation de barbu ?</title>
+        <description>&lt;p&gt;En fin de semaine, je tombais par hasard dans mon fil twitter sur une discussion éclatée initiée par Clochix que je trouvais assez passionnante. Ca parlait auto-hébergement, cercle de convaincu, ess, chatons, yunohost, brique…&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;La discussion démarrait sur la question suivante, posée par &lt;a href=&quot;https://twitter.com/clochix&quot;&gt;Clochix&lt;/a&gt; :&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;fr&quot;&gt;&lt;p lang=&quot;fr&quot; dir=&quot;ltr&quot;&gt;Y a-t-il encore un intérêt en 2017 à promouvoir l&amp;#39;auto-hébergement de contenus ? On ne s&amp;#39;adresse qu&amp;#39;à notre bulle de convaincu⋅e⋅s&lt;/p&gt;&amp;mdash; Clochix (@clochix) &lt;a href=&quot;https://twitter.com/clochix/status/819926334008868866&quot;&gt;13 janvier 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;S’ensuit une suite d’échanges entre ceux qui viennent abonder dans le sens de clochix et ceux qui le contredisent, et les arguments développés par les uns et les autres sont à creuser (technicité et coût de l’auto-hébergement, largesse de définition de ce qu’on entend par auto-hébergement…)&lt;/p&gt;
+
+&lt;p&gt;Il y a notament quelques témoignages qui me mettent du baume au coeur, et me donnent espoir que la direction que je veux prendre (la convergence d’un code “engagé” avec le milieu de l’ESS, pour le dire vite) est envisageable.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;fr&quot;&gt;&lt;p lang=&quot;fr&quot; dir=&quot;ltr&quot;&gt;&lt;a href=&quot;https://twitter.com/clochix&quot;&gt;@clochix&lt;/a&gt; &lt;a href=&quot;https://twitter.com/api_cha&quot;&gt;@api_cha&lt;/a&gt; avec &lt;a href=&quot;https://twitter.com/une_brique&quot;&gt;@une_brique&lt;/a&gt; on a réalisé que tout le monde &amp;quot;amap, circuits cours, DIY&amp;quot; était super méga réceptif, c&amp;#39;était inattendu&lt;/p&gt;&amp;mdash; Bram (@brabram) &lt;a href=&quot;https://twitter.com/brabram/status/819944019165908997&quot;&gt;13 janvier 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;Et Pyg de framasoft d’enchérir :&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-conversation=&quot;none&quot; data-cards=&quot;hidden&quot; data-partner=&quot;tweetdeck&quot;&gt;&lt;p lang=&quot;fr&quot; dir=&quot;ltr&quot;&gt;&lt;a href=&quot;https://twitter.com/bayartb&quot;&gt;@bayartb&lt;/a&gt; &lt;a href=&quot;https://twitter.com/brabram&quot;&gt;@brabram&lt;/a&gt; &lt;a href=&quot;https://twitter.com/clochix&quot;&gt;@clochix&lt;/a&gt; &lt;a href=&quot;https://twitter.com/api_cha&quot;&gt;@api_cha&lt;/a&gt; &lt;br /&gt;1/2 Je confirme qu&amp;#39;on avance, et qu&amp;#39;il y a une forme de convergence.&lt;br /&gt;Il faut &amp;quot;juste&amp;quot; déconstruire le&lt;/p&gt;&amp;mdash; pyg (@pyg) &lt;a href=&quot;https://twitter.com/pyg/status/819951774526226432&quot;&gt;January 13, 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-conversation=&quot;none&quot; data-cards=&quot;hidden&quot; data-partner=&quot;tweetdeck&quot;&gt;&lt;p lang=&quot;fr&quot; dir=&quot;ltr&quot;&gt;&lt;a href=&quot;https://twitter.com/bayartb&quot;&gt;@bayartb&lt;/a&gt; &lt;a href=&quot;https://twitter.com/brabram&quot;&gt;@brabram&lt;/a&gt; &lt;a href=&quot;https://twitter.com/clochix&quot;&gt;@clochix&lt;/a&gt; &lt;a href=&quot;https://twitter.com/api_cha&quot;&gt;@api_cha&lt;/a&gt; &lt;br /&gt;2/2 discours du &amp;quot;On veut une solu° parfaite immédiatement&amp;quot; et réexpliquer le fctnmt des communs.&lt;/p&gt;&amp;mdash; pyg (@pyg) &lt;a href=&quot;https://twitter.com/pyg/status/819952587101405185&quot;&gt;January 13, 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;La liste des gens que je veux rencontrer s’allonge. Envie de discuter avec eux de plein questions, mais 140 caractères ne seront jamais suffisant.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Comment sensibiliser&lt;/strong&gt; les gens de l’ESS (amap, circuit court, etc) à des questions de technicité “éthique” (non seulement auto-hébergement, mais aussi open source au sens large, politique d’ouverture de données, accessibilité…) ?&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Quelles solutions accessibles (financièrement, techniquement) proposer&lt;/strong&gt; à des structures qui manquent de moyens (j’ai l’impression que le coût reste un critère hyper déterminant, la praticité venant peu après) ?&lt;/li&gt;
+  &lt;li&gt;Des &lt;strong&gt;modèles économiquement viables&lt;/strong&gt; pour un développeur peuvent-ils émerger de cette convergence ? A quelles conditions ?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Tout le fil de discussion se trouve &lt;a href=&quot;&quot;&gt;ici&lt;/a&gt;, n’hésitez pas à l’enrichir !&lt;/p&gt;
+
+&lt;p&gt;Source : &lt;a href=&quot;https://twitter.com/clochix/status/819926334008868866&quot;&gt;Twitter clochix&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 14 Jan 2017 00:00:00 +0100</pubDate>
+        <link>http://marges.clairezuliani.com/binary_transition/2017/01/14/interet-auto-hebergement-ess-systeme-ferme.html</link>
+        <guid isPermaLink="true">http://marges.clairezuliani.com/binary_transition/2017/01/14/interet-auto-hebergement-ess-systeme-ferme.html</guid>
+        
+        <category>ess</category>
+        
+        <category>engagement</category>
+        
+        
+        <category>binary_transition</category>
+        
+      </item>
+    
+      <item>
+        <title>Radiographie d'un site 2 - Public Sector Map</title>
+        <description>&lt;p&gt;Voici la deuxième étude de site à travers son code source ! Je m’attelle aujourd’hui à un annuaire des designers de politiques publiques dans le monde, que je trouve vraiment clair, fonctionnel et engageant.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;&lt;em&gt;Pour en savoir un peu plus sur cette histoire de radiographie, d’étude de site, parcourez l’intro de la &lt;a href=&quot;/sustainable_code/2016/08/08/radiographie-01.html&quot;&gt;première radiographie&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;radiographie-n2---design-des-politiques-publiques&quot;&gt;Radiographie n°2 - Design des politiques publiques&lt;/h2&gt;
+
+&lt;p&gt;Le site en question : &lt;a href=&quot;http://publicsector-map.designforeurope.eu/fr/#&quot;&gt;Design des politiques publiques&lt;/a&gt;, produit par &lt;a href=&quot;http://www.nesta.org.uk/&quot;&gt;Nesta&lt;/a&gt; et la &lt;a href=&quot;http://www.la27eregion.fr/&quot;&gt;27e région&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;framework&quot;&gt;Framework&lt;/h3&gt;
+
+&lt;p&gt;Vu comme le design m’apparaît comme spécifique et adapté au projet, j’ai pensé à un site fait main, non basé sur un CMS. Que nenni !&lt;br /&gt;
+Le site s’appuie sur un WordPress (4.7.1), avec un thème a priori fait maison. C’est rare que je tombe sur des thèmes custom, ça fait plaisir à voir !&lt;/p&gt;
+
+&lt;h3 id=&quot;en-front&quot;&gt;En front&lt;/h3&gt;
+
+&lt;p&gt;J’ai l’impression que pour l’orchestration du front, le thème est basé sur &lt;a href=&quot;https://roots.io/sage/&quot;&gt;Sage&lt;/a&gt;, &lt;em&gt;“The best WordPress starter theme with a modern front-end development workflow.”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;En terme de librairie et fonctionnalités pour ce thème, on peut compter sur :&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Des classiques :&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://v4-alpha.getbootstrap.com/&quot;&gt;Bootstrap v4&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://fontawesome.io/&quot;&gt;Font Awesome&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.tinymce.com/&quot;&gt;Tiny MCE&lt;/a&gt; pour le wysiwyg&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;La partie carte :&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.mapbox.com/mapbox.js&quot;&gt;mapbox.js&lt;/a&gt; : Mapbox JavaScript API, a Leaflet Plugin&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Les acteurs en détail :&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.kunkalabs.com/page/mixitup/&quot;&gt;MixItUp v2.1.11&lt;/a&gt; : &lt;em&gt;“A high-performance, dependency-free library for animated filtering, sorting, insertion, removal and more”&lt;/em&gt;.  (&lt;a href=&quot;https://github.com/patrickkunka/mixitup/&quot;&gt;repo github&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Les acteurs par date :&lt;/strong&gt;&lt;br /&gt;
+Pas de librairie particulière détectée ici, ça me donne l’impression que c’est fait à la mano.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;En vrac :&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.jacklmoore.com/colorbox/&quot;&gt;Colorbox 1.6.4&lt;/a&gt; : lightbox plugin&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://scrollmagic.io/&quot;&gt;ScrollMagic v2.0.5&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://stickyjs.com/&quot;&gt;Sticky Plugin v1.0.3&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;auteur&quot;&gt;Auteur&lt;/h3&gt;
+
+&lt;p&gt;Pas de crédit précis, je me demande si &lt;a href=&quot;http://www.nesta.org.uk/blog/design-public-sector-interactive-map&quot;&gt;Nesta&lt;/a&gt;, l’une des deux structures à l’origine du projet, n’aurait pas les moyens en interne de produire ce type d’outil.&lt;/p&gt;
+
+&lt;p&gt;Source : Cartographie &lt;a href=&quot;http://publicsector-map.designforeurope.eu/fr/#&quot;&gt;Design des politiques publiques&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 12 Jan 2017 00:00:00 +0100</pubDate>
+        <link>http://marges.clairezuliani.com/sustainable_code/2017/01/12/radiographie-02.html</link>
+        <guid isPermaLink="true">http://marges.clairezuliani.com/sustainable_code/2017/01/12/radiographie-02.html</guid>
+        
+        <category>radiographie</category>
+        
+        <category>toolkit</category>
+        
+        
+        <category>sustainable_code</category>
+        
+      </item>
     
       <item>
         <title>Facebook, description détaillée du démon, et modalité d'exorcisme</title>
@@ -530,103 +652,6 @@ Besoin aussi d’un savoir-faire technique et de moyens financiers.&lt;/li&gt;
         <category>civic tech</category>
         
         <category>association</category>
-        
-        
-        <category>sustainable_code</category>
-        
-      </item>
-    
-      <item>
-        <title>Viens chéri, on va tester l'appli de la mairie et se faire de la maille</title>
-        <description>&lt;p&gt;Et si les collectivités qui veulent lancer de nouveaux services pouvaient s’appuyer sur une communauté d’habitants testeurs ? C’est apparemment ce qu’il se passe dans le comté de Miami, et je trouve l’idée vraiment chouette.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;Dans la lignée de &lt;a href=&quot;www.codeforamerica.org&quot;&gt;Code for America&lt;/a&gt;, des sous-groupes rattachés à des villes ou régions se sont créées. Le Miami CUT (Civic User testing) group est ainsi une initiative de Code for Miami, qui a aussi pour objectif de remobiliser les habitants de la région, parmi les moins engagés socialement / civiquement du pays.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Si ça ne fonctionne pas pour vous, ça ne fonctionne pas.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;em&gt;Slogan du Miami CUT group&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Comment ça marche ?&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;les habitants qui veulent tester un site ou une appli s’inscrivent sur &lt;a href=&quot;http://cutgroup.miami/&quot;&gt;un site&lt;/a&gt;, et reçoivent une carte cadeau de 5$.&lt;/li&gt;
-  &lt;li&gt;le site est disponible en anglais, espagnol et créole (Haïti)&lt;/li&gt;
-  &lt;li&gt;les organisateurs tablent sur un test par mois&lt;/li&gt;
-  &lt;li&gt;les habitants qui se sont déclarés volontaires et ont été sélectionnés (pas d’info sur comment se fait la sélection) participent à des sessions de tests dans des bibliothèques, des centres sociaux (community centers) ou en ligne.&lt;/li&gt;
-  &lt;li&gt;à chaque test achevé, le participant reçoit une carte cadeau de 20$&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Je trouve l’initiative intéressante sur le principe : dans une logique living lab, des services sont testés par de vrais gens, mais ici ça va encore plus loin. L’incitation financière permet peut-être de mobiliser en plus grand nombre ; et de faire participer des profils plus variés, des personnes qui sont moins acculturés à l’utilisation d’outils numériques (les retours n’en seront que plus pertinents).&lt;/p&gt;
-
-&lt;p&gt;Par contre, j’ai encore un paquet de questions auxquelles l’article répond pas :&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;d’où vient la thune ? C’est quoi ces cartes cadeaux, qui les finance, et ça représente quel budget ?&lt;/li&gt;
-  &lt;li&gt;quels sont les projets sélectionnés pour être testé ? Comment sont-ils sélectionnés ?&lt;/li&gt;
-  &lt;li&gt;l’initiative est-elle soutenue par des collectivités ?&lt;/li&gt;
-  &lt;li&gt;quels sont les premiers retours d’expérience ?&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;A creuser à l’occasion.&lt;/p&gt;
-
-&lt;p&gt;Source : &lt;a href=&quot;https://medium.com/cutgroup-miami/making-government-technology-suck-less-in-miami-d55d169060d#.2fgo66k05&quot;&gt;Comment agir sur ses habitudes numériques ?&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 01 Dec 2016 00:00:00 +0100</pubDate>
-        <link>http://marges.clairezuliani.com/binary_transition/2016/12/01/miami-civic-user-testing-group.html</link>
-        <guid isPermaLink="true">http://marges.clairezuliani.com/binary_transition/2016/12/01/miami-civic-user-testing-group.html</guid>
-        
-        <category>civic tech</category>
-        
-        <category>empowerment</category>
-        
-        
-        <category>binary_transition</category>
-        
-      </item>
-    
-      <item>
-        <title>Se mettre en desintox du scroll</title>
-        <description>&lt;p&gt;Un designer (Geoffrey Dorne) partage ses trucs pour assainir ses pratiques numériques (et nous explique pourquoi il le fait). Des liens et astuces précieuses !&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;Merci à &lt;a href=&quot;https://graphism.fr&quot;&gt;Geoffrey Dorne&lt;/a&gt; pour ce post, dont les liens viennent enrichir et compléter les quelques notes déjà prises ici.&lt;/p&gt;
-
-&lt;p&gt;Je me permets de repomper les liens ici, histoire de toujours les avoir sous la main. Et je compte bien m’en servir pour nourrir mon éthique professionnelle, par opposition.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.internetactu.net/2016/11/02/comment-lemployabilite-a-t-elle-tue-le-temps-libre/&quot;&gt;comment l’employabilité tue le temps libre&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.internetactu.net/2016/11/09/design-de-nos-vulnerabilites-la-silicon-valley-est-elle-a-la-recherche-dune-conscience/&quot;&gt;le design de nos vulnérabilités&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://graphism.fr/persuasive-design-vs-dark-patterns/&quot;&gt;le persuasive design &amp;amp; les dark patterns&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.internetactu.net/search/morozov&quot;&gt;tous les articles de Morozov&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://graphism.fr/les-dark-pattern-ou-la-perversion-conomique-du-webdesign/&quot;&gt;la perversion économique du webdesign&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://graphism.fr/pour-design-de-la-vie-prive/&quot;&gt;le privacy by design&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.casilli.fr/2016/02/20/recension-de-quest-ce-que-le-digital-labor-dans-la-revue-francaise-de-sciences-politiques-vol-1-no-66-2016/&quot;&gt;tous les écrits de Antonio Casili sur le Digital Labor&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Pour ma part, je traverse une période où j’ai l’impression que certaines de mes habitudes numériques me sont néfastes (perte de temps / stress de la profusion ingérable), et j’ai l’envie de revoir et contraindre un peu mes façons de faire pour y remédier. Avec des résultats mitigés pour le moment, j’avoue.&lt;/p&gt;
-
-&lt;p&gt;Parmi les services que Geoffrey Dorne suggère pour reprendre la main sur sa vie numériquement phagocytée, certains sont déjà dans ma boîte à outil (&lt;a href=&quot;https://unroll.me/&quot;&gt;unroll.me&lt;/a&gt; a déjà bien permis de désengorgé ma boîte, je recommande). Je jetterai un oeil sur d’autres, qui permettent de &lt;a href=&quot;https://chrome.google.com/webstore/detail/pixelblock/jmpmfcjnflbcoidlgapblgpgbilinlem&quot;&gt;supprimer les accusés de réception de gmail&lt;/a&gt; ou &lt;a href=&quot;https://duckduckgo.com/?q=unseen+plugin&amp;amp;atb=v36-2a_&amp;amp;ia=web&quot;&gt;de facebook&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;D’autres outils me posent un peu + questions.&lt;/p&gt;
-
-&lt;p&gt;En ce moment, je fais énormément de veille et de prospection professionnelle. Au fil du temps, facebook est devenu l’un de mes canaux de veille principal, et les algo de suggestion des réseaux sociaux me sont précieux pour identifier des inititiatives, même si j’ai conscience de leurs effets pervers. Je cherche donc, plutôt que de les supprimer, un moyen de filtrer les données des réseaux uniquement dans une optique de veille efficace. Pour twitter, j’ai configurer des listes thématiques, mais je cherche encore un moyen de supprimer les doublons (revoir 15 fois le même lien largement partagé dans mon réseau ne m’apporte rien). Pour facebook, je peux mettre dans un groupe particulier les personnes que je suis uniquement dans une optique de veille ; mais il n’est pas possible d’ajouter des pages ou des groupes à ces regroupements. A cresuer, donc !&lt;/p&gt;
-
-&lt;p&gt;Ensuite, Geoffrey utilise des outils qui permettent de supprimer les boutons like. Ici encore je suis partagée. Le bouton like est pour moi un bouton de soutien d’initiatives ou d’actions, que j’utilise généralement en espérant donner une visibilité supplémentaire ou en marquant mon support à une inititiative (sans compter la valeur psychologique de ce like reçut au milieu de la nuit qui permet de ne pas se sentir seul :)). Alors, même si je comprends la logique de lutte contre des mécanismes addictifs, je ne suis pas encore prête à passer le cap.&lt;/p&gt;
-
-&lt;p&gt;Source : &lt;a href=&quot;https://graphism.fr/comment-agir-sur-ses-habitudes-numeriques/&quot;&gt;Comment agir sur ses habitudes numériques ?&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 30 Nov 2016 00:00:00 +0100</pubDate>
-        <link>http://marges.clairezuliani.com/sustainable_code/2016/11/30/desintox-habitudes-numeriques.html</link>
-        <guid isPermaLink="true">http://marges.clairezuliani.com/sustainable_code/2016/11/30/desintox-habitudes-numeriques.html</guid>
-        
-        <category>civic tech</category>
-        
-        <category>detox</category>
         
         
         <category>sustainable_code</category>
