@@ -68,6 +68,7 @@ Comment bien commencer un projet ? Quelques outils déjà utilisés ou à tester
 - [Sans Francis.co](http://www.sansfrancis.co/) : A collection of tools to help designers craft delightful experiences.
 - [Awesome Design](https://github.com/gztchan/awesome-design) : Best UI/UX Design Resources For Developer & Designer Ever
 - [75 of the Smartest Resources for Web Designers](https://cmd-t.webydo.com/75-of-the-best-resources-for-web-designers-98208e8709a#.ofvj0urdu)
+- [Hack Design Toolkit](https://hackdesign.org/toolkit/)
 
 ### Checklist
 

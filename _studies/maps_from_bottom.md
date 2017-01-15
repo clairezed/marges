@@ -70,6 +70,13 @@ Ca parle d'outils, de taxonomie, d'api communs, mais je n'en trouve pas de trace
 - [Mapotempo](https://www.mapotempo.com/) : Logiciels de planification et d’optimisation de tournées
 - [Mapillary](https://www.mapillary.com/) : Street-Level Photos for Everyone -> positionnement de photo sur une carte à la street view
 
+### Format de données
+
+#### Geojson
+
+- [geojson.io](http://geojson.io/#map=2/20.0/0.0)
+- [learn geojson repo](https://github.com/lyzidiamond/learn-geojson) (2014)
+
 
 ### Réalisation de cartes
 
@@ -147,6 +154,8 @@ Cartographie collaborative
 - [Fab lab Bretagne](http://guillaume-rouan.net/blog/2015/10/10/carte-des-fablab-de-bretagne/) ([repo github](https://github.com/grouan/bzh_fablab)) : osm, leaflet, geoJSON
 - [Makery Labs](http://www.makery.info/map-labs/) : osm, mapbox, clustering, g_form pour ajouter un lab
 - [TL Afrique](https://umap.openstreetmap.fr/fr/map/tiers-lieux-libres-et-open-source-en-afrique-franc_8286#13/12.3619/-1.5110) : umap
+- [Acteurs du design des politiques publiques](http://publicsector-map.designforeurope.eu/fr), fait par 27e région notamment (échelle Europe / Monde). Plein d'autres dataviz en plus de la carte
+- [tiers lieux belge](http://www.tiers-lieux.be/) : basé sur umaps, mais difficilement lisible
 
 **infos**
 - http://movilab.org/index.php?title=Liste_des_Tiers-Lieux

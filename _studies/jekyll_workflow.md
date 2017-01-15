@@ -2,7 +2,7 @@
 title: Jekyll workflow
 date: '2016-12-04 00:00:00'
 layout: page
-permalink: kekyll-workflow
+permalink: jekyll-workflow
 tags: [jekyll]
 category: sustainable_code
 ---

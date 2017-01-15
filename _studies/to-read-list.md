@@ -13,6 +13,7 @@ Des trucs à lire/voir quand je serai à la retraite (ou que je prendrai un mome
 <!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
 - [A lire](#a-lire)
+	- [Feel good reads](#feel-good-reads)
 	- [Design](#design)
 	- [Javascript](#javascript)
 	- [Code / design social](#code-design-social)
@@ -25,6 +26,11 @@ Des trucs à lire/voir quand je serai à la retraite (ou que je prendrai un mome
 <!-- /TOC -->
 
 ## A lire
+
+### Feel good reads
+
+- [The Politics of Optimism](https://medium.com/@AlexSteffen/the-politics-of-optimism-37a5006e8ba8#.lz1kqvxxb)
+
 
 ### Design
 - [Don't Make Me Think](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/ref=pd_sim_b_2?ie=UTF8&refRID=18V1XW44Y0XF9Z0HC7WN)

@@ -28,7 +28,22 @@ rake git:deploy
 
 ## Resources
 
+### Used resources
+
+Design :
+
+-[How to Make Responsive, Scrollable Panels with Flexbox](http://webdesign.tutsplus.com/tutorials/how-to-make-responsive-scrollable-panels-with-flexbox--cms-23269)
+
+Process
+
+-[Jekyll on Github Pages with Plugins](http://sarahcassady.com/2015/07/17/jekyll-on-github-pages/)
+
 ### Design inspiration
+
+Inspiration gardée sous le coude pour de futures évolutions
+
+- http://lanyon.getpoole.com/
+- https://github.com/andrewbanchich/editorial-jekyll-theme
 - http://thehideout.co.uk/
 - http://elbowsydney.com.au/what/
 - https://makingmusic.ableton.com/
@@ -49,67 +64,17 @@ Text experiments (write a note !)
 - http://greaterthanorequalto.net/
 
 
-### Used resources
-
-Design :
-
--[How to Make Responsive, Scrollable Panels with Flexbox](http://webdesign.tutsplus.com/tutorials/how-to-make-responsive-scrollable-panels-with-flexbox--cms-23269)
-
-Process
-
--[Jekyll on Github Pages with Plugins](http://sarahcassady.com/2015/07/17/jekyll-on-github-pages/)
-
-
-### Liquid
-
-``` liquid
-<!-- Create empty arrays -->
-{% assign tags = '' | split: ',' %}
-{% assign unique_tags = '' | split: ',' %}
-
-<!-- Map and flatten -->
-{% assign article_tags =  site.articles | map: 'tags' | join: ',' | join: ',' | split: ',' %}
-{% assign tutorial_tags =  site.tutorials | map: 'tags' | join: ',' | join: ',' | split: ',' %}
-
-<!-- Push to tags -->
-{% for tag in article_tags '%}
-  {% assign tags = tags | push: tag %}
-{% endfor %}
-{% for tag in tutorial_tags '%}
-  {% assign tags = tags | push: tag %}
-{% endfor %}
-
-<!-- Uniq -->
-{% assign tags = tags | sort %}
-{% for tag in tags %}
-
-  <!-- If not equal to previous then it must be unique as sorted -->
-  {% unless tag == previous %}
-
-    <!-- Push to unique_tags -->
-    {% assign unique_tags = unique_tags | push: tag %}
-  {% endunless %}
-
-  {% assign previous = tag %}
-{% endfor %}
-```
-
-## Needs
+## Todo & needs
 
 - Priority high
   - pagination
   - nommage automatique des fichiers/url en fonction du titre
   - search (algolia ?)
-  - class active dans le menu
+  - check ssl
+  - sitemap, referencement, rss
 
 - priority medium
   - réorganiser sass (cf https://gitlab.com/political-revolution/political-revolution.gitlab.io/tree/master)
-  - amélioration design :
-    - interprétation markdown
-    - design global
-  - Nouveau design possible :
-    - http://lanyon.getpoole.com/
-    - https://github.com/andrewbanchich/editorial-jekyll-theme
   - use jade !
   - ease of post (post title, post date)
   - mixer les categories et tags des depeches et dossiers
