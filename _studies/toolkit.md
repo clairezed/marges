@@ -89,6 +89,8 @@ Comment bien commencer un projet ? Quelques outils déjà utilisés ou à tester
 - [Palettable](http://www.palettable.io/) : générations de palettes cohérentes
 - [Coolors](https://coolors.co) : comme palettable, mais plus touffu
 - [Vanschneider, colors](http://www.vanschneider.com/colors/) : alliance de deux couleurs dans des ptites cartes
+- [Cohesive Colors](http://javier.xyz/cohesive-colors/)
+- [Color Supply](http://colorsupplyyy.com/app/) : "The best color combinations from designers & illustrators around the world."
 
 ### Templates
 
@@ -98,6 +100,7 @@ Comment bien commencer un projet ? Quelques outils déjà utilisés ou à tester
 
 ### Photos
 - [Unsplash](https://unsplash.com)
+- [Pexels](https://www.pexels.com/)
 
 
 ### Retoucher vite fait une image
@@ -127,18 +130,15 @@ Comment bien commencer un projet ? Quelques outils déjà utilisés ou à tester
 #### Plutôt typo
 
 - [Discover Typography](http://discover.typography.com/)
-
-#### Plutôt agences et sites qui me bottent
-
-- [Extra Bold](http://www.extra-bold.net/references/)
-- [Collectif Yay](http://www.collectif-yay.com/)
-- [SuperHuit](http://superhuit.ch/)
-- [Makeshift](http://mkshft.org/)
-- [Elbow](http://elbowsydney.com.au/contact-us/)
-- [Jeff Chang](http://jeffchang.net/)
-
+- [TypeWolf](https://www.typewolf.com/)
 
 ## Code
+
+### Good practices
+
+#### Javascript
+
+- [Clean Code Javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 
 ### Boilerplates
 
