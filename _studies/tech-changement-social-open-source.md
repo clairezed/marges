@@ -54,4 +54,4 @@ Une application libre pour développer le circuit court / le logiciel libre des 
 
 - [Tool box de D-cent](http://dcentproject.eu/wp-content/uploads/2016/06/D-Cent-toolsbox-final-spreads-1.pdf)
 - [code.gov](https://code.gov/#/) : portail qui libère le code de toutes les plateformes gouvernementales américaines.
-- [ogptoolbox](https://ogptoolbox.org/fr)
+- [OGP toolbox](https://ogptoolbox.org/fr)

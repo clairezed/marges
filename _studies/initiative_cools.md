@@ -303,6 +303,11 @@ https://github.com/pixelhumain/buildingCommons
 
 ## Web militant
 
+### Fosdem
+
+ Free and Open Source Developers’ European Meeting (Fosdem)
+ *fevrier - Bruxelles*
+
 ### SudWeb
 [sudweb.fr](https://sudweb.fr)
 *fin mai - Sud Ouest*
@@ -310,7 +315,7 @@ https://github.com/pixelhumain/buildingCommons
 Le plus militant des festival pas estampillés comme militants ?
 
 ### Le Poop
-[lepoop.org](https://lepoop.org/2016)\\
+[lepoop.org](https://lepoop.org/2016)
 *juin - Paris*
 
 Ateliers ou discussions alternatives, politisantes et « Do It Yourself »1 dans une ambiance inclusive, accessible et safe.

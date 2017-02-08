@@ -57,6 +57,7 @@ Quelques liens et repères sur ce que devient le secteur de l'ESS et de l'entrep
 - [Plateforme Utopies Concrètes](http://utopies-concretes.org/#/fr/map)
 - [Le cinqiuème pole](http://lecinquiemepole.fr/?page_id=99) : en savoir + sur tout ce qui est "cluster d'innovation sociale, PTCE, Tiers Lieux..."
 - [La fabrique à initiatives](http://fabriqueainitiatives.org/) : Implantée en région au sein d’une structure locale, la Fabrique à initiatives capte les besoins sociaux de son territoire, met en relation l’ensemble des acteurs et invente des réponses entrepreneuriales sociales et durable (rien dans le Grand Est)
+- [Mapping de l’écosystème des startups sociales en France](https://medium.com/@parisimpactinvesting/mapping-de-l%C3%A9cosyst%C3%A8me-des-startups-sociales-en-france-c3d0a54909ef#.7jfi4pkoc), janvier 2017
 
 ### Grand Est
 

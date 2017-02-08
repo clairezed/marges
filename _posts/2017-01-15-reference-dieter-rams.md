@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Référénce : Dieter Rams"
+title: "Référence : Dieter Rams"
 category: sustainable_code
 tags: [reference, design]
 

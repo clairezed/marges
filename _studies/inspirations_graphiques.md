@@ -24,3 +24,8 @@ Inspirations graphiques, probablement dans une optique assez simple, fonctionnel
 - [Act Normal](http://actnormal.co/) : site d'une agence suédoise avec plein de gifs
 - [Casa Bonay](http://casabonay.com/) : genre d'hotel de hipster avec des illustration et gif en pseudo risographie
 - [Viens-là](http://www.viens-la.com/) : agence avec un gif de freddy mercury comme loader (entre autres)
+
+
+## Techniquement impressionnant
+
+- [waaark](http://waaark.com/fr/) : couleur, animation, illustration...

@@ -69,9 +69,10 @@ Text experiments (write a note !)
 - Priority high
   - pagination
   - nommage automatique des fichiers/url en fonction du titre
-  - search (algolia ?)
+  - search (algolia ? lunr ?)
   - check ssl
-  - sitemap, referencement, rss
+  - verif sitemap, referencement, rss
+  - link target_blank
 
 - priority medium
   - réorganiser sass (cf https://gitlab.com/political-revolution/political-revolution.gitlab.io/tree/master)

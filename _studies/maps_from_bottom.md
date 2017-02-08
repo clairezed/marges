@@ -62,6 +62,7 @@ Ca parle d'outils, de taxonomie, d'api communs, mais je n'en trouve pas de trace
 - [Fantasticmaps](http://www.fantasticmaps.com/) : Fantasy maps and mapmaking tutorials by Jonathan Roberts
 - [Geofabrik Tools - Map Compare](http://tools.geofabrik.de/)
 - [Le jour où j'ai fait les poubelles](http://florian.lainez.fr/le-jour-ou-jai-fait-les-poubelles/) : récit d'une collecte et traitement de données sur open street map
+- [Pour une pratique féministe de la visualisation de données](https://visionscarto.net/visualisation-donnees-feministe)
 
 ## Tech
 

@@ -24,14 +24,15 @@ Comment bien commencer un projet ? Quelques outils déjà utilisés ou à tester
 	- [Prototypage / Wireframe / Mockups](#prototypage-wireframe-mockups)
 	- [Couleurs](#couleurs)
 	- [Templates](#templates)
-	- [Photos](#photos)
+	- [Photos / illustrations](#photos-illustrations)
 	- [Retoucher vite fait une image](#retoucher-vite-fait-une-image)
 	- [Trouver l'inspiration](#trouver-linspiration)
 		- [Plutôt web](#plutt-web)
 		- [Plutot élément web (UI)](#plutot-lment-web-ui)
 		- [Plutôt typo](#plutt-typo)
-		- [Plutôt agences et sites qui me bottent](#plutt-agences-et-sites-qui-me-bottent)
 - [Code](#code)
+	- [Good practices](#good-practices)
+		- [Javascript](#javascript)
 	- [Boilerplates](#boilerplates)
 	- [Lib](#lib)
 - [DevOps](#devops)
@@ -45,6 +46,7 @@ Comment bien commencer un projet ? Quelques outils déjà utilisés ou à tester
 	- [Messagerie](#messagerie)
 	- [Gif (dans un but pro, bien sûr)](#gif-dans-un-but-pro-bien-sr)
 - [Administratif](#administratif)
+	- [CRM](#crm)
 
 <!-- /TOC -->
 
@@ -98,9 +100,10 @@ Comment bien commencer un projet ? Quelques outils déjà utilisés ou à tester
 - [Start Bootstrap](https://startbootstrap.com/template-categories/popular/)
 - [Bootswatch](https://bootswatch.com/)
 
-### Photos
+### Photos / illustrations
 - [Unsplash](https://unsplash.com)
 - [Pexels](https://www.pexels.com/)
+- [Freepik](http://fr.freepik.com/) : du vectorial libre
 
 
 ### Retoucher vite fait une image
@@ -207,3 +210,13 @@ Zaclys : comme openmailbox mais mieux
 ##  Administratif
 
 - [Contrats Français](https://github.com/tibastral/contrats-francais) : Exemples de Conditions générales d'achat, de vente, de développement d'application web, de scénario utilisateurs
+
+### CRM
+
+https://www.open-dsi.fr/crm-open-source-gratuit-entreprises-open-dsi/
+
+- [CiviCRM](https://civicrm.org/)
+- [CremeCRM](http://cremecrm.com/)
+- [Odoo](https://www.odoo.com/fr_FR/)
+- [Dolibarr](http://www.dolibarr.fr/)
+- [VTiger](https://www.vtiger.com/)

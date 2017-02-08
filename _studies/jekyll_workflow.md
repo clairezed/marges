@@ -33,6 +33,7 @@ Quelques ressources, commandes ou réflexion pour me permettre de mieux utiliser
 ## Ressources générales
 
 - [Jekyll tips](http://jekyll.tips/) : tutoriaux, plugins et services s'intégrant à Jekyll
+- [The new dynamic](https://www.thenewdynamic.org/) : plein d'articles sur les sites statiques, serverless, etc
 
 ## Exemples de workflows
 
@@ -63,6 +64,13 @@ Quelques ressources, commandes ou réflexion pour me permettre de mieux utiliser
 ### Performance
 
 - [Optimiser les performances et la sécurité avec Cloudflare](https://medium.com/@JeremyRaffin/site-web-statique-optimis%C3%A9-avec-github-pages-partie-3-optimiser-les-performances-et-la-s%C3%A9curit-2be5413b7b17#.i1p2gx6nw)
+- [Optimizing jekyll with gulp](http://savaslabs.com/2016/10/19/optimizing-jekyll-with-gulp.html, oct 2016
+- [Performant Websites with Jekyll, Grunt, GitHub Pages, and CloudFlare](http://davidensinger.com/2015/01/performant-websites-with-jekyll-grunt-github-pages-and-cloudflare/), janv 2015
+- [13 STEPS TO A FASTER JEKYLL WEBSITE](https://wiredcraft.com/blog/make-jekyll-fast/), mai 2016
+
+### images
+
+[jekyll-srcset](https://github.com/netlify/jekyll-srcset) plugin : Dead simple responsive images for jekyll
 
 ### Hosting
 
@@ -85,12 +93,36 @@ Quelques ressources, commandes ou réflexion pour me permettre de mieux utiliser
 
 ## CMS
 
+- [Prose.io](http://prose.io/)
+- [Netlify CMS](https://github.com/netlify/netlify-cms), open source
 - [Cloud Cannon](http://cloudcannon.com/), a minima 25$/mois
+- [Siteleaf](https://www.siteleaf.com/), with basic free plan
+- [DatoCMS](www.datocms.com), really basic free plan
+- [Forestry.io](https://forestry.io/), really basic free plan
+
+## Flat File CMS
+
+- [kirby](https://getkirby.com/) : env 20 €
+- [statamic](https://statamic.com/) : 200$ !
+
+## Headless / serverless CMS
+
+Stockage des données en cloud, cms pour éditer, accès aux données via API.
+
+- [Contentful](https://www.contentful.com/)
+- [Prismic.io](https://prismic.io)
+- [GatherContent](https://gathercontent.com)
+- [Cockpit](https://getcockpit.com/) : open source version of the above solutions ?
 
 ## Plugins et services
 
 - [Staticman](https://staticman.net/) : système de commentaires statiques
 
+> Want comments on your website? Add Disqus, Isso or Facebook comments. Want social integration? Add Twitter or Facebook’s JavaScript widget to your website. Want real-time data updating live on your website? Add a squirt of Firebase. Want search? Add Swiftype. Want to add live chat support? Olark is there. Heck, you can even add an entire store to a static website with Snipcart.
+
+[Why Static Website Generators Are The Next Big Thing](https://www.smashingmagazine.com/2015/11/modern-static-website-generators-next-big-thing/)
+
+- [Fork n go](http://jlord.us/forkngo/) : exemples (avec repo forkable) de sites statiques intéragissant avec des services tiers (google spreadsheet, mapbox, [sheetsee.js](http://jlord.us/sheetsee.js/), iftt...)
 
 ## Templates
 
