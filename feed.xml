@@ -5,9 +5,101 @@
     <description>Prise de notes des internets de claire zuliani</description>
     <link>http://marges.clairezuliani.com/</link>
     <atom:link href="http://marges.clairezuliani.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 21 Jan 2017 10:17:17 +0100</pubDate>
-    <lastBuildDate>Sat, 21 Jan 2017 10:17:17 +0100</lastBuildDate>
+    <pubDate>Wed, 08 Feb 2017 23:10:53 +0100</pubDate>
+    <lastBuildDate>Wed, 08 Feb 2017 23:10:53 +0100</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>A mon compte + 1 mois</title>
+        <description>&lt;p&gt;Je m’étais promise de tenir un simili journal de bord simili mensuel de ma mise à mon compte. Voici donc l’épisode 1.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Que s’est-il passé depuis que j’ai officiellement cessé d’être salariée, au 31 décembre dernier ? Pas mal de broutilles me restaient à régler, qui m’ont occupée sur le plus gros de mon temps. Mais ce premier mois a tout de même été riche en premières fois.&lt;/p&gt;
+
+&lt;h2 id=&quot;plein-de-rencontres&quot;&gt;Plein de rencontres&lt;/h2&gt;
+
+&lt;p&gt;Première rencontre avec &lt;strong&gt;Laurie&lt;/strong&gt;, coordinatrice hyper dynamique du &lt;a href=&quot;http://mouves.org/nos-missions/federer-et-influer/federer-les-entrepreneurs-sociaux/grand-est/&quot;&gt;Mouves Grand Est&lt;/a&gt;, que j’interrogeais notamment sur les besoins en outillage numérique de ses adhérents. Apparemment, c’est une colle que je lui ai posée… Le poids de la question du financement serait-il tel qu’il ne laisse aucune place à des préoccupations de communication, de web, de numérique ?&lt;/p&gt;
+
+&lt;p&gt;Première rencontre avec &lt;strong&gt;Charles&lt;/strong&gt;, initiateur de &lt;a href=&quot;https://www.facebook.com/epiceriecollabnancy/&quot;&gt;La Grande Epicerie&lt;/a&gt;, projet de super-marché coopératif sur Nancy. Je reviens sur les aspects techniques de cette rencontre par la suite de l’article.&lt;/p&gt;
+
+&lt;p&gt;Première rencontre avec &lt;strong&gt;Nicolas&lt;/strong&gt;, de l’&lt;a href=&quot;http://www.lagence235.com/&quot;&gt;Agence 235&lt;/a&gt; : il me fait part de son expérience d’agence de communication qui essaye de bosser avec des organismes type ESS (mais c’est pas évident), et me parle du &lt;strong&gt;“cap des 3 ans”&lt;/strong&gt;. Apparemment, tant que ton entreprise n’a pas passé les 3 ans d’existence, c’est plus difficile d’être pris au sérieux. Je note une chouette suggestion de se mettre en lien avec les collectivités pour faire des présentations de ce que je peux proposer aux associations locales (notamment sur les sites statiques, dont j’ai présenté le concept à Nicolas).&lt;/p&gt;
+
+&lt;p&gt;Premiers échanges avec &lt;strong&gt;Quentin&lt;/strong&gt;, développeur chez &lt;a href=&quot;http://assembl.bluenove.com/&quot;&gt;Assembl&lt;/a&gt;, et qui lui aussi est plein d’envies de trouver de nouvelles façons de travailler et de soutenir l’innovation sociale. Des échanges riches sur nos positionnements respectifs, les stratégies pour parvenir à une structuration de type coopérative de développement (pourquoi pas inspiré d’Enspiral).&lt;/p&gt;
+
+&lt;h2 id=&quot;et-des-projets-&quot;&gt;Et des projets ?&lt;/h2&gt;
+
+&lt;p&gt;Pas les premiers échanges (il fallait bien un intrus !) avec les &lt;strong&gt;&lt;a href=&quot;https://lesbricodeurs.fr/&quot;&gt;Bricodeurs&lt;/a&gt;&lt;/strong&gt;, puisque ça fait déjà un bout de temps qu’on se suit, mais &lt;strong&gt;quasi premières implications concrètes&lt;/strong&gt; ! Je profite de mon changement de rythme pour m’activer enfin un peu plus (quelques commits sur différents projets, des échanges sur le modèle économique, etc) et contribuer à une &lt;a href=&quot;http://lesbricodeurs.fr/evenements/NuitCodeCitoyen/&quot;&gt;Nuit du Code citoyen&lt;/a&gt; alléchante.&lt;/p&gt;
+
+&lt;p&gt;Ce premier mois a aussi été celui des &lt;strong&gt;premiers appels au secours&lt;/strong&gt; à des copains ou connaissances développeurs sur des questions techniques qui me tombent brusquement dessus. Un merci infini (vraiment ! Vous êtes hyper chouettes !) à Laurent de &lt;a href=&quot;http://www.studio-hb.com/&quot;&gt;Studio HB&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/gbarillot&quot;&gt;Guillaume Barillot&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/steeveosteen&quot;&gt;Stephane Esteve&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/franckverrot&quot;&gt;Franck Verrot&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/camilleappert&quot;&gt;Camille Appert&lt;/a&gt; qui ont bien voulu m’aiguiller sur des solutions d’hébergement pour petits projets en Rails de structures sans le sou.&lt;/p&gt;
+
+&lt;p&gt;Et enfin &lt;strong&gt;premier devis&lt;/strong&gt;, accepté, qui me tombe dessus par surprise.&lt;/p&gt;
+
+&lt;p&gt;Oui, c’était plutôt un chouette premier mois !&lt;/p&gt;
+</description>
+        <pubDate>Tue, 07 Feb 2017 00:00:00 +0100</pubDate>
+        <link>http://marges.clairezuliani.com/good_job/2017/02/07/solo-plus-1-mois.html</link>
+        <guid isPermaLink="true">http://marges.clairezuliani.com/good_job/2017/02/07/solo-plus-1-mois.html</guid>
+        
+        <category>et moi</category>
+        
+        
+        <category>good_job</category>
+        
+      </item>
+    
+      <item>
+        <title>Référence : Government Digital Service</title>
+        <description>&lt;p&gt;Garder sous la main des références de professionnels, designers, chercheurs, sur des thématiques qui me sont chères. Aujourd’hui : un aperçu du travail du Government Digital Service, le service Design Numérique du gouvernement Britannique, qui oriente et donne forme aux services en ligne de l’Etat.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Ca fait maintenant quelques temps que j’ai découvert le Government Digital Service (GDS), et j’étais retombée amoureuse d’eux il y a quelques mois en découvrant leurs &lt;a href=&quot;/good_job/2016/09/05/ok-working-rules.html&quot;&gt;règles de travail&lt;/a&gt;. Plus le temps passe et plus je veux réclamer ma carte de membre du fan-club du GDS (et je sais que je ne serai pas l’unique membre).&lt;/p&gt;
+
+&lt;h2 id=&quot;design-principles&quot;&gt;Design principles&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Start with user needs&lt;/li&gt;
+  &lt;li&gt;Do less&lt;/li&gt;
+  &lt;li&gt;Design with data&lt;/li&gt;
+  &lt;li&gt;Do the hard work to make it simple&lt;/li&gt;
+  &lt;li&gt;Iterate. Then iterate again.&lt;/li&gt;
+  &lt;li&gt;This is for everyone&lt;/li&gt;
+  &lt;li&gt;Understand context&lt;/li&gt;
+  &lt;li&gt;Build digital services, not websites&lt;/li&gt;
+  &lt;li&gt;Be consistent, not uniform&lt;/li&gt;
+  &lt;li&gt;Make things open: it makes things better&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.gov.uk/design-principles&quot;&gt;Détail des principes de design&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Sources :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gds.blog.gov.uk/&quot;&gt;Le blog&lt;/a&gt; du Government Digital Service&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://insidegovuk.blog.gov.uk/&quot;&gt;Le blog du dedans&lt;/a&gt; du Government Digital Service&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://govdesign.tumblr.com/&quot;&gt;Le tumblr&lt;/a&gt; du Government Digital Service, avec plein de posters à télécharger pour décorer son bureau&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/alphagov&quot;&gt;le compte github&lt;/a&gt; du Government Digital Service&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;D’autres gens qui écrivent sur le Government Digital Service :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Geoffrey Dorne, avec par exemple ‘Accédez au « Service Design Toolkit » du Gouvernement Britannique.’ (&lt;a href=&quot;https://graphism.fr/accedez-au-service-design-toolkit-du-gouvernement-britannique/&quot;&gt;lien&lt;/a&gt;), ou “Comment travaille le Government Digital Service?” (&lt;a href=&quot;https://graphism.fr/comment-travaille-le-government-digital-service/&quot;&gt;lien&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.adviso.ca/blog/2013/10/24/gov-uk/&quot;&gt;Le gouvernement en ligne le plus inspirant&lt;/a&gt;, par adviso.ca, qui revient sur les orientations et modalités de la transformation des services publics numériques, en 2013&lt;/li&gt;
+  &lt;li&gt;“Comment le gouvernement britannique a économisé 18 milliards d’euros en révisant son mode de fonctionnement” (&lt;a href=&quot;http://www.lemonde.fr/economie/article/2014/08/26/comment-le-gouvernement-britannique-a-economise-18-milliards-d-euros-en-revisant-son-mode-de-fonctionnement_4476796_3234.html&quot;&gt;Article du monde&lt;/a&gt; payant, j’en suis désolée)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 24 Jan 2017 00:00:00 +0100</pubDate>
+        <link>http://marges.clairezuliani.com/sustainable_code/2017/01/24/reference-dieter-rams.html</link>
+        <guid isPermaLink="true">http://marges.clairezuliani.com/sustainable_code/2017/01/24/reference-dieter-rams.html</guid>
+        
+        <category>reference</category>
+        
+        <category>design</category>
+        
+        
+        <category>sustainable_code</category>
+        
+      </item>
     
       <item>
         <title>Design durable</title>
@@ -121,7 +213,7 @@
       </item>
     
       <item>
-        <title>Référénce : Dieter Rams</title>
+        <title>Référence : Dieter Rams</title>
         <description>&lt;p&gt;Garder sous la main des références de professionnels, designers, chercheurs, sur des thématiques qui me sont chères. Aujourd’hui : Les dix principes du “bon design” par le designer Dieter Rams.&lt;/p&gt;
 
 &lt;!--more--&gt;
@@ -484,174 +576,6 @@ Pas de librairie particulière détectée ici, ça me donne l’impression que c
         
         
         <category>good_job</category>
-        
-      </item>
-    
-      <item>
-        <title>Des plateformes contributrices au bien commun</title>
-        <description>&lt;p&gt;Esquisses de modalités d’“encadrement” des plateformes numériques par les pouvoirs publics ; ou comment Waze et Facebook pourraient être sommés de contribuer au bien commun.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;En partant des questions de neutralité du net et de loyauté des plateformes, Godefroy Beauvallet, vice-président du Conseil national du numérique développe des réflexions intéressantes sur la façon dont on pourrait imaginer une régulation des grands acteurs du numériques.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Constater ce hiatus dans le fonctionnement de Waze ouvre la voie à une piste concrète de mise en place de la notation de la loyauté des plateformes  : si les territoires étaient capables de produire des informations sur leurs objectifs de politiques publiques et de bien commun dans des formats ‘ machine-compatibles ’ utilisables par les plateformes en ligne, Waze et consorts pourraient les utiliser dans leurs algorithmes. Et, puisqu’ils le pourraient, on pourrait également tester, et noter, leur contribution positive ou négative à ces politiques publiques.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Ces tests pourraient être automatisés  :&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;ul&gt;
-    &lt;li&gt;les itinéraires conseillés par Waze et ses concurrents pourraient être analysés et notés quant à leur respect des prescriptions publiques  ;&lt;/li&gt;
-    &lt;li&gt;les résultats pourraient être rendus publics et les réputations en dépendre  ;&lt;/li&gt;
-    &lt;li&gt;des &lt;a href=&quot;https://en.oxforddictionaries.com/definition/us/pay-or-play&quot;&gt;systèmes pay-or-play&lt;/a&gt; pourraient venir moduler les impôts payés par ces plateformes ;&lt;/li&gt;
-    &lt;li&gt;un débat démocratique pourrait venir boucler la boucle pour vérifier la validité des prescriptions et leur efficacité.&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;L’exemple avec d’autres plateformes :&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;ul&gt;
-    &lt;li&gt;On pourrait vérifier si AirBnB promeut ou au contraire contrecarre la tranquillité ou la mixité (si ces objectifs sont les bons)  ;&lt;/li&gt;
-    &lt;li&gt;si Amazon promeut des produits éco-progressistes ou non  ;&lt;/li&gt;
-    &lt;li&gt;si Facebook offre une variété de points de vue à ses lecteurs, etc ;&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Evidemment, énormément de questions se posent :&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;comment produire et maintenir de telles données normées, au coût réel ?&lt;/li&gt;
-  &lt;li&gt;comment contraindre ces hyperstructures et les convaincre de jouer le jeu ?&lt;/li&gt;
-  &lt;li&gt;comment concilier des objectifs de politique publique nationaux avec les politiques commerciales et règles d’usage mondiale des plateformes majeures ?&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Toujours est-il que les pistes évoquées sont stimulantes.&lt;/p&gt;
-
-&lt;p&gt;Source : &lt;a href=&quot;http://rue89.nouvelobs.com/2016/12/10/loyaute-plateformes-daccord-loyaute-a-quoi-265869&quot;&gt;Loyauté des plateformes, d’accord, mais loyauté à quoi ?&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 21 Dec 2016 00:00:00 +0100</pubDate>
-        <link>http://marges.clairezuliani.com/binary_transition/2016/12/21/des-plateformes-contributrices-au-bien-commun.html</link>
-        <guid isPermaLink="true">http://marges.clairezuliani.com/binary_transition/2016/12/21/des-plateformes-contributrices-au-bien-commun.html</guid>
-        
-        <category>civic tech</category>
-        
-        
-        <category>binary_transition</category>
-        
-      </item>
-    
-      <item>
-        <title>A la poursuite des common-tech</title>
-        <description>&lt;p&gt;Plaidoyer pour le développement d’une “common-tech”.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;A la lecture du &lt;a href=&quot;https://medium.com/open-source-politics/notre-histoire-c61bbec90334#.p1996qyqy&quot;&gt;feuillet de présentation d’Open Source Politics&lt;/a&gt;, j’avais déjà eu le sentiment qu’on était un peu sur la même longueur d’onde. Aujourd’hui, avec ce nouveau billet de Valentin Chaput, je confirme que ça me déplairait pas de bosser avec ces gars-là.&lt;/p&gt;
-
-&lt;p&gt;Que raconte-t-il ? En substance, qu’&lt;strong&gt;il est temps de se préoccuper de la portée politique des civic tech&lt;/strong&gt;. Politique, non au sens des objectifs explicites des solutions civic tech (par définition, “politique”), mais due projet sous-tendu par leur architecture ;ses valeurs qui portées par leurs choix techniques, et de leurs implications.&lt;/p&gt;
-
-&lt;p&gt;C’est le moment de placer, comme Valentin Chaput le fit, la petite référence à &lt;a href=&quot;https://framablog.org/2010/05/22/code-is-law-lessig/&quot;&gt;Lawrence Lessig - Code is law&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Ce n’est pas entre régulation et absence de régulation que nous avons à choisir. Le code régule. Il implémente – ou non – un certain nombre de valeurs. Il garantit certaines libertés, ou les empêche. Il protège la vie privée, ou promeut la surveillance. Des gens décident comment le code va se comporter. Des gens l’écrivent. La question n’est donc pas de savoir qui décidera de la manière dont le cyberespace est régulé  : ce seront les codeurs. La seule question est de savoir si nous aurons collectivement un rôle dans leur choix – et donc dans la manière dont ces valeurs sont garanties – ou si nous laisserons aux codeurs le soin de choisir nos valeurs à notre place.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;pol-gov-et-common-sont-sur-un-bâteau&quot;&gt;Pol, gov et common sont sur un bâteau&lt;/h2&gt;
-
-&lt;p&gt;Valentin Chaput fait la distinction entre différents types de civic tech.&lt;/p&gt;
-
-&lt;h3 id=&quot;pol-tech&quot;&gt;Pol-tech&lt;/h3&gt;
-
-&lt;p&gt;Les &lt;strong&gt;pol-tech&lt;/strong&gt; sont des &lt;em&gt;“outils d’action au service des intérêts particuliers qui s’affrontent dans la vie politicienne”&lt;/em&gt;. Scalables (le coût marginal d’un nouvel utilisateur tend vers zéro), avec pour contrepartie la centralisation et l’uniformisation des plateformes.&lt;/p&gt;
-
-&lt;p&gt;Exemple : &lt;a href=&quot;http://www.gov-app.net/&quot;&gt;Gov&lt;/a&gt;, &lt;a href=&quot;https://www.change.org/&quot;&gt;change.org&lt;/a&gt;, &lt;a href=&quot;http://nationbuilder.com/&quot;&gt;Nation builder&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;gov-tech&quot;&gt;Gov-tech&lt;/h3&gt;
-
-&lt;p&gt;Les &lt;strong&gt;gov-tech&lt;/strong&gt;, concerne la prise de décisions et leur évaluation, et dépend de l’initiative des gouvernements et collectivités. Parfois développé en interne ; majoritairement par des prestataires privés. Ces plateformes peuvent être dupliquées et adaptées à la marge pour différents contextes (deux villes souhaitant lancer une plateforme de budget participatif, par exemple). Ici, cohabitent des logiques ouvertes et des logiques propriétaires.&lt;/p&gt;
-
-&lt;p&gt;Exemple de solutions propriétaires :&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Tell my city, applications de signalement&lt;/li&gt;
-  &lt;li&gt;Fluicity, application mobile de communication entre une municipalité et ses administrés&lt;/li&gt;
-  &lt;li&gt;OpenDataSoft, solution intégrée pour des portails open data&lt;/li&gt;
-  &lt;li&gt;Cap Collectif, qui commercialise des plateformes de consultation&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Inconvénients :&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;manque de transparence&lt;/li&gt;
-  &lt;li&gt;abandon de la souveraineté&lt;/li&gt;
-  &lt;li&gt;absence de collaboration durable&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Le versant “libre” de ces outils appartient plutôt à une 3e voie :&lt;/p&gt;
-
-&lt;h3 id=&quot;common-tech&quot;&gt;Common-tech&lt;/h3&gt;
-
-&lt;p&gt;Outils développés dans des logiques libres, open source; qu’on retrouve pas mal dans le mouvement civic-tech hors de France.&lt;/p&gt;
-
-&lt;p&gt;Pour des exemples, &lt;a href=&quot;/tech-changement-social-open-source&quot;&gt;rdv sur la page d’un tout nouveau dossier, ici-même&lt;/a&gt;, inauguré aujourd’hui pour recenser les solutions ouvertes réutilisables pour différentes fonctions.&lt;/p&gt;
-
-&lt;h2 id=&quot;pour-une-réorientation-des-civic-tech&quot;&gt;Pour une réorientation des civic tech&lt;/h2&gt;
-
-&lt;p&gt;Quelques extraits éclairants, mais je vous invite à lire le texte intégralement, il y a vraiment plein de choses intéressantes.&lt;/p&gt;
-
-&lt;p&gt;Au sujet de la rsponsabilité des acteurs de la civic tech dans la confusion inefficace actuelle :&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;Nous sommes collectivement responsables d’avoir laissé grandir la confusion qui entoure la civic-tech, cet objet politique non-identifié derrière lequel nous nous sommes réfugiés avec espoir et enthousiasme. Nous avons décliné un jargon fleuri composé d’« open gov », de « hackathon », d’« open data », d’« API », de « do it yourself », de « crowdsourcing » et de « proxy voting » sur la « blockchain » qui rend nos projets littéralement incompréhensibles pour la très large majorité de la population que nous voulons toucher. Nous avons par ailleurs été piégés par &lt;a href=&quot;https://medium.com/france/la-civic-tech-arrivera-t-elle-%C3%A0-r%C3%A9pondre-au-d%C3%A9sir-d-alternative-d%C3%A9mocratique-c4222d6124d0#.ymr8pybmb&quot;&gt;nos propres définitions de la civic-tech&lt;/a&gt;, si englobantes qu’elles ne permettent pas la distinction entre plusieurs réalités techniques, économiques et finalement éminemment politiques.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;A ce jour, la civic-tech n’est qu’un passe-temps pour la classe moyenne urbaine désabusée par le spectacle de sa représentation politique. A de très rares exceptions près, nos initiatives ne sont pas inclusives et ne touchent pas les citoyens des quartiers populaires et des périphéries qui forment les bastions d’abstentionnistes et de votes extrêmes. La tâche est immense tant le fossé à combler est profond, tant les fractures seront longues à cicatriser.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Au sujet des coûts / apports d’une “common-tech” :&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Le paramétrage technique [des solutions open source], la traduction, l’ajout de fonctionnalités nécessitent du temps et des compétences de développement — parfois plus que pour une solution propriétaire qui existe déjà et dont le coup de duplication est infiniment plus faible que le prix de la licence d’exploitation que l’entreprise vous fait payer. En revanche, l’amélioration ainsi financée bénéficie à tous les acteurs de la communauté. Partout dans le monde.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;[…]&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Ce modèle est probablement moins rentable pour des investisseurs à court terme, mais beaucoup plus pour les citoyens à moyen terme. Et donc pour la démocratie à long terme.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Au sujet de la responsabilité des pouvoirs publics :&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Dans son ouvrage de référence sur les nouveaux modèles de pair-à-pair, Michel Bauwens explique qu’un commun a peu de chance de triompher s’il est isolé face à des concurrents privés, mais finit toujours par l’emporter s’il s’allie avec des acteurs publics ou privés qui apportent une stabilité et une rétribution au travail de la communauté.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;[…]&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Il faut un soutien fort en faveur du développement de nouveaux outils numériques capables de se répandre de plus en plus facilement sur tout le territoire, afin d’intensifier nos pratiques démocratiques dans les écoles, les associations et les entreprises, de multiplier les consultations et les redditions de comptes transparentes, d’équiper les collectifs citoyens locaux qui sont les seuls en position d’associer les exclus. C’est la condition de la transition démocratique.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Source : &lt;a href=&quot;https://medium.com/open-source-politics/la-civic-tech-fran%C3%A7aise-risque-de-se-d%C3%A9tourner-de-la-cr%C3%A9ation-des-biens-communs-num%C3%A9riques-dont-9ebcf5c55c2e#.7j14lefsc&quot;&gt;La civic-tech française risque de se détourner de la création des biens communs numériques&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 06 Dec 2016 00:00:00 +0100</pubDate>
-        <link>http://marges.clairezuliani.com/sustainable_code/2016/12/06/a-la-poursuite-des-commons-tech.html</link>
-        <guid isPermaLink="true">http://marges.clairezuliani.com/sustainable_code/2016/12/06/a-la-poursuite-des-commons-tech.html</guid>
-        
-        <category>civic tech</category>
-        
-        <category>communs</category>
-        
-        
-        <category>sustainable_code</category>
         
       </item>
     
