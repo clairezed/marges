@@ -5,9 +5,49 @@
     <description>Prise de notes des internets de claire zuliani</description>
     <link>http://marges.clairezuliani.com/</link>
     <atom:link href="http://marges.clairezuliani.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 09 Feb 2017 09:59:21 +0100</pubDate>
-    <lastBuildDate>Thu, 09 Feb 2017 09:59:21 +0100</lastBuildDate>
+    <pubDate>Thu, 16 Feb 2017 09:56:45 +0100</pubDate>
+    <lastBuildDate>Thu, 16 Feb 2017 09:56:45 +0100</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>Un guide pour faire de l'open source qui tombe à pic</title>
+        <description>&lt;p&gt;Vous voulez vous lancer dans l’open source mais comme moi vous êtes encore un peu paumé ? Plein de gens se sont associés pour proposer un guide de l’open source qui m’a tout l’air d’une excellente facture.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Dans ce guide (en anglais), dont les sources sont -sans surprise- sur &lt;a href=&quot;https://github.com/github/open-source-guide#open-source-guides&quot;&gt;github&lt;/a&gt;, on trouve des infos sur :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Comment contribuer à l’open source&lt;/li&gt;
+  &lt;li&gt;Démarrer un projet open source&lt;/li&gt;
+  &lt;li&gt;Trouver des utilisateurs à votre projet&lt;/li&gt;
+  &lt;li&gt;Construire une communauté accueillante autour du projet&lt;/li&gt;
+  &lt;li&gt;Les meilleures pratiques pour les mainteneurs&lt;/li&gt;
+  &lt;li&gt;Meneur et gouvernance&lt;/li&gt;
+  &lt;li&gt;Etre payé pour un travail open source&lt;/li&gt;
+  &lt;li&gt;Votre code de conduite&lt;/li&gt;
+  &lt;li&gt;Les métriques de l’open source&lt;/li&gt;
+  &lt;li&gt;Les aspects légaux de l’open source&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Autant dire que, alors que je débute un premier projet open source pour le compte de mon premier client, je vais dans les jours qui viennent compulser avec avidité plusieurs chapitres.&lt;/p&gt;
+
+&lt;p&gt;(merci à &lt;a href=&quot;https://twitter.com/NicolasLoubet&quot;&gt;Nicolas Loubet&lt;/a&gt;, décidemment dénicheur de premier ordre, pour la découverte)&lt;/p&gt;
+
+&lt;p&gt;Source : &lt;a href=&quot;https://opensource.guide/&quot;&gt;Open Source Guide&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 15 Feb 2017 00:00:00 +0100</pubDate>
+        <link>http://marges.clairezuliani.com/sustainable_code/2017/02/15/guide-open-source.html</link>
+        <guid isPermaLink="true">http://marges.clairezuliani.com/sustainable_code/2017/02/15/guide-open-source.html</guid>
+        
+        <category>reference</category>
+        
+        <category>design</category>
+        
+        
+        <category>sustainable_code</category>
+        
+      </item>
     
       <item>
         <title>A mon compte + 1 mois</title>
@@ -531,51 +571,6 @@ Pas de librairie particulière détectée ici, ça me donne l’impression que c
         
         
         <category>sustainable_code</category>
-        
-      </item>
-    
-      <item>
-        <title>Toi qui veut contribuer aux communs, sache que</title>
-        <description>&lt;p&gt;Je tombe par hasard sur un papier en forme de bilan d’une contributrice aux communs, et ses éléments d’analyse de l’écosystème, des postures et stratégies individuelles observées, sont éclairantes pour quiconque est tenté de contribuer à son tour.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;Je ne suis pas une contributrice aux communs, mais je tourne pas mal autour, et de plus en plus intensément. Pour être tout à fait honnête, je crois que le risque est réel que je tombe dedans. C’est pour ça que les retours d’expérience de cette &lt;a href=&quot;http://maiadereva.semeoz.info/&quot;&gt;Maia&lt;/a&gt; que je ne connais pas personnellement me sont précieux (d’autant plus que je reconnais dans ses exemples un certain nombre des mauvaises habitudes / attitudes dans lesquelles j’ai tendance à m’abandonner).&lt;/p&gt;
-
-&lt;p&gt;Il y a des réflexions intéressantes dans l’ensemble du post, mais je retiens surtout une liste de mises en garde sur lesquelles je compte revenir quand je sentirai que ça sent le roussi, inspirée des comportements qu’elle a pu observer dans le milieu des communs :&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;ul&gt;
-    &lt;li&gt;se lancer bille en tête dans un grand projet, embarquer quelques proches dans l’aventure, mettre en place tous les outils, et s’apercevoir tout à coup qu’on a semé tout le monde et que le projet n’a de collaboratif que le nom ;&lt;/li&gt;
-    &lt;li&gt;créer de toutes pièces une ressource sans mesurer l’énergie qui sera nécessaire à maintenir sa pérennité, puis appeler à l’aide de tous côtés en déplorant le manque de motivation des autres ;&lt;/li&gt;
-    &lt;li&gt;critiquer un commun dont on se sert pour améliorer son propre commun sans contribuer à l’amélioration du premier ;&lt;/li&gt;
-    &lt;li&gt;considérer les communs comme une vaste épicerie gratuite à ciel ouvert  sans jamais évoquer les questions de réciprocité ;&lt;/li&gt;
-    &lt;li&gt;espérer qu’une réciprocité se développera naturellement et sans effort car, c’est bien connu, tous les commoners sont des gens intelligents et respectueux qui ne se comportent jamais en passagers clandestins ;&lt;/li&gt;
-    &lt;li&gt;créer un nième outil dans un secteur déjà saturé en pensant sincèrement qu’on est le/la seul.e à pouvoir produire un objet exempt des défauts de tous les précédents ;&lt;/li&gt;
-    &lt;li&gt;critiquer ceux/celles qui créent un nième outil dans un secteur déjà saturé en omettant de considérer que chacun.e a besoin d’expérimenter et d’écrire sa propre histoire (graphique, conceptuelle, communautaire,…) ;&lt;/li&gt;
-    &lt;li&gt;créer une ressource totalement ouverte et libre d’accès en faisant confiance à l’auto-organisation et finir par constater que l’absence de limites claires et de gouvernance crée une confusion conduisant de facto à une centralisation des compétences et des moyens d’actions ;&lt;/li&gt;
-    &lt;li&gt;tenter de structurer tout ce qui bouge en rédigeant des chartes, des règlements, des modèles de gouvernance ou des outils d’évaluation sans concevoir que ce faisant on étouffe toute possibilité de créer du nouveau en écartant la possibilité de la relation de confiance ;&lt;/li&gt;
-    &lt;li&gt;mettre en place une gouvernance horizontale participative en pensant que les « opprimé.e.s » vont désormais pouvoir s’exprimer, et être déçu.e de constater que sur une communauté de 100 personnes, seules 10 contribuent réellement. Ne pas comprendre quelles motivations poussent les 90 individus inactifs à se déclarer quand même membres du collectif ;&lt;/li&gt;
-    &lt;li&gt;concevoir un modèle ou un outil que l’on estime propice à une dissémination virale mondialisée puis passer son temps à donner des leçons en fustigeant tout ceux qui ne suivent pas ce modèle pourtant génial ;&lt;/li&gt;
-    &lt;li&gt;chercher désespérément une légitimation narcissique, parfois projetée sur le nom d’un collectif ou d’un outil, en comptant frénétiquement les « J’aime »  et les « Partages » sur les réseaux sociaux, quitte à se sentir personnellement désavoué lorsque cela ne fonctionne pas ;&lt;/li&gt;
-    &lt;li&gt;penser que les relations sont des rapports de force et que la vie en société est nécessairement une gestion de la conflictualité ; entretenir volontairement des polémiques considérées comme seules sources de fertilité et n’envisager à aucun moment que le développement d’une individuation fondée sur la bienveillance et la confiance puisse être d’un quelconque recours dans cette dialectique ;&lt;/li&gt;
-    &lt;li&gt;s’estimer détenteur d’une objectivité scientifique auto-légitimitée par un microcosme d’appartenance, en niant que toute production conceptuelle puisse être le fruit de la structure psychologique subjective de son auteur.e ;&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Source : &lt;a href=&quot;http://maiadereva.semeoz.info/cest-quoi-plan/&quot;&gt;C’est quoi ton plan ?&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 22 Dec 2016 00:00:00 +0100</pubDate>
-        <link>http://marges.clairezuliani.com/good_job/2016/12/22/toi-qui-veut-contribuer-aux-communs-sache-que.html</link>
-        <guid isPermaLink="true">http://marges.clairezuliani.com/good_job/2016/12/22/toi-qui-veut-contribuer-aux-communs-sache-que.html</guid>
-        
-        <category>communs</category>
-        
-        <category>faire a plusieurs</category>
-        
-        
-        <category>good_job</category>
         
       </item>
     
