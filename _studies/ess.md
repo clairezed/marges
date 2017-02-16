@@ -65,6 +65,7 @@ Quelques liens et repères sur ce que devient le secteur de l'ESS et de l'entrep
 
 - [Mouves Grand Est](http://mouves.org/nos-missions/federer-et-influer/federer-les-entrepreneurs-sociaux/lorraine/) ( [facebook](https://www.facebook.com/mouves.lorraine))
 - [Etude l'économie sociale en ACAL(2015)](http://www.oref-alsace.org/document/leconomie-sociale-et-solidaire-en-acal)
+- [Dossier arteca](http://www.arteca.fr/ressources/113_Culture-et-economie-sociale-et-solidaire) CULTURE ET ÉCONOMIE SOCIALE ET SOLIDAIRE, avec focus grand est
 - Sylvain Waserman, Conseiller régional, Président de la Commission « Développement économique »
 - Catherine Zuber, Conseillère régionale déléguée à l’ESS et à la vie associative
 

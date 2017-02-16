@@ -181,6 +181,11 @@ http://scopyleft.fr/
 
 "Travailler entre humains, sur des projets éthiques et intéressants, tout en privilégiant le bien-être et le plaisir de chacun."
 
+Membres :
+- David Larlet ([github](https://github.com/davidbgk))
+- Stéphane Langlois
+- Vincent Agnano ([github](https://github.com/vinyll))
+
 
 ### Datactivi.st
 http://www.datactivi.st/

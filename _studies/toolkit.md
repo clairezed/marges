@@ -123,10 +123,10 @@ Comment bien commencer un projet ? Quelques outils déjà utilisés ou à tester
 
 #### Plutot élément web (UI)
 
+- [UI Patterns](http://ui-patterns.com/) : User Interface Design patterns library
+- [Good UI](http://www.goodui.org/) : 75 GoodUI ideas
 - [UX design - Ui in](https://uxdesign.cc/ui-inspiration-b019453058d7#.vzz3m9qyw) : annuaire
-
 - [Zurb Patterntap](http://zurb.com/patterntap)
-- [UI patterns](http://ui-patterns.com/)
 - [Checkout Pages](http://www.checkoutpages.xyz/) : curated directory of checkout pages (existe aussi pour pricing pages, product pages, store pages)
 - [UI DB](http://uidb.io/) : A collection of specific UI and design examples.
 
@@ -142,6 +142,9 @@ Comment bien commencer un projet ? Quelques outils déjà utilisés ou à tester
 #### Javascript
 
 - [Clean Code Javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+
+#### Accessibilité
+	- [Tools for Developing Accessible Websites](https://bitsofco.de/tools-for-developing-accessible-websites/)
 
 ### Boilerplates
 
@@ -210,6 +213,11 @@ Zaclys : comme openmailbox mais mieux
 ##  Administratif
 
 - [Contrats Français](https://github.com/tibastral/contrats-francais) : Exemples de Conditions générales d'achat, de vente, de développement d'application web, de scénario utilisateurs
+
+### Licence, open source
+
+- [Open source template](https://github.com/davidbgk/open-source-template) : A README template to encourage open-source contributions
+- [Open Source Guide](https://opensource.guide/)
 
 ### CRM
 
