@@ -2,7 +2,7 @@
 layout: post
 title: "Un guide pour faire de l'open source qui tombe à pic"
 category: sustainable_code
-tags: [reference, design]
+tags: [open source]
 
 ---
 
