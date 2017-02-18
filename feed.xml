@@ -5,9 +5,105 @@
     <description>Prise de notes des internets de claire zuliani</description>
     <link>http://marges.clairezuliani.com/</link>
     <atom:link href="http://marges.clairezuliani.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 16 Feb 2017 09:56:45 +0100</pubDate>
-    <lastBuildDate>Thu, 16 Feb 2017 09:56:45 +0100</lastBuildDate>
+    <pubDate>Sat, 18 Feb 2017 09:36:46 +0100</pubDate>
+    <lastBuildDate>Sat, 18 Feb 2017 09:36:46 +0100</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>Des extraits de coopérativisme de plateforme</title>
+        <description>&lt;p&gt;Vous avez déjà entendu parlé des coopératives de plateforme ? Un livre qui explore ce mouvement est paru récemment, et quelqu’un en a fait un résumé à partir de sélection d’extraits. Précieux !&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Mais c’est quoi le “Platform cooperativism” ?&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Platform cooperativism is the radical idea that the internet would do more good if its major properties were democratically owned and governed.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Le coopérativisme de plateformes est l’idée radicale selon laquelle internet serait bien plus bénéfique si ses propriétés principales était possédées et partagées démocratiquement (traduction maison sur le pouce).&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Pour moi, ça revient un peu à un mouvement de contre-uberisation, et c’est tant mieux. C’est une proposition qui m’intéresse particulièrement en ce qu’elle invite à faire un pas de côté par rapport au fonctionnement économique actuel. Et réfléchir en termes techniques à la question implique le même type de renversement dans sa façon de penser et de construire.&lt;/p&gt;
+
+&lt;p&gt;Du coup, merci mille fois à tous les auteurs du livre “&lt;a href=&quot;http://www.orbooks.com/catalog/ours-to-hack-and-to-own/&quot;&gt;Ours to Hack and to Own&lt;/a&gt;: the rise of platform cooperativism, a new vision for the future of work and fairer Internet” et à &lt;a href=&quot;https://medium.com/@decmanagement&quot;&gt;Antonio Blanco-Gracia&lt;/a&gt; pour la lecture partagée !&lt;/p&gt;
+
+&lt;p&gt;Et maintenant, quelques extraits de cette collection d’extraits (…) :&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Les intertitres numérotés sont des reprises des intertitres de l’article, histoire de contextualiser un peu les extraits&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;7-new-decentralized-architectures-need-to-be-designed-to-be-counteranti-disintermediationist&quot;&gt;7. New decentralized architectures need to be designed to be counteranti-disintermediationist&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Central to the counterantidisintermediationist design is the end-to-end principle; platforms must not depend on servers and admins, even when cooperatively run, but must, to the greatest degree possible, run on the computers of the platforms users (Dmytri Kleiner — Counterantidisintermediation).&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Moi non plus je ne comprends pas grand chose à ce principe de “counteranti-disintermediationist”, mais ce dernier exemple me parle un peu plus. Hmm, effectivement, que les ressources soient vraiment partagées entre tous les utilisateurs fait la vraie décentralisation, mais ça reporte la charge sur les machines des utilisateurs.&lt;/p&gt;
+
+&lt;p&gt;C’est quoi les technologies derrière ça ? On va vers des technologies de peer-to-peer que je ne maîtrise pas ? Ou on peut bidouiller quelque chose avec de la base de donnée côté client ? Mais dans ce cas, ne faut-il pas quand même une base de donnée centralisée quelque part pour faire la synchro ? Ok, je sens que je nage en pleine confusion, faut que je creuse.&lt;/p&gt;
+
+&lt;h2 id=&quot;9-coop-platforms-are-not-as-much-for-autonomy-and-independence-as-for-multi-stakeholder-interdependence&quot;&gt;9. Coop Platforms are not as much for autonomy and independence as for multi-stakeholder interdependence.&lt;/h2&gt;
+
+&lt;p&gt;Une autre réflexion, non technique :&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Cooperative purity can easily become an obstacle to achieving meaningful scale and inclusive impact. For instance, insisting that members self-finance their own enterprise risks creating a closed circle of relative economic privilege rather than a movement to truly democratize capital. Similarly, insisting on autonomy from government intervention and support means that the policies behind traditional economic development will continue to grind away, subsidizing corporations and leaving cooperatives to fend for themselves (John Duda — Beyond Luxury Cooperativism).&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Ce serait quoi, une plateforme bien pensée ? Une plateforme qui suivrait les principes suivant :&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Earnings maximization&lt;/li&gt;
+  &lt;li&gt;Stability and predictability&lt;/li&gt;
+  &lt;li&gt;Transparency&lt;/li&gt;
+  &lt;li&gt;Portability of products and reputations&lt;/li&gt;
+  &lt;li&gt;Upskilling&lt;/li&gt;
+  &lt;li&gt;Social connectedness&lt;/li&gt;
+  &lt;li&gt;Bias elimination&lt;/li&gt;
+  &lt;li&gt;Feedback mechanisms&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;12-civil-society-and-governments-have-to-co-create-an-eco-system-for-coop-plataforms-to-flourish&quot;&gt;12. Civil Society and Governments have to co-create an eco-system for Coop Plataforms to flourish&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“The big companies that rule the Internet aren’t coming to dominate just because of a good idea and a charismatic founder; they grow out of supportive ecosystems, including investors, lawyers, sympathetic governments, and tech schools. Perhaps most important is their culture — the festivals, the meetups, the memes, the manifestos — that share norms for what kinds of practices are expected and celebrated. To change these norms, we need to cultivate an ecosystem for platform cooperativism” (Editors -Showcase 2: Ecosystem)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;17-coop-platforms-will-be-developed-more-quickly-if-depart-from-what-already-exists-and-traditional-cooperativism-and-unionism-experiment-with-it&quot;&gt;17. Coop Platforms will be developed more quickly if depart from what already exists, and traditional cooperativism and unionism experiment with it.&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;It’s important for folks in the platform-cooperative community to understand that there are existing worker-led organizations that are set up to deal with multi-employer, disaggregated work situations — and that we can build from their model, rather than starting from scratch. (Kati Sipp — Portable Reputation in the On-Demand Economy)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Et je découvre qu’un gars d’Enspiral a aussi &lt;a href=&quot;https://medium.com/enspiral-tales/ours-to-hack-and-to-own-a-review-6707955a4ee3#.kft5ah43q&quot;&gt;sélectionné quelques extraits&lt;/a&gt; qui valent le coup. Je retranscris ici :&lt;/p&gt;
+
+&lt;h2 id=&quot;a-propos-de-la-blockchain&quot;&gt;A propos de la blockchain&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“The last decade has shown us that there is no linear-causal relationship between decentralization in technical systems and egalitarian or equitable practices socially, politically, or economically(Rachel O’Dwyer).”&lt;br /&gt;
+In other words, “put it on the blockchain” is no substitute for a critical analysis of power.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;D’ailleurs, je vous invite vraiment à lire &lt;a href=&quot;https://medium.com/enspiral-tales/ours-to-hack-and-to-own-a-review-6707955a4ee3#b307&quot;&gt;la fin de son article&lt;/a&gt;, à Richard D. Bartlett d’Enspiral. Il délivre un bel aperçu de l’un des points d’achoppement majeur des démarches qui essayent d’intégrer innovation tehcnologique et innovation sociale.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;In the first camp you have the start-uppers, techies, entrepreneurs and blockchainers… people focused on the future. They’re motivated by what’s new. In just about every innovation they can see the promise of a more equitable society, right around the corner.&lt;br /&gt;
+In the second camp you have the political activists, academics, and labor organisers… people who have read enough history to understand that nearly all these innovations are doomed to be absorbed by the logic of capitalism.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Source : Why you should read “Ours to Hack and to Own”: &lt;a href=&quot;https://medium.com/@decmanagement/why-you-should-read-ours-to-hack-and-to-own-the-book-in-24-powerful-insights-5f36397aacea#.dw2juojiq&quot;&gt;the book in 24 powerful insights&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 15 Feb 2017 00:00:00 +0100</pubDate>
+        <link>http://marges.clairezuliani.com/binary_transition/2017/02/15/platform-coops-book-insights.html</link>
+        <guid isPermaLink="true">http://marges.clairezuliani.com/binary_transition/2017/02/15/platform-coops-book-insights.html</guid>
+        
+        <category>cooperative</category>
+        
+        
+        <category>binary_transition</category>
+        
+      </item>
     
       <item>
         <title>Un guide pour faire de l'open source qui tombe à pic</title>
@@ -40,9 +136,7 @@
         <link>http://marges.clairezuliani.com/sustainable_code/2017/02/15/guide-open-source.html</link>
         <guid isPermaLink="true">http://marges.clairezuliani.com/sustainable_code/2017/02/15/guide-open-source.html</guid>
         
-        <category>reference</category>
-        
-        <category>design</category>
+        <category>open source</category>
         
         
         <category>sustainable_code</category>
@@ -509,68 +603,6 @@ Pas de librairie particulière détectée ici, ça me donne l’impression que c
         
         
         <category>good_job</category>
-        
-      </item>
-    
-      <item>
-        <title>Nowwwel reader's digest</title>
-        <description>&lt;p&gt;Je prends enfin le temps de faire un petit tour sur les différents écrits réalisés pour &lt;a href=&quot;https://twitter.com/search?q=%23nowwwel&quot;&gt;#nowwwel&lt;/a&gt; (&lt;a href=&quot;https://www.hteumeuleu.fr/en-decembre-ecrivez-partagez-hashtag-nowwwel/&quot;&gt;très chouette proposition&lt;/a&gt; à l’initiative de Hteumeuleu) et de relever quelques articles qui me parlent.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;h2 id=&quot;un-peu-de-technique&quot;&gt;Un peu de technique&lt;/h2&gt;
-
-&lt;h3 id=&quot;services-tiers&quot;&gt;Services tiers&lt;/h3&gt;
-
-&lt;p&gt;Lorsqu’on développe des sites statiques, on peut vite recourir à des services tiers pour l’ajout de fonctionnalités dynamiques. En apprenant que Disqus, service de gestion de commentaires, &lt;a href=&quot;https://www.smashingmagazine.com/2016/12/web-development-reading-list-163/#privacy&quot;&gt;revoyait son fonctionnement d’une manière peu avenante&lt;/a&gt;, je me suis dit que ça valait le coup d’être vraiment attentive aux services utilisés et à la manière de les utiliser.&lt;/p&gt;
-
-&lt;p&gt;Jean-Pierre Vincent (&lt;a href=&quot;https://twitter.com/theystolemynick&quot;&gt;@theystolemynick&lt;/a&gt;) en remet une couche sous l’angle de la performance, avec deux articles qui comprennent bon nombre d’enseignements et de recommendations : &lt;a href=&quot;http://braincracking.org/2016/12/21/combien-coute-un-service-tiers-gratuit/&quot;&gt;Combien coûte un service tiers gratuit ?&lt;/a&gt; et  &lt;a href=&quot;http://braincracking.org/2016/12/21/les-manques-a-gagner-de-la-publicite-pour-les-editeurs/&quot;&gt;Les manques à gagner de la publicité pour les éditeurs&lt;/a&gt; (quitte à être tenu de mettre des pubs, autant le faire du mieux possible, et avoir sous la main des arguments pour en mettre le moins possible)&lt;/p&gt;
-
-&lt;h3 id=&quot;progressive-web-apps&quot;&gt;Progressive web apps&lt;/h3&gt;
-
-&lt;p&gt;Stéphanie Walter revient sur &lt;a href=&quot;https://blog.stephaniewalter.fr/super-pouvoirs-navigateurs-mobiles/&quot;&gt;Les super pouvoirs des navigateurs mobiles&lt;/a&gt; : utilisation des fonctionnalités audio, vidéo, photo des navigateurs mobiles, transformer son site en PWA… La littérature sur le sujet est déjà assez abondante, mais les articles en français pas si fréquents.&lt;/p&gt;
-
-&lt;h3 id=&quot;guideline&quot;&gt;Guideline&lt;/h3&gt;
-
-&lt;p&gt;Quand une agence renommée partage les arcanes de son organisation, il y a généralement toujours de quoi apprendre. Alsacréation partage ses &lt;a href=&quot;https://github.com/alsacreations/guidelines&quot;&gt;guidelines&lt;/a&gt; sur différents thèmes : accessibilité, css, développement, html, js, workflow.&lt;/p&gt;
-
-&lt;h3 id=&quot;liberté-vie-privée-sécurité&quot;&gt;Liberté, vie privée, sécurité&lt;/h3&gt;
-
-&lt;p&gt;Quelques conseils simples pour améliorer la sécurité de sa navigation, sa communication numérique, son partage ou sa sauvegarde de fichiers ou ses mots de passe. C’est sur le &lt;a href=&quot;https://larlet.fr/david/blog/2016/militantisme-festif/&quot;&gt;blog de David Larlet&lt;/a&gt;, membre de Scopyleft, et ça me permet d’alimenter ma &lt;a href=&quot;/toolkits&quot;&gt;boite à outils&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;concevoir-pour-durer&quot;&gt;Concevoir pour durer&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://borisschapira.com&quot;&gt;Boris Schapira&lt;/a&gt; nous questionne sur la capacité à survivre dans la durée des sites que nous produisons. A l’invitation de son article sur &lt;a href=&quot;https://borisschapira.com/2016/12/le-web-au-futur/&quot;&gt;le web du futur&lt;/a&gt;, et si on était + attentif à :&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;construire un design modulable plutôt que clinquant,&lt;/li&gt;
-  &lt;li&gt;penser un design fluide plutôt qu’inventer les breakpoints de supports qui n’existent pas encore,&lt;/li&gt;
-  &lt;li&gt;vérifier la durabilité de ses dépendances et les rendre lisibles&lt;/li&gt;
-  &lt;li&gt;écrire du code lisible et compréhensible par les générations futures (et favoriser le &lt;a href=&quot;https://fr.wikipedia.org/wiki/Principe_KISS&quot;&gt;KISS&lt;/a&gt; plutôt que le &lt;a href=&quot;https://fr.wikipedia.org/wiki/Ne_vous_r%C3%A9p%C3%A9tez_pas&quot;&gt;DRY&lt;/a&gt;)&lt;/li&gt;
-  &lt;li&gt;ne se lancer sur de nouvelles technologies qu’en cadrant précisément le projet et en prenant un maximum de précautions&lt;/li&gt;
-  &lt;li&gt;anticiper la vie du site après son déploiement&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;un-peu-de-périphérique-à-la-technique&quot;&gt;Un peu de périphérique à la technique&lt;/h2&gt;
-
-&lt;h3 id=&quot;facturation&quot;&gt;Facturation&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.creativejuiz.fr/blog/retours-experience/facturer-a-la-tete-du-client&quot;&gt;Geoffrey Crofte&lt;/a&gt; propose de facturer à la tête du client, en appliquant des bonus / malus à un tarif de base en fonction de critères plus ou moins subjectifs : pénibilité (est-ce que j’aime faire ça ? est-ce que le client est “facile” ?), finalité (importance du projet pour le client, nombre de destinataires…), disponibilité (du client, que je suis tenue d’avoir, etc)&lt;/p&gt;
-
-&lt;h3 id=&quot;inclusion&quot;&gt;Inclusion&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/goulvench&quot;&gt;Goulven&lt;/a&gt; nous parle diversité et inclusion dans le milieu informatique, avec  &lt;a href=&quot;http://userland.fr/linformatique-nest-pas-un-monde-dhomme/&quot;&gt;l’informatique n’est pas un monde d’homme&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Source : &lt;a href=&quot;http://maiadereva.semeoz.info/cest-quoi-plan/&quot;&gt;C’est quoi ton plan ?&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Sat, 31 Dec 2016 00:00:00 +0100</pubDate>
-        <link>http://marges.clairezuliani.com/sustainable_code/2016/12/31/nowwwel-readers-digest.html</link>
-        <guid isPermaLink="true">http://marges.clairezuliani.com/sustainable_code/2016/12/31/nowwwel-readers-digest.html</guid>
-        
-        <category>a lire</category>
-        
-        
-        <category>sustainable_code</category>
         
       </item>
     

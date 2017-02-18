@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://marges.clairezuliani.com/binary_transition/2017/02/15/platform-coops-book-insights.html</loc>
+<lastmod>2017-02-15T00:00:00+01:00</lastmod>
+</url>
+<url>
 <loc>http://marges.clairezuliani.com/sustainable_code/2017/02/15/guide-open-source.html</loc>
 <lastmod>2017-02-15T00:00:00+01:00</lastmod>
 </url>
@@ -287,6 +291,9 @@
 </url>
 <url>
 <loc>http://marges.clairezuliani.com/tags/reference/</loc>
+</url>
+<url>
+<loc>http://marges.clairezuliani.com/tags/open%20source/</loc>
 </url>
 <url>
 <loc>http://marges.clairezuliani.com/cheat-sheet-ruby</loc>
