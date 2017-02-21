@@ -5,9 +5,38 @@
     <description>Prise de notes des internets de claire zuliani</description>
     <link>http://marges.clairezuliani.com/</link>
     <atom:link href="http://marges.clairezuliani.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 18 Feb 2017 09:38:53 +0100</pubDate>
-    <lastBuildDate>Sat, 18 Feb 2017 09:38:53 +0100</lastBuildDate>
+    <pubDate>Tue, 21 Feb 2017 14:24:00 +0100</pubDate>
+    <lastBuildDate>Tue, 21 Feb 2017 14:24:00 +0100</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>L'open source, c'est moche ?</title>
+        <description>&lt;p&gt;“Oui, &lt;em&gt;[tel outil développé en open source]&lt;/em&gt;, c’est bien que ça existe, mais quand même &lt;em&gt;[tel outil propriétaire équivalent]&lt;/em&gt; est mieux foutu.” Vous vous êtes déjà fait ce genre de réflexion, alors que vous continuiez à utiliser des outils développés par de vilains grands groupes fermés ? Moi, oui. Ca tombe bien, récemment des développeurs et designers ont échangé à bâtons rompus sur les difficultés du design dans l’open source.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Les échanges ont été longs et fructueux, et le temps est court, alors je vous invite vraiment à aller faire un tour sur les différents liens, et aussi sur les commentaires aux articles. Il faudra parfois slalomr un peu entre des prises de becs radicales qui servent à pas grand chose, mais il y a quand même de très grandes chances que vous appreniez plein de choses comme moi.&lt;/p&gt;
+
+&lt;h2 id=&quot;les-sources&quot;&gt;Les sources&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://framasphere.org/posts/2833697&quot;&gt;Post framasphère&lt;/a&gt; de PYG de Framasoft, la première réaction à un innocent échange de tweets.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://mariejulien.com/post/2017/02/08/Le-design-dans-le-libre-%3A-pistes-de-r%C3%A9flexion&quot;&gt;Le design dans le libre : pistes de réflexion&lt;/a&gt;, article sur le blog mariejulien.com, ou Julien le designer amène sa propre vision du problème et des pistes de solution. N’oubliez pas de faire un tour dans les -nombreux- commentaires, au milieu des trolls il y a de vraies pistes de réflexion à creuser.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://mariejulien.com/post/2017/02/13/Table-ronde-design-et-open-source-au-Reset&quot;&gt;Table ronde design et open source au Reset&lt;/a&gt; : quelques jours après les échanges pré-cités, une table ronde avait lieu au &lt;a href=&quot;lereset.org&quot;&gt;Reset&lt;/a&gt;, hackerspace féministe parisien, sur le même sujet. Julien de mariejulien.com en a fait un récap.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 20 Feb 2017 00:00:00 +0100</pubDate>
+        <link>http://marges.clairezuliani.com/sustainable_code/2017/02/20/mochete-authenticite-design-open-source.html</link>
+        <guid isPermaLink="true">http://marges.clairezuliani.com/sustainable_code/2017/02/20/mochete-authenticite-design-open-source.html</guid>
+        
+        <category>reference</category>
+        
+        <category>design</category>
+        
+        
+        <category>sustainable_code</category>
+        
+      </item>
     
       <item>
         <title>Des extraits de coopérativisme de plateforme</title>
@@ -532,77 +561,6 @@ Pas de librairie particulière détectée ici, ça me donne l’impression que c
         
         
         <category>sustainable_code</category>
-        
-      </item>
-    
-      <item>
-        <title>Sauter à pieds joints dans le bain nouveau de 2017</title>
-        <description>&lt;p&gt;Parce que 2016 a été une année un brin éprouvante, parce qu’il y a du pain sur la planche pour que 2017 ne soit pas du même acabit, j’ai enfin cédé à mes propres tentations. Ca y est, je me lance en solo pour essayer de changer -un peu- le monde.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;h2 id=&quot;en-résumé-tldr-pour-les-intimes&quot;&gt;En résumé (TLDR, pour les intimes)&lt;/h2&gt;
-
-&lt;p&gt;Début 2017, je quitte ma boîte et me lance à mon compte, avec l’envie d’apporter mes compétences à des projets qui aient du sens pour moi, sur mon territoire.&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;je veux &lt;strong&gt;m’adresser aux porteurs-ses de projet dans le secteur de l’ESS&lt;/strong&gt; (économie sociale et solidaire) et de l’entrepreneuriat social, et leur apporter des solutions techniques qui répondent à leurs spécificités (moyens financiers réduits, respect d’une éthique forte, besoin d’adaptabilité… )&lt;/li&gt;
-  &lt;li&gt;dans cette optique, je cherche à &lt;strong&gt;bosser avec d’autres professionnel-le-s&lt;/strong&gt; partageant mes envies, que ce soit des pairs du numérique (développeurs-ses ou designers), ou d’autres secteurs (urbanistes, sociologues, agents de collectivités, travailleurs-ses sociaux…) pour concevoir des projets les plus utiles et adaptés possibles.&lt;/li&gt;
-  &lt;li&gt;enfin, je veux à terme que mes activités s’inscrivent dans une &lt;strong&gt;structure professionnelle collective&lt;/strong&gt;, et trouver ou inventer les formes de travail qui me conviennent&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;em&gt;Les concepts qui me tiennent chaud en ce moment :&lt;br /&gt;
-#communs, #open source, #écoconception, #centré humain, #open data, #coopérative, #circuits courts&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Et ci-dessous, la version longue :&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;du-culturel-au-numérique-et-retour&quot;&gt;Du culturel au numérique, et retour&lt;/h2&gt;
-
-&lt;p&gt;Il y a 8 ans, je terminais mes études en gestion de projets culturels et intégrais une association lyonnaise de développement des arts et cultures numériques, en tant qu’administratrice et chargée de communication. Merci à l’&lt;a href=&quot;http://www.aadn.com&quot;&gt;AADN&lt;/a&gt;, une école riche, exigeante, qui a permis de déniaiser la jeune professionnelle idéaliste que j’étais, de lui faire découvrir des modes d’organisation et de communication alternatifs (collégialité, communication non violente, méthodes d’intelligence collective…) et un paquet de gens formidables, et de développer une appétence au numérique.&lt;/p&gt;
-
-&lt;p&gt;Il y a 4 ans, je faisais le choix de quitter cette structure et le secteur culturel. J’avais le sentiment que ce n’était plus dans la création artistique ou culturelle, mais dans le champ social, sociétal ; de façon plus directe en somme, que je souhaitais agir sur la société. Mais la priorité, à ce moment là, était avant tout de quitter un métier aux réalisations “impalpables”, comportant son lot de frustrations, et aux débouchés maigres, pour un autre plus concret et plus porteur. C’est ainsi qu’à 28 ans, je retrouvais les couloirs de la fac pour devenir développeuse web.&lt;/p&gt;
-
-&lt;p&gt;Peu après, j’intégrais une agence web spécialisée en ruby on rails (qui deviendrait donc mon langage de prédilection) et en méthodologies agiles. C’est à &lt;a href=&quot;http://www.studio-hb.com&quot;&gt;Studio HB&lt;/a&gt; que j’apprends à développer, à écrire du code pour des êtres humains, à trouver avec un client la meilleure solution à son problème. Une équipe soudée et une ambiance de travail bienveillante, je ne pouvais rêver mieux pour mon apprentissage. Mais au fur et à mesure que je gagne en autonomie technique, mes aspirations au changement social reviennent, lancinantes.&lt;/p&gt;
-
-&lt;p&gt;Alors que je sens dans la société des glissements qui ne me ravissent pas (rigidification, pessimisme, extrêmisme…), mais que je vois aussi en miroir éclorent de nombreuses alternatives optimistes, la tension est devenue trop forte. Et c’est ainsi que j’ai fait le choix de quitter mon entreprise et de m’assumer en tant que bisounours (&lt;em&gt;“un autre monde est possible”&lt;/em&gt;) révolutionnaire (&lt;em&gt;“et je veux que ce monde advienne”&lt;/em&gt;) qui code (&lt;em&gt;“car coder, ça me rend contente”&lt;/em&gt;).&lt;/p&gt;
-
-&lt;h2 id=&quot;les-intuitions-du-bisounours-révolutionnaire-qui-code&quot;&gt;Les intuitions du bisounours révolutionnaire qui code&lt;/h2&gt;
-
-&lt;p&gt;Ô, inconsciente que je suis, je me lance dans le vide sans client en poche, sans contrat déjà signé. Qu’est-ce qui m’a convaincue malgré tout de passer le cap, maintenant ? L’envie de prendre le temps nécessaire pour faire les choses correctement, des perspectives qui ne manquent pas, et des intuitions quant à ce que je pourrais apporter.&lt;/p&gt;
-
-&lt;p&gt;Ces intuitions sont les suivantes :&lt;/p&gt;
-
-&lt;p&gt;1/ dans le secteur de l’ESS, il y a tout un pan de &lt;strong&gt;besoins non résolus&lt;/strong&gt; auxquels le numérique peut apporter une réponse. Ces réponses vont du site vitrine le plus classique à l’outil de gestion assez poussé, de la communication interne au processus métier spécifique. C’est un micro marché dans l’angle mort de la plupart des agences et entreprises web, délaissé faute de rentabilité apparente (secteur sans grandes ressources financières, dans une logique parfois plus décroissante que technologisante).&lt;/p&gt;
-
-&lt;p&gt;2/ il est contre toute attente &lt;strong&gt;possible de travailler pour ce secteur et d’en vivre&lt;/strong&gt;. Evidemment, ça demande un peu plus de débrouille. Ca demande de bien penser une offre de service économe, efficace, reproductible, voire d’envisager des modes de rétribution alternatifs (échange landing page contre panier de légume ?).&lt;/p&gt;
-
-&lt;p&gt;3/ pour contribuer à l’essor du secteur, et être en mesure de tenir tête au milieu marchand traditionnel tout en marquant la différence (transparence, éthique, etc), &lt;strong&gt;les outils numériques doivent se fonder sur l’open source, la mutualisation, la contribution&lt;/strong&gt;. Ceci implique de libérer le code des nouveaux outils pour qu’ils servent la communauté. Ceci implique aussi que les solutions open source existantes soient connues et tant que possible ré-exploitées et améliorées (ne pas réinventer la roue, résister à la tentation de récréer un outil similaire “forcément mieux”, etc).&lt;/p&gt;
-
-&lt;p&gt;4/ pour que les outils conçus soient pertinents, il faut que leur conception se fasse &lt;strong&gt;au plus près de leurs utilisateurs-trices&lt;/strong&gt;. Gardons en tête que le numérique n’est qu’un outil parmi d’autres, qu’il doit se mettre au service de personnes réelles (et non d’utilisateurs-trices fantasmé-e-s), et doit apporter des solutions à un réel problème (qui n’est pas forcément le plus apparent, s’affine au fil du temps et ne saurait se résumer à “il y a un marché émergent là, il faut y aller”). Suivant l’échelle et le commanditaire du projet, différentes démarches peuvent être mises en oeuvre pour éviter de produire de la technologie “hors-sol”. Dans le format le plus court, on peut penser à l’immersion ponctuelle des équipes techniques auprès des usagers ou à la mise en place de tests utilisateurs. Dans une forme plus ambitieuse, pourquoi ne pas aller vers de la “résidence de prototypage d’outils”, temps de recherche et développement sur le terrain, fait d’aller-retours avec les utilisateurs finaux, en collaboration avec des professionnels de disciplines connexes (urbanistes, sociologues, historiens…)&lt;/p&gt;
-
-&lt;h2 id=&quot;le-tour-de-lest-des-écosystèmes-numérique-et-économie-sociale&quot;&gt;Le tour de l’Est des écosystèmes numérique et économie sociale&lt;/h2&gt;
-
-&lt;p&gt;L’enjeu des prochains temps va être d’&lt;strong&gt;éprouver ces intuitions&lt;/strong&gt; auprès des personnes les plus à même de les infirmer, de les confirmer, ou de les faire évoluer. L’idée est de vérifier rapidement si je fais complètement fausse route, et si je ne ferais pas mieux de retourner cultiver des courgettes sur ma terrasse. Si tel n’est pas le cas, j’espère pouvoir identifier concrètement où se situent les besoins sur mon territoire, afin d’affiner ma recherche des outils existants qui puissent être adaptés et adoptés, de définir mon plan d’auto-formation en conséquence, ou de partir en quête des profils complémentaires pour pouvoir répondre à ces besoins.&lt;/p&gt;
-
-&lt;p&gt;Je me laisse quelques mois pour creuser la question, en rencontrant de part et d’autre de la région Grand Est les têtes de pont, les agences, les collectifs, associations ou coopératives; en interrogeant les habitants, les entrepreneurs, les agents territoriaux, les professionnels concernés par la question de l’ESS ; en discutant avec les pépinières, les développeurs, les designers, les tiers-lieux.&lt;/p&gt;
-
-&lt;p&gt;En parallèle, je pars à la recherche de la &lt;strong&gt;forme juridique qui me convienne pour travailler&lt;/strong&gt;, et me permette de faire correspondre le fond (produire un travail éthique et utile) et la forme (adopter un cadre juridique qui n’“ubérise”   pas le droit social). Comment concilier autonomie et collectif, flexibilité et protection ? Mon tour de l’Est incluera donc des étapes auprès de coopératives d’activités et d’emploi, et certainement un crochet parisien pour en savoir plus sur &lt;a href=&quot;http://www.coopaname.coop/&quot;&gt;Coopaname&lt;/a&gt; ou des structures similaires.&lt;/p&gt;
-
-&lt;p&gt;J’espère pouvoir partager au fil du temps le résultat de mes investigations ici, et je compte bien rendre compte de l’évolution de mes projections.&lt;/p&gt;
-
-&lt;p&gt;Si jamais mes intuitions vous parlent, ou si vous êtes dans une démarche similaire, dans le Grand Est ou ailleurs, ne vous retenez surtout pas de &lt;a href=&quot;http://www.clairezuliani.com/contact&quot;&gt;prendre contact avec moi&lt;/a&gt; !&lt;/p&gt;
-</description>
-        <pubDate>Tue, 03 Jan 2017 00:00:00 +0100</pubDate>
-        <link>http://marges.clairezuliani.com/good_job/2017/01/03/solo.html</link>
-        <guid isPermaLink="true">http://marges.clairezuliani.com/good_job/2017/01/03/solo.html</guid>
-        
-        <category>ess</category>
-        
-        <category>et moi</category>
-        
-        
-        <category>good_job</category>
         
       </item>
     
