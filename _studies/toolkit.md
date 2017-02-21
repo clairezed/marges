@@ -13,40 +13,43 @@ Comment bien commencer un projet ? Quelques outils déjà utilisés ou à tester
 
 <!--more-->
 
-<!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-- [Général](#gnral)
-	- [Listes](#listes)
-	- [Alternatives](#alternatives)
-- [Design](#design)
-	- [Listes de ressources](#listes-de-ressources)
-	- [Checklist](#checklist)
-	- [Prototypage / Wireframe / Mockups](#prototypage-wireframe-mockups)
-	- [Couleurs](#couleurs)
-	- [Templates](#templates)
-	- [Photos / illustrations](#photos-illustrations)
-	- [Retoucher vite fait une image](#retoucher-vite-fait-une-image)
-	- [Trouver l'inspiration](#trouver-linspiration)
-		- [Plutôt web](#plutt-web)
-		- [Plutot élément web (UI)](#plutot-lment-web-ui)
-		- [Plutôt typo](#plutt-typo)
-- [Code](#code)
-	- [Good practices](#good-practices)
-		- [Javascript](#javascript)
-	- [Boilerplates](#boilerplates)
-	- [Lib](#lib)
-- [DevOps](#devops)
-	- [Performance](#performance)
-	- [Hébergement](#hbergement)
-	- [Sys Admin](#sys-admin)
-- [Bureautique](#bureautique)
-	- [Mail anonyme / secure](#mail-anonyme-secure)
-	- [Gestion de docs](#gestion-de-docs)
-	- [Sauvegarde / Partage de docs](#sauvegarde-partage-de-docs)
-	- [Messagerie](#messagerie)
-	- [Gif (dans un but pro, bien sûr)](#gif-dans-un-but-pro-bien-sr)
-- [Administratif](#administratif)
-	- [CRM](#crm)
+	- [Général](#gnral)
+		- [Listes](#listes)
+		- [Alternatives](#alternatives)
+	- [Design](#design)
+		- [Listes de ressources](#listes-de-ressources)
+		- [Checklist](#checklist)
+		- [Prototypage / Wireframe / Mockups](#prototypage-wireframe-mockups)
+		- [Couleurs](#couleurs)
+		- [Templates](#templates)
+		- [Photos / illustrations](#photos-illustrations)
+		- [Retoucher vite fait une image](#retoucher-vite-fait-une-image)
+		- [Trouver l'inspiration](#trouver-linspiration)
+			- [Plutôt web](#plutt-web)
+			- [Plutot élément web (UI)](#plutot-lment-web-ui)
+			- [Plutôt typo](#plutt-typo)
+	- [Code](#code)
+		- [Good practices](#good-practices)
+			- [Javascript](#javascript)
+			- [Accessibilité](#accessibilit)
+		- [Boilerplates](#boilerplates)
+		- [Lib](#lib)
+	- [DevOps](#devops)
+		- [Performance](#performance)
+		- [Hébergement](#hbergement)
+		- [Sys Admin](#sys-admin)
+	- [Bureautique - everyday soft](#bureautique-everyday-soft)
+		- [Mail anonyme / secure](#mail-anonyme-secure)
+		- [Gestion de docs](#gestion-de-docs)
+		- [Sauvegarde / Partage de docs](#sauvegarde-partage-de-docs)
+		- [Messagerie](#messagerie)
+		- [Gif (dans un but pro, bien sûr)](#gif-dans-un-but-pro-bien-sr)
+	- [Collaboration / productivité](#collaboration-productivit)
+	- [Administratif](#administratif)
+		- [Licence, open source](#licence-open-source)
+		- [CRM](#crm)
 
 <!-- /TOC -->
 
@@ -104,6 +107,7 @@ Comment bien commencer un projet ? Quelques outils déjà utilisés ou à tester
 - [Unsplash](https://unsplash.com)
 - [Pexels](https://www.pexels.com/)
 - [Freepik](http://fr.freepik.com/) : du vectorial libre
+- Banque Image Archive [via Grapheine](https://www.grapheine.com/divers/banque-image-archives-libres-de-droit)
 
 
 ### Retoucher vite fait une image
@@ -178,7 +182,7 @@ Comment bien commencer un projet ? Quelques outils déjà utilisés ou à tester
 - [Security guide for developers (github)](https://github.com/FallibleInc/security-guide-for-developers)
 
 
-## Bureautique
+## Bureautique - everyday soft
 
 ### Mail anonyme / secure
 
@@ -209,6 +213,11 @@ Zaclys : comme openmailbox mais mieux
 ### Gif (dans un but pro, bien sûr)
 
 - [Peek - an animated GIF recorder](https://github.com/phw/peek)
+
+
+## Collaboration / productivité
+
+- [Project Groupie](https://projectgroupie.com/) : ProjectGroupie is a place to find awesome software projects to join and collaborate. Create your own project and find skilled like-minded individuals to help bring your idea to life.
 
 ##  Administratif
 

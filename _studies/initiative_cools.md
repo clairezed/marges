@@ -85,6 +85,8 @@ Based in Buenos Aires, gcoop Development Company is a cooperative that develops 
 
 https://www.gcoop.coop/
 
+Coopérative de dev. Mais peut-être tout de même plus orientés bien-être personnel, au travail, que changement social ?
+
 ## Clusters d'innovation sociale
 
 Cf la logique des PTCE (Pôles territoriaux de coopération économique)
@@ -172,7 +174,33 @@ http://www.design-territoire-alternatives.fr/
 
 Collectif de designers spécialisés en design de services et développement local
 
-#### tags: `cool probable` `bretagne` `limousin` `bourgogne` `design`
+#### tags: `cool probable` `bretagne` `limousin` `bourgogne` `design de service`
+
+
+### User Studio
+
+[www.userstudio.fr](http://www.userstudio.fr/)
+
+Aussi Orange, Renault, EDF ou RATP que Fing, Cozy Cloud ou 27e Région.
+
+#### tags: `paris` `design de service`
+
+
+### Plausible Possible
+
+[www.plausiblepossible.fr](http://www.plausiblepossible.fr/)
+
+En sommeil ?
+
+#### tags: `paris` `design de service`
+
+
+### Grrr
+
+[www.grrr.design](http://www.grrr.design/)
+
+#### tags: `nantes` `design de service`
+
 
 ## Collaboration développeur - société civile
 
