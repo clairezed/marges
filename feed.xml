@@ -5,8 +5,8 @@
     <description>Prise de notes des internets de claire zuliani</description>
     <link>http://marges.clairezuliani.com/</link>
     <atom:link href="http://marges.clairezuliani.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 22 Feb 2017 12:43:30 +0100</pubDate>
-    <lastBuildDate>Wed, 22 Feb 2017 12:43:30 +0100</lastBuildDate>
+    <pubDate>Wed, 22 Feb 2017 12:46:56 +0100</pubDate>
+    <lastBuildDate>Wed, 22 Feb 2017 12:46:56 +0100</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -15,11 +15,11 @@
 
 &lt;!--more--&gt;
 
-&lt;p&gt;Je viens de débuter un projet, où je m’ocupe de l’intégration, et qui utilise la toute toute dernière version de bootstrap (version 4 alpha6),intégralment en flexbox. Gasp. L’intégration est un monde assez neuf pour moi, et je regardais comme ça vite fait du coin de l’oeil cette histoire de flexbox. Et voilà que j’ai à me coltiner du flex dans les moindres recoins. Panique.&lt;/p&gt;
+&lt;p&gt;Je viens de débuter un projet, où je m’ocupe de l’intégration, et qui utilise la toute toute dernière version de bootstrap (version 4 alpha6), intégralement en flexbox. Gasp. L’intégration est un monde assez neuf pour moi, et je n’avais jusqu’ici qu’une vision superficiel de flexbox. Et voilà que j’ai à me coltiner du flex dans les moindres recoins. Panique.&lt;/p&gt;
 
 &lt;p&gt;Heureusement, un bon samaritain (&lt;a href=&quot;https://medium.freecodecamp.com/@scottdomes&quot;&gt;Scott Domes&lt;/a&gt;) a eu la brillante idée d’expliquer flexbox avec des &lt;a href=&quot;https://medium.freecodecamp.com/an-animated-guide-to-flexbox-d280cf6afc35#.xgb6n3tmc&quot;&gt;bons gros gifs colorés&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;display: flex&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;flex-direction: column&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;justify-content: space-between&lt;/code&gt;ou &lt;code class=&quot;highlighter-rouge&quot;&gt;align-items: stretch&lt;/code&gt; ne seront plus du finlandais pour vous.&lt;/p&gt;
+&lt;p&gt;Grâce à lui, &lt;code class=&quot;highlighter-rouge&quot;&gt;display: flex&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;flex-direction: column&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;justify-content: space-between&lt;/code&gt;ou &lt;code class=&quot;highlighter-rouge&quot;&gt;align-items: stretch&lt;/code&gt; ne seront plus du finlandais pour vous.&lt;/p&gt;
 
 &lt;p&gt;Source :&lt;a href=&quot;https://medium.freecodecamp.com/an-animated-guide-to-flexbox-d280cf6afc35#.xgb6n3tmc&quot;&gt;How Flexbox works&lt;/a&gt;  — explained with big, colorful, animated gifs&lt;/p&gt;
 
@@ -51,7 +51,7 @@
 
 &lt;p&gt;&lt;a href=&quot;http://mariejulien.com/post/2017/02/08/Le-design-dans-le-libre-%3A-pistes-de-r%C3%A9flexion&quot;&gt;Le design dans le libre : pistes de réflexion&lt;/a&gt;, article sur le blog mariejulien.com, ou Julien le designer amène sa propre vision du problème et des pistes de solution. N’oubliez pas de faire un tour dans les -nombreux- commentaires, au milieu des trolls il y a de vraies pistes de réflexion à creuser.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://mariejulien.com/post/2017/02/13/Table-ronde-design-et-open-source-au-Reset&quot;&gt;Table ronde design et open source au Reset&lt;/a&gt; : quelques jours après les échanges pré-cités, une table ronde avait lieu au &lt;a href=&quot;lereset.org&quot;&gt;Reset&lt;/a&gt;, hackerspace féministe parisien, sur le même sujet. Julien de mariejulien.com en a fait un récap.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mariejulien.com/post/2017/02/13/Table-ronde-design-et-open-source-au-Reset&quot;&gt;Table ronde design et open source au Reset&lt;/a&gt; : quelques jours après les échanges pré-cités, une table ronde avait lieu au &lt;a href=&quot;http://lereset.org&quot;&gt;Reset&lt;/a&gt;, hackerspace féministe parisien, sur le même sujet. Julien de mariejulien.com en a fait un récap.&lt;/p&gt;
 </description>
         <pubDate>Mon, 20 Feb 2017 00:00:00 +0100</pubDate>
         <link>http://marges.clairezuliani.com/sustainable_code/2017/02/20/mochete-authenticite-design-open-source.html</link>
