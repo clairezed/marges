@@ -5,9 +5,37 @@
     <description>Prise de notes des internets de claire zuliani</description>
     <link>http://marges.clairezuliani.com/</link>
     <atom:link href="http://marges.clairezuliani.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 21 Feb 2017 14:24:00 +0100</pubDate>
-    <lastBuildDate>Tue, 21 Feb 2017 14:24:00 +0100</lastBuildDate>
+    <pubDate>Wed, 22 Feb 2017 12:43:30 +0100</pubDate>
+    <lastBuildDate>Wed, 22 Feb 2017 12:43:30 +0100</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>Flexbox, et s'il suffisait d'un gif</title>
+        <description>&lt;p&gt;Le pouvoir pédagogique du gif, une nouvelle fois démontré. Vous voulez comprendre les principes de base de flexbox, comment utiliser ses principales propriétés et ne plus paniquer en voyant du flex indomptable partout ? Alors prenez 5 minutes pour lire un article avec du flex en gif.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Je viens de débuter un projet, où je m’ocupe de l’intégration, et qui utilise la toute toute dernière version de bootstrap (version 4 alpha6),intégralment en flexbox. Gasp. L’intégration est un monde assez neuf pour moi, et je regardais comme ça vite fait du coin de l’oeil cette histoire de flexbox. Et voilà que j’ai à me coltiner du flex dans les moindres recoins. Panique.&lt;/p&gt;
+
+&lt;p&gt;Heureusement, un bon samaritain (&lt;a href=&quot;https://medium.freecodecamp.com/@scottdomes&quot;&gt;Scott Domes&lt;/a&gt;) a eu la brillante idée d’expliquer flexbox avec des &lt;a href=&quot;https://medium.freecodecamp.com/an-animated-guide-to-flexbox-d280cf6afc35#.xgb6n3tmc&quot;&gt;bons gros gifs colorés&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;display: flex&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;flex-direction: column&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;justify-content: space-between&lt;/code&gt;ou &lt;code class=&quot;highlighter-rouge&quot;&gt;align-items: stretch&lt;/code&gt; ne seront plus du finlandais pour vous.&lt;/p&gt;
+
+&lt;p&gt;Source :&lt;a href=&quot;https://medium.freecodecamp.com/an-animated-guide-to-flexbox-d280cf6afc35#.xgb6n3tmc&quot;&gt;How Flexbox works&lt;/a&gt;  — explained with big, colorful, animated gifs&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 22 Feb 2017 00:00:00 +0100</pubDate>
+        <link>http://marges.clairezuliani.com/sustainable_code/2017/02/22/flex-gif.html</link>
+        <guid isPermaLink="true">http://marges.clairezuliani.com/sustainable_code/2017/02/22/flex-gif.html</guid>
+        
+        <category>gif power</category>
+        
+        <category>design</category>
+        
+        
+        <category>sustainable_code</category>
+        
+      </item>
     
       <item>
         <title>L'open source, c'est moche ?</title>
@@ -532,32 +560,6 @@ Pas de librairie particulière détectée ici, ça me donne l’impression que c
         <category>radiographie</category>
         
         <category>toolkit</category>
-        
-        
-        <category>sustainable_code</category>
-        
-      </item>
-    
-      <item>
-        <title>Facebook, description détaillée du démon, et modalité d'exorcisme</title>
-        <description>&lt;p&gt;Vous voulez savoir à quel point facebook se sert de vos données, capitalise dessus et vous met potentiellement en danger ? Alors cet article, l’un des plus détaillés que j’aie pu parcourir, est fait pour vous.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.salimvirani.com/&quot;&gt;Salim Virani&lt;/a&gt; prend le temps de nous expliquer, à travers l’analyse détaillée des conditions générales de facebook, et en se basant sur des écrits journalistiques ou académiques de références, tous les subterfuges, approximations, interstices par lesquels facebook soutire toujours plus d’information à nous, comme à nos proches.&lt;/p&gt;
-
-&lt;p&gt;Il ne nous laisse pas désarmé pour autant, et nous explique comment quitter facebook le plus proprement possible.&lt;/p&gt;
-
-&lt;p&gt;La lecture de l’article fait froid dans le dos, et me pousse encore un peu + vers la porte de sortie de facebook. Trop accro à la veille, je ne suis pas encore prête à passer le cap, mais ce n’est pas dit que mon profil facebook passe 2017.&lt;/p&gt;
-
-&lt;p&gt;Source : &lt;a href=&quot;http://www.salimvirani.com/facebook/&quot;&gt;Get your loved ones off Facebook.&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 05 Jan 2017 00:00:00 +0100</pubDate>
-        <link>http://marges.clairezuliani.com/sustainable_code/2017/01/05/facebook-description-demon-et-exorcisme.html</link>
-        <guid isPermaLink="true">http://marges.clairezuliani.com/sustainable_code/2017/01/05/facebook-description-demon-et-exorcisme.html</guid>
-        
-        <category>dont be evil</category>
         
         
         <category>sustainable_code</category>
