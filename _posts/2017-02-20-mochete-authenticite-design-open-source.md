@@ -22,4 +22,4 @@ Les échanges ont été longs et fructueux, et le temps est court, alors je vous
 [Le design dans le libre : pistes de réflexion](http://mariejulien.com/post/2017/02/08/Le-design-dans-le-libre-%3A-pistes-de-r%C3%A9flexion), article sur le blog mariejulien.com, ou Julien le designer amène sa propre vision du problème et des pistes de solution. N'oubliez pas de faire un tour dans les -nombreux- commentaires, au milieu des trolls il y a de vraies pistes de réflexion à creuser.
 
 
-[Table ronde design et open source au Reset](http://mariejulien.com/post/2017/02/13/Table-ronde-design-et-open-source-au-Reset) : quelques jours après les échanges pré-cités, une table ronde avait lieu au [Reset](lereset.org), hackerspace féministe parisien, sur le même sujet. Julien de mariejulien.com en a fait un récap.
+[Table ronde design et open source au Reset](http://mariejulien.com/post/2017/02/13/Table-ronde-design-et-open-source-au-Reset) : quelques jours après les échanges pré-cités, une table ronde avait lieu au [Reset](http://lereset.org), hackerspace féministe parisien, sur le même sujet. Julien de mariejulien.com en a fait un récap.
