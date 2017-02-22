@@ -5,8 +5,8 @@
     <description>Prise de notes des internets de claire zuliani</description>
     <link>http://marges.clairezuliani.com/</link>
     <atom:link href="http://marges.clairezuliani.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 22 Feb 2017 12:46:56 +0100</pubDate>
-    <lastBuildDate>Wed, 22 Feb 2017 12:46:56 +0100</lastBuildDate>
+    <pubDate>Wed, 22 Feb 2017 12:48:25 +0100</pubDate>
+    <lastBuildDate>Wed, 22 Feb 2017 12:48:25 +0100</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -15,7 +15,7 @@
 
 &lt;!--more--&gt;
 
-&lt;p&gt;Je viens de débuter un projet, où je m’ocupe de l’intégration, et qui utilise la toute toute dernière version de bootstrap (version 4 alpha6), intégralement en flexbox. Gasp. L’intégration est un monde assez neuf pour moi, et je n’avais jusqu’ici qu’une vision superficiel de flexbox. Et voilà que j’ai à me coltiner du flex dans les moindres recoins. Panique.&lt;/p&gt;
+&lt;p&gt;Je viens de débuter un projet, où je m’ocupe de l’intégration, et qui utilise la toute toute dernière version de bootstrap (version 4 alpha6), intégralement en flexbox. Gasp. L’intégration est un monde assez neuf pour moi, et je n’avais jusqu’ici qu’une vision superficielle de flexbox. Et voilà que j’ai à me coltiner du flex dans les moindres recoins. Panique.&lt;/p&gt;
 
 &lt;p&gt;Heureusement, un bon samaritain (&lt;a href=&quot;https://medium.freecodecamp.com/@scottdomes&quot;&gt;Scott Domes&lt;/a&gt;) a eu la brillante idée d’expliquer flexbox avec des &lt;a href=&quot;https://medium.freecodecamp.com/an-animated-guide-to-flexbox-d280cf6afc35#.xgb6n3tmc&quot;&gt;bons gros gifs colorés&lt;/a&gt;.&lt;/p&gt;
 
