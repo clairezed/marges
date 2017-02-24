@@ -5,13 +5,13 @@
     <description>Prise de notes des internets de claire zuliani</description>
     <link>http://marges.clairezuliani.com/</link>
     <atom:link href="http://marges.clairezuliani.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 24 Feb 2017 13:52:49 +0100</pubDate>
-    <lastBuildDate>Fri, 24 Feb 2017 13:52:49 +0100</lastBuildDate>
+    <pubDate>Fri, 24 Feb 2017 14:12:19 +0100</pubDate>
+    <lastBuildDate>Fri, 24 Feb 2017 14:12:19 +0100</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
-        <title>Des extraits de coopérativisme de plateforme</title>
-        <description>&lt;p&gt;Je n’ai pas participé à un nombre incroyable de hackathons ou assimilés, mais très souvent j’en ressors avec un arrière goût d’insatisfait. Apparemment, je ne suis pas la seule.&lt;/p&gt;
+        <title>Jamais un hackaton ne changera le monde</title>
+        <description>&lt;p&gt;Je n’ai pas participé à un nombre incroyable de hackathons ou assimilés, mais très souvent j’en ressors avec un arrière goût d’insatisfaction. Apparemment, je ne suis pas la seule.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
@@ -35,6 +35,54 @@
 
 &lt;p&gt;Les hackathons peuvent parfois être juste du gespillage d’énergie. Participer en tant qu’individus à des initiatives sociales, les conseiller, les soutenir en communication, peut être plus utile que passer un week-end à créer des jolis outils qui brillent inutiles.&lt;/p&gt;
 
+&lt;p&gt;La nuance finale : #notallhackathons. Evidemment, tous les hackatons ne tombent pas dans tous ces travers, et dans la plupart auxquels j’ai trouvé du positif (dans ce que j’y ai appris, les personnes qui j’y ai croisé… des éléments connexes, en somme).&lt;/p&gt;
+
+&lt;p&gt;Je n’ai pas encore lu le reste des articles publiés par CAST (Centre for Acceleration of Social Technology, l’organisation auteur de cette article), mais l’aperçu donné par leur titre m’a l’air d’une excellente facture. N’hésitez pas à compulser &lt;a href=&quot;https://medium.com/@wearecast&quot;&gt;leurs archives&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Source : &lt;a href=&quot;https://medium.com/@wearecast/hacks-for-good-should-be-about-doing-good-not-just-feeling-good-kieron-kirkland-ae626ff4e05#.gvh3hchg2&quot;&gt;Hacks for Good should be about doing good, not just feeling good&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 24 Feb 2017 00:00:00 +0100</pubDate>
+        <link>http://marges.clairezuliani.com/good_job/2017/02/24/jamais-hackathon-changera-monde.html</link>
+        <guid isPermaLink="true">http://marges.clairezuliani.com/good_job/2017/02/24/jamais-hackathon-changera-monde.html</guid>
+        
+        <category>hacking</category>
+        
+        <category>tech-washing</category>
+        
+        
+        <category>good_job</category>
+        
+      </item>
+    
+      <item>
+        <title>Jamais un hackaton ne changera le monde</title>
+        <description>&lt;p&gt;Je n’ai pas participé à un nombre incroyable de hackathons ou assimilés, mais très souvent j’en ressors avec un arrière goût d’insatisfaction. Apparemment, je ne suis pas la seule.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Pendant les échanges de préparation de la &lt;a href=&quot;https://codecitoyen.github.io/&quot;&gt;Nuit du Code Citoyen&lt;/a&gt;, je vois passer un &lt;a href=&quot;https://medium.com/@wearecast/hacks-for-good-should-be-about-doing-good-not-just-feeling-good-kieron-kirkland-ae626ff4e05#.gvh3hchg2&quot;&gt;lien&lt;/a&gt;, dont le titre m’interpelle : &lt;em&gt;“Hacks for Good should be about doing good, not just feeling good”&lt;/em&gt;. Merci à &lt;a href=&quot;https://twitter.com/XavierLava&quot;&gt;Xavier&lt;/a&gt; d’avoir ramené sous mes radars cet article (qui a pourtant quelques mois mais à côté duquel j’étais complètement passée), qui reprends et résume pas mal de mes impressions sur les hackathons (et autres événements apparentés).&lt;/p&gt;
+
+&lt;p&gt;Ci-dessous, un liste des griefs à l’encontre de ces hackathons qui vont changer le monde, identifiés dans l’article.&lt;/p&gt;
+
+&lt;h2 id=&quot;la-plupart-des-hacks-sont-réalisés-en-isolement&quot;&gt;La plupart des hacks sont réalisés en isolement&lt;/h2&gt;
+
+&lt;p&gt;Si on n’intègre pas au maximum des professionnels du secteur hackés ou des utilisateurs, le risque est fort qu’on se retrouve avec des solutions à des problèmes qui n’avaient pas besoin d’être résolus.&lt;/p&gt;
+
+&lt;h2 id=&quot;les-hacks-sont-considérés-comme-une-fin-en-soi&quot;&gt;Les hacks sont considérés comme une fin en soi&lt;/h2&gt;
+
+&lt;p&gt;Si on ne pense pas dès le début la suite à donner à un événement de hacking, les hacks réalisés ne servent à rien. Il faut penser l’accompagnement dès le début.&lt;/p&gt;
+
+&lt;h2 id=&quot;les-hacks-essayent-de-résoudre-des-problèmes-sociaux&quot;&gt;Les hacks essayent de “résoudre” des problèmes sociaux&lt;/h2&gt;
+
+&lt;p&gt;Résoudre des problèmes sociaux complexes demande plus qu’un week-end et de la bonne volonté. Il faut se concentrer sur des problèmes spécifiques et circonscrits, sur des propositions qui pourront être utiles dès maintenant à des organisations bossant dans le secteur. Encore mieux : n’essayez pas de créer un nouveau produit, mais soutenez et améliorez l’existant.&lt;/p&gt;
+
+&lt;h2 id=&quot;parfois-la-meilleure-aide-quon-puisse-apporter-nest-pas-directement-technologique&quot;&gt;Parfois, la meilleure aide qu’on puisse apporter n’est pas directement technologique&lt;/h2&gt;
+
+&lt;p&gt;Les hackathons peuvent parfois être juste du gespillage d’énergie. Participer en tant qu’individus à des initiatives sociales, les conseiller, les soutenir en communication, peut être plus utile que passer un week-end à créer des jolis outils qui brillent inutiles.&lt;/p&gt;
+
+&lt;p&gt;La nuance finale : #notallhackathons. Evidemment, tous les hackatons ne tombent pas dans tous ces travers, et dans la plupart auxquels j’ai trouvé du positif (dans ce que j’y ai appris, les personnes qui j’y ai croisé… des éléments connexes, en somme).&lt;/p&gt;
+
 &lt;p&gt;Je n’ai pas encore lu le reste des articles publiés par CAST (Centre for Acceleration of Social Technology, l’organisation auteur de cette article), mais l’aperçu donné par leur titre m’a l’air d’une excellente facture. N’hésitez pas à compulser &lt;a href=&quot;https://medium.com/@wearecast&quot;&gt;leurs archives&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Source : &lt;a href=&quot;https://medium.com/@wearecast/hacks-for-good-should-be-about-doing-good-not-just-feeling-good-kieron-kirkland-ae626ff4e05#.gvh3hchg2&quot;&gt;Hacks for Good should be about doing good, not just feeling good&lt;/a&gt;&lt;/p&gt;
@@ -47,6 +95,8 @@
         <category>hacking</category>
         
         <category>tech-washing</category>
+        
+        <category>dont be evil</category>
         
         
         <category>good_job</category>
@@ -485,58 +535,6 @@ In the second camp you have the political activists, academics, and labor organi
         
         
         <category>sustainable_code</category>
-        
-      </item>
-    
-      <item>
-        <title>L'auto-hébergement, une préoccupation de barbu ?</title>
-        <description>&lt;p&gt;En fin de semaine, je tombais par hasard dans mon fil twitter sur une discussion éclatée initiée par Clochix que je trouvais assez passionnante. Ca parlait auto-hébergement, cercle de convaincu, ess, chatons, yunohost, brique…&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;La discussion démarrait sur la question suivante, posée par &lt;a href=&quot;https://twitter.com/clochix&quot;&gt;Clochix&lt;/a&gt; :&lt;/p&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;fr&quot;&gt;&lt;p lang=&quot;fr&quot; dir=&quot;ltr&quot;&gt;Y a-t-il encore un intérêt en 2017 à promouvoir l&amp;#39;auto-hébergement de contenus ? On ne s&amp;#39;adresse qu&amp;#39;à notre bulle de convaincu⋅e⋅s&lt;/p&gt;&amp;mdash; Clochix (@clochix) &lt;a href=&quot;https://twitter.com/clochix/status/819926334008868866&quot;&gt;13 janvier 2017&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-
-&lt;p&gt;S’ensuit une suite d’échanges entre ceux qui viennent abonder dans le sens de clochix et ceux qui le contredisent, et les arguments développés par les uns et les autres sont à creuser (technicité et coût de l’auto-hébergement, largesse de définition de ce qu’on entend par auto-hébergement…)&lt;/p&gt;
-
-&lt;p&gt;Il y a notament quelques témoignages qui me mettent du baume au coeur, et me donnent espoir que la direction que je veux prendre (la convergence d’un code “engagé” avec le milieu de l’ESS, pour le dire vite) est envisageable.&lt;/p&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;fr&quot;&gt;&lt;p lang=&quot;fr&quot; dir=&quot;ltr&quot;&gt;&lt;a href=&quot;https://twitter.com/clochix&quot;&gt;@clochix&lt;/a&gt; &lt;a href=&quot;https://twitter.com/api_cha&quot;&gt;@api_cha&lt;/a&gt; avec &lt;a href=&quot;https://twitter.com/une_brique&quot;&gt;@une_brique&lt;/a&gt; on a réalisé que tout le monde &amp;quot;amap, circuits cours, DIY&amp;quot; était super méga réceptif, c&amp;#39;était inattendu&lt;/p&gt;&amp;mdash; Bram (@brabram) &lt;a href=&quot;https://twitter.com/brabram/status/819944019165908997&quot;&gt;13 janvier 2017&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-
-&lt;p&gt;Et Pyg de framasoft d’enchérir :&lt;/p&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot; data-conversation=&quot;none&quot; data-cards=&quot;hidden&quot; data-partner=&quot;tweetdeck&quot;&gt;&lt;p lang=&quot;fr&quot; dir=&quot;ltr&quot;&gt;&lt;a href=&quot;https://twitter.com/bayartb&quot;&gt;@bayartb&lt;/a&gt; &lt;a href=&quot;https://twitter.com/brabram&quot;&gt;@brabram&lt;/a&gt; &lt;a href=&quot;https://twitter.com/clochix&quot;&gt;@clochix&lt;/a&gt; &lt;a href=&quot;https://twitter.com/api_cha&quot;&gt;@api_cha&lt;/a&gt; &lt;br /&gt;1/2 Je confirme qu&amp;#39;on avance, et qu&amp;#39;il y a une forme de convergence.&lt;br /&gt;Il faut &amp;quot;juste&amp;quot; déconstruire le&lt;/p&gt;&amp;mdash; pyg (@pyg) &lt;a href=&quot;https://twitter.com/pyg/status/819951774526226432&quot;&gt;January 13, 2017&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot; data-conversation=&quot;none&quot; data-cards=&quot;hidden&quot; data-partner=&quot;tweetdeck&quot;&gt;&lt;p lang=&quot;fr&quot; dir=&quot;ltr&quot;&gt;&lt;a href=&quot;https://twitter.com/bayartb&quot;&gt;@bayartb&lt;/a&gt; &lt;a href=&quot;https://twitter.com/brabram&quot;&gt;@brabram&lt;/a&gt; &lt;a href=&quot;https://twitter.com/clochix&quot;&gt;@clochix&lt;/a&gt; &lt;a href=&quot;https://twitter.com/api_cha&quot;&gt;@api_cha&lt;/a&gt; &lt;br /&gt;2/2 discours du &amp;quot;On veut une solu° parfaite immédiatement&amp;quot; et réexpliquer le fctnmt des communs.&lt;/p&gt;&amp;mdash; pyg (@pyg) &lt;a href=&quot;https://twitter.com/pyg/status/819952587101405185&quot;&gt;January 13, 2017&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-
-&lt;p&gt;La liste des gens que je veux rencontrer s’allonge. Envie de discuter avec eux de plein questions, mais 140 caractères ne seront jamais suffisant.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Comment sensibiliser&lt;/strong&gt; les gens de l’ESS (amap, circuit court, etc) à des questions de technicité “éthique” (non seulement auto-hébergement, mais aussi open source au sens large, politique d’ouverture de données, accessibilité…) ?&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Quelles solutions accessibles (financièrement, techniquement) proposer&lt;/strong&gt; à des structures qui manquent de moyens (j’ai l’impression que le coût reste un critère hyper déterminant, la praticité venant peu après) ?&lt;/li&gt;
-  &lt;li&gt;Des &lt;strong&gt;modèles économiquement viables&lt;/strong&gt; pour un développeur peuvent-ils émerger de cette convergence ? A quelles conditions ?&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Tout le fil de discussion se trouve &lt;a href=&quot;&quot;&gt;ici&lt;/a&gt;, n’hésitez pas à l’enrichir !&lt;/p&gt;
-
-&lt;p&gt;Source : &lt;a href=&quot;https://twitter.com/clochix/status/819926334008868866&quot;&gt;Twitter clochix&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Sat, 14 Jan 2017 00:00:00 +0100</pubDate>
-        <link>http://marges.clairezuliani.com/binary_transition/2017/01/14/interet-auto-hebergement-ess-systeme-ferme.html</link>
-        <guid isPermaLink="true">http://marges.clairezuliani.com/binary_transition/2017/01/14/interet-auto-hebergement-ess-systeme-ferme.html</guid>
-        
-        <category>ess</category>
-        
-        <category>engagement</category>
-        
-        
-        <category>binary_transition</category>
         
       </item>
     
