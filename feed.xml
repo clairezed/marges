@@ -5,21 +5,21 @@
     <description>Prise de notes des internets de claire zuliani</description>
     <link>http://marges.clairezuliani.com/</link>
     <atom:link href="http://marges.clairezuliani.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 24 Feb 2017 13:43:54 +0100</pubDate>
-    <lastBuildDate>Fri, 24 Feb 2017 13:43:54 +0100</lastBuildDate>
+    <pubDate>Fri, 24 Feb 2017 13:52:49 +0100</pubDate>
+    <lastBuildDate>Fri, 24 Feb 2017 13:52:49 +0100</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
         <title>Des extraits de coopérativisme de plateforme</title>
-        <description>&lt;p&gt;Je n’ai pas participé à un nombre incroyable de hackathons ou assimilés, mais très souvent j’en resors avec un arrière goût d’insatisfait. Apparemment, je ne suis pas la seule.&lt;/p&gt;
+        <description>&lt;p&gt;Je n’ai pas participé à un nombre incroyable de hackathons ou assimilés, mais très souvent j’en ressors avec un arrière goût d’insatisfait. Apparemment, je ne suis pas la seule.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
 &lt;p&gt;Pendant les échanges de préparation de la &lt;a href=&quot;https://codecitoyen.github.io/&quot;&gt;Nuit du Code Citoyen&lt;/a&gt;, je vois passer un &lt;a href=&quot;https://medium.com/@wearecast/hacks-for-good-should-be-about-doing-good-not-just-feeling-good-kieron-kirkland-ae626ff4e05#.gvh3hchg2&quot;&gt;lien&lt;/a&gt;, dont le titre m’interpelle : &lt;em&gt;“Hacks for Good should be about doing good, not just feeling good”&lt;/em&gt;. Merci à &lt;a href=&quot;https://twitter.com/XavierLava&quot;&gt;Xavier&lt;/a&gt; d’avoir ramené sous mes radars cet article (qui a pourtant quelques mois mais à côté duquel j’étais complètement passée), qui reprends et résume pas mal de mes impressions sur les hackathons (et autres événements apparentés).&lt;/p&gt;
 
-&lt;p&gt;Les problèmes identifiés dans l’article, à l’encontre de ces hackathons qui vont changer le monde :&lt;/p&gt;
+&lt;p&gt;Ci-dessous, un liste des griefs à l’encontre de ces hackathons qui vont changer le monde, identifiés dans l’article.&lt;/p&gt;
 
-&lt;p&gt;## La plupart des hacks sont réalisés en isolement&lt;/p&gt;
+&lt;h2 id=&quot;la-plupart-des-hacks-sont-réalisés-en-isolement&quot;&gt;La plupart des hacks sont réalisés en isolement&lt;/h2&gt;
 
 &lt;p&gt;Si on n’intègre pas au maximum des professionnels du secteur hackés ou des utilisateurs, le risque est fort qu’on se retrouve avec des solutions à des problèmes qui n’avaient pas besoin d’être résolus.&lt;/p&gt;
 
@@ -41,8 +41,8 @@
 
 </description>
         <pubDate>Fri, 24 Feb 2017 00:00:00 +0100</pubDate>
-        <link>http://marges.clairezuliani.com/good_job/2017/02/24/hackathon-for-good.html</link>
-        <guid isPermaLink="true">http://marges.clairezuliani.com/good_job/2017/02/24/hackathon-for-good.html</guid>
+        <link>http://marges.clairezuliani.com/good_job/2017/02/24/extraits-cooperativisme-plateforme.html</link>
+        <guid isPermaLink="true">http://marges.clairezuliani.com/good_job/2017/02/24/extraits-cooperativisme-plateforme.html</guid>
         
         <category>hacking</category>
         
