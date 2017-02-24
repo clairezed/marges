@@ -5,9 +5,53 @@
     <description>Prise de notes des internets de claire zuliani</description>
     <link>http://marges.clairezuliani.com/</link>
     <atom:link href="http://marges.clairezuliani.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 22 Feb 2017 12:48:25 +0100</pubDate>
-    <lastBuildDate>Wed, 22 Feb 2017 12:48:25 +0100</lastBuildDate>
+    <pubDate>Fri, 24 Feb 2017 13:43:54 +0100</pubDate>
+    <lastBuildDate>Fri, 24 Feb 2017 13:43:54 +0100</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>Des extraits de coopérativisme de plateforme</title>
+        <description>&lt;p&gt;Je n’ai pas participé à un nombre incroyable de hackathons ou assimilés, mais très souvent j’en resors avec un arrière goût d’insatisfait. Apparemment, je ne suis pas la seule.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Pendant les échanges de préparation de la &lt;a href=&quot;https://codecitoyen.github.io/&quot;&gt;Nuit du Code Citoyen&lt;/a&gt;, je vois passer un &lt;a href=&quot;https://medium.com/@wearecast/hacks-for-good-should-be-about-doing-good-not-just-feeling-good-kieron-kirkland-ae626ff4e05#.gvh3hchg2&quot;&gt;lien&lt;/a&gt;, dont le titre m’interpelle : &lt;em&gt;“Hacks for Good should be about doing good, not just feeling good”&lt;/em&gt;. Merci à &lt;a href=&quot;https://twitter.com/XavierLava&quot;&gt;Xavier&lt;/a&gt; d’avoir ramené sous mes radars cet article (qui a pourtant quelques mois mais à côté duquel j’étais complètement passée), qui reprends et résume pas mal de mes impressions sur les hackathons (et autres événements apparentés).&lt;/p&gt;
+
+&lt;p&gt;Les problèmes identifiés dans l’article, à l’encontre de ces hackathons qui vont changer le monde :&lt;/p&gt;
+
+&lt;p&gt;## La plupart des hacks sont réalisés en isolement&lt;/p&gt;
+
+&lt;p&gt;Si on n’intègre pas au maximum des professionnels du secteur hackés ou des utilisateurs, le risque est fort qu’on se retrouve avec des solutions à des problèmes qui n’avaient pas besoin d’être résolus.&lt;/p&gt;
+
+&lt;h2 id=&quot;les-hacks-sont-considérés-comme-une-fin-en-soi&quot;&gt;Les hacks sont considérés comme une fin en soi&lt;/h2&gt;
+
+&lt;p&gt;Si on ne pense pas dès le début la suite à donner à un événement de hacking, les hacks réalisés ne servent à rien. Il faut penser l’accompagnement dès le début.&lt;/p&gt;
+
+&lt;h2 id=&quot;les-hacks-essayent-de-résoudre-des-problèmes-sociaux&quot;&gt;Les hacks essayent de “résoudre” des problèmes sociaux&lt;/h2&gt;
+
+&lt;p&gt;Résoudre des problèmes sociaux complexes demande plus qu’un week-end et de la bonne volonté. Il faut se concentrer sur des problèmes spécifiques et circonscrits, sur des propositions qui pourront être utiles dès maintenant à des organisations bossant dans le secteur. Encore mieux : n’essayez pas de créer un nouveau produit, mais soutenez et améliorez l’existant.&lt;/p&gt;
+
+&lt;h2 id=&quot;parfois-la-meilleure-aide-quon-puisse-apporter-nest-pas-directement-technologique&quot;&gt;Parfois, la meilleure aide qu’on puisse apporter n’est pas directement technologique&lt;/h2&gt;
+
+&lt;p&gt;Les hackathons peuvent parfois être juste du gespillage d’énergie. Participer en tant qu’individus à des initiatives sociales, les conseiller, les soutenir en communication, peut être plus utile que passer un week-end à créer des jolis outils qui brillent inutiles.&lt;/p&gt;
+
+&lt;p&gt;Je n’ai pas encore lu le reste des articles publiés par CAST (Centre for Acceleration of Social Technology, l’organisation auteur de cette article), mais l’aperçu donné par leur titre m’a l’air d’une excellente facture. N’hésitez pas à compulser &lt;a href=&quot;https://medium.com/@wearecast&quot;&gt;leurs archives&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Source : &lt;a href=&quot;https://medium.com/@wearecast/hacks-for-good-should-be-about-doing-good-not-just-feeling-good-kieron-kirkland-ae626ff4e05#.gvh3hchg2&quot;&gt;Hacks for Good should be about doing good, not just feeling good&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 24 Feb 2017 00:00:00 +0100</pubDate>
+        <link>http://marges.clairezuliani.com/good_job/2017/02/24/hackathon-for-good.html</link>
+        <guid isPermaLink="true">http://marges.clairezuliani.com/good_job/2017/02/24/hackathon-for-good.html</guid>
+        
+        <category>hacking</category>
+        
+        <category>tech-washing</category>
+        
+        
+        <category>good_job</category>
+        
+      </item>
     
       <item>
         <title>Flexbox, et s'il suffisait d'un gif</title>
@@ -493,76 +537,6 @@ In the second camp you have the political activists, academics, and labor organi
         
         
         <category>binary_transition</category>
-        
-      </item>
-    
-      <item>
-        <title>Radiographie d'un site 2 - Public Sector Map</title>
-        <description>&lt;p&gt;Voici la deuxième étude de site à travers son code source ! Je m’attelle aujourd’hui à un annuaire des designers de politiques publiques dans le monde, que je trouve vraiment clair, fonctionnel et engageant.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;&lt;em&gt;Pour en savoir un peu plus sur cette histoire de radiographie, d’étude de site, parcourez l’intro de la &lt;a href=&quot;/sustainable_code/2016/08/08/radiographie-01.html&quot;&gt;première radiographie&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;radiographie-n2---design-des-politiques-publiques&quot;&gt;Radiographie n°2 - Design des politiques publiques&lt;/h2&gt;
-
-&lt;p&gt;Le site en question : &lt;a href=&quot;http://publicsector-map.designforeurope.eu/fr/#&quot;&gt;Design des politiques publiques&lt;/a&gt;, produit par &lt;a href=&quot;http://www.nesta.org.uk/&quot;&gt;Nesta&lt;/a&gt; et la &lt;a href=&quot;http://www.la27eregion.fr/&quot;&gt;27e région&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;framework&quot;&gt;Framework&lt;/h3&gt;
-
-&lt;p&gt;Vu comme le design m’apparaît comme spécifique et adapté au projet, j’ai pensé à un site fait main, non basé sur un CMS. Que nenni !&lt;br /&gt;
-Le site s’appuie sur un WordPress (4.7.1), avec un thème a priori fait maison. C’est rare que je tombe sur des thèmes custom, ça fait plaisir à voir !&lt;/p&gt;
-
-&lt;h3 id=&quot;en-front&quot;&gt;En front&lt;/h3&gt;
-
-&lt;p&gt;J’ai l’impression que pour l’orchestration du front, le thème est basé sur &lt;a href=&quot;https://roots.io/sage/&quot;&gt;Sage&lt;/a&gt;, &lt;em&gt;“The best WordPress starter theme with a modern front-end development workflow.”&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;En terme de librairie et fonctionnalités pour ce thème, on peut compter sur :&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Des classiques :&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://v4-alpha.getbootstrap.com/&quot;&gt;Bootstrap v4&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://fontawesome.io/&quot;&gt;Font Awesome&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.tinymce.com/&quot;&gt;Tiny MCE&lt;/a&gt; pour le wysiwyg&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;La partie carte :&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.mapbox.com/mapbox.js&quot;&gt;mapbox.js&lt;/a&gt; : Mapbox JavaScript API, a Leaflet Plugin&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Les acteurs en détail :&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.kunkalabs.com/page/mixitup/&quot;&gt;MixItUp v2.1.11&lt;/a&gt; : &lt;em&gt;“A high-performance, dependency-free library for animated filtering, sorting, insertion, removal and more”&lt;/em&gt;.  (&lt;a href=&quot;https://github.com/patrickkunka/mixitup/&quot;&gt;repo github&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Les acteurs par date :&lt;/strong&gt;&lt;br /&gt;
-Pas de librairie particulière détectée ici, ça me donne l’impression que c’est fait à la mano.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;En vrac :&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.jacklmoore.com/colorbox/&quot;&gt;Colorbox 1.6.4&lt;/a&gt; : lightbox plugin&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://scrollmagic.io/&quot;&gt;ScrollMagic v2.0.5&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://stickyjs.com/&quot;&gt;Sticky Plugin v1.0.3&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;auteur&quot;&gt;Auteur&lt;/h3&gt;
-
-&lt;p&gt;Pas de crédit précis, je me demande si &lt;a href=&quot;http://www.nesta.org.uk/blog/design-public-sector-interactive-map&quot;&gt;Nesta&lt;/a&gt;, l’une des deux structures à l’origine du projet, n’aurait pas les moyens en interne de produire ce type d’outil.&lt;/p&gt;
-
-&lt;p&gt;Source : Cartographie &lt;a href=&quot;http://publicsector-map.designforeurope.eu/fr/#&quot;&gt;Design des politiques publiques&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 12 Jan 2017 00:00:00 +0100</pubDate>
-        <link>http://marges.clairezuliani.com/sustainable_code/2017/01/12/radiographie-02.html</link>
-        <guid isPermaLink="true">http://marges.clairezuliani.com/sustainable_code/2017/01/12/radiographie-02.html</guid>
-        
-        <category>radiographie</category>
-        
-        <category>toolkit</category>
-        
-        
-        <category>sustainable_code</category>
         
       </item>
     
