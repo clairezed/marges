@@ -6,7 +6,7 @@ tags: [hacking, tech-washing]
 
 ---
 
-Je n'ai pas participé à un nombre incroyable de hackathons ou assimilés, mais très souvent j'en resors avec un arrière goût d'insatisfait. Apparemment, je ne suis pas la seule.
+Je n'ai pas participé à un nombre incroyable de hackathons ou assimilés, mais très souvent j'en ressors avec un arrière goût d'insatisfait. Apparemment, je ne suis pas la seule.
 
 
 <!--more-->
@@ -14,9 +14,9 @@ Je n'ai pas participé à un nombre incroyable de hackathons ou assimilés, mais
 Pendant les échanges de préparation de la [Nuit du Code Citoyen](https://codecitoyen.github.io/), je vois passer un [lien][source], dont le titre m'interpelle : *"Hacks for Good should be about doing good, not just feeling good"*. Merci à [Xavier](https://twitter.com/XavierLava) d'avoir ramené sous mes radars cet article (qui a pourtant quelques mois mais à côté duquel j'étais complètement passée), qui reprends et résume pas mal de mes impressions sur les hackathons (et autres événements apparentés).
 
 
-Les problèmes identifiés dans l'article, à l'encontre de ces hackathons qui vont changer le monde :
+Ci-dessous, un liste des griefs à l'encontre de ces hackathons qui vont changer le monde, identifiés dans l'article.
 
-## La plupart des hacks sont réalisés en isolement
+## La plupart des hacks sont réalisés en isolement
 
 Si on n'intègre pas au maximum des professionnels du secteur hackés ou des utilisateurs, le risque est fort qu'on se retrouve avec des solutions à des problèmes qui n'avaient pas besoin d'être résolus.
 
