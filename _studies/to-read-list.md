@@ -75,7 +75,7 @@ https://framablog.org/category/libres-cultures/des-routes-et-des-ponts/
 - [Dessine-moi l'éco](https://www.youtube.com/user/dessinemoileco) : vulgarisation économique
 - [Mouton Lucide](https://www.youtube.com/channel/UC2kIberIFY054MWlDWNebxA) : a pour ambition de ‘donnerà réfléchir, de faire prendre conscience de certains concepts sociologiques, écologiques et philosophiques’
 - [Usul2000](https://www.youtube.com/user/MrUsul2000) : politique
-- [regenere](https://www.youtube.com/user/thierry66pasteque) : conseils en alimentation et hygiène devie, par
+- [regenere](https://www.youtube.com/user/thierry66pasteque) : conseils en alimentation et hygiène de vie, par
 [le gourou ‘du tout-cru’](http://rue89.nouvelobs.com/2014/11/26/thierry-casasnovas-gourou-tout-cru-attend-tranquille-youtube-256224)
 - [TEDx](https://www.youtube.com/user/TEDxTalks) : programme de conférences
 - [Hygiène mentale](https://www.youtube.com/user/fauxsceptique) : ‘chaîne dédiée à l'esprit critique’

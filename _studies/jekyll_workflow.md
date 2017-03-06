@@ -35,6 +35,7 @@ Quelques ressources, commandes ou réflexion pour me permettre de mieux utiliser
 - [Jekyll tips](http://jekyll.tips/) : tutoriaux, plugins et services s'intégrant à Jekyll
 - [The new dynamic](https://www.thenewdynamic.org/) : plein d'articles sur les sites statiques, serverless, etc
 - Snipcart [blog post(]https://snipcart.com/blog/jamstack-clients-static-site-cms) about jamstack : plein d'exemple de service + argumentaire client
+- [Awesome Static Hosting and CMS](https://github.com/b-long/awesome-static-hosting-and-cms)
 
 ## Exemples de workflows
 
@@ -116,6 +117,8 @@ Stockage des données en cloud, cms pour éditer, accès aux données via API.
 - [Cockpit](https://getcockpit.com/) : open source version of the above solutions ?
 
 ## Plugins et services
+
+- [Awesome Static Website Services](https://github.com/aharris88/awesome-static-website-services)
 
 - [Staticman](https://staticman.net/) : système de commentaires statiques
 

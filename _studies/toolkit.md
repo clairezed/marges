@@ -84,6 +84,7 @@ Comment bien commencer un projet ? Quelques outils déjà utilisés ou à tester
 - [UX Recipe](https://uxrecipe.github.io/#)
 - [UX Checklist](https://uxchecklist.github.io/)
 - [IXD Checklist](http://ixdchecklist.com/)
+- [CSS pro tips](https://github.com/AllThingsSmitty/css-protips)
 
 ### Prototypage / Wireframe / Mockups
 
