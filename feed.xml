@@ -5,9 +5,42 @@
     <description>Prise de notes des internets de claire zuliani</description>
     <link>http://marges.clairezuliani.com/</link>
     <atom:link href="http://marges.clairezuliani.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 24 Feb 2017 14:12:19 +0100</pubDate>
-    <lastBuildDate>Fri, 24 Feb 2017 14:12:19 +0100</lastBuildDate>
+    <pubDate>Mon, 06 Mar 2017 09:38:29 +0100</pubDate>
+    <lastBuildDate>Mon, 06 Mar 2017 09:38:29 +0100</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>A mon compte + 2 mois</title>
+        <description>&lt;p&gt;Simili journal de bord simili mensuel épisode 2. Ce mois de février, on parle commerce de proximité, plaine vosgienne, design, open source et modèle économique, projets en ruby, facturation, et même un peu bière pour contrebalancer.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/antoinentl&quot;&gt;Antoine&lt;/a&gt; me fournit de précieux conseils sur la gestion de sa micro-entreprise quand on est demandeur d’emploi, et évoque la possibilité d’une journée parisienne autour des sites statiques (oh ouiiii faisons ça !).&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/brunomartin54&quot;&gt;Bruno Martin&lt;/a&gt; l’hyperactif me fait découvrir les environs de Neufchâteau avec son co-working éphémère dans l’ouest vosgien. Des initiatives se lancent sur le territoire, c’est tout autant chouette que courageux.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/epiceriecollabnancy/&quot;&gt;La Grande Epicerie&lt;/a&gt; Générale de Nancy me fait me lever avant 4h du mat’ pour participer à la rencontre intercoop des supermarchés coopératifs, fin février à Paris. Venue tout récemment au projet (cf épisode précédent), j’y étais au titre de “référente technologique” pour participer à la table ronde sur l’outil numérique majoritairement adopté par les supermarchés en projet ou existant. Découverte d’&lt;a href=&quot;https://www.odoo.com&quot;&gt;Odoo&lt;/a&gt;, ERP open source éprouvé entre autre par &lt;a href=&quot;https://public.cooplalouve.fr/&quot;&gt;la Louve&lt;/a&gt;, et discussion hyper intéressante sur les logiques de mutualisation autour d’un outil partagé. En prenant notamment en compte la pression d’une prochaine réglementation contraignante, que faudrait-il mutualiser (support ? hébergement ? développement ? paramétrage ? certification juridique ? ) entre les différentes initiatives et comment ?&lt;/p&gt;
+
+&lt;p&gt;Dans la foulée, Benjamin, vieux camarade de mes années étudiantes, me fait arpenter un bout de trottoir du 18e pour m’en apprendre plus sur le projet dont il est l’un des initiateurs : le &lt;a href=&quot;https://fr.ulule.com/barcommun/&quot;&gt;Bar commun&lt;/a&gt;. Je grapille des informations précieuses pour le projet de café associatif sur Epinal, et on parle aussi scrum, sprint, communs et open source au sein du Ministère de l’Education. Marrant de voir nos trajectoires respectives !&lt;/p&gt;
+
+&lt;p&gt;Le collectif &lt;a href=&quot;http://www.collectifbam.fr/&quot;&gt;Bam&lt;/a&gt; se révèle aussi sympathique, et dans une démarche aussi intéressante, que ce que j’en percevais vu de l’extérieur. Ce déjeuner et le squattage dans les bureaux (merci à vous !) me confirme ce que je sentais de façon plus ou moins confuse : je crois bien que j’ai envie d’avoir une vraie démarche de design dans ma pratique professionnelle. Ca tombe bien, ils disent être à la recherche de professionnels qui ne soient pas que des prestataires exécutants. Y’aurait-il une place et une demande pour les développeurs acculturés au design ? A confirmer dans les prochains temps.&lt;/p&gt;
+
+&lt;p&gt;L’équipe d’&lt;a href=&quot;http://www.opensourcepolitics.eu&quot;&gt;Open Source Politics&lt;/a&gt;, à quelques jours de la &lt;a href=&quot;https://codecitoyen.github.io/&quot;&gt;Nuit du Code Citoyen&lt;/a&gt;, m’a fait découvrir &lt;a href=&quot;http://volumesparis.org/&quot;&gt;Volumes Coworking&lt;/a&gt; et une bière locale dont j’ai déjà oublié le nom mais qui était très bien (un truc avec un coq). Entre autres. Discussions hyper riches sur le positionnement et l’évolution de la civic tech en open source, la construction d’un modèle économique soutenable autour des solutions open source… Je me promets à l’issue de la rencontre de jeter un oeil sur deux projets prometteurs, en ruby (ouais !) : &lt;a href=&quot;https://github.com/consul/consul&quot;&gt;Consul&lt;/a&gt;, pour les budgets participatifs, et &lt;a href=&quot;https://github.com/openfoodfoundation/openfoodnetwork&quot;&gt;Open Food Network&lt;/a&gt;, infrastructure web open source au service de la distribution alimentaire.&lt;/p&gt;
+
+&lt;p&gt;Ces deux équipes, Bam et Open Source Politics, ont bien voulu me parler de leur modèle juridique, qui ne sont pas dénués de similarités. D’un côté comme de l’autre, une association coexiste avec une entreprise, ce qui permet de disposer d’un outillage juridique flexible en fonction des contextes. Côté Bam, tous les salariés le deviennent après avoir suffisament développé une activité de freelance, et tous sont payés de façon égale. Ils mettent en place de fait une mutualisation des risques sans chichi, chacun étant libre de son activité, et de travailler pour des clients, des projets personnels ou collectifs. Si l’un d’entre eux a besoin d’un moment sur un projet personnel, son salaire est assuré par ses collègues. Mon côté rougeoyant trouve ça très chouette.&lt;/p&gt;
+
+&lt;p&gt;Ce mois de mars, c’est aussi le mois figurant en haut de la toute première facture de ma micro entreprise. Ca y est, je travaille pour de vrai sur mon premier projet, c’est parti mon kiki !&lt;/p&gt;
+</description>
+        <pubDate>Thu, 02 Mar 2017 00:00:00 +0100</pubDate>
+        <link>http://marges.clairezuliani.com/good_job/2017/03/02/solo-plus-2-mois.html</link>
+        <guid isPermaLink="true">http://marges.clairezuliani.com/good_job/2017/03/02/solo-plus-2-mois.html</guid>
+        
+        <category>et moi</category>
+        
+        
+        <category>good_job</category>
+        
+      </item>
     
       <item>
         <title>Jamais un hackaton ne changera le monde</title>
@@ -49,54 +82,6 @@
         <category>hacking</category>
         
         <category>tech-washing</category>
-        
-        
-        <category>good_job</category>
-        
-      </item>
-    
-      <item>
-        <title>Jamais un hackaton ne changera le monde</title>
-        <description>&lt;p&gt;Je n’ai pas participé à un nombre incroyable de hackathons ou assimilés, mais très souvent j’en ressors avec un arrière goût d’insatisfaction. Apparemment, je ne suis pas la seule.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;Pendant les échanges de préparation de la &lt;a href=&quot;https://codecitoyen.github.io/&quot;&gt;Nuit du Code Citoyen&lt;/a&gt;, je vois passer un &lt;a href=&quot;https://medium.com/@wearecast/hacks-for-good-should-be-about-doing-good-not-just-feeling-good-kieron-kirkland-ae626ff4e05#.gvh3hchg2&quot;&gt;lien&lt;/a&gt;, dont le titre m’interpelle : &lt;em&gt;“Hacks for Good should be about doing good, not just feeling good”&lt;/em&gt;. Merci à &lt;a href=&quot;https://twitter.com/XavierLava&quot;&gt;Xavier&lt;/a&gt; d’avoir ramené sous mes radars cet article (qui a pourtant quelques mois mais à côté duquel j’étais complètement passée), qui reprends et résume pas mal de mes impressions sur les hackathons (et autres événements apparentés).&lt;/p&gt;
-
-&lt;p&gt;Ci-dessous, un liste des griefs à l’encontre de ces hackathons qui vont changer le monde, identifiés dans l’article.&lt;/p&gt;
-
-&lt;h2 id=&quot;la-plupart-des-hacks-sont-réalisés-en-isolement&quot;&gt;La plupart des hacks sont réalisés en isolement&lt;/h2&gt;
-
-&lt;p&gt;Si on n’intègre pas au maximum des professionnels du secteur hackés ou des utilisateurs, le risque est fort qu’on se retrouve avec des solutions à des problèmes qui n’avaient pas besoin d’être résolus.&lt;/p&gt;
-
-&lt;h2 id=&quot;les-hacks-sont-considérés-comme-une-fin-en-soi&quot;&gt;Les hacks sont considérés comme une fin en soi&lt;/h2&gt;
-
-&lt;p&gt;Si on ne pense pas dès le début la suite à donner à un événement de hacking, les hacks réalisés ne servent à rien. Il faut penser l’accompagnement dès le début.&lt;/p&gt;
-
-&lt;h2 id=&quot;les-hacks-essayent-de-résoudre-des-problèmes-sociaux&quot;&gt;Les hacks essayent de “résoudre” des problèmes sociaux&lt;/h2&gt;
-
-&lt;p&gt;Résoudre des problèmes sociaux complexes demande plus qu’un week-end et de la bonne volonté. Il faut se concentrer sur des problèmes spécifiques et circonscrits, sur des propositions qui pourront être utiles dès maintenant à des organisations bossant dans le secteur. Encore mieux : n’essayez pas de créer un nouveau produit, mais soutenez et améliorez l’existant.&lt;/p&gt;
-
-&lt;h2 id=&quot;parfois-la-meilleure-aide-quon-puisse-apporter-nest-pas-directement-technologique&quot;&gt;Parfois, la meilleure aide qu’on puisse apporter n’est pas directement technologique&lt;/h2&gt;
-
-&lt;p&gt;Les hackathons peuvent parfois être juste du gespillage d’énergie. Participer en tant qu’individus à des initiatives sociales, les conseiller, les soutenir en communication, peut être plus utile que passer un week-end à créer des jolis outils qui brillent inutiles.&lt;/p&gt;
-
-&lt;p&gt;La nuance finale : #notallhackathons. Evidemment, tous les hackatons ne tombent pas dans tous ces travers, et dans la plupart auxquels j’ai trouvé du positif (dans ce que j’y ai appris, les personnes qui j’y ai croisé… des éléments connexes, en somme).&lt;/p&gt;
-
-&lt;p&gt;Je n’ai pas encore lu le reste des articles publiés par CAST (Centre for Acceleration of Social Technology, l’organisation auteur de cette article), mais l’aperçu donné par leur titre m’a l’air d’une excellente facture. N’hésitez pas à compulser &lt;a href=&quot;https://medium.com/@wearecast&quot;&gt;leurs archives&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Source : &lt;a href=&quot;https://medium.com/@wearecast/hacks-for-good-should-be-about-doing-good-not-just-feeling-good-kieron-kirkland-ae626ff4e05#.gvh3hchg2&quot;&gt;Hacks for Good should be about doing good, not just feeling good&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 24 Feb 2017 00:00:00 +0100</pubDate>
-        <link>http://marges.clairezuliani.com/good_job/2017/02/24/extraits-cooperativisme-plateforme.html</link>
-        <guid isPermaLink="true">http://marges.clairezuliani.com/good_job/2017/02/24/extraits-cooperativisme-plateforme.html</guid>
-        
-        <category>hacking</category>
-        
-        <category>tech-washing</category>
-        
-        <category>dont be evil</category>
         
         
         <category>good_job</category>
