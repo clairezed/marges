@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Jamais un hackaton ne changera le monde
-category: good_job
+category: binary_transition
 tags: [hacking, tech-washing]
 
 ---
@@ -33,7 +33,7 @@ Résoudre des problèmes sociaux complexes demande plus qu'un week-end et de la 
 Les hackathons peuvent parfois être juste du gespillage d'énergie. Participer en tant qu'individus à des initiatives sociales, les conseiller, les soutenir en communication, peut être plus utile que passer un week-end à créer des jolis outils qui brillent inutiles.
 
 
-La nuance finale : #notallhackathons. Evidemment, tous les hackatons ne tombent pas dans tous ces travers, et dans la plupart auxquels j'ai trouvé du positif (dans ce que j'y ai appris, les personnes qui j'y ai croisé... des éléments connexes, en somme). 
+La nuance finale : #notallhackathons. Evidemment, tous les hackatons ne tombent pas dans tous ces travers, et dans la plupart auxquels j'ai trouvé du positif (dans ce que j'y ai appris, les personnes qui j'y ai croisé... des éléments connexes, en somme).
 
 Je n'ai pas encore lu le reste des articles publiés par CAST (Centre for Acceleration of Social Technology, l'organisation auteur de cette article), mais l'aperçu donné par leur titre m'a l'air d'une excellente facture. N'hésitez pas à compulser [leurs archives](https://medium.com/@wearecast).
 
