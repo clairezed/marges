@@ -5,9 +5,186 @@
     <description>Prise de notes des internets de claire zuliani</description>
     <link>http://marges.clairezuliani.com/</link>
     <atom:link href="http://marges.clairezuliani.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 07 Mar 2017 09:52:22 +0100</pubDate>
-    <lastBuildDate>Tue, 07 Mar 2017 09:52:22 +0100</lastBuildDate>
+    <pubDate>Thu, 09 Mar 2017 17:52:08 +0100</pubDate>
+    <lastBuildDate>Thu, 09 Mar 2017 17:52:08 +0100</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>Adopte un zèbre</title>
+        <description>&lt;p&gt;Avant, les licornes me faisaient marrer. Ensuite, j’ai appris que c’était le petit nom d’animal duquel s’affublait les start up les plus gourmandes, et j’ai pris mes distances avec les licornes. Aujourd’hui, on me propose de remplacer la licorne par le zèbre, et je pourrais me laisser tenter.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;A company’s business model is the first domino in a long chain of consequences. In short: “The business model is the message.” From that business model flows company culture and beliefs, strategies for success, end-user experiences, and, ultimately, the very shape of society.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;En partant de ce constat, et du constat que le business model des start up est foncièrement néfaste, l’article propose de créer des zèbres plutôt que des licornes.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Why zebras? To state the obvious: unlike unicorns, zebras are real.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Quelques caractéristiques des zèbres :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Recherche de développement soutenable plutôt que de croissance rapide,&lt;/li&gt;
+  &lt;li&gt;cherche à profiter au public, aux communautés plutôt qu’aux actionnaires,&lt;/li&gt;
+  &lt;li&gt;attention accordée au processus (prendre le temps de changer des structures) plutôt qu’au produit,&lt;/li&gt;
+  &lt;li&gt;souvent fondée par des personnes issues des minorités (femmes, non-blancs, etc)&lt;/li&gt;
+  &lt;li&gt;plein d’autres caractéristiques dans l’article&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1000/1*TDh8EIOLWeA6iWAHwSJpNA.jpeg&quot; alt=&quot;zebre versus licorne&quot; /&gt;&lt;br /&gt;
+&lt;em&gt;Image tirée de l’article&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Les exemples de zèbres donnés dans l’article : Patagonia, Warby Parker, Zingerman’s, Etsy, Mailchimp, Basecamp, Kickstarter.&lt;/p&gt;
+
+&lt;p&gt;Ok, y’a encore à défricher comment s’articule la balance entre profit et bénéfice social, mais je suis prête à laisser leur chance aux zèbres. Ce sont pas forcément des bestioles révolutionnaires, mais ils ont quand même l’air d’avoir les sabots plus sur terre que les licornes.&lt;/p&gt;
+
+&lt;p&gt;Source : &lt;a href=&quot;https://medium.com/@sexandstartups/zebrasfix-c467e55f9d96#.n0r7ubaat&quot;&gt;Zebras Fix What Unicorns Break&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Et pour en savoir plus : &lt;a href=&quot;https://www.zebrasunite.com/&quot;&gt;Zebras Unite&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 09 Mar 2017 00:00:00 +0100</pubDate>
+        <link>http://marges.clairezuliani.com/good_job/2017/03/09/adopte-un-zebre.html</link>
+        <guid isPermaLink="true">http://marges.clairezuliani.com/good_job/2017/03/09/adopte-un-zebre.html</guid>
+        
+        <category>start up</category>
+        
+        <category>dont be evil</category>
+        
+        
+        <category>good_job</category>
+        
+      </item>
+    
+      <item>
+        <title>Construire une jolie API</title>
+        <description>&lt;p&gt;Ce n’est pas tous les jours que j’ai à créer des API, mais comme je tombe sur un article vraiment clair et didactique, plein de bons conseils, j’en profite pour prendre des notes.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;On y trouve des conseils “de base”, qui parlent de REST, de CRUD… Voici ce que je retiens personnellement, pour ne pas l’avoir encore suffisamment en tête.&lt;/p&gt;
+
+&lt;h2 id=&quot;anticiper-lajout-de-données-à-un-flux&quot;&gt;Anticiper l’ajout de données à un flux&lt;/h2&gt;
+
+&lt;p&gt;La plupart du temps, un flux va être amené à évoluer, on va avoir besoin de données complémentaires, de méta-données… On peut l’anticiper à un coût quasi nul.&lt;/p&gt;
+
+&lt;p&gt;Plutôt que d’avoir par exemple pour réponse à une requête &lt;code class=&quot;highlighter-rouge&quot;&gt;GET&lt;/code&gt; :&lt;/p&gt;
+
+&lt;div class=&quot;language-json highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&quot;id&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&quot;name&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;Tim Berners-Lee&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&quot;age&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;61&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&quot;id&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&quot;name&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;Ada Lovelace&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&quot;age&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;36&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&quot;id&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&quot;name&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;Roy Fielding&quot;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Prévoir dès le début de renvoyer ces données sous une clé type, &lt;code class=&quot;highlighter-rouge&quot;&gt;data&lt;/code&gt; par exemple :&lt;/p&gt;
+
+&lt;div class=&quot;language-json highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&quot;data&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&quot;id&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&quot;name&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;Tim Berners-Lee&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&quot;age&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;61&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;},&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&quot;id&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&quot;name&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;Ada Lovelace&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&quot;age&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;36&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}]&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Ce qui permet par la suite d’ajouter des infos très simplement :&lt;/p&gt;
+
+&lt;div class=&quot;language-json highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&quot;url&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;https://example.com/user&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&quot;datetime&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;2017-02-27T11:43:37+0500&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&quot;data&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;...&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;],&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&quot;elements&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;et-les-requêtes-non-crud-&quot;&gt;Et les requêtes non CRUD ?&lt;/h2&gt;
+
+&lt;p&gt;Je ne suis pas sûre de suivre les auteurs dans leur design des requêtes autres. Leur exemple en tout cas me parait verbeux et redondant :&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Request: GET /search/findUserByAge?age&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;61
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Pourquoi ne pas considérer qu’il s’agit simplement de l’affichage standard d’une liste, avec des paramètres de filtres en plus ?&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;GET /user?age&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;61&amp;amp;page&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;1
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;codes-de-retour&quot;&gt;Codes de retour&lt;/h2&gt;
+
+&lt;p&gt;Ne pas oublier de renvoyer les codes de retour ad hoc :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Status: 200 OK&lt;/code&gt; (voire &lt;code class=&quot;highlighter-rouge&quot;&gt;201&lt;/code&gt; à la création) si tout roule&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Status: 500 Internal Server Error&lt;/code&gt; en cas de problème avec le traitement de la requête.&lt;/li&gt;
+  &lt;li&gt;A noter que la plupart des serveurs web, nginx par exemple, gèrent eux-mêmes les &lt;code class=&quot;highlighter-rouge&quot;&gt;404&lt;/code&gt; et les &lt;code class=&quot;highlighter-rouge&quot;&gt;301&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;Ce qui n’exempte pas de renvoyer une &lt;code class=&quot;highlighter-rouge&quot;&gt;404&lt;/code&gt; si une requête demande un id qui n’existe pas&lt;/li&gt;
+  &lt;li&gt;erreur de validation d’une donnée : &lt;code class=&quot;highlighter-rouge&quot;&gt;Status: 400 Bad Request&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;requête non autorisée pour cet utilisateur : &lt;code class=&quot;highlighter-rouge&quot;&gt;Status: 401 Unauthorized&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;token valid mais pas possible d’effectuer l’action : &lt;code class=&quot;highlighter-rouge&quot;&gt;Status: 403 Forbidden&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;sécurité&quot;&gt;Sécurité&lt;/h2&gt;
+
+&lt;p&gt;SSL, rôles d’utilisateur, authentication…&lt;/p&gt;
+
+&lt;p&gt;Pour l’authentication et le stockage du token d’accès, pour garantir le côté REST de l’API (statelessness), il faut &lt;strong&gt;cacher le token en dehors de la session&lt;/strong&gt; :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;côté serveur, utiliser Redis, par exemple&lt;/li&gt;
+  &lt;li&gt;côté client : cookie ou local storage&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;documentation&quot;&gt;Documentation&lt;/h2&gt;
+
+&lt;p&gt;L’article retient 3 outils de génération de documentation d’API :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://swagger.io/specification/&quot;&gt;Swagger&lt;/a&gt; (&lt;a href=&quot;https://www.openapis.org/&quot;&gt;Open API&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://apiblueprint.org/&quot;&gt;API Blueprint&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://raml.org/&quot;&gt;RAML&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;caching&quot;&gt;Caching&lt;/h2&gt;
+
+&lt;p&gt;Utiliser le header HTTP &lt;code class=&quot;highlighter-rouge&quot;&gt;Cache-Control&lt;/code&gt; :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;données sensibles : &lt;code class=&quot;highlighter-rouge&quot;&gt;Cache-Control: private&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;données standards : &lt;code class=&quot;highlighter-rouge&quot;&gt;Cache-Control: public&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;rajouter une date d’expiration (généralement courte, comme une heure)&lt;/li&gt;
+  &lt;li&gt;données ultra sensibles : &lt;code class=&quot;highlighter-rouge&quot;&gt;Cache-Control: no-cache, no-store&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Source : &lt;a href=&quot;https://blog.qmo.io/ultimate-guide-to-api-design/&quot;&gt;The Ultimate Guide to API Design&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 08 Mar 2017 00:00:00 +0100</pubDate>
+        <link>http://marges.clairezuliani.com/sustainable_code/2017/03/08/ma-jolie-api.html</link>
+        <guid isPermaLink="true">http://marges.clairezuliani.com/sustainable_code/2017/03/08/ma-jolie-api.html</guid>
+        
+        <category>code</category>
+        
+        
+        <category>sustainable_code</category>
+        
+      </item>
     
       <item>
         <title>A mon compte + 2 mois</title>
@@ -76,15 +253,15 @@
 
 </description>
         <pubDate>Fri, 24 Feb 2017 00:00:00 +0100</pubDate>
-        <link>http://marges.clairezuliani.com/good_job/2017/02/24/jamais-hackathon-changera-monde.html</link>
-        <guid isPermaLink="true">http://marges.clairezuliani.com/good_job/2017/02/24/jamais-hackathon-changera-monde.html</guid>
+        <link>http://marges.clairezuliani.com/binary_transition/2017/02/24/jamais-hackathon-changera-monde.html</link>
+        <guid isPermaLink="true">http://marges.clairezuliani.com/binary_transition/2017/02/24/jamais-hackathon-changera-monde.html</guid>
         
         <category>hacking</category>
         
         <category>tech-washing</category>
         
         
-        <category>good_job</category>
+        <category>binary_transition</category>
         
       </item>
     
@@ -101,6 +278,8 @@
 &lt;p&gt;Grâce à lui, &lt;code class=&quot;highlighter-rouge&quot;&gt;display: flex&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;flex-direction: column&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;justify-content: space-between&lt;/code&gt;ou &lt;code class=&quot;highlighter-rouge&quot;&gt;align-items: stretch&lt;/code&gt; ne seront plus du finlandais pour vous.&lt;/p&gt;
 
 &lt;p&gt;Source :&lt;a href=&quot;https://medium.freecodecamp.com/an-animated-guide-to-flexbox-d280cf6afc35#.xgb6n3tmc&quot;&gt;How Flexbox works&lt;/a&gt;  — explained with big, colorful, animated gifs&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Edit 06/03/17 : Une suite est parue, toujours avec sa palanquée de gifs ! &lt;a href=&quot;https://medium.freecodecamp.com/even-more-about-how-flexbox-works-explained-in-big-colorful-animated-gifs-a5a74812b053#.njh8y3ua0&quot;&gt;Even more about how Flexbox works&lt;/a&gt;. Plongée dans les propriétés &lt;code class=&quot;highlighter-rouge&quot;&gt;flex-basis&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;flex-grow&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;flex-shrink&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;flex&lt;/code&gt;&lt;/em&gt;&lt;/p&gt;
 
 </description>
         <pubDate>Wed, 22 Feb 2017 00:00:00 +0100</pubDate>
@@ -361,158 +540,6 @@ In the second camp you have the political activists, academics, and labor organi
         <pubDate>Tue, 24 Jan 2017 00:00:00 +0100</pubDate>
         <link>http://marges.clairezuliani.com/sustainable_code/2017/01/24/reference-dieter-rams.html</link>
         <guid isPermaLink="true">http://marges.clairezuliani.com/sustainable_code/2017/01/24/reference-dieter-rams.html</guid>
-        
-        <category>reference</category>
-        
-        <category>design</category>
-        
-        
-        <category>sustainable_code</category>
-        
-      </item>
-    
-      <item>
-        <title>Design durable</title>
-        <description>&lt;p&gt;Faruk Ateş (créateur de Modernizer et auteur de fiction), dans A List Apart, détail les “impératifs moraux”, nourrit de science comportementale, auxquels doit répondre un concepteur de produits (numériques, dans le cas présent).&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;Cet article donne de façon explicite un rôle moral extrèmement fort à ceux qui développent des produits. Je suis en accord avec de nombreux présupposés et propositions, même si certains ont pu me faire froncer les sourcils à la première lecture (commentaires dans le texte ci-dessous), mais la pessimiste en moi se demande tout de même :&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;un produit qui ne donne que des leviers d’action “positif” sera-t-il aussi utilisé que celui qui permet d’exprimer toute la palette des émotions (et notamment les moins avouables) ?&lt;/li&gt;
-  &lt;li&gt;et la suite logique : quel intérêt aurait un concepteur de produire des produits bénéfiques si cela ne lui permet pas d’engranger aussi plus de bénéfices ? Même si je pense que nous sommes finalement nombreux à ne pas être dépourvus de tout sens moral :), les pressions au résultat financier ne sont-elles pas plus fortes ? En somme, dans quel mesure est-on libre de produire des produits moralement acceptables ?&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;If we don’t practice a more sustainable form of product design, we risk harmful side effects to people and society that could have been avoided.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Neutralité du code ?&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Your product and your users do not exist in a vacuum. &lt;strong&gt;Your algorithms are not fair or neutral.&lt;/strong&gt; Your careful touch is not pristine. Your life experiences instill certain values and biases into your way of thinking. These, in turn, color your design process and leave an imprint behind in the product.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;un-design-inclusif&quot;&gt;Un design inclusif&lt;/h2&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Sometimes people who fall outside the “target audience” are overlooked simply because their priorities for your product come in second place in their lives. &lt;strong&gt;Design your product to bridge such gaps, rather than ignoring them&lt;/strong&gt;.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;strong&gt;Listen to the voices of people expressing concern&lt;/strong&gt; and learn to see the pain points they experience, even if they don’t articulate them as such. Step up to your responsibilities as a designer, curator, entrepreneur, or platform owner.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Read studies that examine human psychology to &lt;strong&gt;understand how people’s biases may be exacerbated by your product&lt;/strong&gt;. Learn about microaggressions so you can consciously design around them. Extrapolate how people with nefarious goals—from hackers to authoritarian governments—could exploit or abuse your features or the data you collect.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Work with data and let it inform you, but &lt;strong&gt;remember that data is suggestive, not authoritative&lt;/strong&gt;; the data we gather is always a myopic subset of the entirety that exists but cannot possibly be measured.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;encourager-loptimisme-et-le-civisme&quot;&gt;Encourager l’optimisme et le civisme&lt;/h2&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Features like upvotes and downvotes may seem like a balanced solution for people to express opinions, but &lt;strong&gt;the downvote’s only purpose is to feed and perpetuate negativity&lt;/strong&gt;; it can be avoided or removed entirely without harmful consequences.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;strong&gt;Don’t give angry people shortcuts to wield negative power&lt;/strong&gt;; make them either articulate their anger or deal with it in more constructive ways.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Any feature that petty, time-rich people can abuse to game your product’s ranking or discovery algorithms is a feature that eventually serves up toxic behaviors (regardless of the person’s politics) and is best left out.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Also &lt;strong&gt;avoid features that simply waste time&lt;/strong&gt;, because when people waste time they feel less happy than when they do something productive or constructive.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;L’auteur revient aussi sur l’exemple de &lt;a href=&quot;http://fusion.net/story/340171/how-nextdoor-reduced-racial-profiling/&quot;&gt;Nextdoor&lt;/a&gt;, plateforme sociale de voisinage, qui a réussit à réduire de 75% les signalements raciaux en repensant les modalités de déclaration d’“activités suspectes”.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;n’est-ce pas une &lt;strong&gt;vision finalement pessimiste de l’humanité&lt;/strong&gt; qui transparait ici ? Ce que je lis entre les lignes est &lt;em&gt;“Ne donnons pas à nos utilisateurs la possibilité de faire ceci, car ils en feront forcément le pire usage possible !”&lt;/em&gt;. C’est un peu infantilisant, même si je crois moi aussi que certains environnement, certains produits, peuvent impliquer plus naturellement certains types de comportements. Par contre, je ne pense vraiment pas que la simple suppression de certaines fonctionalités suffise à faire de nous des humains meilleurs.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;renforcer-la-confiance-et-le-courage&quot;&gt;Renforcer la confiance et le courage&lt;/h2&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Think about features and insights that encourage people in positive ways; teach them knowledge you have that they might not, perhaps as imposingly as by embedding its principles as features themselves.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;augmenter-la-force-émotionnelle&quot;&gt;Augmenter la force émotionnelle&lt;/h2&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;The strongest case for this is made by a variety of studies that show that &lt;strong&gt;our current social media platforms make people less happy&lt;/strong&gt;.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Et la question qui me vient est &lt;strong&gt;pourquoi&lt;/strong&gt; est-ce que les réseaux sociaux sont conçus de manière à rendre les gens malheureux ? Est-ce une manière au bout du compte de pouvoir faire plus d’argent ? Dans ce cas, comment fait-on vraiment pour modifier la façon dont sont conçus ces produits ?&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;When we set our goals not just to create great products, but &lt;strong&gt;products that help transform how we think&lt;/strong&gt;, we can tackle underlying biases and prejudices that people may have but would be happy to be eased out of. We strengthen their confidence and character, and address problems that go well beyond the scope of any one product. And while none of us are solely responsible for fixing major problems in society, each of us, when designing a product, has an opportunity to make it part of the solution.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;recréer-une-pression-sociale-positive&quot;&gt;Recréer une pression sociale positive&lt;/h2&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;From a product perspective, that means we have to rely on mechanisms that either invoke those social mores to encourage civil and fruitful interactions, or outright enforce them. We have to design a simulated social circle of peer pressuring friends into the products we make.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;voyez-le-meilleur-des-gens-mais-restez-réalistes&quot;&gt;Voyez le meilleur des gens (mais restez réalistes)&lt;/h2&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;People prefer being good and happy over being mean-spirited or awful. You can design your products to encourage the best sides of people, to let them shine in their brilliance, to help them learn and grow while doing their work. But don’t mistake seeing the best in people as a reason not to anticipate harmful behaviors or exploitation of your features.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Source : &lt;a href=&quot;http://alistapart.com/article/dao-of-product-design&quot;&gt;A Dao of Product Design&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 16 Jan 2017 00:00:00 +0100</pubDate>
-        <link>http://marges.clairezuliani.com/sustainable_code/2017/01/16/sustainable-product-design.html</link>
-        <guid isPermaLink="true">http://marges.clairezuliani.com/sustainable_code/2017/01/16/sustainable-product-design.html</guid>
-        
-        <category>dont be evil</category>
-        
-        <category>empowerment</category>
-        
-        
-        <category>sustainable_code</category>
-        
-      </item>
-    
-      <item>
-        <title>Référence : Dieter Rams</title>
-        <description>&lt;p&gt;Garder sous la main des références de professionnels, designers, chercheurs, sur des thématiques qui me sont chères. Aujourd’hui : Les dix principes du “bon design” par le designer Dieter Rams.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;Je reprends ici en brut la description des 10 principes donnée par &lt;a href=&quot;https://fr.wikipedia.org/wiki/Dieter_Rams&quot;&gt;Wikipedia&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Le bon design :&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Est innovateur&lt;/strong&gt; : Rams indique qu’il est peu probable d’épuiser les possibilités d’innovation dans la conception du design. Le développement technologique continu offre en effet l’opportunité d’innover de manière perpetuelle. Le « bon design » est constamment mis à jour grâce à l’intégration des nouvelles technologies. Le design ne connait donc pas de limites en termes d’innovation.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Rend un produit utile / Fournit une utilité à chaque produit&lt;/strong&gt; : l’objectif premier du designer est de conférer au produit une utilité. Le design de celui-ci doit avant tout être pratique. Pour autant, le produit doit aussi répondre à certains critères psychologiques et esthétiques . Aussi, le « bon design » donne priorité à l’utilité d’un produit et proscrit l’ensemble des caractéristiques superflues.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Est esthétique&lt;/strong&gt; : la conception bien exécutée ne manque pas de beauté. La qualité esthétique d’un produit fait partie intégrante de son utilité. Les produits utilisés au quotidien produisent un effet indirect sur les utilisateurs et leur bien-être.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Rend un produit compréhensible&lt;/strong&gt; : un bon design implique que la structure du produit soit compréhensible et prédispose l’utilisateur à utiliser ses fonctions de manière intuitive. Idéalement, le produit est intuitif pour toutes les catégories d’utilisateurs.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Est discret&lt;/strong&gt; : tous les produits et leur conception doivent être aussi bien neutres et sobres. La simplicité et la neutralité sont destinées à fournir un espace d’expression pour chaque utilisateur. Tous les produits bien conçus servent un objectif similaire à celui de tous les outils. Ainsi, une bonne conception ne doit pas confondre l’identité des produits avec celle des objets décoratifs ou des œuvres d’art. Un produit bien exécuté est un outil qui ne perd pas son temps avec une identité esthétiquement illogique.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Est honnête&lt;/strong&gt; : un design honnête ne cherche pas à tromper l’utilisateur sur la valeur réelle du produit. De plus, un design honnête ne cherche pas à manipuler le consommateur avec des promesses qui ne seraient pas corrélées à la réalité physique du produit.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Est durable / A une valeur à long terme&lt;/strong&gt; : la mode est par nature éphémère et subjective. Par opposition, l’exécution appropriée du « bon design » confère à chaque produit une nature objective et intrinsèquement utile qui pérennise son utilisation. Ces qualités sont reflétées par la tendance des utilisateurs à conserver des produits bien conçus, bien que la transformation de la société en groupe consumériste favorise les produits jetables.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Est approfondi, jusque dans les moindres détails / Conçoit chaque détail avec une précision exhaustive&lt;/strong&gt; : Dieter Rams établit cette règle comme un absolu : le « bon design » ne laisse jamais rien au hasard. La précision de chaque détail exprime le respect des concepteurs envers leurs consommateurs. Chaque erreur apparait comme un manque de respect.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Est respectueux de l’environnement&lt;/strong&gt; : un « bon design » doit contribuer de manière significative à la préservation de l’environnement par la conservation des ressources et en minimisant la pollution physique et visuelle au cours du cycle de vie du produit. L’aspect de valeur à long terme entre ici aussi en jeu.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Est le minimum de design possible / Est minimaliste&lt;/strong&gt; : Dieter Rams distingue le « Less is more » (« Moins c’est mieux »), paradigme de conception quotidiennement régurgité dans l’industrie du design, de son propre paradigme : « Moins, mais avec la meilleure exécution ». Son approche favorise les principes fondamentaux de chaque produit et évite tout ce qui est superflu. Le résultat idéal correspond à des produits d’une grande pureté et simplicité.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Source : &lt;a href=&quot;https://fr.wikipedia.org/wiki/Dieter_Rams&quot;&gt;Wikipedia&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Voir aussi l’&lt;a href=&quot;https://graphism.fr/les-10-grands-principes-du-design-par-dieter-rams/&quot;&gt;article&lt;/a&gt; illustré de Geoffrey Dorne, qui vous en dira aussi un peu plus sur Dieter Rams&lt;/p&gt;
-
-</description>
-        <pubDate>Sun, 15 Jan 2017 00:00:00 +0100</pubDate>
-        <link>http://marges.clairezuliani.com/sustainable_code/2017/01/15/reference-dieter-rams.html</link>
-        <guid isPermaLink="true">http://marges.clairezuliani.com/sustainable_code/2017/01/15/reference-dieter-rams.html</guid>
         
         <category>reference</category>
         

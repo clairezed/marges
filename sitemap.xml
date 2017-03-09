@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://marges.clairezuliani.com/good_job/2017/03/09/adopte-un-zebre.html</loc>
+<lastmod>2017-03-09T00:00:00+01:00</lastmod>
+</url>
+<url>
+<loc>http://marges.clairezuliani.com/sustainable_code/2017/03/08/ma-jolie-api.html</loc>
+<lastmod>2017-03-08T00:00:00+01:00</lastmod>
+</url>
+<url>
 <loc>http://marges.clairezuliani.com/good_job/2017/03/02/solo-plus-2-mois.html</loc>
 <lastmod>2017-03-02T00:00:00+01:00</lastmod>
 </url>
 <url>
-<loc>http://marges.clairezuliani.com/good_job/2017/02/24/jamais-hackathon-changera-monde.html</loc>
+<loc>http://marges.clairezuliani.com/binary_transition/2017/02/24/jamais-hackathon-changera-monde.html</loc>
 <lastmod>2017-02-24T00:00:00+01:00</lastmod>
 </url>
 <url>
@@ -313,6 +321,9 @@
 </url>
 <url>
 <loc>http://marges.clairezuliani.com/tags/gif%20power/</loc>
+</url>
+<url>
+<loc>http://marges.clairezuliani.com/tags/code/</loc>
 </url>
 <url>
 <loc>http://marges.clairezuliani.com/cheat-sheet-ruby</loc>
