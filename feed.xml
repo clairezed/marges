@@ -5,9 +5,50 @@
     <description>Prise de notes des internets de claire zuliani</description>
     <link>http://marges.clairezuliani.com/</link>
     <atom:link href="http://marges.clairezuliani.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 09 Mar 2017 17:52:08 +0100</pubDate>
-    <lastBuildDate>Thu, 09 Mar 2017 17:52:08 +0100</lastBuildDate>
+    <pubDate>Tue, 14 Mar 2017 14:54:34 +0100</pubDate>
+    <lastBuildDate>Tue, 14 Mar 2017 14:54:34 +0100</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>C'est le nouveau web qui toque à ta porte</title>
+        <description>&lt;p&gt;Depuis quelques mois j’entendais parler de nouvelles façons de faire les internets, notamment de la part des pionniers, qui veulent remettre au goût du jour les ambitions d’ouverture du début. Mais je n’y comprenais pas grand chose à ces histoires de web décentralisé ou de crypto machins. Un article récent d’Usbek &amp;amp; Rica apporte quelques bribes de compréhension de cet autre web qui essaye d’émerger. #maketheinternetgreatagain&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Les principes phares du web nouveau :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;permanent&lt;/li&gt;
+  &lt;li&gt;performant&lt;/li&gt;
+  &lt;li&gt;privé&lt;/li&gt;
+  &lt;li&gt;micro payé&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Des exemples de projets en cours :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://solid.mit.edu/&quot;&gt;Solid&lt;/a&gt; : &lt;em&gt;“Dans un tel modèle, l’utilisateur est propriétaire de ses propres données, quelles qu’elles soient, tout le temps et pour toujours, et les applications se contentent d’y accéder de façon sélective.”&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ipfs.io/&quot;&gt;IPFS&lt;/a&gt; : alternative à HTTP en peer to peer. &lt;a href=&quot;https://twitter.com/VirgileDeville&quot;&gt;Virgile&lt;/a&gt; d’Open Source Politics m’en parlait il y a quelques jours, je suis contente de pouvoir creuser la question.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zeronet.io/&quot;&gt;ZeroNet&lt;/a&gt; : installez ZeroNet et accédez à une galaxie de sites décentralisés basés sur le réseau bitTorrent et sur le chiffrement  de Bitcoin.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blockstack.org&quot;&gt;Blockstack&lt;/a&gt; : là aussi il s’agit d’un nouveau internet décentralisé, basé sur les blockchains. Je vois pas dans le détail la différence avec ZeroNet.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://maidsafe.net/&quot;&gt;SAFE Network&lt;/a&gt; : là encore, internet décentralisé, peer to peer, mais avec rémunération en crypto monnaie des ressources mises à disposition par chaque utilisateur.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Une très bonne base pour commencer à explorer un autre internet possible.&lt;/p&gt;
+
+&lt;p&gt;Source : &lt;a href=&quot;https://usbeketrica.com/article/comment-les-webs-alternatifs-veulent-reinventer-internet&quot;&gt;Comment les webs alternatifs veulent réinventer Internet&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 13 Mar 2017 00:00:00 +0100</pubDate>
+        <link>http://marges.clairezuliani.com/sustainable_code/2017/03/13/nouveau-web-porte.html</link>
+        <guid isPermaLink="true">http://marges.clairezuliani.com/sustainable_code/2017/03/13/nouveau-web-porte.html</guid>
+        
+        <category>open source</category>
+        
+        <category>devops</category>
+        
+        
+        <category>sustainable_code</category>
+        
+      </item>
     
       <item>
         <title>Adopte un zèbre</title>
@@ -315,7 +356,7 @@
         <link>http://marges.clairezuliani.com/sustainable_code/2017/02/20/mochete-authenticite-design-open-source.html</link>
         <guid isPermaLink="true">http://marges.clairezuliani.com/sustainable_code/2017/02/20/mochete-authenticite-design-open-source.html</guid>
         
-        <category>reference</category>
+        <category>open source</category>
         
         <category>design</category>
         
@@ -494,59 +535,6 @@ In the second camp you have the political activists, academics, and labor organi
         
         
         <category>good_job</category>
-        
-      </item>
-    
-      <item>
-        <title>Référence : Government Digital Service</title>
-        <description>&lt;p&gt;Garder sous la main des références de professionnels, designers, chercheurs, sur des thématiques qui me sont chères. Aujourd’hui : un aperçu du travail du Government Digital Service, le service Design Numérique du gouvernement Britannique, qui oriente et donne forme aux services en ligne de l’Etat.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;Ca fait maintenant quelques temps que j’ai découvert le Government Digital Service (GDS), et j’étais retombée amoureuse d’eux il y a quelques mois en découvrant leurs &lt;a href=&quot;/good_job/2016/09/05/ok-working-rules.html&quot;&gt;règles de travail&lt;/a&gt;. Plus le temps passe et plus je veux réclamer ma carte de membre du fan-club du GDS (et je sais que je ne serai pas l’unique membre).&lt;/p&gt;
-
-&lt;h2 id=&quot;design-principles&quot;&gt;Design principles&lt;/h2&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Start with user needs&lt;/li&gt;
-  &lt;li&gt;Do less&lt;/li&gt;
-  &lt;li&gt;Design with data&lt;/li&gt;
-  &lt;li&gt;Do the hard work to make it simple&lt;/li&gt;
-  &lt;li&gt;Iterate. Then iterate again.&lt;/li&gt;
-  &lt;li&gt;This is for everyone&lt;/li&gt;
-  &lt;li&gt;Understand context&lt;/li&gt;
-  &lt;li&gt;Build digital services, not websites&lt;/li&gt;
-  &lt;li&gt;Be consistent, not uniform&lt;/li&gt;
-  &lt;li&gt;Make things open: it makes things better&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.gov.uk/design-principles&quot;&gt;Détail des principes de design&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Sources :&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://gds.blog.gov.uk/&quot;&gt;Le blog&lt;/a&gt; du Government Digital Service&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://insidegovuk.blog.gov.uk/&quot;&gt;Le blog du dedans&lt;/a&gt; du Government Digital Service&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://govdesign.tumblr.com/&quot;&gt;Le tumblr&lt;/a&gt; du Government Digital Service, avec plein de posters à télécharger pour décorer son bureau&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/alphagov&quot;&gt;le compte github&lt;/a&gt; du Government Digital Service&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;D’autres gens qui écrivent sur le Government Digital Service :&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Geoffrey Dorne, avec par exemple ‘Accédez au « Service Design Toolkit » du Gouvernement Britannique.’ (&lt;a href=&quot;https://graphism.fr/accedez-au-service-design-toolkit-du-gouvernement-britannique/&quot;&gt;lien&lt;/a&gt;), ou “Comment travaille le Government Digital Service?” (&lt;a href=&quot;https://graphism.fr/comment-travaille-le-government-digital-service/&quot;&gt;lien&lt;/a&gt;)&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.adviso.ca/blog/2013/10/24/gov-uk/&quot;&gt;Le gouvernement en ligne le plus inspirant&lt;/a&gt;, par adviso.ca, qui revient sur les orientations et modalités de la transformation des services publics numériques, en 2013&lt;/li&gt;
-  &lt;li&gt;“Comment le gouvernement britannique a économisé 18 milliards d’euros en révisant son mode de fonctionnement” (&lt;a href=&quot;http://www.lemonde.fr/economie/article/2014/08/26/comment-le-gouvernement-britannique-a-economise-18-milliards-d-euros-en-revisant-son-mode-de-fonctionnement_4476796_3234.html&quot;&gt;Article du monde&lt;/a&gt; payant, j’en suis désolée)&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Tue, 24 Jan 2017 00:00:00 +0100</pubDate>
-        <link>http://marges.clairezuliani.com/sustainable_code/2017/01/24/reference-dieter-rams.html</link>
-        <guid isPermaLink="true">http://marges.clairezuliani.com/sustainable_code/2017/01/24/reference-dieter-rams.html</guid>
-        
-        <category>reference</category>
-        
-        <category>design</category>
-        
-        
-        <category>sustainable_code</category>
         
       </item>
     
