@@ -2,7 +2,7 @@
 layout: post
 title: "L'open source, c'est moche ?"
 category: sustainable_code
-tags: [reference, design]
+tags: [open source, design]
 
 ---
 
