@@ -11,9 +11,9 @@ Sur le modèle de ce que faisait les inrocks dans les années 2000, je découvre
 
 <!--more-->
 
-Merci au [ruby nouveau](https://lerubynouveau.fr/) de m'avoir mené au slack de [paris.rb](https://www.rubyparis.org/), sur lequel s'échange plein de liens intéressants, dont celui de [State.of.dev][source]. Plein de courbes généralistes et thématiques, sur les tendances et les stades d'évolution (maturité, désillusion, attentes maximales...) de moults technologies web.
+Merci au [ruby nouveau](https://lerubynouveau.fr/) de m'avoir menée au slack de [paris.rb](https://www.rubyparis.org/), sur lequel s'échange plein de liens intéressants, dont celui de [State.of.dev][source]. Plein de courbes généralistes et thématiques, sur les tendances et les stades d'évolution (maturité, désillusion, attentes maximales...) de moults technologies web.
 
-Aucune idée de sur quoi se fonde les créateurs de l'objet pour positionner une techno à tel ou tel endroit ; mais l'intérêt principal pour moi est plutôt d'avoir un panorama.
+Aucune idée de sur quoi se fonde les créateurs de l'objet pour positionner une techno à tel ou tel endroit. L'intérêt principal pour moi est plutôt d'avoir un panorama des technologies établies et émergentes dans différents domaines.
 
 
 Source : [State.of.dev][source]

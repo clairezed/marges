@@ -6,7 +6,7 @@ tags: [start up, dont be evil]
 
 ---
 
-Avant, les licornes me faisaient marrer. Ensuite, j'ai appris que c'était le petit nom d'animal duquel s'affublait les start up les plus gourmandes, et j'ai pris mes distances avec les licornes. Aujourd'hui, on me propose de remplacer la licorne par le zèbre, et je pourrais me laisser tenter.
+Avant, les licornes me faisaient marrer. Ensuite, j'ai appris que c'était le petit nom d'animal duquel s'affublaient les start up les plus gourmandes, et j'ai pris mes distances avec ces bestioles. Aujourd'hui, on me propose de remplacer la licorne par le zèbre, et je pourrais me laisser tenter.
 
 
 <!--more-->
