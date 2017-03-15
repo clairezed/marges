@@ -5,9 +5,35 @@
     <description>Prise de notes des internets de claire zuliani</description>
     <link>http://marges.clairezuliani.com/</link>
     <atom:link href="http://marges.clairezuliani.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 14 Mar 2017 14:54:34 +0100</pubDate>
-    <lastBuildDate>Tue, 14 Mar 2017 14:54:34 +0100</lastBuildDate>
+    <pubDate>Wed, 15 Mar 2017 16:12:01 +0100</pubDate>
+    <lastBuildDate>Wed, 15 Mar 2017 16:12:01 +0100</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>La courbe du hype du web</title>
+        <description>&lt;p&gt;Sur le modèle de ce que faisait les inrocks dans les années 2000, je découvre les courbes du hype du web.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Merci au &lt;a href=&quot;https://lerubynouveau.fr/&quot;&gt;ruby nouveau&lt;/a&gt; de m’avoir menée au slack de &lt;a href=&quot;https://www.rubyparis.org/&quot;&gt;paris.rb&lt;/a&gt;, sur lequel s’échange plein de liens intéressants, dont celui de &lt;a href=&quot;https://stateofdev.com/&quot;&gt;State.of.dev&lt;/a&gt;. Plein de courbes généralistes et thématiques, sur les tendances et les stades d’évolution (maturité, désillusion, attentes maximales…) de moults technologies web.&lt;/p&gt;
+
+&lt;p&gt;Aucune idée de sur quoi se fonde les créateurs de l’objet pour positionner une techno à tel ou tel endroit. L’intérêt principal pour moi est plutôt d’avoir un panorama des technologies établies et émergentes dans différents domaines.&lt;/p&gt;
+
+&lt;p&gt;Source : &lt;a href=&quot;https://stateofdev.com/&quot;&gt;State.of.dev&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Pour en savoir plus : State.of.dev sur &lt;a href=&quot;https://hackernoon.com/state-of-dev-c609cc12084b#.g42q19ux5&quot;&gt;hackernoon&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 15 Mar 2017 00:00:00 +0100</pubDate>
+        <link>http://marges.clairezuliani.com/sustainable_code/2017/03/15/courbe-hype-web.html</link>
+        <guid isPermaLink="true">http://marges.clairezuliani.com/sustainable_code/2017/03/15/courbe-hype-web.html</guid>
+        
+        <category>code</category>
+        
+        
+        <category>sustainable_code</category>
+        
+      </item>
     
       <item>
         <title>C'est le nouveau web qui toque à ta porte</title>
@@ -52,7 +78,7 @@
     
       <item>
         <title>Adopte un zèbre</title>
-        <description>&lt;p&gt;Avant, les licornes me faisaient marrer. Ensuite, j’ai appris que c’était le petit nom d’animal duquel s’affublait les start up les plus gourmandes, et j’ai pris mes distances avec les licornes. Aujourd’hui, on me propose de remplacer la licorne par le zèbre, et je pourrais me laisser tenter.&lt;/p&gt;
+        <description>&lt;p&gt;Avant, les licornes me faisaient marrer. Ensuite, j’ai appris que c’était le petit nom d’animal duquel s’affublaient les start up les plus gourmandes, et j’ai pris mes distances avec ces bestioles. Aujourd’hui, on me propose de remplacer la licorne par le zèbre, et je pourrais me laisser tenter.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
@@ -496,45 +522,6 @@ In the second camp you have the political activists, academics, and labor organi
         
         
         <category>sustainable_code</category>
-        
-      </item>
-    
-      <item>
-        <title>A mon compte + 1 mois</title>
-        <description>&lt;p&gt;Je m’étais promise de tenir un simili journal de bord simili mensuel de ma mise à mon compte. Voici donc l’épisode 1.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;Que s’est-il passé depuis que j’ai officiellement cessé d’être salariée, au 31 décembre dernier ? Pas mal de broutilles me restaient à régler, qui m’ont occupée sur le plus gros de mon temps. Mais ce premier mois a tout de même été riche en premières fois.&lt;/p&gt;
-
-&lt;h2 id=&quot;plein-de-rencontres&quot;&gt;Plein de rencontres&lt;/h2&gt;
-
-&lt;p&gt;Première rencontre avec &lt;strong&gt;Laurie&lt;/strong&gt;, coordinatrice hyper dynamique du &lt;a href=&quot;http://mouves.org/nos-missions/federer-et-influer/federer-les-entrepreneurs-sociaux/grand-est/&quot;&gt;Mouves Grand Est&lt;/a&gt;, que j’interrogeais notamment sur les besoins en outillage numérique de ses adhérents. Apparemment, c’est une colle que je lui ai posée… Le poids de la question du financement serait-il tel qu’il ne laisse aucune place à des préoccupations de communication, de web, de numérique ?&lt;/p&gt;
-
-&lt;p&gt;Première rencontre avec &lt;strong&gt;Charles&lt;/strong&gt;, initiateur de &lt;a href=&quot;https://www.facebook.com/epiceriecollabnancy/&quot;&gt;La Grande Epicerie&lt;/a&gt;, projet de super-marché coopératif sur Nancy. Echanges hyper riches sur les besoins en outil du projet, tant en interne (gestion de projet) que pour gérer le supermarché en tant que tel (groupement d’achat, &lt;a href=&quot;https://fr.wikipedia.org/wiki/Progiciel_de_gestion_int%C3%A9gr%C3%A9&quot;&gt;ERP&lt;/a&gt;…). Il est possible que je suive d’un peu plus près le projet dans les temps qui viennent, j’en reparlerai donc peut-être.&lt;/p&gt;
-
-&lt;p&gt;Première rencontre avec &lt;strong&gt;Nicolas&lt;/strong&gt;, de l’&lt;a href=&quot;http://www.lagence235.com/&quot;&gt;Agence 235&lt;/a&gt; : il me fait part de son expérience d’agence de communication qui essaye de bosser avec des organismes type ESS (mais c’est pas évident), et me parle du &lt;strong&gt;“cap des 3 ans”&lt;/strong&gt;. Apparemment, tant que ton entreprise n’a pas passé les 3 ans d’existence, c’est plus difficile d’être pris au sérieux. Je note une chouette suggestion de se mettre en lien avec les collectivités pour faire des présentations de ce que je peux proposer aux associations locales (notamment sur les sites statiques, dont j’ai présenté le concept à Nicolas).&lt;/p&gt;
-
-&lt;p&gt;Premiers échanges avec &lt;strong&gt;Quentin&lt;/strong&gt;, développeur chez &lt;a href=&quot;http://assembl.bluenove.com/&quot;&gt;Assembl&lt;/a&gt;, et qui lui aussi est plein d’envies de trouver de nouvelles façons de travailler et de soutenir l’innovation sociale. Des échanges riches sur nos positionnements respectifs, les stratégies pour parvenir à une structuration de type coopérative de développement (pourquoi pas inspiré d’Enspiral).&lt;/p&gt;
-
-&lt;h2 id=&quot;et-des-projets-&quot;&gt;Et des projets ?&lt;/h2&gt;
-
-&lt;p&gt;Pas les premiers échanges (il fallait bien un intrus !) avec les &lt;strong&gt;&lt;a href=&quot;https://lesbricodeurs.fr/&quot;&gt;Bricodeurs&lt;/a&gt;&lt;/strong&gt;, puisque ça fait déjà un bout de temps qu’on se suit, mais &lt;strong&gt;quasi premières implications concrètes&lt;/strong&gt; ! Je profite de mon changement de rythme pour m’activer enfin un peu plus (quelques commits sur différents projets, des échanges sur le modèle économique, etc) et contribuer à une &lt;a href=&quot;http://lesbricodeurs.fr/evenements/NuitCodeCitoyen/&quot;&gt;Nuit du Code citoyen&lt;/a&gt; alléchante.&lt;/p&gt;
-
-&lt;p&gt;Ce premier mois a aussi été celui des &lt;strong&gt;premiers appels au secours&lt;/strong&gt; à des copains ou connaissances développeurs sur des questions techniques qui me tombent brusquement dessus. Un merci infini (vraiment ! Vous êtes hyper chouettes !) à Laurent de &lt;a href=&quot;http://www.studio-hb.com/&quot;&gt;Studio HB&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/gbarillot&quot;&gt;Guillaume Barillot&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/steeveosteen&quot;&gt;Stephane Esteve&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/franckverrot&quot;&gt;Franck Verrot&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/camilleappert&quot;&gt;Camille Appert&lt;/a&gt; qui ont bien voulu m’aiguiller sur des solutions d’hébergement pour petits projets en Rails de structures sans le sou.&lt;/p&gt;
-
-&lt;p&gt;Et enfin &lt;strong&gt;premier devis&lt;/strong&gt;, accepté, qui me tombe dessus par surprise.&lt;/p&gt;
-
-&lt;p&gt;Oui, c’était plutôt un chouette premier mois !&lt;/p&gt;
-</description>
-        <pubDate>Tue, 07 Feb 2017 00:00:00 +0100</pubDate>
-        <link>http://marges.clairezuliani.com/good_job/2017/02/07/solo-plus-1-mois.html</link>
-        <guid isPermaLink="true">http://marges.clairezuliani.com/good_job/2017/02/07/solo-plus-1-mois.html</guid>
-        
-        <category>et moi</category>
-        
-        
-        <category>good_job</category>
         
       </item>
     
