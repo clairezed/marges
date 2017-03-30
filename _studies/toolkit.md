@@ -179,6 +179,10 @@ Comment bien commencer un projet ? Quelques outils déjà utilisés ou à tester
 - unhosted
 - [Netlib](https://netlib.re/) : Netlib.re vous donne un nom de domaine, gratuitement et simplement
 
+"Voici les deux hébergements à prix libres sérieux que je connais/propose:"
+* http://www.toile-libre.org/1
+* https://www.tuxfamily.org/
+
 ### Sys Admin
 
 - [SysAdmin toolbox (github)](https://github.com/skhaen/sysadmin-toolbox)
