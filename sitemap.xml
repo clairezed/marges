@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://marges.clairezuliani.com/good_job/2017/03/27/serment-lovelace.html</loc>
+<lastmod>2017-03-27T00:00:00+02:00</lastmod>
+</url>
+<url>
+<loc>http://marges.clairezuliani.com/sustainable_code/2017/03/17/reactionnaires-radicaux-web.html</loc>
+<lastmod>2017-03-17T00:00:00+01:00</lastmod>
+</url>
+<url>
 <loc>http://marges.clairezuliani.com/sustainable_code/2017/03/15/courbe-hype-web.html</loc>
 <lastmod>2017-03-15T00:00:00+01:00</lastmod>
 </url>
@@ -335,6 +343,9 @@
 </url>
 <url>
 <loc>http://marges.clairezuliani.com/tags/devops/</loc>
+</url>
+<url>
+<loc>http://marges.clairezuliani.com/tags/ethique/</loc>
 </url>
 <url>
 <loc>http://marges.clairezuliani.com/cheat-sheet-ruby</loc>

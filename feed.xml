@@ -5,9 +5,87 @@
     <description>Prise de notes des internets de claire zuliani</description>
     <link>http://marges.clairezuliani.com/</link>
     <atom:link href="http://marges.clairezuliani.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 15 Mar 2017 16:12:01 +0100</pubDate>
-    <lastBuildDate>Wed, 15 Mar 2017 16:12:01 +0100</lastBuildDate>
+    <pubDate>Thu, 30 Mar 2017 11:18:09 +0200</pubDate>
+    <lastBuildDate>Thu, 30 Mar 2017 11:18:09 +0200</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>Le serment d'Ada Lovelace ?</title>
+        <description>&lt;p&gt;Code, web, éthique. Des mots que j’ai croisé entremêlés plusieurs fois et à un rythme élévé ces derniers jours. Est-ce signe d’un mouvement de fond d’une préoccupation émergente, ou juste moi qui y suis de plus en plus sensible ?&lt;br /&gt;
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;p&gt;Pour comprendre de quoi je parle quand je parle d’&lt;strong&gt;éthique&lt;/strong&gt; et de &lt;strong&gt;code&lt;/strong&gt;, je vous invite à écouter l’&lt;a href=&quot;https://lerubynouveau.fr/003.html&quot;&gt;épisode n°003&lt;/a&gt; du ruby nouveau, avec un long passage intéressant sur l’éthique, qui part de l’exemple des développeurs qui ont codé le programme permettant à Volkswagen de frauder les tests écologiques.&lt;/p&gt;
+
+&lt;p&gt;Je vous invite aussi à lire &lt;a href=&quot;https://deardesignstudent.com/ethics-cant-be-a-side-hustle-b9e78c090aee#.jfsf9w40m&quot;&gt;Ethics can’t be a side hustle&lt;/a&gt; (“l’éthique ne peut pas être un passe temps”), dont je reprends un extrait ci-dessous :&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;You can’t help &lt;a href=&quot;https://www.nytimes.com/2017/03/03/technology/uber-greyball-program-evade-authorities.html?_r=0&quot;&gt;Uber build Greyball&lt;/a&gt; during the day, or help &lt;a href=&quot;https://theintercept.com/2017/03/02/palantir-provides-the-engine-for-donald-trumps-deportation-machine/&quot;&gt;Palantir design databases&lt;/a&gt;  to round up immigrants as your main gig, and then buy ethics offsets by doing a non-profit side hustle. We need you to work ethically during that day job much more than we need you working with that non-profit.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Traduction maison rapide :&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Vous ne pouvez pas, le jour, aider Uber à construire Greyball ou Palantir à mettre en place des bases de données pour ficher les migrants, puis vous racheter une conscience en aidant des projets non lucratifs à côté. Nous avons besoin que votre travail quotidien soit lui-même éthique, bien plus que nous n’avons besoin de votre contribution aux projets non-lucratifs.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;A noter : Geoffrey Dorne (encore lui) a publié après que j’aie commencé ce post sa propre traduction de l’article en question, que vous pouvez lire &lt;a href=&quot;https://graphism.fr/lethique-ne-peut-pas-etre-un-passe-temps/&quot;&gt;ici&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Pour ceux que ces questions intéressent, &lt;a href=&quot;http://ethicsbydesign.fr/&quot;&gt;Ethics by Design&lt;/a&gt;, un événement spécialement dédié à cette thématique est organisé à &lt;strong&gt;Lyon&lt;/strong&gt; le &lt;strong&gt;12 mai&lt;/strong&gt;. On se donne rendez-vous là-bas et on commence à réfléchir à un serment d’Hippocrate adapté à nos pratiques ?&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;You cannot afford to be neutral. Right now, more than ever you need to reach down deep into your core, find your ethical strength, and bring it to your day job with you every day.&lt;br /&gt;
+Then we can talk about helping non-profits in the evening. And hurry up, because they do need your help.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;*Dernière minute : *&lt;/p&gt;
+
+&lt;p&gt;Encore une fois grâce à la communauté ruby regroupée autour du &lt;a href=&quot;https://lerubynouveau.fr&quot;&gt;ruby nouveau&lt;/a&gt;, je prends connaissance du travail autour d’un “Ordre des développeurs” :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/book/ordre-des-developpeurs/constitution/details&quot;&gt;Constitution&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ordre-des-developpeurs.github.io/odd-introduction/#/&quot;&gt;Présentation reveal.js de l’ordre des développeurs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Mon, 27 Mar 2017 00:00:00 +0200</pubDate>
+        <link>http://marges.clairezuliani.com/good_job/2017/03/27/serment-lovelace.html</link>
+        <guid isPermaLink="true">http://marges.clairezuliani.com/good_job/2017/03/27/serment-lovelace.html</guid>
+        
+        <category>code</category>
+        
+        <category>ethique</category>
+        
+        
+        <category>good_job</category>
+        
+      </item>
+    
+      <item>
+        <title>Réactionnaires vs radicaux, version web</title>
+        <description>&lt;p&gt;Partir du symptôme de &lt;em&gt;“Javascript fatigue”&lt;/em&gt; pour arriver à une confrontation entre réactionnaires et radicaux dans le domaine de l’outillage web.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;[…] When we lump Substack and PPK together as “web minimalists”, we’re conflating the radical with the reactionary. The reactionary approach, though superficially similar to the radical one, has opposite goals: instead of creating a new system, the reactionary returns to the old one; instead of making tools accessible to a new generation of developers, it merely reinstates the old gatekeepers. This is the problem with PPK — his vision is fundamentally nostalgic, not progressive. &lt;strong&gt;He doesn’t want to make web development better; he wants to Make Web Development Great Again&lt;/strong&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Par une comparaison politique filée de bon aloi, &lt;a href=&quot;https://hackernoon.com/tools-for-radicals-73b7cbbfc276#.x5kqnxi9x&quot;&gt;Justin Falcon&lt;/a&gt; livre une plaidoirie rafraichissante pour que les alternatives radicales en matière de développement web soient plus écoutées.&lt;/p&gt;
+
+&lt;p&gt;Source : &lt;a href=&quot;https://hackernoon.com/tools-for-radicals-73b7cbbfc276#.x5kqnxi9x&quot;&gt;Tools for Radicals&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 17 Mar 2017 00:00:00 +0100</pubDate>
+        <link>http://marges.clairezuliani.com/sustainable_code/2017/03/17/reactionnaires-radicaux-web.html</link>
+        <guid isPermaLink="true">http://marges.clairezuliani.com/sustainable_code/2017/03/17/reactionnaires-radicaux-web.html</guid>
+        
+        <category>code</category>
+        
+        <category>politique</category>
+        
+        
+        <category>sustainable_code</category>
+        
+      </item>
     
       <item>
         <title>La courbe du hype du web</title>
@@ -385,140 +463,6 @@
         <category>open source</category>
         
         <category>design</category>
-        
-        
-        <category>sustainable_code</category>
-        
-      </item>
-    
-      <item>
-        <title>Des extraits de coopérativisme de plateforme</title>
-        <description>&lt;p&gt;Vous avez déjà entendu parlé des coopératives de plateforme ? Un livre qui explore ce mouvement est paru récemment, et quelqu’un en a fait un résumé à partir de sélection d’extraits. Précieux !&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;Mais c’est quoi le “Platform cooperativism” ?&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Platform cooperativism is the radical idea that the internet would do more good if its major properties were democratically owned and governed.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Le coopérativisme de plateformes est l’idée radicale selon laquelle internet serait bien plus bénéfique si ses propriétés principales était possédées et partagées démocratiquement (traduction maison sur le pouce).&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Pour moi, ça revient un peu à un mouvement de contre-uberisation, et c’est tant mieux. C’est une proposition qui m’intéresse particulièrement en ce qu’elle invite à faire un pas de côté par rapport au fonctionnement économique actuel. Et réfléchir en termes techniques à la question implique le même type de renversement dans sa façon de penser et de construire.&lt;/p&gt;
-
-&lt;p&gt;Du coup, merci mille fois à tous les auteurs du livre “&lt;a href=&quot;http://www.orbooks.com/catalog/ours-to-hack-and-to-own/&quot;&gt;Ours to Hack and to Own&lt;/a&gt;: the rise of platform cooperativism, a new vision for the future of work and fairer Internet” et à &lt;a href=&quot;https://medium.com/@decmanagement&quot;&gt;Antonio Blanco-Gracia&lt;/a&gt; pour la lecture partagée !&lt;/p&gt;
-
-&lt;p&gt;Et maintenant, quelques extraits de cette collection d’extraits (…) :&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Les intertitres numérotés sont des reprises des intertitres de l’article, histoire de contextualiser un peu les extraits&lt;/em&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;7-new-decentralized-architectures-need-to-be-designed-to-be-counteranti-disintermediationist&quot;&gt;7. New decentralized architectures need to be designed to be counteranti-disintermediationist&lt;/h2&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Central to the counterantidisintermediationist design is the end-to-end principle; platforms must not depend on servers and admins, even when cooperatively run, but must, to the greatest degree possible, run on the computers of the platforms users (Dmytri Kleiner — Counterantidisintermediation).&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Moi non plus je ne comprends pas grand chose à ce principe de “counteranti-disintermediationist”, mais ce dernier exemple me parle un peu plus. Hmm, effectivement, que les ressources soient vraiment partagées entre tous les utilisateurs fait la vraie décentralisation, mais ça reporte la charge sur les machines des utilisateurs.&lt;/p&gt;
-
-&lt;p&gt;C’est quoi les technologies derrière ça ? On va vers des technologies de peer-to-peer que je ne maîtrise pas ? Ou on peut bidouiller quelque chose avec de la base de donnée côté client ? Mais dans ce cas, ne faut-il pas quand même une base de donnée centralisée quelque part pour faire la synchro ? Ok, je sens que je nage en pleine confusion, faut que je creuse.&lt;/p&gt;
-
-&lt;h2 id=&quot;9-coop-platforms-are-not-as-much-for-autonomy-and-independence-as-for-multi-stakeholder-interdependence&quot;&gt;9. Coop Platforms are not as much for autonomy and independence as for multi-stakeholder interdependence.&lt;/h2&gt;
-
-&lt;p&gt;Une autre réflexion, non technique :&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Cooperative purity can easily become an obstacle to achieving meaningful scale and inclusive impact. For instance, insisting that members self-finance their own enterprise risks creating a closed circle of relative economic privilege rather than a movement to truly democratize capital. Similarly, insisting on autonomy from government intervention and support means that the policies behind traditional economic development will continue to grind away, subsidizing corporations and leaving cooperatives to fend for themselves (John Duda — Beyond Luxury Cooperativism).&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Ce serait quoi, une plateforme bien pensée ? Une plateforme qui suivrait les principes suivant :&lt;/p&gt;
-&lt;ol&gt;
-  &lt;li&gt;Earnings maximization&lt;/li&gt;
-  &lt;li&gt;Stability and predictability&lt;/li&gt;
-  &lt;li&gt;Transparency&lt;/li&gt;
-  &lt;li&gt;Portability of products and reputations&lt;/li&gt;
-  &lt;li&gt;Upskilling&lt;/li&gt;
-  &lt;li&gt;Social connectedness&lt;/li&gt;
-  &lt;li&gt;Bias elimination&lt;/li&gt;
-  &lt;li&gt;Feedback mechanisms&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;12-civil-society-and-governments-have-to-co-create-an-eco-system-for-coop-plataforms-to-flourish&quot;&gt;12. Civil Society and Governments have to co-create an eco-system for Coop Plataforms to flourish&lt;/h2&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“The big companies that rule the Internet aren’t coming to dominate just because of a good idea and a charismatic founder; they grow out of supportive ecosystems, including investors, lawyers, sympathetic governments, and tech schools. Perhaps most important is their culture — the festivals, the meetups, the memes, the manifestos — that share norms for what kinds of practices are expected and celebrated. To change these norms, we need to cultivate an ecosystem for platform cooperativism” (Editors -Showcase 2: Ecosystem)&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;17-coop-platforms-will-be-developed-more-quickly-if-depart-from-what-already-exists-and-traditional-cooperativism-and-unionism-experiment-with-it&quot;&gt;17. Coop Platforms will be developed more quickly if depart from what already exists, and traditional cooperativism and unionism experiment with it.&lt;/h2&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;It’s important for folks in the platform-cooperative community to understand that there are existing worker-led organizations that are set up to deal with multi-employer, disaggregated work situations — and that we can build from their model, rather than starting from scratch. (Kati Sipp — Portable Reputation in the On-Demand Economy)&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Et je découvre qu’un gars d’Enspiral a aussi &lt;a href=&quot;https://medium.com/enspiral-tales/ours-to-hack-and-to-own-a-review-6707955a4ee3#.kft5ah43q&quot;&gt;sélectionné quelques extraits&lt;/a&gt; qui valent le coup. Je retranscris ici :&lt;/p&gt;
-
-&lt;h2 id=&quot;a-propos-de-la-blockchain&quot;&gt;A propos de la blockchain&lt;/h2&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“The last decade has shown us that there is no linear-causal relationship between decentralization in technical systems and egalitarian or equitable practices socially, politically, or economically(Rachel O’Dwyer).”&lt;br /&gt;
-In other words, “put it on the blockchain” is no substitute for a critical analysis of power.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;D’ailleurs, je vous invite vraiment à lire &lt;a href=&quot;https://medium.com/enspiral-tales/ours-to-hack-and-to-own-a-review-6707955a4ee3#b307&quot;&gt;la fin de son article&lt;/a&gt;, à Richard D. Bartlett d’Enspiral. Il délivre un bel aperçu de l’un des points d’achoppement majeur des démarches qui essayent d’intégrer innovation tehcnologique et innovation sociale.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;In the first camp you have the start-uppers, techies, entrepreneurs and blockchainers… people focused on the future. They’re motivated by what’s new. In just about every innovation they can see the promise of a more equitable society, right around the corner.&lt;br /&gt;
-In the second camp you have the political activists, academics, and labor organisers… people who have read enough history to understand that nearly all these innovations are doomed to be absorbed by the logic of capitalism.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Source : Why you should read “Ours to Hack and to Own”: &lt;a href=&quot;https://medium.com/@decmanagement/why-you-should-read-ours-to-hack-and-to-own-the-book-in-24-powerful-insights-5f36397aacea#.dw2juojiq&quot;&gt;the book in 24 powerful insights&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 17 Feb 2017 00:00:00 +0100</pubDate>
-        <link>http://marges.clairezuliani.com/binary_transition/2017/02/17/platform-coops-book-insights.html</link>
-        <guid isPermaLink="true">http://marges.clairezuliani.com/binary_transition/2017/02/17/platform-coops-book-insights.html</guid>
-        
-        <category>cooperative</category>
-        
-        
-        <category>binary_transition</category>
-        
-      </item>
-    
-      <item>
-        <title>Un guide pour faire de l'open source qui tombe à pic</title>
-        <description>&lt;p&gt;Vous voulez vous lancer dans l’open source mais comme moi vous êtes encore un peu paumé ? Plein de gens se sont associés pour proposer un guide de l’open source qui m’a tout l’air d’une excellente facture.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;Dans ce guide (en anglais), dont les sources sont -sans surprise- sur &lt;a href=&quot;https://github.com/github/open-source-guide#open-source-guides&quot;&gt;github&lt;/a&gt;, on trouve des infos sur :&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Comment contribuer à l’open source&lt;/li&gt;
-  &lt;li&gt;Démarrer un projet open source&lt;/li&gt;
-  &lt;li&gt;Trouver des utilisateurs à votre projet&lt;/li&gt;
-  &lt;li&gt;Construire une communauté accueillante autour du projet&lt;/li&gt;
-  &lt;li&gt;Les meilleures pratiques pour les mainteneurs&lt;/li&gt;
-  &lt;li&gt;Meneur et gouvernance&lt;/li&gt;
-  &lt;li&gt;Etre payé pour un travail open source&lt;/li&gt;
-  &lt;li&gt;Votre code de conduite&lt;/li&gt;
-  &lt;li&gt;Les métriques de l’open source&lt;/li&gt;
-  &lt;li&gt;Les aspects légaux de l’open source&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Autant dire que, alors que je débute un premier projet open source pour le compte de mon premier client, je vais dans les jours qui viennent compulser avec avidité plusieurs chapitres.&lt;/p&gt;
-
-&lt;p&gt;(merci à &lt;a href=&quot;https://twitter.com/NicolasLoubet&quot;&gt;Nicolas Loubet&lt;/a&gt;, décidemment dénicheur de premier ordre, pour la découverte)&lt;/p&gt;
-
-&lt;p&gt;Source : &lt;a href=&quot;https://opensource.guide/&quot;&gt;Open Source Guide&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 15 Feb 2017 00:00:00 +0100</pubDate>
-        <link>http://marges.clairezuliani.com/sustainable_code/2017/02/15/guide-open-source.html</link>
-        <guid isPermaLink="true">http://marges.clairezuliani.com/sustainable_code/2017/02/15/guide-open-source.html</guid>
-        
-        <category>open source</category>
         
         
         <category>sustainable_code</category>
