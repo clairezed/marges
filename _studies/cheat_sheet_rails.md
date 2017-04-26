@@ -42,10 +42,12 @@ Conseils à la volée pour écrire du meilleur code en ruby.
 - [whenever](https://github.com/javan/whenever) : Cron jobs in Ruby
 - [ahoy](https://github.com/ankane/ahoy) : Simple, powerful visit tracking for Rails
 - [turnout](https://github.com/biola/turnout) : Turnout makes it easy to put Rack apps into maintenance mode
+- [brakeman](https://github.com/presidentbeef/brakeman) : A static analysis security vulnerability scanner for Ruby on Rails applications mode
 
 ### Utilities
 - [kaminari](https://github.com/kaminari/kaminari) : A Scope & Engine based, clean, powerful, customizable and sophisticated paginator for Ruby webapps (à la place de will_paginate ?)
 - [sitemap_generator)](https://github.com/kjvarga/sitemap_generator) : framework-agnostic XML Sitemap generator written in Ruby with automatic Rails integration. It supports Video, News, Image, Mobile, PageMap and Alternate Links sitemap extensions and includes Rake tasks for managing your sitemaps, as well as many other great features.
+- [Json API rb](http://jsonapi-rb.org/) : Efficient and convenient JSON API library for ruby (upgrade de active model serializer, en gros)
 
 ## Divers
 

@@ -1,9 +1,9 @@
 ---
-title: Jekyll workflow
+title: JamStack
 date: '2016-12-04 00:00:00'
 layout: page
-permalink: jekyll-workflow
-tags: [jekyll]
+permalink: jamstack
+tags: [jekyll, jamstack]
 category: sustainable_code
 ---
 
@@ -93,7 +93,7 @@ Quelques ressources, commandes ou réflexion pour me permettre de mieux utiliser
 - [codeship](https://codeship.com) : *"A hosted Continuous Integration service that fits your needs"*.
 - [alwaysdata](https://www.alwaysdata.com/fr/) (utilisé par Schapira)
 
-## CMS
+### CMS
 
 - [Prose.io](http://prose.io/)
 - [Netlify CMS](https://github.com/netlify/netlify-cms), open source
@@ -102,12 +102,13 @@ Quelques ressources, commandes ou réflexion pour me permettre de mieux utiliser
 - [DatoCMS](www.datocms.com), really basic free plan
 - [Forestry.io](https://forestry.io/), really basic free plan
 
-## Flat File CMS
+#### Flat File CMS
 
 - [kirby](https://getkirby.com/) : env 20 €
 - [statamic](https://statamic.com/) : 200$ !
+- [lektor](https://www.getlektor.com)
 
-## Headless / serverless CMS
+#### Headless / serverless CMS
 
 Stockage des données en cloud, cms pour éditer, accès aux données via API.
 
@@ -128,7 +129,9 @@ Stockage des données en cloud, cms pour éditer, accès aux données via API.
 
 - [Fork n go](http://jlord.us/forkngo/) : exemples (avec repo forkable) de sites statiques intéragissant avec des services tiers (google spreadsheet, mapbox, [sheetsee.js](http://jlord.us/sheetsee.js/), iftt...)
 
-## Templates
+## Templating
+
+### Templates
 
 - [andrew banchich](https://github.com/andrewbanchich?tab=repositories) : portage jekyll de themes [html5up](https://html5up.net/)
 	- [gems](https://rubygems.org/profiles/andrewbanchich)
@@ -138,6 +141,10 @@ Stockage des données en cloud, cms pour éditer, accès aux données via API.
 	- [Repos github](https://github.com/mmistakes?tab=repositories)
 - [jekyll tips, templates](http://jekyll.tips/templates/)
 - [liste templates cloudcannon](http://cloudcannon.com/announcements/2016/12/05/free-jekyll-templates/)
+
+### Front-end framework integration
+
+- Repo mêlant jekyll + webpack + vue : https://github.com/teleyinex/teleyinex.github.com
 
 ## Divers
 
