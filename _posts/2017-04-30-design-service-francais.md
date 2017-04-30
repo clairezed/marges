@@ -22,5 +22,8 @@ Le portail de méthodes de design de service [comment-faire.modernisation.gouv.f
 
 A noter : le [code du portail](https://github.com/modernisation/comment-faire) est en accès libre sur github, et à ce que je vois c'est donc le framework jekyll (allié à forestry pour l'édition des contenus) qui est utilisé. Ce sont des outils en lesquels je crois, décidément l'administration publique me fait doublement plaisir.
 
+## La DINSIC sur mastodon
+
+J'allais oublier : si vous voulez échanger avec les personnes derrière le sigle DINSIC, vous en trouverez plein sur [mastodon](https://mastodon.etalab.gouv.fr/@DINSIC) (où les agents de la fonction publique disposent de leur propre instance).
 
 Ca me donnerait presque envie de bosser pour la fonction publique, tout ça.
