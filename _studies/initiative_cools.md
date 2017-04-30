@@ -10,7 +10,8 @@ category: binary_transition
 Quelques initiatives (qui m'ont l'air) cools sur lesquelles jeter ou garder un oeil.
 
 <!--more-->
-<!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+
+<!-- TOC depthFrom:2 depthTo:4 withLinks:1 updateOnSave:1 orderedList:0 -->
 
 - [Structures](#structures)
 	- [La jonction d'un peu toutes les envies](#la-jonction-dun-peu-toutes-les-envies)
@@ -19,37 +20,25 @@ Quelques initiatives (qui m'ont l'air) cools sur lesquelles jeter ou garder un o
 	- [Clusters d'innovation sociale](#clusters-dinnovation-sociale)
 		- [SI Park](#si-park)
 		- [Initiatives et Cité](#initiatives-et-cit)
+		- [Digital Social innovation](#digital-social-innovation)
 	- [Collaborations professionnels - société civile](#collaborations-professionnels-socit-civile)
 		- [Plateau Urbain](#plateau-urbain)
-			- [tags: `cool probable` `local`](#tags-cool-probable-local)
 		- [L'atelier paysan](#latelier-paysan)
-			- [tags: `cool probable` `cooperative` `grenoble`](#tags-cool-probable-cooperative-grenoble)
 		- [Collectif Bam](#collectif-bam)
-			- [tags: `cool a verifier` `paris`](#tags-cool-a-verifier-paris)
 		- [Hyperville](#hyperville)
-			- [tags: `cool probable`](#tags-cool-probable)
 		- [Carton Plein](#carton-plein)
-			- [tags: `cool probable` `saint etienne`](#tags-cool-probable-saint-etienne)
 		- [Lande](#lande)
-			- [tags: `cool probable` `montreal` `cartographie`](#tags-cool-probable-montreal-cartographie)
 		- [Design Territoire Alternatives](#design-territoire-alternatives)
-			- [tags: `cool probable` `bretagne` `limousin` `bourgogne` `design de service`](#tags-cool-probable-bretagne-limousin-bourgogne-design-de-service)
 		- [User Studio](#user-studio)
-			- [tags: `paris` `design de service`](#tags-paris-design-de-service)
 		- [Plausible Possible](#plausible-possible)
-			- [tags: `paris` `design de service`](#tags-paris-design-de-service)
 		- [Grrr](#grrr)
-			- [tags: `nantes` `design de service`](#tags-nantes-design-de-service)
 	- [Collaboration développeur - société civile](#collaboration-dveloppeur-socit-civile)
 		- [Scopyleft](#scopyleft)
 		- [Datactivi.st](#datactivist)
 		- [L'Office](#loffice)
-			- [tags: `cool probable` `marseille`](#tags-cool-probable-marseille)
 		- [La coroutine](#la-coroutine)
-			- [tags: `cool probable` `lille`](#tags-cool-probable-lille)
 		- [Cap Collectif](#cap-collectif)
 		- [La Fabulerie](#la-fabulerie)
-			- [tags: `cool probable` `marseille`](#tags-cool-probable-marseille)
 	- [Dev solo qui font de l'ESS](#dev-solo-qui-font-de-less)
 	- [Nouveaux modes de travail développeur-compatibles](#nouveaux-modes-de-travail-dveloppeur-compatibles)
 		- [Coopaname](#coopaname)
@@ -63,9 +52,7 @@ Quelques initiatives (qui m'ont l'air) cools sur lesquelles jeter ou garder un o
 		- [Coliga](#coliga)
 	- [Civic techish](#civic-techish)
 		- [Cap Collectif](#cap-collectif)
-			- [tags: `cool a verifier`](#tags-cool-a-verifier)
 		- [Building Commons (Pixel humain)](#building-commons-pixel-humain)
-			- [tags: `cool a verifier`](#tags-cool-a-verifier)
 		- [http://www.techonmap.fr/](#httpwwwtechonmapfr)
 - [Festivals](#festivals)
 	- [Web militant](#web-militant)
@@ -128,7 +115,7 @@ Cluster basé à Lille, créé en 2010, regroupe 19 entreprises de l'ESS autour 
 
 [digitalsocial.eu](https://digitalsocial.eu/)
 
-Liste d'organismes, projets, agendas dans le champs de l'innovation sociale et numérique à l'échelle européenne. 
+Liste d'organismes, projets, agendas dans le champs de l'innovation sociale et numérique à l'échelle européenne.
 
 ### Collaborations professionnels - société civile
 
@@ -380,14 +367,16 @@ Ateliers ou discussions alternatives, politisantes et « Do It Yourself »1 dans
 
 #### Pas sage en Seine - Hacker Space Festival
 
-[www.pseshsf.org](https://www.pseshsf.org/fr/accueil)\\
+[www.pseshsf.org](https://www.pseshsf.org/fr/accueil)
+
 *juillet - Paris ou presque*
 
 Un festival de hackers ouvert à toutes et à tous.
 
 #### AlterConf
 
-[www.alterconf.com](https://www.alterconf.com/conferences/paris-france)\\
+[www.alterconf.com](https://www.alterconf.com/conferences/paris-france)
+
 *juillet - Paris*
 
 AlterConf is a traveling conference series that provides safe opportunities for marginalized people and those who support them in the tech and gaming industries.

@@ -44,6 +44,7 @@ $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
 $white:             #ffffff;
+$link-color: 				#5749B8;
 
 // Width of the content area
 $content-width:    800px;
@@ -86,5 +87,6 @@ $brand-primary-dark:    darken($brand-primary, 5%);
         "table",
 				"page",
 				"content",
-        "syntax-highlighting"
+        "syntax-highlighting",
+				"form"
 ;

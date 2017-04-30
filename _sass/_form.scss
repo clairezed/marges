@@ -1,0 +1,10 @@
+.basic-input {
+  width: 90%;
+  background-color: lighten($background-color, 2%);
+  border: none;
+  border-bottom: 1px solid #ccc;
+  padding: 5px 12px;
+  &:focus {
+    outline:0;
+  }
+}
