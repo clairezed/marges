@@ -5,9 +5,42 @@
     <description>Prise de notes des internets de claire zuliani</description>
     <link>http://marges.clairezuliani.com/</link>
     <atom:link href="http://marges.clairezuliani.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 26 Apr 2017 22:05:35 +0200</pubDate>
-    <lastBuildDate>Wed, 26 Apr 2017 22:05:35 +0200</lastBuildDate>
+    <pubDate>Sun, 30 Apr 2017 14:01:47 +0200</pubDate>
+    <lastBuildDate>Sun, 30 Apr 2017 14:01:47 +0200</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>Le design de service fait cocorico</title>
+        <description>&lt;p&gt;Pas de raison que le design de service reste sous monopole anglo-saxon ! Ces derniers jours, je croise plusieurs manifestations d’un design de service “à la française”, et ça me met du baume au coeur.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Après les &lt;a href=&quot;http://www.modernisation.gouv.fr/ladministration-change-avec-le-numerique/par-des-services-numeriques-aux-usagers/startups-d-etat&quot;&gt;start-up d’Etat&lt;/a&gt; (et quoi qu’on pense de cette appellation…), je vois de nouvelles initiatives intéressantes issues du &lt;a href=&quot;http://www.modernisation.gouv.fr/le-sgmap&quot;&gt;SGMAP&lt;/a&gt; (Secrétariat Général pour la Modernisation de l’Action Publique) et de sa DINSIC (Direction interministérielle du numérique et du Système d’Information de l’Etat, fusion de la DSI et d’Etalab, mission d’ouverture des données de l’Etat, il y a un an et demi).&lt;/p&gt;
+
+&lt;h2 id=&quot;les-9-principes-clés-de-réussite-des-grands-projets-si-de-letat&quot;&gt;Les 9 principes clés de réussite des grands projets SI de l’Etat&lt;/h2&gt;
+
+&lt;p&gt;Le référentiel sous forme de &lt;a href=&quot;https://references.modernisation.gouv.fr/les-9-principes-cles&quot;&gt;9 grands principes&lt;/a&gt; adopté et affiché par le SGMAP me fait penser à &lt;a href=&quot;/sustainable_code/2017/01/24/reference-government-digital-service.html&quot;&gt;ceux du Government Digital Service&lt;/a&gt;) britannique (et j’ai d’ailleurs appris depuis que les américains avaient, sans surprise, aussi le leur : &lt;a href=&quot;https://playbook.cio.gov/&quot;&gt;Digital Services Playbook&lt;/a&gt;)&lt;/p&gt;
+
+&lt;h2 id=&quot;le-portail-doutils-et-méthodes-comment-faire&quot;&gt;Le portail d’outils et méthodes “Comment faire”&lt;/h2&gt;
+
+&lt;p&gt;Le portail de méthodes de design de service &lt;a href=&quot;http://comment-faire.modernisation.gouv.fr/&quot;&gt;comment-faire.modernisation.gouv.fr&lt;/a&gt;, inspiré notamment du portail mis en place par Nesta outre Manche (déjà bookmarké &lt;a href=&quot;/faire-ensemble&quot;&gt;dans ces pages&lt;/a&gt;), est sorti dans la semaine, . Pour quelques éléments de contexte autour de ce projet, jeter un coup d’oeil à l’article &lt;a href=&quot;http://www.modernisation.gouv.fr/les-services-publics-se-simplifient-et-innovent/par-la-co-construction/design-de-service-sgmap-apporte-son-expertise-aux-administrations&quot;&gt;le SGMAP apporte son expertise aux administrations&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;A noter : le &lt;a href=&quot;https://github.com/modernisation/comment-faire&quot;&gt;code du portail&lt;/a&gt; est en accès libre sur github, et à ce que je vois c’est donc le framework jekyll (allié à forestry pour l’édition des contenus) qui est utilisé. Ce sont des outils en lesquels je crois, décidément l’administration publique me fait doublement plaisir.&lt;/p&gt;
+
+&lt;p&gt;Ca me donnerait presque envie de bosser pour la fonction publique, tout ça.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 30 Apr 2017 00:00:00 +0200</pubDate>
+        <link>http://marges.clairezuliani.com/good_job/2017/04/30/design-service-francais.html</link>
+        <guid isPermaLink="true">http://marges.clairezuliani.com/good_job/2017/04/30/design-service-francais.html</guid>
+        
+        <category>design</category>
+        
+        <category>faire a plusieurs</category>
+        
+        
+        <category>good_job</category>
+        
+      </item>
     
       <item>
         <title>A mon compte + 3 mois</title>
@@ -434,36 +467,6 @@ Then we can talk about helping non-profits in the evening. And hurry up, because
         
         
         <category>binary_transition</category>
-        
-      </item>
-    
-      <item>
-        <title>Flexbox, et s'il suffisait d'un gif</title>
-        <description>&lt;p&gt;Le pouvoir pédagogique du gif, une nouvelle fois démontré. Vous voulez comprendre les principes de base de flexbox, comment utiliser ses principales propriétés et ne plus paniquer en voyant du flex indomptable partout ? Alors prenez 5 minutes pour lire un article avec du flex en gif.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;Je viens de débuter un projet, où je m’ocupe de l’intégration, et qui utilise la toute toute dernière version de bootstrap (version 4 alpha6), intégralement en flexbox. Gasp. L’intégration est un monde assez neuf pour moi, et je n’avais jusqu’ici qu’une vision superficielle de flexbox. Et voilà que j’ai à me coltiner du flex dans les moindres recoins. Panique.&lt;/p&gt;
-
-&lt;p&gt;Heureusement, un bon samaritain (&lt;a href=&quot;https://medium.freecodecamp.com/@scottdomes&quot;&gt;Scott Domes&lt;/a&gt;) a eu la brillante idée d’expliquer flexbox avec des &lt;a href=&quot;https://medium.freecodecamp.com/an-animated-guide-to-flexbox-d280cf6afc35#.xgb6n3tmc&quot;&gt;bons gros gifs colorés&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Grâce à lui, &lt;code class=&quot;highlighter-rouge&quot;&gt;display: flex&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;flex-direction: column&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;justify-content: space-between&lt;/code&gt;ou &lt;code class=&quot;highlighter-rouge&quot;&gt;align-items: stretch&lt;/code&gt; ne seront plus du finlandais pour vous.&lt;/p&gt;
-
-&lt;p&gt;Source :&lt;a href=&quot;https://medium.freecodecamp.com/an-animated-guide-to-flexbox-d280cf6afc35#.xgb6n3tmc&quot;&gt;How Flexbox works&lt;/a&gt;  — explained with big, colorful, animated gifs&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Edit 06/03/17 : Une suite est parue, toujours avec sa palanquée de gifs ! &lt;a href=&quot;https://medium.freecodecamp.com/even-more-about-how-flexbox-works-explained-in-big-colorful-animated-gifs-a5a74812b053#.njh8y3ua0&quot;&gt;Even more about how Flexbox works&lt;/a&gt;. Plongée dans les propriétés &lt;code class=&quot;highlighter-rouge&quot;&gt;flex-basis&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;flex-grow&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;flex-shrink&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;flex&lt;/code&gt;&lt;/em&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 22 Feb 2017 00:00:00 +0100</pubDate>
-        <link>http://marges.clairezuliani.com/sustainable_code/2017/02/22/flex-gif.html</link>
-        <guid isPermaLink="true">http://marges.clairezuliani.com/sustainable_code/2017/02/22/flex-gif.html</guid>
-        
-        <category>gif power</category>
-        
-        <category>design</category>
-        
-        
-        <category>sustainable_code</category>
         
       </item>
     
