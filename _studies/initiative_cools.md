@@ -124,6 +124,12 @@ Comprend 4 types de services :
 
 Cluster basé à Lille, créé en 2010, regroupe 19 entreprises de l'ESS autour des métiers de la formation, du conseil et de la communication. Ces services s'adressent principalement aux acteurs locaux (asso, collectivités, élus, habitants, cherf d'entreprise... )
 
+#### Digital Social innovation
+
+[digitalsocial.eu](https://digitalsocial.eu/)
+
+Liste d'organismes, projets, agendas dans le champs de l'innovation sociale et numérique à l'échelle européenne. 
+
 ### Collaborations professionnels - société civile
 
 #### Plateau Urbain

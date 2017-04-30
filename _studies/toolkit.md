@@ -118,6 +118,10 @@ Comment bien commencer un projet ? Quelques outils déjà utilisés ou à tester
 - [pixlr](https://pixlr.com/)
 - [photopea](https://www.photopea.com/) : quick webapp picture editor
 
+### Divers (le fameux fourre-tout)
+
+- [Lists](http://lists.design/) : A gallery of real data ready to be placed in your design. Kind of like an App Store for fake content. (json files downloadable)
+
 ### Trouver l'inspiration
 
 #### Plutôt web

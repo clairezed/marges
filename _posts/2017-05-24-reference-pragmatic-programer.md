@@ -13,6 +13,8 @@ tags: [reference, design]
 Andy Hunt, l'un des co-auteurs, affectionne particulièrement le langage ruby. Pas étonnant donc, si, mon expérience de développeuse ayant été forgée en ruby, je me reconnais dans bon nombre des préceptes de son *Pragmatic Programmer*.
 
 
+Je vais pas reprendre tout ce que d'autres ont déjà écrit mieux que moi. Pour en savoir un peu plus : https://code18.blogspot.fr/2009/02/pragmatic-programmer.html
+
 
 **Care About Your Craft** : Why spend your life developing software unless you care about doing it well?
 

@@ -52,6 +52,11 @@ Prise de note sur la collaboration, l'animation de communauté...
 - [Peeragogy](https://peeragogy.github.io/)
 - [hyperisland toolbox](http://toolbox.hyperisland.com/) : A resource kit you can use to apply creative collaboration and unleash potential in your team or organization
 - [MediaLab Amsterdam Toolkit](http://medialabamsterdam.com/toolkit/)
+- Outils et méthodes de la [Scope le Pavé](http://www.scoplepave.org)
+- [Cahier du pavé n° 2](http://www.scoplepave.org/le-cahier-du-pave-no-2-la-participation) sur la participation
+- [Dicopart](http://www.dicopart.fr/fr/dico/dispositifs)
+- [Guide méthodologique du travail en commun](http://www.iaat.org/telechargement/guide_methodo/guide_methodo_complet.pdf)
+- [Comment faire](comment-faire.modernisation.gouv.f) : portail de méthodes du design de service proposé par le SGMAP
 
 ## Designer des services à plusieurs
 

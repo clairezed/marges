@@ -68,6 +68,7 @@ Quelques liens et repères sur ce que devient le secteur de l'ESS et de l'entrep
 - [Dossier arteca](http://www.arteca.fr/ressources/113_Culture-et-economie-sociale-et-solidaire) CULTURE ET ÉCONOMIE SOCIALE ET SOLIDAIRE, avec focus grand est
 - Sylvain Waserman, Conseiller régional, Président de la Commission « Développement économique »
 - Catherine Zuber, Conseillère régionale déléguée à l’ESS et à la vie associative
+- [Open Data Grand Est](http://data.grandest.fr/donnees)
 
 #### Lorraine
 

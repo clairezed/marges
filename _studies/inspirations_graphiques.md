@@ -29,3 +29,8 @@ Inspirations graphiques, probablement dans une optique assez simple, fonctionnel
 ## Techniquement impressionnant
 
 - [waaark](http://waaark.com/fr/) : couleur, animation, illustration...
+
+
+## Sites cools
+
+- [Parable of the polygons](http://ncase.me/polygons/) ; un essai jouable sur la forme que prend une société (à partir de triangles jaunes et de carrés bleus) (retrouvé grâce à http://explorableexplanations.com/)
