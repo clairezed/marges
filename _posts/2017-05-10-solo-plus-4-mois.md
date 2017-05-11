@@ -28,6 +28,7 @@ On avance sur l'**outil de gestion du groupement d'achat de la Grande Epicerie G
 
 De fil en aiguille, à force de traîner sur le forum de paris.rb et du rubynouveau, je me suis retrouvée à participer à **mon premier podcast**. Franchement, c'est bête mais c'était quand même le stress ("syndrome de l'imposteur", me diront-ils, et je ne les croirais qu'à moitié comme il se doit).
 
-<!-- Niveau technique, grande victoire et gros apprentissage : installation d'un serveur avec n -->
+Niveau technique, nouvel "achievement" : qui c'est qui a réussi à installer un bon gros serveur à la mano avec du nginx en proxy et du apache en dessous, du ruby et du php ? Et à qui ça donne furieusement envie d'apprendre les outils d'automatisation ? #pasExaltant #aEviter
+
 
 En fin de mois, c'était aussi le premier tour des élections. Cette perspective m'a fait mettre à jour vite fait [spinastats](), et bizarrement le résultat m'a donné une foutue gniak pour "faire des trucs".
