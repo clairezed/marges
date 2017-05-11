@@ -57,6 +57,20 @@ Prise de note sur la collaboration, l'animation de communauté...
 - [Dicopart](http://www.dicopart.fr/fr/dico/dispositifs)
 - [Guide méthodologique du travail en commun](http://www.iaat.org/telechargement/guide_methodo/guide_methodo_complet.pdf)
 - [Comment faire](comment-faire.modernisation.gouv.f) : portail de méthodes du design de service proposé par le SGMAP
+- [Outils - Réseaux](http://outils-reseaux.org/PagePrincipale) : travailler en réseau, usages et outils
+
+## Règles collective
+
+### COUIC
+
+Règles pour l'idéation, brainstorming (via Enactus, il me semble)
+
+- la **Critique** est hors jeu
+- l' **Originalité** est bienvenue
+- l' **Union** fait la force
+- **Incubez**, faites confiance à l'intuition
+- la **Quantité** est nécessaire
+
 
 ## Designer des services à plusieurs
 
@@ -238,3 +252,40 @@ Etapes d'une rencontre :
 
 ### Sources
 - [Une heure par semaine pour animer une grande communauté](https://docs.google.com/document/d/1A5Ep7s2yAHLi3DxPANKpGTbeZctwRvDPYpK9KDsH_EI)
+
+## Mooc Gouvernance partagée
+
+### Les 6 chapeaux de De Bono
+
+#### Sources
+
+- [Lien video](https://player.vimeo.com/video/211641817)
+- [Schéma interactif](https://www.thinglink.com/scene/896420740511825920)
+
+#### Exemples de séquences
+
+Planification de stratégie :
+- **processus**, organisation de la pensée (bleu)
+- **optimisme**, critique positive (jaune)
+- **jugement**, critique négative (noir)
+- **information**, neutralité (blanc)
+- **processus**, organisation de la pensée (bleu)
+- **créativité** (vert)
+- **processus**, organisation de la pensée (bleu)
+
+Résolution de problèmes :
+- **processus**, organisation de la pensée (bleu)
+- **créativité** (vert)
+- **intuition**, émotions (rouge)
+- **optimisme**, critique positive (jaune)
+- **créativité** (vert)
+- **processus**, organisation de la pensée (bleu)
+
+Amélioration de processus :
+- **processus**, organisation de la pensée (bleu)
+- **information**, neutralité (blanc)
+- **optimisme**, critique positive (jaune)
+- **jugement**, critique négative (noir)
+- **créativité** (vert)
+- **intuition**, émotions (rouge)
+- **processus**, organisation de la pensée (bleu)

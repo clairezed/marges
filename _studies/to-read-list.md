@@ -27,6 +27,7 @@ Des trucs à lire/voir quand je serai à la retraite (ou que je prendrai un mome
 
 ## A lire
 
+
 ### Feel good reads
 
 - [The Politics of Optimism](https://medium.com/@AlexSteffen/the-politics-of-optimism-37a5006e8ba8#.lz1kqvxxb)
@@ -37,6 +38,10 @@ Des trucs à lire/voir quand je serai à la retraite (ou que je prendrai un mome
 - [Design for Hackers: Reverse Engineering Beauty](https://www.amazon.com/Design-Hackers-Reverse-Engineering-Beauty/dp/1119998956/)
 - [Thinking with Type](https://www.amazon.com/Thinking-Type-2nd-revised-expanded/dp/1568989695)
 
+### Programmation
+
+http://marcgg.com/books/
+
 ### Javascript
 
 - [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
@@ -44,6 +49,7 @@ Des trucs à lire/voir quand je serai à la retraite (ou que je prendrai un mome
 ### Code / design social
 
 - [Design and Social Impact](https://www.arts.gov/sites/default/files/Design-and-Social-Impact.pdf)
+- [Ours to Hack and to Own](#)
 
 ### Open source
 https://framablog.org/category/libres-cultures/des-routes-et-des-ponts/
@@ -54,7 +60,13 @@ https://framablog.org/category/libres-cultures/des-routes-et-des-ponts/
 
 ### A son compte
 
-- http://www.kob-one.com/blog/graphistes-freelances-20-outils-calculettes-sites-et-livres-pour-bien-vivre-de-son-activite-dindependant/
+-[20 outils pou bien vivre son activité d'indépendant](http://www.kob-one.com/blog/graphistes-freelances-20-outils-calculettes-sites-et-livres-pour-bien-vivre-de-son-activite-dindependant/)
+
+- Système 1, système 2 - Les deux vitesses de la pensée, Daniel Kahneman
+- http://micropolitiques.collectifs.net/ : MICROPOLITIQUES DES GROUPES
+POUR UNE ÉCOLOGIE DES PRATIQUES COLLECTIVES (version en ligne)
+
+<!-- http://livre.fnac.com/a9180576/Scott-Stossel-Anxiete -->
 
 
 ## A voir

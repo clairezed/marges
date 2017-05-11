@@ -46,6 +46,10 @@ Quelques liens et repères sur ce que devient le secteur de l'ESS et de l'entrep
 
 ## Réseaux et tête de pont
 
+### International
+
+- [Répertoire de coopératives de plateformes](https://ioo.coop/directory/)
+
 ### National
 
 - [le Mouvement des Entrepreneurs Sociaux](http://mouves.org/)

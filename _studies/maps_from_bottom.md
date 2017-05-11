@@ -57,6 +57,11 @@ Ca parle d'outils, de taxonomie, d'api communs, mais je n'en trouve pas de trace
 
 ### Articles, présentations
 
+
+- [Commons Maps](https://docs.google.com/spreadsheets/d/1csugbXHru5sRpFuFyuEZXV1WZRIk-BiscpVKlHeNG3I/edit#gid=532102438) : fichier excel listant des projets dans différentes thématiques exploitant des cartes comme communs, par [CommonSpark](http://www.commonsparkcollective.org/index.php/commons-maps/)
+
+
+- [A Charter for How to Build Effective Data (and Mapping) Commons](https://blog.p2pfoundation.net/a-charter-for-how-to-build-effective-data-and-mapping-commons/2017/04/20) (2017)
 - [30 maps to help local change-makers and community organisers](http://www.reconomy.org/30-maps-to-help-local-change-makers-and-community-organisers/) (2013)
 - [L'épopée d'un développeur front au pays des cartes](https://www.paris-web.fr/2016/conferences/l-epopee-d-un-developpeur-front-au-pays-des-cartes.php) ([diaporama](https://docs.google.com/presentation/d/1SCyIQAczqyZCQWKS-K8nTVMnVJP6_DLHK3QG9t7ToXc/edit#slide=id.g1132b3dbc3_0_0))
 - [Fantasticmaps](http://www.fantasticmaps.com/) : Fantasy maps and mapmaking tutorials by Jonathan Roberts

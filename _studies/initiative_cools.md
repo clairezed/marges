@@ -213,6 +213,12 @@ En sommeil ?
 
 ##### tags: `nantes` `design de service`
 
+#### Coloco & co
+
+Atelier rassemblant paysagistes, urbanistes, botanistes, jardiniers et artistes. Coordinateur du projet de transformation jardinière de la place de la Nation, à Paris.
+
+[colocoplaces.wixsite.com](https://colocoplaces.wixsite.com)
+
 
 ### Collaboration développeur - société civile
 
@@ -380,19 +386,3 @@ Un festival de hackers ouvert à toutes et à tous.
 *juillet - Paris*
 
 AlterConf is a traveling conference series that provides safe opportunities for marginalized people and those who support them in the tech and gaming industries.
-
-
-
-## Lectures
-
-- Système 1, système 2 - Les deux vitesses de la pensée, Daniel Kahneman
-- http://micropolitiques.collectifs.net/ : MICROPOLITIQUES DES GROUPES
-POUR UNE ÉCOLOGIE DES PRATIQUES COLLECTIVES (version en ligne)
-
-
-<!-- http://livre.fnac.com/a9180576/Scott-Stossel-Anxiete -->
-
-
-## Sites et appli concepts
-
-- http://sendamessage.to/
