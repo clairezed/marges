@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://marges.clairezuliani.com/good_job/2017/05/12/ethics-by-design.html</loc>
+<lastmod>2017-05-12T00:00:00+02:00</lastmod>
+</url>
+<url>
 <loc>http://marges.clairezuliani.com/good_job/2017/05/10/solo-plus-4-mois.html</loc>
 <lastmod>2017-05-10T00:00:00+02:00</lastmod>
 </url>
@@ -277,6 +281,9 @@
 <loc>http://marges.clairezuliani.com/tags/detox/</loc>
 </url>
 <url>
+<loc>http://marges.clairezuliani.com/tags/ethique/</loc>
+</url>
+<url>
 <loc>http://marges.clairezuliani.com/tags/bonheur/</loc>
 </url>
 <url>
@@ -362,9 +369,6 @@
 </url>
 <url>
 <loc>http://marges.clairezuliani.com/tags/devops/</loc>
-</url>
-<url>
-<loc>http://marges.clairezuliani.com/tags/ethique/</loc>
 </url>
 <url>
 <loc>http://marges.clairezuliani.com/cheat-sheet-ruby</loc>

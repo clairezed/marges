@@ -5,9 +5,149 @@
     <description>Prise de notes des internets de claire zuliani</description>
     <link>http://marges.clairezuliani.com/</link>
     <atom:link href="http://marges.clairezuliani.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 11 May 2017 17:10:38 +0200</pubDate>
-    <lastBuildDate>Thu, 11 May 2017 17:10:38 +0200</lastBuildDate>
+    <pubDate>Mon, 22 May 2017 10:47:00 +0200</pubDate>
+    <lastBuildDate>Mon, 22 May 2017 10:47:00 +0200</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>Ethics by design</title>
+        <description>&lt;p&gt;Le numérique nous flingue la vie, le digital nous bouffe notre temps, et nous, travailleurs du web, sommes voués à en être les artisans ? Retour sur la journée Ethics by Design, ou comment, en tant que designer et/ou développeur-se, faire en sorte qu’à la fin ce soient les gentils qui gagnent.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Les problématiques d’éthique, dans le milieu web, trouvent de plus en plus d’échos (j’en témoigne &lt;a href=&quot;/tags/ethique&quot;&gt;ici-même&lt;/a&gt; sous le tag &lt;code class=&quot;highlighter-rouge&quot;&gt;ethique&lt;/code&gt;), et le 12 mai était organisé à Lyon une journée d’étude autour de ces problématiques :  &lt;a href=&quot;http://ethicsbydesign.fr/&quot;&gt;Ethics by Design&lt;/a&gt;. Ci-dessous, une tentative de synthèse à partir d’une prise de note de 30 000 signes (…)&lt;/p&gt;
+
+&lt;h2 id=&quot;les-constats&quot;&gt;Les constats&lt;/h2&gt;
+
+&lt;p&gt;Les constats de base sont grosso modo partagés par tous les intervenants, je n’y reviendrai pas dans le détail (si vous en voulez, du détail, farfouillez &lt;a href=&quot;/tags/ethique&quot;&gt;ici&lt;/a&gt;). Entre hyperconnexion, économie de l’attention, &lt;strong&gt;captation de l’attention&lt;/strong&gt;, nos usages du numérique ne nous font pas que du bien.&lt;/p&gt;
+
+&lt;p&gt;Comme le rappelle &lt;a href=&quot;https://twitter.com/williamsjames_&quot;&gt;James Williams&lt;/a&gt;, qui intervenait ce jour-là : personne ne se lève le matin avec comme objectif &lt;em&gt;“Combien de temps vais-je réussir à passer sur facebook aujourd’hui ?”&lt;/em&gt; ; personne n’imagine avoir comme regret sur son lit de mort &lt;em&gt;“aaah, si seulement j’avais passé plus de temps sur snapchat !”&lt;/em&gt;. Alors pourquoi y passe-t-on tant de temps ? Car les outils numériques ne sont bien évidemment pas neutres et conçus pour hameçonner le fragile menu fretin que nous sommes.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The attention economy is not on your side&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p class=&quot;legend&quot;&gt;Extrait des slides de James Williams&lt;/p&gt;
+
+&lt;p&gt;Et cela vient du fait qu’il y a conflit entre ce dont NOUS avons besoin et ce dont la plupart des entreprises (oui, il y a des exceptions, je sais) ont besoin : maximiser leur profit. Cette maximisation passe par la mise en oeuvre des mécanismes d’incitation (manipulation ?) les plus poussés pour nous rendre dépendant des services, en &lt;strong&gt;exploitant nos biais cognitifs&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Ce qui fera dire à James Williams (grand pourvoyeur de bons mots durant cette journée) :&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Internet est le plus grand projet de manipulation du comportement humain au monde.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Au-delà de ce constat, Hubert Guillaud d’Internet Actu remet en perspective quelques a priori souvent croisés. Cette perspective est  utile à garder en tête pour bien envisager nos leviers d’action.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;la capacité au contrôle de soi n’est pas également répartie&lt;/strong&gt;, notamment entre les classes sociales (voir par exemple le &lt;a href=&quot;https://www.youtube.com/watch?v=9NTdx3Iq7EU&quot;&gt;test du shamallow&lt;/a&gt;).&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;les écrans ne font pas forcément des humains des êtres désocialisés&lt;/strong&gt;. Ils permettent aussi de développer d’autres liens, et bénéficient à ce titre surtout aux personnes isolées (les plus privilégiés ont déjà des réseaux sociaux forts dans la vie réelle).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Comment faire en sorte, alors, que les outils numériques se réorientent sur les besoins véritables de leurs utilisateurs ?&lt;/p&gt;
+
+&lt;h2 id=&quot;on-na-quà-avoir-plus-de-volonté-&quot;&gt;On n’a qu’à avoir plus de volonté ?&lt;/h2&gt;
+
+&lt;p&gt;Quelques leviers d’actions se situent à l’échelle des personnes :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;la première étape consiste déjà à &lt;strong&gt;prendre conscience&lt;/strong&gt; nous-même de nos failles, et des mécanismes qui s’exercent sur nous,&lt;/li&gt;
+  &lt;li&gt;vient ensuite le temps de la résistance et de la &lt;strong&gt;discipline personnelle&lt;/strong&gt;. Voir les appels à la déconnexion de plus en plus fréquents, par exemple.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Mais cette solution &lt;strong&gt;fait reposer l’entière responsabilité d’une meilleure gestion de la pression numérique sur les épaules de l’individu&lt;/strong&gt;. Or, comme je le disais plus haut, nous ne sommes pas égaux face à l’auto-discipline. Et la possibilité de se déconnecter, d’accéder à des services respectueux et/ou de qualité, tend à devenir un privilège de riche. Verdict : proposition insatisfaisante.&lt;/p&gt;
+
+&lt;h2 id=&quot;cest-le-système-&quot;&gt;C’est le système !&lt;/h2&gt;
+
+&lt;p&gt;Comme le précisaient les intervenant, notre addiction est avant tout un symptôme. Ce qui nous attache à nos appareils électroniques est aussi lié à (je cite approximativement Hubert Guillaud) “l’anxiété générée par le travail” ou à “l’emprise du système”. Encore ce foutu système non identifié. Mais qu’on le chope et qu’on le foute en taule, à la fin.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Si le problème est systémique, les réponses doivent aussi l’être&lt;/strong&gt;. J’étais déjà arrivée à ce type de conclusion, et généralement à cette étape l’angoisse m’étreint et mes sourcils se froncent, face à l’ampleur de la tâche.&lt;/p&gt;
+
+&lt;p&gt;Mais les intervenants étaient plein de ressource, et voici quelques pistes évoquées dans la journée.&lt;/p&gt;
+
+&lt;h3 id=&quot;le-cadre-de-la-loi&quot;&gt;Le cadre de la loi&lt;/h3&gt;
+
+&lt;p&gt;Un des leviers évidents est le levier réglementaire. Tout ce qui, dans la règlementation, incite à une meilleure régulation des usages, est bon à prendre.&lt;/p&gt;
+
+&lt;p&gt;Ceci vaut :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;dans l’organisation du travail à l’intérieur de nos organisations (le droit à la déconnexion est une première étape)&lt;/li&gt;
+  &lt;li&gt;dans les limites imposées aux produits que nous façonnons. Un rappel aux obligations posées par la CNIL peut permettre très simplement de freiner les ardeurs d’un client trop gourmand en données personnelles (note à moi-même : &lt;em&gt;“me remettre à jour des obligations légales des sites web”&lt;/em&gt;).&lt;/li&gt;
+  &lt;li&gt;Williams insistait aussi sur la réforme du modèle publicitaire, afin de faciliter les changements de modèle économique.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Ce levier n’est pas directement notre à portée (nous ne sommes pas législateurs), mais tout ce qu’on peut faire pour les soutenir va dans le bon sens.&lt;/p&gt;
+
+&lt;h3 id=&quot;i-have-no-idea-of-what-i-am-doing-but-im-not-evil&quot;&gt;I have no idea of what I am doing (but I’m not evil)&lt;/h3&gt;
+
+&lt;p&gt;Partons maintenant de la vision du monde partagée par plusieurs intervenants, et plus particulièrement exposée par &lt;a href=&quot;https://twitter.com/ollywright&quot;&gt;Olly Wright&lt;/a&gt;, et mettons-la en lien avec le dilemme de Collingridge (merci à &lt;a href=&quot;http://www.usine-digitale.fr/editorial/une-ethique-by-design-pour-interroger-l-economie-numerique-propose-flora-fischer.N374483&quot;&gt;Flora Fischer&lt;/a&gt; pour avoir apporté cette référence dans son intervention).&lt;/p&gt;
+
+&lt;p&gt;Ce dilemme stipule que &lt;strong&gt;l’anticipation des effets d’une technologie est difficile tant qu’elle n’est pas largement diffusée. Mais une fois qu’elle est largement adoptée, il est difficile de revenir en arrière.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;En somme, les entrepreneurs du web ne veulent pas forcément faire le mal, c’est plutôt qu’il n’en aucune idée de ce qu’ils font, et cherchent encore comment faire le bien. C’est aussi le “jeu” qui est mal fichu, qui incite à user de stratagèmes de captation (d’attention, de données…) un peu dégueu pour trouver les moyens de faire vivre sa structure.&lt;/p&gt;
+
+&lt;p&gt;Comme tout parti pris, on peut être d’accord ou non avec cette affirmation. Pour la démonstration, partons du principe qu’elle se tient. Comme l’affirme Olly Wright, les entreprises seraient prêtes à revoir leur fonctionnement, à s’axer sur l’éthique… tant que ça continue à leur rapporter du pognon.&lt;/p&gt;
+
+&lt;p&gt;Il faut donc réussir à montrer comment un changement de stratégie ou de comportement de l’entreprise peut avoir un effet positif mesurable. Le premier chantier est donc de trouver et faire accepter des &lt;strong&gt;mesures (“metrics”) pour jauger de la valeur apportée&lt;/strong&gt;, mesurer le temps bien dépensé par exemple.&lt;/p&gt;
+
+&lt;h3 id=&quot;un-changement-de-paradigme-est-il-possible-&quot;&gt;Un changement de paradigme est-il possible ?&lt;/h3&gt;
+
+&lt;p&gt;Pour transformer les entreprises avec lesquelles on travaille, Olly Wright conseille de se baser sur le &lt;strong&gt;modèle opératoire&lt;/strong&gt; (&lt;em&gt;“operating model”&lt;/em&gt;), c’est-à-dire l’ensemble des tâches à accomplir pour assurer la finalité de l’entreprise. Tout système qu’on conçoit pour les entreprises les influence aussi, comme tout être humain ; un changement de ce modèle influencerait donc les modes d’action de l’entreprise.&lt;/p&gt;
+
+&lt;p&gt;Il incite donc à revenir aux valeurs fondamentales de l’entreprises, celles qui figurent dans leurs slogans dévoyés par exemple. Il faut que l’entreprise &lt;em&gt;“soit l’entreprise que ses clients veulent qu’elle soit”&lt;/em&gt;. Il fait la distinction entre deux types de valeurs :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;valeurs aspirationnelles&lt;/strong&gt;, humaines : éthique, authentique, durable, utile…&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;valeurs fonctionnelles&lt;/strong&gt;, du travail capitaliste : efficace, profitable, rapide, croissant…&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Si on arrive à convaincre les entreprises que ce sont les valeurs aspirationnelles que recherchent leurs clients, et qu’on commence à construire autour, alors il y a de l’espoir. C’est ici que s’effectuerait un changement de paradigme, le passage d’une innovation économique basée sur la compétition et la captation à une innovation centrée sur les personnes, sur le développement de leur autonomie.&lt;/p&gt;
+
+&lt;p&gt;Si le modèle opératoire change, basé sur des valeurs aspirationnelles, il devient aisé d’établir ou consolider la relation de confiance entre la marque et ses consommateurs. Il est plus semble d’être &lt;strong&gt;transparent&lt;/strong&gt; sur ses fonctionnements, ses chiffres (rien d’honteux à cacher). C’est aussi une application du principe de &lt;strong&gt;réciprocité&lt;/strong&gt; : si j’ai besoin de données de la part de mes utilisateurs, si je leur demande de partager leur vie privée (&lt;em&gt;“privacy”&lt;/em&gt;), alors il est normal que l’entreprise en fasse de même et partage des informations personnelles avec eux.&lt;/p&gt;
+
+&lt;p&gt;Très beaux principes. Mais il y a à mon sens un vrai risque de green washing ou de social washing. Je n’étais pas hyper à l’aise, dans l’atelier qui suivait, à entendre un groupe exposer ses préconisations pour Hermès. La finalité de l’entreprise ne me parait pas louable, de base (yup, je suis un peu radicale). Et si les valeurs aspirationnelles sont effectivement de plus en plus recherchées, qu’est-ce qui empêche une entreprise de continuer à s’en réclamer pour de purs effets d’affichage ?&lt;/p&gt;
+
+&lt;h3 id=&quot;croisements-et-suites&quot;&gt;Croisements et suites&lt;/h3&gt;
+
+&lt;p&gt;Je sors de la journée avec plein de matière, pas mal de nouvelles idées à creuser, certaines auxquels j’adhère instantanément et d’autres au sujet desquelles je suis plus suspicieuse de prime abord. Mais elles peuvent peut-être apporter des billes pour améliorer un peu, ici et maintenant, à la marge, la façon dont on bosse avec nos clients.&lt;/p&gt;
+
+&lt;p&gt;Ce qui m’a marquée aussi, ce sont les possibilité de croisements des apports de la journée avec les lectures qui me nourrissent ces derniers temps. Les échanges sur le modèle opératoire, la focale sur les valeurs, me font irrémédiablement penser à l’idée de “raison d’être” de l’entreprise croisé chez &lt;a href=&quot;/good_job/2016/11/11/reinventing-organizations-summary.html&quot;&gt;Frédéric Laloux&lt;/a&gt;) ou aux nouveaux modes d’organisation promus par le MOOC Gouvernance Partagée des Colibris (que je suis actuellement, avec l’ambition d’en faire le 1er MOOC que je mènerai de bout en bout).&lt;/p&gt;
+
+&lt;p&gt;A un niveau plus collectif, cette journée a donné l’occasion de relancer les discussions autour de chartes, de serments, de ces &lt;a href=&quot;/good_job/2017/03/27/serment-lovelace.html&quot;&gt;engagements formels dont des formes existent déjà&lt;/a&gt; mais qui sont peu connus et dont le non-respect n’a pas d’incidence. Les organisateurs et les participants se sont quittés avec l’intention ferme que des suites soient données à ce premier échange, je risque donc de continuer à causer éthique.&lt;/p&gt;
+
+&lt;h2 id=&quot;quelques-liens-pour-creuser&quot;&gt;Quelques liens pour creuser&lt;/h2&gt;
+
+&lt;h3 id=&quot;contenu-des-interventions&quot;&gt;Contenu des interventions&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.slideshare.net/HubertGuillaud/attention-lattention&quot;&gt;Peut-on répondre à la conception de notre exploitation comportementale ?&lt;/a&gt;, les slides de la conférence introductive par Hubert Guillaud&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.google.com/document/d/14j1eM20v1dSd3CpkvxyJ9ttXT3gBGWKi0NDSG6UiDss/edit?ts=59157aa8&quot;&gt;Traduction James Williams&lt;/a&gt; : traduction live de l’intervention de James Williams&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.google.com/document/d/10auifv0wXcRe599YWXJPfkzimV_idc00s6Q_GtirvWU/edit?ts=5915b5f7&quot;&gt;Traduction Olly Wright&lt;/a&gt; : traduction live de l’intervention de Olly Wright&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;compte-rendus-de-la-journée&quot;&gt;Compte-rendus de la journée&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://storify.com/nicolasloubet/ethicsbydesign&quot;&gt;Storify de la journée&lt;/a&gt; par Nicolas Loubet&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.inaglobal.fr/numerique/article/design-numerique-recherche-reglementation-ethique-9715&quot;&gt;Design numérique recherche réglementation éthique&lt;/a&gt;, le compte-rendu de la journée fait par Alexandre FOATELLI, sur inaglobal.fr&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.yume-studio.fr/ethicsbydesign/&quot;&gt;Journée Ethics by design&lt;/a&gt;, le compte-rendu de la journée de l’agence Yume&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;références-croisées-durant-la-journée&quot;&gt;Références croisées durant la journée&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=tf9ZhU7zF8s&amp;amp;feature=youtu.be&amp;amp;list=PLtLeT9oxQnyqag7AVKQn1-WYUhKAHzj-b&quot;&gt;TimeWellSpent videos&lt;/a&gt; : des vidéos créées par le mouvement Time Well Spent, de Tristan Harris, pour faire prendre conscience du temps perdu sur les réseaux.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://fr.wikipedia.org/wiki/Norbert_Wiener&quot;&gt;Norbert Wiener&lt;/a&gt;, père de l’éthique informatique&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Peter-Paul_Verbeek&quot;&gt;Peter Paul Verbeek&lt;/a&gt; : sur des thématiques genre “est-ce que les artefacts ont une moralité ?”&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 12 May 2017 00:00:00 +0200</pubDate>
+        <link>http://marges.clairezuliani.com/good_job/2017/05/12/ethics-by-design.html</link>
+        <guid isPermaLink="true">http://marges.clairezuliani.com/good_job/2017/05/12/ethics-by-design.html</guid>
+        
+        <category>design</category>
+        
+        
+        <category>good_job</category>
+        
+      </item>
     
       <item>
         <title>A mon compte + 4 mois</title>
@@ -369,133 +509,6 @@ Then we can talk about helping non-profits in the evening. And hurry up, because
         
         
         <category>good_job</category>
-        
-      </item>
-    
-      <item>
-        <title>Construire une jolie API</title>
-        <description>&lt;p&gt;Ce n’est pas tous les jours que j’ai à créer des API, mais comme je tombe sur un article vraiment clair et didactique, plein de bons conseils, j’en profite pour prendre des notes.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;On y trouve des conseils “de base”, qui parlent de REST, de CRUD… Voici ce que je retiens personnellement, pour ne pas l’avoir encore suffisamment en tête.&lt;/p&gt;
-
-&lt;h2 id=&quot;anticiper-lajout-de-données-à-un-flux&quot;&gt;Anticiper l’ajout de données à un flux&lt;/h2&gt;
-
-&lt;p&gt;La plupart du temps, un flux va être amené à évoluer, on va avoir besoin de données complémentaires, de méta-données… On peut l’anticiper à un coût quasi nul.&lt;/p&gt;
-
-&lt;p&gt;Plutôt que d’avoir par exemple pour réponse à une requête &lt;code class=&quot;highlighter-rouge&quot;&gt;GET&lt;/code&gt; :&lt;/p&gt;
-
-&lt;div class=&quot;language-json highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-    &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&quot;id&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-    &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&quot;name&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;Tim Berners-Lee&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-    &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&quot;age&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;61&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-  &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-    &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&quot;id&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-    &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&quot;name&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;Ada Lovelace&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-    &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&quot;age&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;36&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-  &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-    &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&quot;id&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-    &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&quot;name&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;Roy Fielding&quot;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-  &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Prévoir dès le début de renvoyer ces données sous une clé type, &lt;code class=&quot;highlighter-rouge&quot;&gt;data&lt;/code&gt; par exemple :&lt;/p&gt;
-
-&lt;div class=&quot;language-json highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-  &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&quot;data&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-    &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&quot;id&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-    &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&quot;name&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;Tim Berners-Lee&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-    &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&quot;age&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;61&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-  &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;},&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-    &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&quot;id&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-    &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&quot;name&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;Ada Lovelace&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-    &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&quot;age&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;36&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-  &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}]&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Ce qui permet par la suite d’ajouter des infos très simplement :&lt;/p&gt;
-
-&lt;div class=&quot;language-json highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-  &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&quot;url&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;https://example.com/user&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-  &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&quot;datetime&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;2017-02-27T11:43:37+0500&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-  &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&quot;data&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;...&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;],&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-  &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&quot;elements&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&quot;et-les-requêtes-non-crud-&quot;&gt;Et les requêtes non CRUD ?&lt;/h2&gt;
-
-&lt;p&gt;Je ne suis pas sûre de suivre les auteurs dans leur design des requêtes autres. Leur exemple en tout cas me parait verbeux et redondant :&lt;/p&gt;
-
-&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Request: GET /search/findUserByAge?age&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;61
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Pourquoi ne pas considérer qu’il s’agit simplement de l’affichage standard d’une liste, avec des paramètres de filtres en plus ?&lt;/p&gt;
-
-&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;GET /user?age&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;61&amp;amp;page&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;1
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&quot;codes-de-retour&quot;&gt;Codes de retour&lt;/h2&gt;
-
-&lt;p&gt;Ne pas oublier de renvoyer les codes de retour ad hoc :&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Status: 200 OK&lt;/code&gt; (voire &lt;code class=&quot;highlighter-rouge&quot;&gt;201&lt;/code&gt; à la création) si tout roule&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Status: 500 Internal Server Error&lt;/code&gt; en cas de problème avec le traitement de la requête.&lt;/li&gt;
-  &lt;li&gt;A noter que la plupart des serveurs web, nginx par exemple, gèrent eux-mêmes les &lt;code class=&quot;highlighter-rouge&quot;&gt;404&lt;/code&gt; et les &lt;code class=&quot;highlighter-rouge&quot;&gt;301&lt;/code&gt;&lt;/li&gt;
-  &lt;li&gt;Ce qui n’exempte pas de renvoyer une &lt;code class=&quot;highlighter-rouge&quot;&gt;404&lt;/code&gt; si une requête demande un id qui n’existe pas&lt;/li&gt;
-  &lt;li&gt;erreur de validation d’une donnée : &lt;code class=&quot;highlighter-rouge&quot;&gt;Status: 400 Bad Request&lt;/code&gt;&lt;/li&gt;
-  &lt;li&gt;requête non autorisée pour cet utilisateur : &lt;code class=&quot;highlighter-rouge&quot;&gt;Status: 401 Unauthorized&lt;/code&gt;&lt;/li&gt;
-  &lt;li&gt;token valid mais pas possible d’effectuer l’action : &lt;code class=&quot;highlighter-rouge&quot;&gt;Status: 403 Forbidden&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;sécurité&quot;&gt;Sécurité&lt;/h2&gt;
-
-&lt;p&gt;SSL, rôles d’utilisateur, authentication…&lt;/p&gt;
-
-&lt;p&gt;Pour l’authentication et le stockage du token d’accès, pour garantir le côté REST de l’API (statelessness), il faut &lt;strong&gt;cacher le token en dehors de la session&lt;/strong&gt; :&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;côté serveur, utiliser Redis, par exemple&lt;/li&gt;
-  &lt;li&gt;côté client : cookie ou local storage&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;documentation&quot;&gt;Documentation&lt;/h2&gt;
-
-&lt;p&gt;L’article retient 3 outils de génération de documentation d’API :&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://swagger.io/specification/&quot;&gt;Swagger&lt;/a&gt; (&lt;a href=&quot;https://www.openapis.org/&quot;&gt;Open API&lt;/a&gt;)&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://apiblueprint.org/&quot;&gt;API Blueprint&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://raml.org/&quot;&gt;RAML&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;caching&quot;&gt;Caching&lt;/h2&gt;
-
-&lt;p&gt;Utiliser le header HTTP &lt;code class=&quot;highlighter-rouge&quot;&gt;Cache-Control&lt;/code&gt; :&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;données sensibles : &lt;code class=&quot;highlighter-rouge&quot;&gt;Cache-Control: private&lt;/code&gt;&lt;/li&gt;
-  &lt;li&gt;données standards : &lt;code class=&quot;highlighter-rouge&quot;&gt;Cache-Control: public&lt;/code&gt;&lt;/li&gt;
-  &lt;li&gt;rajouter une date d’expiration (généralement courte, comme une heure)&lt;/li&gt;
-  &lt;li&gt;données ultra sensibles : &lt;code class=&quot;highlighter-rouge&quot;&gt;Cache-Control: no-cache, no-store&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Source : &lt;a href=&quot;https://blog.qmo.io/ultimate-guide-to-api-design/&quot;&gt;The Ultimate Guide to API Design&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 08 Mar 2017 00:00:00 +0100</pubDate>
-        <link>http://marges.clairezuliani.com/sustainable_code/2017/03/08/ma-jolie-api.html</link>
-        <guid isPermaLink="true">http://marges.clairezuliani.com/sustainable_code/2017/03/08/ma-jolie-api.html</guid>
-        
-        <category>code</category>
-        
-        
-        <category>sustainable_code</category>
         
       </item>
     
