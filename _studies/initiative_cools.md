@@ -76,6 +76,12 @@ Quelques initiatives (qui m'ont l'air) cools sur lesquelles jeter ou garder un o
 
 ### La jonction d'un peu toutes les envies
 
+#### Tech coops
+
+A list of tech coops and resources concerning tech coops and worker owned cooperatives in general.
+
+[Github tech coops](https://github.com/hng/tech-coops)
+
 #### Sassafras
 
 - coopérative de travailleur

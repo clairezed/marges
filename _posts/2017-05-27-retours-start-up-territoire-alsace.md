@@ -25,11 +25,11 @@ En prélude, dans l'après-midi, des porteurs de projets sur chacune des thémat
 
 Je tiens à signaler l'énorme investissement, le boulot phénoménale abattu par Sophie Keller et Cécile Dupré-Latour, les principales instigatrices du bouzin. A présent, quelques retours et réflexions !
 
-## De la définition de projets
+## De la définition de projets...
 
-Sur la méthodologie : si l'objectif était réellement de faire émerger des projets à visée sociale spécialement pour le territoire, à mon sens la mission n'est qu'à moitié remplie.
+Sur la méthodologie : si l'objectif était réellement de faire émerger des projets à visée sociale pensés pour le territoire, à mon sens la mission n'est qu'à moitié remplie.
 
-1. pour des raisons de temps notamment, l'accent était plutôt sur l'intention du projet plutôt que sur sa définition précise. La finalité était de produire un discours marketé (trouver un nom et un solgan,pitch final...), sans creuser les éléments. Dans les conditions de l'exercice, je ne pense qu'il était possible de faire bien mieux, et les organisatrices ont pour le coup bien conduit leur process pour cette finalité. Comment jauger de la capacité du projet à se réaliser ou du bien fondé de sa finalité ?
+1. Pour des raisons de temps notamment, l'accent était plutôt sur l'intention du projet plutôt que sur sa définition précise. La finalité était de produire un discours marketé (trouver un nom et un solgan,pitch final...), sans creuser les éléments. Dans les conditions de l'exercice, je ne pense qu'il était possible de faire bien mieux, et les organisatrices ont pour le coup bien conduit leur process pour cette finalité. Comment jauger de la capacité du projet à se réaliser ou du bien fondé de sa finalité ?
 
 
 2. Comme pour la plupart des événements de type Start Up Contest, les projets sont pensés hors-sols. On ne part pas de "il y a tel problème sur le territoire, comment peut-on le résoudre ?" mais plutôt de "On a envie de faire telle chose", et ce, sans s'attacher aux spécificités du territoire, à ses besoins ou à ce qui y existe déjà. De bonnes idées peuvent émerger de ce fonctionnement (pour peu d'être doté d'une bonne intuition ou capacité de persuasion)  ; mais ce n'est tout de même pas le mode d'action qui me semble le plus cohérent (ou dans lequel je souhaite inscrire mon action).

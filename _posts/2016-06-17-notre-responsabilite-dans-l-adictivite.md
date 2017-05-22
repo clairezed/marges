@@ -2,7 +2,7 @@
 layout: post
 title: "Nous sommes tous des dealers de numérique"
 category: sustainable_code
-tags: [dont be evil, detox]
+tags: [dont be evil, detox, ethique]
 
 ---
 

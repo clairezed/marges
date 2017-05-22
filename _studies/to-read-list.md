@@ -68,6 +68,8 @@ POUR UNE ÉCOLOGIE DES PRATIQUES COLLECTIVES (version en ligne)
 
 <!-- http://livre.fnac.com/a9180576/Scott-Stossel-Anxiete -->
 
+- Gloria Steinem, « Revolution from Within. A Book of Self-Esteem »
+
 
 ## A voir
 
