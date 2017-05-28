@@ -107,11 +107,13 @@ A un niveau plus collectif, cette journée a donné l'occasion de relancer les d
 - [Peut-on répondre à la conception de notre exploitation comportementale ?](https://www.slideshare.net/HubertGuillaud/attention-lattention), les slides de la conférence introductive par Hubert Guillaud
 - [Traduction James Williams](https://docs.google.com/document/d/14j1eM20v1dSd3CpkvxyJ9ttXT3gBGWKi0NDSG6UiDss/edit?ts=59157aa8) : traduction live de l'intervention de James Williams
 - [Traduction Olly Wright](https://docs.google.com/document/d/10auifv0wXcRe599YWXJPfkzimV_idc00s6Q_GtirvWU/edit?ts=5915b5f7) : traduction live de l'intervention de Olly Wright
+- Support de l'atelier [Persuasive Design](https://www.slideshare.net/iergo/atelier-persuasive-design), de Raphaël Yharrassarry
 
 ### Compte-rendus de la journée
 - [Storify de la journée](https://storify.com/nicolasloubet/ethicsbydesign) par Nicolas Loubet
 - [Design numérique recherche réglementation éthique](http://www.inaglobal.fr/numerique/article/design-numerique-recherche-reglementation-ethique-9715), le compte-rendu de la journée fait par Alexandre FOATELLI, sur inaglobal.fr
 - [Journée Ethics by design](http://www.yume-studio.fr/ethicsbydesign/), le compte-rendu de la journée de l'agence Yume
+- [Le designer est-il un manipulateur manipulé ?](http://maisouvaleweb.fr/le-designer-est-il-un-manipulateur-manipule/), compte-rendu par Mais où va le web ?
 
 ### Références croisées durant la journée
 - [TimeWellSpent videos](https://www.youtube.com/watch?v=tf9ZhU7zF8s&feature=youtu.be&list=PLtLeT9oxQnyqag7AVKQn1-WYUhKAHzj-b) : des vidéos créées par le mouvement Time Well Spent, de Tristan Harris, pour faire prendre conscience du temps perdu sur les réseaux.
