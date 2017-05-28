@@ -58,6 +58,7 @@ Prise de note sur la collaboration, l'animation de communauté...
 - [Guide méthodologique du travail en commun](http://www.iaat.org/telechargement/guide_methodo/guide_methodo_complet.pdf)
 - [Comment faire](comment-faire.modernisation.gouv.f) : portail de méthodes du design de service proposé par le SGMAP
 - [Outils - Réseaux](http://outils-reseaux.org/PagePrincipale) : travailler en réseau, usages et outils
+- [Community Canvas](https://community-canvas.org/) : A framework to help you build meaningful communities.
 
 ## Règles collective
 
@@ -98,6 +99,7 @@ Sources :
 - http://lafabulerie.com/blog/projet/mnm/
 - https://issuu.com/axellebenaich/docs/minimix_cahier_d_exploration_et_d_i?e=6134143/37000564
 - https://issuu.com/axellebenaich
+
 ## Prise de note Cornu
 
 ### Postulats de départ

@@ -30,3 +30,9 @@ Super demain :
 Nicolas Loubet ?
 
 Sud Web
+
+
+Niveau outil / autoformation :
+- test de gitbook -> lien
+- Mooc
+- vagrant

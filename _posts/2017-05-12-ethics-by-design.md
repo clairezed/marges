@@ -2,7 +2,7 @@
 layout: post
 title: Ethics by design
 category: good_job
-tags: [design]
+tags: [evenement, ethique]
 
 ---
 
