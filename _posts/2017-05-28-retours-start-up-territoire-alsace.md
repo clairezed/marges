@@ -10,33 +10,27 @@ Le 4 mai à Strasbourg, il y avait mille personnes dans un stade de basket, mais
 
 <!--more-->
 
-
 C'est quoi Start Up de Territoire ? D'abord, c'est un événement largement rassembleur (1 000 personnes à Strasbourg) qui a pour objectif de générer plusieurs centaines d'idées de projets à visée sociale sur un territoire. Ensuite, c'est toute une dynamique qui s'enclenche pour que certaines de ces idées soient converties à moyen terme en vrais projets, au bénéfice du territoire.
 
 La logique Start Up de Territoire s'est déjà ancrée sur plusieurs... territoires, et le 4 mai, c'était au tour de l'Alsace, avec l'événement à Strasbourg.
 
 ## Promo sur les entreprises sociales
 
-Qu'est-ce que j'en ai à fiche de ce projet alsacien, moi la vosgienne ? Déjà, il ne se passe pas pléthore d'événements de ce type par chez moi (donc allons voir chez les voisins si j'y suis), et rappellons que la Lorraine et l'Alsace font désormais partie d'une seule et même belle région unie.
-
-Ensuite, en ce moment je suis dans une folle lubie "intelligence colective", et j'ai moi-même réclamé d'être formée en tant qu'animatrice sur l'événement. La thématique sur laquelle je me suis positionnée : solidarité et lien social. L'intitulé de l'atelier : un truc sur les emplois partagés.
+En ce moment je suis dans une folle lubie "intelligence collective", et la participation en tant qu'animateur permettait d'être formé à des méthodes de concertation. Alors, j'ai signé :) La thématique sur laquelle je me suis positionnée pendant l'événement : solidarité et lien social. L'intitulé de l'atelier : un truc sur les emplois partagés (oui, ça manque de précision, désolée).
 
 En prélude, dans l'après-midi, des porteurs de projets sur chacune des thématiques abordées présentaient leur activité. En postlude (disons), le lendemain matin, on pouvait creuser en groupe certains projets existants, en discutant en profondeur avec leurs initiateurs.
 
-Avant toute chose, il faut saluer l'énorme investissement, le boulot phénoménale, abattu par Sophie Keller et Cécile Dupré-Latour, les principales instigatrices du bouzin. Franchement, je fus impressionnée.
+Avant toute chose, je veux saluer l'énorme investissement, le boulot phénoménale, abattu par Sophie Keller et Cécile Dupré-Latour, les principales instigatrices du bouzin. Franchement, c'était hyper impressionnant.
 
-A présent, quelques retours et réflexions !
+A présent, quelques retours et réflexions.
 
 ## De la définition de projets...
 
 Sur la méthodologie : si l'objectif était réellement de faire émerger des projets à visée sociale pensés pour le territoire, à mon sens la mission n'est qu'à moitié remplie.
 
-1. Pour des raisons de temps notamment, l'accent était plutôt sur l'intention du projet plutôt que sur sa définition précise. La finalité était de produire un discours plutôt marketé (trouver un nom et un solgan, pitch final...), sans creuser les éléments. Dans les conditions de l'exercice, je ne pense toutefois pas qu'il était possible de faire bien mieux.
+1/ Pour des raisons de temps notamment, l'accent était plutôt sur l'intention du projet plutôt que sur sa définition précise. La finalité était de produire un discours plutôt marketé (trouver un nom et un solgan, pitch final...), sans creuser les éléments. Dans les conditions de l'exercice, je ne pense toutefois pas qu'il était possible de faire bien mieux.
 
-<!-- , et les organisatrices ont pour le coup bien conduit leur process pour cette finalité. Comment jauger de la capacité du projet à se réaliser ou du bien fondé de sa finalité ? -->
-
-
-2. Comme pour la plupart des événements de type Start Up Contest, les projets sont pensés hors-sols. On ne part pas de *"il y a tel problème chez nous, comment peut-on le résoudre ?"* mais plutôt de *"On a envie de faire telle chose"* ou *"on a vu telle initiative cool à tel endroit, on veut faire pareil ici"*, et ce, sans s'attacher aux spécificités du territoire, à ses besoins ou à ce qui y existe déjà. Oui, il arrive que de bonnes idées émergent de ce type de terreau (pour peu d'être doté d'une solide intuition) ; mais c'est alors plutôt de l'ordre du heureux hasard que d'un procédé réfléchi.
+2/ Comme pour la plupart des événements de type Start Up Contest, les projets sont pensés hors-sols. On ne part pas de *"il y a tel problème chez nous, comment peut-on le résoudre ?"* mais plutôt de *"On a envie de faire telle chose"* ou *"on a vu telle initiative cool à tel endroit, on veut faire pareil ici"*, et ce, sans s'attacher aux spécificités du territoire, à ses besoins ou à ce qui y existe déjà. Oui, il arrive que de bonnes idées émergent de ce type de terreau (pour peu d'être doté d'une solide intuition) ; mais c'est alors plutôt de l'ordre du heureux hasard que d'un procédé réfléchi.
 
 Cet événement m'a refait pensé en contraste à la méthodologie des -mix (museomix, garemix, edumix...) qui prend le pendant inverse : on s'attache à un lieu précis, circonscrit, les principaux acteurs du lieu (personnel du musée, par exemple) qui font part des problèmes qu'ils rencontrent, et des équipes pluridisciplinaires s'attachent avec eux à résoudre ce problème particulier.
 
