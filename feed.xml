@@ -5,9 +5,96 @@
     <description>Prise de notes des internets de claire zuliani</description>
     <link>http://marges.clairezuliani.com/</link>
     <atom:link href="http://marges.clairezuliani.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 28 May 2017 22:58:16 +0200</pubDate>
-    <lastBuildDate>Sun, 28 May 2017 22:58:16 +0200</lastBuildDate>
+    <pubDate>Tue, 20 Jun 2017 09:43:50 +0200</pubDate>
+    <lastBuildDate>Tue, 20 Jun 2017 09:43:50 +0200</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>A mon compte + 5 mois</title>
+        <description>&lt;p&gt;Simili journal de bord simili mensuel épisode 5. Ce mois de mai était plein d’heures de train et de rencontres.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Ce qui est chouette avec le fait d’être à son compte (hormis pouvoir prendre une douche froide à n’importe quelle heure en cas de canicule), c’est d’être plutôt maître de son temps et pouvoir se rendre à des événements “si je veux” (et que j’ai de quoi me payer un billet de train). J’ai profiter du joli mois de mai pour appliquer à bloc cette nouvelle liberté.&lt;/p&gt;
+
+&lt;p&gt;Ca commençait avec Strasbourg dès le 4 mai, et j’en cause en &lt;a href=&quot;/good_job/2017/05/28/retours-start-up-territoire-alsace.html&quot;&gt;par ici&lt;/a&gt;). Ce grand raout m’a aussi permis de croiser &lt;a href=&quot;http://makersforchange.org&quot;&gt;Makers For Change&lt;/a&gt;, et profiter de leur expérience pour creuser des pistes pour un futur projet avec des migrants (bam, le teasing).&lt;/p&gt;
+
+&lt;p&gt;Ensuite, je commençais 10 jours en goguette vers le sud le 12, avec la journée Ethics by Design. Là aussi j’ai pondu un &lt;a href=&quot;/good_job/2017/05/12/ethics-by-design.html&quot;&gt;compte-rendu&lt;/a&gt;) bien commode pour pas avoir à s’éterniser sur le sujet ici. Ah si, un truc que je ne signale pas dans l’article : ce qui est cool dans ce genre d’événement, c’est que la probabilité de croiser des gens avec lesquels tu aurais envie de bosser est plus forte qu’ailleurs. Gros coup de coeur pour &lt;a href=&quot;http://www.ochelys.com/&quot;&gt;Ochelys&lt;/a&gt;, fièrement représentée par Florent et Goulven.&lt;/p&gt;
+
+&lt;p&gt;J’ai profite de ma présence à Lyon pour croiser &lt;a href=&quot;https://framapiaf.org/@pyg&quot;&gt;Pierre-Yves&lt;/a&gt; de framasoft, que je remercie pour la séance de coaching philisophico-social. Ca fait du bien d’échanger avec quelqu’un qui comprend manifestement très bien tes propres questionnements ; et je je veux croire avec lui en la convergence ESS / milieu du libre. Aussi, il m’a presque donné envie de créer un Chaton à Epinal (mais quand même, entretenir des serveurs c’est la plaie).&lt;/p&gt;
+
+&lt;p&gt;J’enchaînai le week-end avec un passage à &lt;a href=&quot;http://superdemain.fr/&quot;&gt;Super Demain&lt;/a&gt;, où, sous couvert de filer un coup de main aux &lt;a href=&quot;https://lesbricodeurs.fr/&quot;&gt;Bricodeurs&lt;/a&gt; pour la tenue d’un atelier, j’ai surtout papoté regroupement de développeurs, Etalab, holacracy, chatons, indiehosters ou yunohost avec un paquet de gens que j’avais pas croisé depuis un bail (désolée Xavier, je suis une animatrice en mousse). Mais j’ai quand même appris suffisamment ce que c’est que &lt;a href=&quot;https://www.thymio.org/fr:thymio&quot;&gt;Thymio&lt;/a&gt; pour pouvoir en causr à 2-3 gens.&lt;/p&gt;
+
+&lt;p&gt;Pour le gros morceau du mois, je descendai encore plus au Sud, jusqu’à pas loin du bout du monde pour moi, jusqu’à Aix en Provence. Sud Web. Mais là encore, j’ai déjà fait le &lt;a href=&quot;/good_job/2017/05/23/retour-sudweb-2017.html&quot;&gt;récap&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;Et à part la bella vita toujours en goguette (encore une profiteuse du système) ? Je progresse trop lentement sur le &lt;a href=&quot;https://www.colibris-lemouvement.org/projets/luniversite-colibris/mooc-gouvernance-partagee&quot;&gt;MOOC Gouvernance partagée&lt;/a&gt;, je test &lt;a href=&quot;https://fr.wikipedia.org/wiki/Vagrant&quot;&gt;vagrant&lt;/a&gt; pour éviter d’avoir à installer php sur ma machine, et je mets les doigts dans &lt;a href=&quot;https://www.gitbook.com/book/clairezed/brain-extension/details&quot;&gt;gitbook&lt;/a&gt; pour organiser mieux une veille en bordel (work in progress). Et à la fin du mois, mon premier projet est quasi fini.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 20 Jun 2017 00:00:00 +0200</pubDate>
+        <link>http://marges.clairezuliani.com/good_job/2017/06/20/solo-plus-5-mois.html</link>
+        <guid isPermaLink="true">http://marges.clairezuliani.com/good_job/2017/06/20/solo-plus-5-mois.html</guid>
+        
+        <category>et moi</category>
+        
+        
+        <category>good_job</category>
+        
+      </item>
+    
+      <item>
+        <title>Retours sur start-up de territoire Alsace</title>
+        <description>&lt;p&gt;Le 4 mai à Strasbourg, il y avait mille personnes dans un stade de basket, mais aucune sur le terrain - sinon on se faisait houspiller. C’était la soirée Start Up de territoire Alsace.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;C’est quoi Start Up de Territoire ? D’abord, c’est un événement largement rassembleur (1 000 personnes à Strasbourg) qui a pour objectif de générer plusieurs centaines d’idées de projets à visée sociale sur un territoire. Ensuite, c’est toute une dynamique qui s’enclenche pour que certaines de ces idées soient converties à moyen terme en vrais projets, au bénéfice du territoire.&lt;/p&gt;
+
+&lt;p&gt;La logique Start Up de Territoire s’est déjà ancrée sur plusieurs… territoires, et le 4 mai, c’était au tour de l’Alsace, avec l’événement à Strasbourg.&lt;/p&gt;
+
+&lt;h2 id=&quot;promo-sur-les-entreprises-sociales&quot;&gt;Promo sur les entreprises sociales&lt;/h2&gt;
+
+&lt;p&gt;En ce moment je suis dans une folle lubie “intelligence collective”, et la participation en tant qu’animateur permettait d’être formé à des méthodes de concertation. Alors, j’ai signé :) La thématique sur laquelle je me suis positionnée pendant l’événement : solidarité et lien social. L’intitulé de l’atelier : un truc sur les emplois partagés (oui, ça manque de précision, désolée).&lt;/p&gt;
+
+&lt;p&gt;En prélude, dans l’après-midi, des porteurs de projets sur chacune des thématiques abordées présentaient leur activité. En postlude (disons), le lendemain matin, on pouvait creuser en groupe certains projets existants, en discutant en profondeur avec leurs initiateurs.&lt;/p&gt;
+
+&lt;p&gt;Avant toute chose, je veux saluer l’énorme investissement, le boulot phénoménale, abattu par Sophie Keller et Cécile Dupré-Latour, les principales instigatrices du bouzin. Franchement, c’était hyper impressionnant.&lt;/p&gt;
+
+&lt;p&gt;A présent, quelques retours et réflexions.&lt;/p&gt;
+
+&lt;h2 id=&quot;de-la-définition-de-projets&quot;&gt;De la définition de projets…&lt;/h2&gt;
+
+&lt;p&gt;Sur la méthodologie : si l’objectif était réellement de faire émerger des projets à visée sociale pensés pour le territoire, à mon sens la mission n’est qu’à moitié remplie.&lt;/p&gt;
+
+&lt;p&gt;1/ Pour des raisons de temps notamment, l’accent était plutôt sur l’intention du projet plutôt que sur sa définition précise. La finalité était de produire un discours plutôt marketé (trouver un nom et un solgan, pitch final…), sans creuser les éléments. Dans les conditions de l’exercice, je ne pense toutefois pas qu’il était possible de faire bien mieux.&lt;/p&gt;
+
+&lt;p&gt;2/ Comme pour la plupart des événements de type Start Up Contest, les projets sont pensés hors-sols. On ne part pas de &lt;em&gt;“il y a tel problème chez nous, comment peut-on le résoudre ?”&lt;/em&gt; mais plutôt de &lt;em&gt;“On a envie de faire telle chose”&lt;/em&gt; ou &lt;em&gt;“on a vu telle initiative cool à tel endroit, on veut faire pareil ici”&lt;/em&gt;, et ce, sans s’attacher aux spécificités du territoire, à ses besoins ou à ce qui y existe déjà. Oui, il arrive que de bonnes idées émergent de ce type de terreau (pour peu d’être doté d’une solide intuition) ; mais c’est alors plutôt de l’ordre du heureux hasard que d’un procédé réfléchi.&lt;/p&gt;
+
+&lt;p&gt;Cet événement m’a refait pensé en contraste à la méthodologie des -mix (museomix, garemix, edumix…) qui prend le pendant inverse : on s’attache à un lieu précis, circonscrit, les principaux acteurs du lieu (personnel du musée, par exemple) qui font part des problèmes qu’ils rencontrent, et des équipes pluridisciplinaires s’attachent avec eux à résoudre ce problème particulier.&lt;/p&gt;
+
+&lt;p&gt;Est-ce qu’il n’aurait pas fallu mené un diagnostic qui ait un peu de gueule au préalable, avant de vouloir faire de l’Alsace une start up région ?&lt;/p&gt;
+
+&lt;h2 id=&quot;-à-la-consolidation-dune-communauté&quot;&gt;… à la consolidation d’une communauté&lt;/h2&gt;
+&lt;p&gt;En revanche, si l’objectif tacite était de lancer ou consolider une communauté, de sentir les envies des personnalités les plus engagées d’un territoire, alors là, la mission est bien un succès.&lt;/p&gt;
+
+&lt;p&gt;La méthodologie développée permet formidablement de développer une culture commune (en termes de processus, de connaissance d’une thématique…) sans étiquette ou cloisonnement des participants. Les animateurs (dont bibi) et les participants pouvaient se retrouver, sans le savoir, à faire des blagues plus ou moins bien trouvée avec une élue de la Région Grand Est ou des représentants de la communauté de commune de Strasbourg. Rafraîchissant.&lt;/p&gt;
+
+&lt;h2 id=&quot;toujours-cette-tension-entre-événement-réformiste-ou-révolutionnaire&quot;&gt;Toujours cette tension entre événement réformiste ou révolutionnaire&lt;/h2&gt;
+
+&lt;p&gt;Ici, la plupart des projets présentés font du mieux possible pour apporter un peu de baume social dans un monde hostile. L’idée est de “faire avec” le monde tel qu’il se présente, l’accent est mis avant tout sur le modèle économique, les projets ont pour visée de réparer ce qu’un trop plein de laisser faire vorace a pu éreinter, et non de travailler à changer les fondements. Pas de visée transformatrice. Mais moi, mine de rien, j’ai des grosses envies d’évolution systémique.&lt;/p&gt;
+
+&lt;p&gt;C’est quel événement, pour ce type de symptôme ?&lt;/p&gt;
+</description>
+        <pubDate>Sun, 28 May 2017 00:00:00 +0200</pubDate>
+        <link>http://marges.clairezuliani.com/good_job/2017/05/28/retours-start-up-territoire-alsace.html</link>
+        <guid isPermaLink="true">http://marges.clairezuliani.com/good_job/2017/05/28/retours-start-up-territoire-alsace.html</guid>
+        
+        <category>evenement</category>
+        
+        <category>start up</category>
+        
+        
+        <category>good_job</category>
+        
+      </item>
     
       <item>
         <title>La première des conf web</title>
@@ -454,73 +541,6 @@ Then we can talk about helping non-profits in the evening. And hurry up, because
         <category>code</category>
         
         <category>politique</category>
-        
-        
-        <category>sustainable_code</category>
-        
-      </item>
-    
-      <item>
-        <title>La courbe du hype du web</title>
-        <description>&lt;p&gt;Sur le modèle de ce que faisait les inrocks dans les années 2000, je découvre les courbes du hype du web.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;Merci au &lt;a href=&quot;https://lerubynouveau.fr/&quot;&gt;ruby nouveau&lt;/a&gt; de m’avoir menée au slack de &lt;a href=&quot;https://www.rubyparis.org/&quot;&gt;paris.rb&lt;/a&gt;, sur lequel s’échange plein de liens intéressants, dont celui de &lt;a href=&quot;https://stateofdev.com/&quot;&gt;State.of.dev&lt;/a&gt;. Plein de courbes généralistes et thématiques, sur les tendances et les stades d’évolution (maturité, désillusion, attentes maximales…) de moults technologies web.&lt;/p&gt;
-
-&lt;p&gt;Aucune idée de sur quoi se fonde les créateurs de l’objet pour positionner une techno à tel ou tel endroit. L’intérêt principal pour moi est plutôt d’avoir un panorama des technologies établies et émergentes dans différents domaines.&lt;/p&gt;
-
-&lt;p&gt;Source : &lt;a href=&quot;https://stateofdev.com/&quot;&gt;State.of.dev&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Pour en savoir plus : State.of.dev sur &lt;a href=&quot;https://hackernoon.com/state-of-dev-c609cc12084b#.g42q19ux5&quot;&gt;hackernoon&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 15 Mar 2017 00:00:00 +0100</pubDate>
-        <link>http://marges.clairezuliani.com/sustainable_code/2017/03/15/courbe-hype-web.html</link>
-        <guid isPermaLink="true">http://marges.clairezuliani.com/sustainable_code/2017/03/15/courbe-hype-web.html</guid>
-        
-        <category>code</category>
-        
-        
-        <category>sustainable_code</category>
-        
-      </item>
-    
-      <item>
-        <title>C'est le nouveau web qui toque à ta porte</title>
-        <description>&lt;p&gt;Depuis quelques mois j’entendais parler de nouvelles façons de faire les internets, notamment de la part des pionniers, qui veulent remettre au goût du jour les ambitions d’ouverture du début. Mais je n’y comprenais pas grand chose à ces histoires de web décentralisé ou de crypto machins. Un article récent d’Usbek &amp;amp; Rica apporte quelques bribes de compréhension de cet autre web qui essaye d’émerger. #maketheinternetgreatagain&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;Les principes phares du web nouveau :&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;permanent&lt;/li&gt;
-  &lt;li&gt;performant&lt;/li&gt;
-  &lt;li&gt;privé&lt;/li&gt;
-  &lt;li&gt;micro payé&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Des exemples de projets en cours :&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://solid.mit.edu/&quot;&gt;Solid&lt;/a&gt; : &lt;em&gt;“Dans un tel modèle, l’utilisateur est propriétaire de ses propres données, quelles qu’elles soient, tout le temps et pour toujours, et les applications se contentent d’y accéder de façon sélective.”&lt;/em&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://ipfs.io/&quot;&gt;IPFS&lt;/a&gt; : alternative à HTTP en peer to peer. &lt;a href=&quot;https://twitter.com/VirgileDeville&quot;&gt;Virgile&lt;/a&gt; d’Open Source Politics m’en parlait il y a quelques jours, je suis contente de pouvoir creuser la question.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://zeronet.io/&quot;&gt;ZeroNet&lt;/a&gt; : installez ZeroNet et accédez à une galaxie de sites décentralisés basés sur le réseau bitTorrent et sur le chiffrement  de Bitcoin.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blockstack.org&quot;&gt;Blockstack&lt;/a&gt; : là aussi il s’agit d’un nouveau internet décentralisé, basé sur les blockchains. Je vois pas dans le détail la différence avec ZeroNet.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://maidsafe.net/&quot;&gt;SAFE Network&lt;/a&gt; : là encore, internet décentralisé, peer to peer, mais avec rémunération en crypto monnaie des ressources mises à disposition par chaque utilisateur.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Une très bonne base pour commencer à explorer un autre internet possible.&lt;/p&gt;
-
-&lt;p&gt;Source : &lt;a href=&quot;https://usbeketrica.com/article/comment-les-webs-alternatifs-veulent-reinventer-internet&quot;&gt;Comment les webs alternatifs veulent réinventer Internet&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 13 Mar 2017 00:00:00 +0100</pubDate>
-        <link>http://marges.clairezuliani.com/sustainable_code/2017/03/13/nouveau-web-porte.html</link>
-        <guid isPermaLink="true">http://marges.clairezuliani.com/sustainable_code/2017/03/13/nouveau-web-porte.html</guid>
-        
-        <category>open source</category>
-        
-        <category>devops</category>
         
         
         <category>sustainable_code</category>
