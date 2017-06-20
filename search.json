@@ -2,7 +2,7 @@
   
     {
       "title"    : "A mon compte + 5 mois",
-      "content"  : "Simili journal de bord simili mensuel épisode 5. Ce mois de mai était plein d’heures de train et de rencontres.Ce qui est chouette avec le fait d’être à son compte (hormis pouvoir prendre une douche froide à n’importe quelle heure en cas de canicule), c’est d’être plutôt maître de son temps et pouvoir se rendre à des événements “si je veux” (et que j’ai de quoi me payer un billet de train). J’ai profiter du joli mois de mai pour appliquer à bloc cette nouvelle liberté.Ca commençait avec Strasbourg dès le 4 mai, et j’en cause en par ici). Ce grand raout m’a aussi permis de croiser Makers For Change, et profiter de leur expérience pour creuser des pistes pour un futur projet avec des migrants (bam, le teasing).Ensuite, je commençais 10 jours en goguette vers le sud le 12, avec la journée Ethics by Design. Là aussi j’ai pondu un compte-rendu) bien commode pour pas avoir à s’éterniser sur le sujet ici. Ah si, un truc que je ne signale pas dans l’article : ce qui est cool dans ce genre d’événement, c’est que la probabilité de croiser des gens avec lesquels tu aurais envie de bosser est plus forte qu’ailleurs. Gros coup de coeur pour Ochelys, fièrement représentée par Florent et Goulven.J’ai profite de ma présence à Lyon pour croiser Pierre-Yves de framasoft, que je remercie pour la séance de coaching philisophico-social. Ca fait du bien d’échanger avec quelqu’un qui comprend manifestement très bien tes propres questionnements ; et je je veux croire avec lui en la convergence ESS / milieu du libre. Aussi, il m’a presque donné envie de créer un Chaton à Epinal (mais quand même, entretenir des serveurs c’est la plaie).J’enchaînai le week-end avec un passage à Super Demain, où, sous couvert de filer un coup de main aux Bricodeurs pour la tenue d’un atelier, j’ai surtout papoté regroupement de développeurs, Etalab, holacracy, chatons, indiehosters ou yunohost avec un paquet de gens que j’avais pas croisé depuis un bail (désolée Xavier, je suis une animatrice en mousse). Mais j’ai quand même appris suffisamment ce que c’est que Thymio pour pouvoir en causr à 2-3 gens.Pour le gros morceau du mois, je descendai encore plus au Sud, jusqu’à pas loin du bout du monde pour moi, jusqu’à Aix en Provence. Sud Web. Mais là encore, j’ai déjà fait le récap).Et à part la bella vita toujours en goguette (encore une profiteuse du système) ? Je progresse trop lentement sur le MOOC Gouvernance partagée, je test vagrant pour éviter d’avoir à installer php sur ma machine, et je mets les doigts dans gitbook pour organiser mieux une veille en bordel (work in progress). Et à la fin du mois, mon premier projet est quasi fini.",
+      "content"  : "Simili journal de bord simili mensuel épisode 5. Ce mois de mai était plein d’heures de train et de rencontres.Ce qui est chouette avec le fait d’être à son compte (hormis pouvoir prendre une douche froide à n’importe quelle heure en cas de canicule), c’est d’être plutôt maître de son temps et pouvoir se rendre à des événements “si je veux” (et que j’ai de quoi me payer un billet de train). J’ai profité du joli mois de mai pour appliquer à bloc cette nouvelle capacité.Ca déutait avec Strasbourg dès le 4 mai, et j’en cause en par ici). Ce grand raout m’a aussi permis de croiser Makers For Change, et profiter de leur expérience pour creuser des pistes pour un futur projet avec des migrants (bam, le teasing).Ensuite, je commençais 10 jours en goguette vers le sud le 12 mai, avec la journée Ethics by Design. Là aussi j’ai pondu un compte-rendu bien commode pour pas avoir à s’éterniser sur le sujet ici. Ah si, un truc que je ne signale pas dans l’article : ce qui est cool dans ce genre d’événement, c’est que la probabilité de croiser des gens avec lesquels tu aurais envie de bosser est plus forte qu’ailleurs. Gros coup de coeur pour Ochelys, fièrement représentée par Florent et Goulven.J’ai profité de ma présence à Lyon pour croiser Pierre-Yves de framasoft, que je remercie pour ce qui a viré séance de coaching philisophico-social. Ca fait du bien d’échanger avec quelqu’un qui comprend manifestement très bien tes propres questionnements ; et je je veux croire avec lui en la convergence ESS / milieu du libre. Aussi, il m’a presque donné envie de créer un Chaton à Epinal (mais quand même, entretenir des serveurs c’est la plaie).J’enchaînai le week-end avec un passage à Super Demain, où, sous couvert de filer un coup de main aux Bricodeurs pour la tenue d’un atelier, j’ai surtout papoté regroupement de développeurs, Etalab, holacracy, chatons, indiehosters ou yunohost avec un paquet de gens que j’avais pas croisé depuis un bail (désolée Xavier, je suis une animatrice en mousse). Mais j’ai quand même appris suffisamment ce que c’est que Thymio pour pouvoir en causer à 2-3 gens.Pour le gros morceau du mois, je descendai encore plus au Sud, jusqu’à pas loin du bout du monde pour moi, jusqu’à Aix en Provence. Sud Web. Mais là encore, j’ai déjà fait le récap.Et à part la bella vita toujours en goguette ? Je progresse trop lentement sur le MOOC Gouvernance partagée, je teste vagrant pour éviter d’avoir à installer php sur ma machine, et je mets les doigts dans gitbook pour organiser mieux une veille en bordel (work in progress). Et à la fin du mois, mon premier projet est quasi fini.",
       "tags"     : "et moi",
       "category" : "good_job",
       "url"      : "/good_job/2017/06/20/solo-plus-5-mois.html",
@@ -649,7 +649,7 @@
       "category" : "sustainable_code",
       "url"      : "/cheat-sheet-ruby",
       "type"     : "Dossier",
-      "date"     : "28/05/2017"
+      "date"     : "20/06/2017"
     } ,
   
     {
@@ -659,7 +659,7 @@
       "category" : "good_job",
       "url"      : "/ess",
       "type"     : "Dossier",
-      "date"     : "28/05/2017"
+      "date"     : "20/06/2017"
     } ,
   
     {
@@ -669,7 +669,7 @@
       "category" : "good_job",
       "url"      : "/faire-ensemble",
       "type"     : "Dossier",
-      "date"     : "02/06/2017"
+      "date"     : "20/06/2017"
     } ,
   
     {
@@ -679,7 +679,7 @@
       "category" : "binary_transition",
       "url"      : "/initiatives-cool",
       "type"     : "Dossier",
-      "date"     : "28/05/2017"
+      "date"     : "20/06/2017"
     } ,
   
     {
@@ -689,7 +689,7 @@
       "category" : "binary_transition",
       "url"      : "/inspirations-graphiques",
       "type"     : "Dossier",
-      "date"     : "28/05/2017"
+      "date"     : "20/06/2017"
     } ,
   
     {
@@ -699,7 +699,7 @@
       "category" : "sustainable_code",
       "url"      : "/jamstack",
       "type"     : "Dossier",
-      "date"     : "28/05/2017"
+      "date"     : "20/06/2017"
     } ,
   
     {
@@ -709,7 +709,7 @@
       "category" : "binary_transition",
       "url"      : "/cartographie-du-bas",
       "type"     : "Dossier",
-      "date"     : "28/05/2017"
+      "date"     : "20/06/2017"
     } ,
   
     {
@@ -719,7 +719,7 @@
       "category" : "sustainable_code",
       "url"      : "/studies/to-read-list/",
       "type"     : "Dossier",
-      "date"     : "28/05/2017"
+      "date"     : "20/06/2017"
     } ,
   
     {
@@ -729,7 +729,7 @@
       "category" : "sustainable_code",
       "url"      : "/toolkits",
       "type"     : "Dossier",
-      "date"     : "28/05/2017"
+      "date"     : "20/06/2017"
     } ,
   
     {
@@ -739,7 +739,7 @@
       "category" : "good_job",
       "url"      : "/notions-juridiques-libre-open-source",
       "type"     : "Dossier",
-      "date"     : "28/05/2017"
+      "date"     : "20/06/2017"
     } ,
   
     {
@@ -749,7 +749,7 @@
       "category" : "binary_transition",
       "url"      : "/tech-changement-social-open-source",
       "type"     : "Dossier",
-      "date"     : "28/05/2017"
+      "date"     : "20/06/2017"
     } 
   
 ]
