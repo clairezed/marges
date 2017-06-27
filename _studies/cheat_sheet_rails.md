@@ -37,12 +37,14 @@ Conseils à la volée pour écrire du meilleur code en ruby.
 - [rubocop](https://github.com/bbatsov/rubocop) : A Ruby static code analyzer, based on the community Ruby style guide
 - [pronto](https://github.com/mmozuras/pronto) : Quick automated code review of your changes
 - [reek](https://github.com/troessner/reek) : Code smell detector for Ruby
-
 - [overcommit](https://github.com/brigade/overcommit) : A fully configurable and extendable Git hook manager
 - [whenever](https://github.com/javan/whenever) : Cron jobs in Ruby
 - [ahoy](https://github.com/ankane/ahoy) : Simple, powerful visit tracking for Rails
 - [turnout](https://github.com/biola/turnout) : Turnout makes it easy to put Rack apps into maintenance mode
 - [brakeman](https://github.com/presidentbeef/brakeman) : A static analysis security vulnerability scanner for Ruby on Rails applications mode
+- [rack-mini-profiler](https://github.com/MiniProfiler/rack-mini-profiler) : Profiler for your development and production Ruby rack apps.
+- [bullet](https://github.com/flyerhzm/bullet) : help to kill N+1 queries and unused eager loading
+
 
 ### Utilities
 - [kaminari](https://github.com/kaminari/kaminari) : A Scope & Engine based, clean, powerful, customizable and sophisticated paginator for Ruby webapps (à la place de will_paginate ?)
@@ -73,11 +75,10 @@ Post.where(published: true).find_each do |post|
   post.archive!
 end
 ```
+## Git
 
-18 - Allow both single items AND arrays to be enumerated against
 
-# [*items] converts a single object into an array with that single object
-# of converts an array back into, well, an array again
-[*items].each do |item|
-  # ...
-end
+Supprimer d'un repo un fichier gitignoré sur le tard et déjà pushé : 
+```bash
+git rm --cached `git ls-files -i --exclude-from=.gitignore`
+```

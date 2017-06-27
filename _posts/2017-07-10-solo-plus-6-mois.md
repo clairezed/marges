@@ -17,4 +17,6 @@ Entrée officielle chez Happy Dev, où l'on voit passer plein de projets chouett
 Passage parisien pour vraiment voir OFN + Happy Dev
 
 Je profite de l'entre deux contrats pour faire des choses que je me promettais de faire depuis longtemps : de l'admin
-Je fais des tests en statique pour deux associations de mon ancienne vie.
+Je fais des tests en statique pour deux associations de mon ancienne vie (AADN - Organic)
+
+Journée interco

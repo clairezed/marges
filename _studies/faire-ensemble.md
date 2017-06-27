@@ -59,6 +59,8 @@ Prise de note sur la collaboration, l'animation de communauté...
 - [Comment faire](http://comment-faire.modernisation.gouv.fr/) : portail de méthodes du design de service proposé par le SGMAP
 - [Outils - Réseaux](http://outils-reseaux.org/PagePrincipale) : travailler en réseau, usages et outils
 - [Community Canvas](https://community-canvas.org/) : A framework to help you build meaningful communities.
+- Ideo Human centered [Design Kit](http://www.designkit.org)
+- [Product Design Playbook](https://blog.marvelapp.com/product-design-playbook/)
 
 ## Règles collective
 
