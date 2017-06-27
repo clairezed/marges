@@ -5,9 +5,45 @@
     <description>Prise de notes des internets de claire zuliani</description>
     <link>http://marges.clairezuliani.com/</link>
     <atom:link href="http://marges.clairezuliani.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 20 Jun 2017 09:53:38 +0200</pubDate>
-    <lastBuildDate>Tue, 20 Jun 2017 09:53:38 +0200</lastBuildDate>
+    <pubDate>Tue, 27 Jun 2017 16:18:38 +0200</pubDate>
+    <lastBuildDate>Tue, 27 Jun 2017 16:18:38 +0200</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>L'open lave plus blanc que blanc</title>
+        <description>&lt;p&gt;Parce qu’on va quand même être 100% content de voir l’open se diffuser à tout crin, voyons l’inévitable côté obscur de la force et parlons “open washing”.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Comme je n’arrive plus à trouver le temps d’écrire et commenter pour de vrai, je me résoud à adopter la très bonne tactique du copain &lt;a href=&quot;https://www.quaternum.net/flux/&quot;&gt;Antoine&lt;/a&gt; : une citation + un commentaire.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Les récentes appropriations d’open sont quelque peu abusives si l’on considère le travail collectif impliqué dans le fonctionnement d’un vrai écosystème libre et ouvert. Un fonctionnement essentiellement invisible car les technologies libres et ouvertes sont censées être structurelles… sauf lorsqu’elles sont utilisées à tort et à travers pour des raisons de marketing. La prolifération des projets open nous invite donc à rappeler tout le travail invisible qui permet aux grandes plateformes numériques de fonctionner. […]&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;l’utilisation du label « libre » est bien plus répandue que ce que nous pensions… et […] ce succès s’accompagne de dynamiques politiques de discrimination et de concentration de pouvoirs (sur des lignes ethniques, socioéconomiques et sexuelles) beaucoup plus marquées que ce que l’on devrait théoriquement accepter dans des projets de ce type.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Je n’avais pas encore trop trop vu le terme “open washing” (j’ai dû en louper), mais je sens que ce n’est qu’un début. Si être ouvert ne suffit pas, il faut continuer à creuser les conditions qui font de nos pratiques et outils des objets fondamentalement éthiques.&lt;/p&gt;
+
+&lt;p&gt;A rapprocher aussi de &lt;a href=&quot;https://blog.imirhil.fr/2017/02/21/logiciel-libre-gouvernance-ethique.html&quot;&gt;cet article&lt;/a&gt; sur l’importance de a gouvernance éthique dans le logiciel libre.&lt;/p&gt;
+
+&lt;p&gt;Source : &lt;a href=&quot;http://parisinnovationreview.com/2017/06/23/openwashing/&quot;&gt;De l’openwashing&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 27 Jun 2017 00:00:00 +0200</pubDate>
+        <link>http://marges.clairezuliani.com/binary_transition/2017/06/27/open-washing.html</link>
+        <guid isPermaLink="true">http://marges.clairezuliani.com/binary_transition/2017/06/27/open-washing.html</guid>
+        
+        <category>open source</category>
+        
+        <category>tech-washing</category>
+        
+        
+        <category>binary_transition</category>
+        
+      </item>
     
       <item>
         <title>A mon compte + 5 mois</title>
@@ -516,34 +552,6 @@ Then we can talk about helping non-profits in the evening. And hurry up, because
         
         
         <category>good_job</category>
-        
-      </item>
-    
-      <item>
-        <title>Réactionnaires vs radicaux, version web</title>
-        <description>&lt;p&gt;Partir du symptôme de &lt;em&gt;“Javascript fatigue”&lt;/em&gt; pour arriver à une confrontation entre réactionnaires et radicaux dans le domaine de l’outillage web.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;[…] When we lump Substack and PPK together as “web minimalists”, we’re conflating the radical with the reactionary. The reactionary approach, though superficially similar to the radical one, has opposite goals: instead of creating a new system, the reactionary returns to the old one; instead of making tools accessible to a new generation of developers, it merely reinstates the old gatekeepers. This is the problem with PPK — his vision is fundamentally nostalgic, not progressive. &lt;strong&gt;He doesn’t want to make web development better; he wants to Make Web Development Great Again&lt;/strong&gt;.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Par une comparaison politique filée de bon aloi, &lt;a href=&quot;https://hackernoon.com/tools-for-radicals-73b7cbbfc276#.x5kqnxi9x&quot;&gt;Justin Falcon&lt;/a&gt; livre une plaidoirie rafraichissante pour que les alternatives radicales en matière de développement web soient plus écoutées.&lt;/p&gt;
-
-&lt;p&gt;Source : &lt;a href=&quot;https://hackernoon.com/tools-for-radicals-73b7cbbfc276#.x5kqnxi9x&quot;&gt;Tools for Radicals&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 17 Mar 2017 00:00:00 +0100</pubDate>
-        <link>http://marges.clairezuliani.com/sustainable_code/2017/03/17/reactionnaires-radicaux-web.html</link>
-        <guid isPermaLink="true">http://marges.clairezuliani.com/sustainable_code/2017/03/17/reactionnaires-radicaux-web.html</guid>
-        
-        <category>code</category>
-        
-        <category>politique</category>
-        
-        
-        <category>sustainable_code</category>
         
       </item>
     
