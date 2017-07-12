@@ -5,9 +5,105 @@
     <description>Prise de notes des internets de claire zuliani</description>
     <link>http://marges.clairezuliani.com/</link>
     <atom:link href="http://marges.clairezuliani.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 27 Jun 2017 16:18:38 +0200</pubDate>
-    <lastBuildDate>Tue, 27 Jun 2017 16:18:38 +0200</lastBuildDate>
+    <pubDate>Wed, 12 Jul 2017 12:55:25 +0200</pubDate>
+    <lastBuildDate>Wed, 12 Jul 2017 12:55:25 +0200</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>A mon compte + 6 mois</title>
+        <description>&lt;p&gt;Simili journal de bord simili mensuel épisode 6. Ce mois de juin était plein de statique et de mouvements, de fins et de débuts.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Qu’ai-je fait sous la canicule d’Epinal et d’ailleurs ?&lt;/p&gt;
+
+&lt;p&gt;Les demandes de deux structures copines issues de mon ancienne vie (bisou &lt;a href=&quot;http://organic-orchestra.com/&quot;&gt;Organic Orchestra&lt;/a&gt; et &lt;a href=&quot;http://aadn.org/&quot;&gt;AADN&lt;/a&gt;) m’amènent à pousser plus loin ma connaissance des sites statiques et des solutions d’édition numérique (&lt;a href=&quot;https://www.gitbook.com&quot;&gt;gitbook&lt;/a&gt;, wiki github, &lt;a href=&quot;https://jekyllrb.com/&quot;&gt;jekyll&lt;/a&gt; et back office avec &lt;a href=&quot;https://www.netlifycms.org/&quot;&gt;Netlify CMS&lt;/a&gt;…).&lt;/p&gt;
+
+&lt;p&gt;Mon inscription à l’étape Grand Est du Tour des &lt;a href=&quot;http://www.interconnectes.com/grand-est2017/&quot;&gt;Interconnectés&lt;/a&gt;, m’a permise de me mettre à jour sur les acteurs publiques sensibles ou actifs dans le numérique dans ma région, et sur les pratiques et questionnements en cours sur la question du numérique dans les collectivités. J’en parle plus précisément &lt;a href=&quot;/good_job/2017/07/10/interco-grand-est.html&quot;&gt;ici&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;Un passage parisien me permet de rencontrer physiquement un bout de la communauté française d’&lt;a href=&quot;https://www.openfoodfrance.org/&quot;&gt;Open Food Network&lt;/a&gt;, projet international très chouette mêlant communs et problématiques de gestion alimentaire (pour faire court). Malgré mon envie de soutenir et de contribuer, après un commit très modeste je mets ma participation en stand by, faute de temps. Si vous vous y connaissez un peu en ruby on rails, et encore plus si vous avez des bases sur Spree et Angular, faites leur signe !&lt;/p&gt;
+
+&lt;p&gt;Le même passage parisien me permet aussi de rencontrer dans la vraie vie des membres d’&lt;a href=&quot;http://happy-dev.fr/&quot;&gt;Happy Dev&lt;/a&gt;, réseau de développeurs indépendants bien branchés Economie Sociale et Solidaire et innovation sociale. Et dans la foulée, d’ailleurs, j’intègre le réseau. Zou :)&lt;/p&gt;
+
+&lt;p&gt;Et j’ai enfin bouclé mon premier projet en freelance, pour l’association &lt;a href=&quot;http://www.project-mirador.org/&quot;&gt;Mirador&lt;/a&gt; : &lt;a href=&quot;https://www.lafabriquedumonde.fr/&quot;&gt;La fabrique du monde&lt;/a&gt;, réalisé avec &lt;a href=&quot;http://phicarre.fr/&quot;&gt;Phi²&lt;/a&gt; au graphisme. Si le projet n’est pas techniquement le plus complexe que j’aie eu à réaliser, il a induit une bonne montée en compétence sur des pratiques qui n’étaient pas jusqu’à présent mon coeur de métier : l’intégration et la configuration de serveur. Je voulais, en me mettant à mon compte, diversifier mes pratiques : je ne suis pas déçue :)&lt;/p&gt;
+</description>
+        <pubDate>Tue, 11 Jul 2017 00:00:00 +0200</pubDate>
+        <link>http://marges.clairezuliani.com/good_job/2017/07/11/solo-plus-6-mois.html</link>
+        <guid isPermaLink="true">http://marges.clairezuliani.com/good_job/2017/07/11/solo-plus-6-mois.html</guid>
+        
+        <category>et moi</category>
+        
+        
+        <category>good_job</category>
+        
+      </item>
+    
+      <item>
+        <title>IntercoTOUR, un baromètre des usages du numérique en collectivités</title>
+        <description>&lt;p&gt;Qu’est-ce qu’il se fait et se raconte niveau numérique dans les collectivités, ces temps-ci ? Une halte à Nancy des Interconnectés, association sensibilisant et soutenant les collectivités sur l’innovation numérique (entre autres), me permet de prendre la température.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Le 22 juin, le réseaux des territoires innovants, plus connu sous le nom des &lt;a href=&quot;http://www.interconnectes.com&quot;&gt;Interconnectés&lt;/a&gt;, a fait étape à Nancy, pour s’adresser aux représentants des collectivités du Grand Est, de Bourgogne et de Franche-Comté, et partager les projets remarquables issus de ces territoires. Je me suis infiltrée pour identifier les projets actifs et les thématiques en vogue sur mon territoire.&lt;/p&gt;
+
+&lt;h2 id=&quot;enjeu-politique-et-stratégique&quot;&gt;Enjeu politique et stratégique&lt;/h2&gt;
+
+&lt;p&gt;Que retenir de la journée ?&lt;/p&gt;
+
+&lt;p&gt;Des visions contrastées de l’apport du numérique dans la cité, sans pour autant que ces contrastes ne fassent polémiques. Certains parlent d’&lt;em&gt;“envie de gagner”&lt;/em&gt;, de &lt;em&gt;“haut de gamme du train numérique”&lt;/em&gt; ; d’autres d’&lt;em&gt;“outil d’inclusion”&lt;/em&gt;, de &lt;em&gt;“chercher à se faire remettre en cause”&lt;/em&gt;… Un bon panorama diversifié, en somme.&lt;/p&gt;
+
+&lt;p&gt;Myriam El Yassa, conseillère municipale déléguée à la ville connectée à Besançon, tient un discours qui me plaît. Elle parle du quartier prioritaire de la Planoise, dont Besançon veut faire une “&lt;a href=&quot;http://www.macommune.info/article/besancon-demonstrateur-de-la-smart-city-153220&quot;&gt;smart city&lt;/a&gt;” non techniciste ou poussée vers l’ultra performance, mais où le numérique soit avant tout un outil d’inclusion sociale. L’intention est belle, j’espère que sa matérialisation le sera tout autant.&lt;/p&gt;
+
+&lt;p&gt;Aussi bien à Besançon qu’à Nancy, on insiste sur le temps nécessaire pour, pas tant produire des projets, mais les mener correctement, de façon à ce qu’ils entraînent une évolution des cultures et des usages, notamment au sein des administrations. Comment induire un changement de posture chez les décideurs autour de notions comme &lt;em&gt;“droit à l’expérimentation”&lt;/em&gt;, &lt;em&gt;“libération du temps de travail des collaborateurs”&lt;/em&gt; ? Le projet de refonte du site internet de la ville de Nancy a ainsi été le support d’un travail d’évolution des processus, du fonctionnement et du management internes.&lt;/p&gt;
+
+&lt;p&gt;Quels gains espérer des processus de dématérialisation ? L’un des intervenants estime qu’à Nancy, la dématérialisation des conseils muncipaux a entraîné une économie de 25 000 €. L’exemple est parlant, mais j’aimerais tellement avoir un peu plus de sources sur ce chiffre…&lt;/p&gt;
+
+&lt;h2 id=&quot;le-petit-point-open-data-locale&quot;&gt;Le petit point open data locale&lt;/h2&gt;
+
+&lt;p&gt;L’une des thématiques phares de cette édition nancéenne du tour des Interconnectés était l’open data.&lt;/p&gt;
+
+&lt;p&gt;Pour ceux qui sont loin de ça, rapide rappel de la loi pour une République numérique (octobre 2016, c’est encore tout neuf) : la loi impose l’ouverture des données publiques par défaut. C’est une obligation légale pour toutes les communes de plus de 3500 habitants et de plus de 50 agents ou salariés.&lt;/p&gt;
+
+&lt;p&gt;Les données à ouvrir : toutes les données qui existent sous forme électronique (sauf celles qui sont explicitement protégées). Ces données doivent évidemment être anonymisées, dans un format utilisable (on arrête les pdf merci).&lt;/p&gt;
+
+&lt;p&gt;On peut diffuser ses données sur le site de sa collectivité (exemple du &lt;a href=&quot;http://opendata.grandnancy.eu/accueil/&quot;&gt;Grand Nancy&lt;/a&gt;, sur un sous domaine), sur une plateforme régionale (comme dans le &lt;a href=&quot;http://data.grandest.fr/&quot;&gt;Grand Est&lt;/a&gt;) ou sur &lt;a href=&quot;http://www.data.gouv.fr/fr/&quot;&gt;data.gouv.fr&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Une discussion avec Mathieu Caps  de &lt;a href=&quot;https://www.opendatasoft.fr/&quot;&gt;Open Data Soft&lt;/a&gt; m’apprend qu’il y a peu (pas ?) encore de collectivités de moins de 200 000 habitants engagées dans des démarches d’open data. Autant dire qu’il y a du boulot, notamment pour des villes de la taille de la mienne. Comment initie-t-on une démarche open data dans une ville moyenne ?&lt;/p&gt;
+
+&lt;h2 id=&quot;et-du-côté-de-la-médiation&quot;&gt;Et du côté de la médiation&lt;/h2&gt;
+
+&lt;p&gt;Cette journée m’a aussi permise de rencontrer l’&lt;a href=&quot;https://agencedunumerique.gouv.fr/&quot;&gt;Agence du numérique&lt;/a&gt;, dans son volet &lt;a href=&quot;https://agencedunumerique.gouv.fr/programme-societe-numerique/&quot;&gt;société numérique&lt;/a&gt;, une structure publique qui effectue un boulot intéressant et nécessaire, pour que cette histoire de transition numérique ne laisse pas tout un tas de gens sur le carreau.&lt;/p&gt;
+
+&lt;h2 id=&quot;il-y-a-innovation-et-innovation-&quot;&gt;Il y a innovation et innovation ?&lt;/h2&gt;
+
+&lt;p&gt;Parmi les interventions qui m’auront bizarrement le plus marquée : dans la journée, un représentant se félicite de la création dans sa ville d’une application permettant d’avoir des réductions dans les parkings du centre-ville, par l’accumulation de points acquis en consommant chez les commerçants. Je grince un peu des dents, en traduisant ainsi : “Se féliciter d’un outil qui encourage l’utilisation de la bagnole et la sur-consommation ?”&lt;/p&gt;
+
+&lt;p&gt;Certes, on pourrait parler d’innovation, mais on ne peut définitivement pas se contenter du terme “innovation” sans le qualifier. L’innovation n’est pas bonne en tant que telle, toute innovation est éminement politique et reflète un projet, une vision de société. L’envie de questionner cette question de la qualification de l’innovation monte en moi…&lt;/p&gt;
+
+&lt;h2 id=&quot;initiatives-à-suivre&quot;&gt;Initiatives à suivre&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Un intervenant parle sans le citer d’un logiciel open source de gestion de résultats électoraux, et en faisant des recherches là-dessus je tombe sur &lt;a href=&quot;http://www.openmairie.org/catalogue/openresultat&quot;&gt;openMairie&lt;/a&gt;, et sa suite logicielle franglicisante (“openCimetiere”…). L’idée est chouette, mais les produits me paraissent déjà vieillissants. A creuser.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://opportunity.census.gov/&quot;&gt;The opportunity project&lt;/a&gt;, cité par OpenDataSoft ; projet qui mêle ouverture des données publiques et opportunités économiques, aux Etats-Unis.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://mulhousecestvous.fr/blog/pourquoi-une-agence-de-la-participation-citoyenne&quot;&gt;Agence de la participation citoyenne&lt;/a&gt; créée à Mulhouse depuis fin 2015, notamment pour éviter que ce soient toujours les mêmes personnes qui participent.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;plus-de-ressources&quot;&gt;Plus de ressources&lt;/h2&gt;
+
+&lt;p&gt;Le programme complet de la journée ainsi que son compte-rendu sont &lt;a href=&quot;http://www.interconnectes.com/grand-est2017/&quot;&gt;disponibles ici&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 10 Jul 2017 00:00:00 +0200</pubDate>
+        <link>http://marges.clairezuliani.com/good_job/2017/07/10/interco-grand-est.html</link>
+        <guid isPermaLink="true">http://marges.clairezuliani.com/good_job/2017/07/10/interco-grand-est.html</guid>
+        
+        <category>evenement</category>
+        
+        <category>collectivites</category>
+        
+        
+        <category>good_job</category>
+        
+      </item>
     
       <item>
         <title>L'open lave plus blanc que blanc</title>
@@ -472,83 +568,6 @@ Pour faire la jonction, une coopérative ouverte s’oblige statutairement à av
         <category>design</category>
         
         <category>faire a plusieurs</category>
-        
-        
-        <category>good_job</category>
-        
-      </item>
-    
-      <item>
-        <title>A mon compte + 3 mois</title>
-        <description>&lt;p&gt;Simili journal de bord simili mensuel épisode 3. Ce mois de mars, on parle bois (l’environnement vosgien se rappelle à moi :)), podcast, intelligence collective.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;A défaut de me rendre à la &lt;a href=&quot;http://www.biennale-design.com/saint-etienne/2017/fr/home/&quot;&gt;Biennale du Design de Saint Etienne&lt;/a&gt;, faute de temps, j’apporte une toute petite contribution à la production d’un élément qui y fut présenté. Le chantier participatif Construction de yourte, proposé par &lt;a href=&quot;http://i-wood.fr/&quot;&gt;I Wood&lt;/a&gt; en début de mois, m’extrait du numérique et me permet de reprendre quelques marques avec mesdames scie circulaire et défonceuse, rencontrées très fugacement il y a quelques temps. Surtout, ça me donne l’occasion de découvrir un peu plus la philosophie d’action de Pierre-Antoine, cheville ouvrière d’I Wood. Ouverture de l’atelier régulièrement au grand public, initiation à la menuiserie bénévolement, principe de compagnonnage… Son travail, c’est du brut, c’est du tangible, du matériel, et pourtant je me retrouve vachement dans ce qu’il raconte et j’y vois plein de passerelles avec la façon dont j’ai envie de mener ma propre activité immatérielle. Je ne vois pas comment on ne serait pas amené à se recroiser.&lt;/p&gt;
-
-&lt;p&gt;Découverte du &lt;a href=&quot;https://lerubynouveau.fr/&quot;&gt;ruby nouveau&lt;/a&gt;, et de la communauté réunie autour de &lt;a href=&quot;https://www.rubyparis.org/&quot;&gt;paris.rb&lt;/a&gt;. Accueil, bienveillance, soutien. Merci mille fois, j’ai comme l’impression d’avoir trouvé un grand frère ou une grande soeur de code pour me rassurer dans cette grande prise d’autonomie qu’est de se mettre à son compte.&lt;/p&gt;
-
-&lt;p&gt;Je me rapproche aussi, à petit pas, de &lt;a href=&quot;http://happy-dev.fr/&quot;&gt;Happy Dev&lt;/a&gt;, cette communauté autonome de développeurs dont j’entendais ces derniers temps parler par de multiples biais. L’occasion peut-être de bosser à plusieurs sur des projets un peu engagés ? Les premiers contacts sont pris, il ne reste plus qu’à trouver le bon prétexte pour entrer dans le vif et commencer à bosser ensemble !&lt;/p&gt;
-
-&lt;p&gt;Je me rends à Mulhouse pour une journée de formation pour les futurs animateurs de &lt;a href=&quot;http://startupdeterritoire.alsace/accueil/&quot;&gt;Start Up de territoire Alsace&lt;/a&gt;, une soirée de cogitation en plein de petits groupes pour imaginer une multitude de projets à portée sociale (comme on dit) sur le territoire alsacien. Ca fait longtemps que j’avais envie de rajouter dans ma boîte à outil personnelle des leviers pour accompagner la réflexion constructive à plusieurs (réfléchir à plusieurs, de façon véritablement collective et efficacement, est un exercice qui me semble aussi vital que très complexe à mettre en oeuvre). Au delà de l’appellation “Start Up” (qui me hérisse toujours un peu le poil malgré moi) de l’événement, j’ai été très heureuse de croiser une équipe aussi enjouée que sérieuse, avec une véritable réflexion sur la meilleure méthodologie d’intelligence collective à adopter. Une journée précieuse, hâte (avec un peu de trac, évidemment) d’éprouver la méthode en condition réelle le 4 mai prochain.&lt;/p&gt;
-
-&lt;p&gt;Et surtout, je continue à bosser sur mon premier projet, ce qui explique une petite baisse de régime dans la vadrouille ce mois-ci.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 12 Apr 2017 00:00:00 +0200</pubDate>
-        <link>http://marges.clairezuliani.com/good_job/2017/04/12/solo-plus-3-mois.html</link>
-        <guid isPermaLink="true">http://marges.clairezuliani.com/good_job/2017/04/12/solo-plus-3-mois.html</guid>
-        
-        <category>et moi</category>
-        
-        
-        <category>good_job</category>
-        
-      </item>
-    
-      <item>
-        <title>Le serment d'Ada Lovelace ?</title>
-        <description>&lt;p&gt;Code, web, éthique. Des mots que j’ai croisé entremêlés plusieurs fois et à un rythme élévé ces derniers jours. Est-ce signe d’un mouvement de fond d’une préoccupation émergente, ou juste moi qui y suis de plus en plus sensible ?&lt;br /&gt;
-&lt;!--more--&gt;&lt;/p&gt;
-
-&lt;p&gt;Pour comprendre de quoi je parle quand je parle d’&lt;strong&gt;éthique&lt;/strong&gt; et de &lt;strong&gt;code&lt;/strong&gt;, je vous invite à écouter l’&lt;a href=&quot;https://lerubynouveau.fr/003.html&quot;&gt;épisode n°003&lt;/a&gt; du ruby nouveau, avec un long passage intéressant sur l’éthique, qui part de l’exemple des développeurs qui ont codé le programme permettant à Volkswagen de frauder les tests écologiques.&lt;/p&gt;
-
-&lt;p&gt;Je vous invite aussi à lire &lt;a href=&quot;https://deardesignstudent.com/ethics-cant-be-a-side-hustle-b9e78c090aee#.jfsf9w40m&quot;&gt;Ethics can’t be a side hustle&lt;/a&gt; (“l’éthique ne peut pas être un passe temps”), dont je reprends un extrait ci-dessous :&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;You can’t help &lt;a href=&quot;https://www.nytimes.com/2017/03/03/technology/uber-greyball-program-evade-authorities.html?_r=0&quot;&gt;Uber build Greyball&lt;/a&gt; during the day, or help &lt;a href=&quot;https://theintercept.com/2017/03/02/palantir-provides-the-engine-for-donald-trumps-deportation-machine/&quot;&gt;Palantir design databases&lt;/a&gt;  to round up immigrants as your main gig, and then buy ethics offsets by doing a non-profit side hustle. We need you to work ethically during that day job much more than we need you working with that non-profit.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Traduction maison rapide :&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Vous ne pouvez pas, le jour, aider Uber à construire Greyball ou Palantir à mettre en place des bases de données pour ficher les migrants, puis vous racheter une conscience en aidant des projets non lucratifs à côté. Nous avons besoin que votre travail quotidien soit lui-même éthique, bien plus que nous n’avons besoin de votre contribution aux projets non-lucratifs.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;A noter : Geoffrey Dorne (encore lui) a publié après que j’aie commencé ce post sa propre traduction de l’article en question, que vous pouvez lire &lt;a href=&quot;https://graphism.fr/lethique-ne-peut-pas-etre-un-passe-temps/&quot;&gt;ici&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Pour ceux que ces questions intéressent, &lt;a href=&quot;http://ethicsbydesign.fr/&quot;&gt;Ethics by Design&lt;/a&gt;, un événement spécialement dédié à cette thématique est organisé à &lt;strong&gt;Lyon&lt;/strong&gt; le &lt;strong&gt;12 mai&lt;/strong&gt;. On se donne rendez-vous là-bas et on commence à réfléchir à un serment d’Hippocrate adapté à nos pratiques ?&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;You cannot afford to be neutral. Right now, more than ever you need to reach down deep into your core, find your ethical strength, and bring it to your day job with you every day.&lt;br /&gt;
-Then we can talk about helping non-profits in the evening. And hurry up, because they do need your help.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;*Dernière minute : *&lt;/p&gt;
-
-&lt;p&gt;Encore une fois grâce à la communauté ruby regroupée autour du &lt;a href=&quot;https://lerubynouveau.fr&quot;&gt;ruby nouveau&lt;/a&gt;, je prends connaissance du travail autour d’un “Ordre des développeurs” :&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/book/ordre-des-developpeurs/constitution/details&quot;&gt;Constitution&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://ordre-des-developpeurs.github.io/odd-introduction/#/&quot;&gt;Présentation reveal.js de l’ordre des développeurs&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-</description>
-        <pubDate>Mon, 27 Mar 2017 00:00:00 +0200</pubDate>
-        <link>http://marges.clairezuliani.com/good_job/2017/03/27/serment-lovelace.html</link>
-        <guid isPermaLink="true">http://marges.clairezuliani.com/good_job/2017/03/27/serment-lovelace.html</guid>
-        
-        <category>code</category>
-        
-        <category>ethique</category>
         
         
         <category>good_job</category>
