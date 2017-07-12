@@ -31,6 +31,7 @@ Des trucs à lire/voir quand je serai à la retraite (ou que je prendrai un mome
 ### Feel good reads
 
 - [The Politics of Optimism](https://medium.com/@AlexSteffen/the-politics-of-optimism-37a5006e8ba8#.lz1kqvxxb)
+- [The Calm Company](https://m.signalvnoise.com/the-calm-company-our-next-book-d0ed917cc457)
 
 
 ### Design
@@ -72,6 +73,9 @@ POUR UNE ÉCOLOGIE DES PRATIQUES COLLECTIVES (version en ligne)
 
 
 ## A voir
+
+### Documentaires
+- [Design and Thinking](https://www.youtube.com/watch?v=Z_YwyMssN0Y), documentaire complet sur le design thinking
 
 ### Chaînes youtubes
 

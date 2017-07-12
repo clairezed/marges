@@ -76,6 +76,7 @@ Comment bien commencer un projet ? Quelques outils déjà utilisés ou à tester
 - [Hack Design Toolkit](https://hackdesign.org/toolkit/)
 - [Resource Cards](https://resourcecards.com/)
 - [Wwwhere.io](http://wwwhere.io/)
+- [uxtools.co](https://uxtools.co/tools/design) : comparison table of available UX tools (design / prototyping)
 
 ### Checklist
 
@@ -229,6 +230,7 @@ Zaclys : comme openmailbox mais mieux
 ## Collaboration / productivité
 
 - [Project Groupie](https://projectgroupie.com/) : ProjectGroupie is a place to find awesome software projects to join and collaborate. Create your own project and find skilled like-minded individuals to help bring your idea to life.
+- [Remote Starter Kit](https://www.remotestarterkit.com/)
 
 ##  Administratif
 
