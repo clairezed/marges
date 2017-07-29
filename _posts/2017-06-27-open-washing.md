@@ -6,7 +6,7 @@ tags: [open source, tech-washing]
 
 ---
 
-Parce qu'on va quand même être 100% content de voir l'open se diffuser à tout crin, voyons l'inévitable côté obscur de la force et parlons "open washing".
+Parce qu'on va quand même pas être 100% content de voir l'open se diffuser à tout crin, voyons l'inévitable côté obscur de la force et parlons "open washing".
 
 
 <!--more-->

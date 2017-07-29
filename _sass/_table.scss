@@ -44,3 +44,14 @@
 article .table-meta{
   margin-top: 4rem;
 }
+
+.table-default{
+  font-size: 1.2rem;
+  margin-bottom: 2rem;
+  &.table th:first-child{
+    min-width: 180px;
+  }
+  &.table td, .table th{
+    padding: 0.4rem 0.3rem;
+  }
+}

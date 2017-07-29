@@ -223,7 +223,7 @@ En sommeil ?
 
 Atelier rassemblant paysagistes, urbanistes, botanistes, jardiniers et artistes. Coordinateur du projet de transformation jardinière de la place de la Nation, à Paris.
 
-[colocoplaces.wixsite.com](https://colocoplaces.wixsite.com)
+[www.coloco.org](http://www.coloco.org/)
 
 
 ### Collaboration développeur - société civile

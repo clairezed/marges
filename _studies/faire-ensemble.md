@@ -61,6 +61,7 @@ Prise de note sur la collaboration, l'animation de communauté...
 - [Community Canvas](https://community-canvas.org/) : A framework to help you build meaningful communities.
 - Ideo Human centered [Design Kit](http://www.designkit.org)
 - [Product Design Playbook](https://blog.marvelapp.com/product-design-playbook/)
+- [La transfo - outils](http://latransfo.la27eregion.fr/outils-et-methodes/)
 
 ## Règles collective
 
