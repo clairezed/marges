@@ -106,6 +106,7 @@ Comment bien commencer un projet ? Quelques outils déjà utilisés ou à tester
 - [HTML5 up](https://html5up.net/)
 - [Start Bootstrap](https://startbootstrap.com/template-categories/popular/)
 - [Bootswatch](https://bootswatch.com/)
+- [templated](https://templated.co/)
 
 ### Photos / illustrations
 - [Unsplash](https://unsplash.com)

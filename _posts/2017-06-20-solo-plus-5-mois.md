@@ -12,7 +12,7 @@ Simili journal de bord simili mensuel épisode 5. Ce mois de mai était plein d'
 
 Ce qui est chouette avec le fait d'être à son compte (hormis pouvoir prendre une douche froide à n'importe quelle heure en cas de canicule), c'est d'être plutôt maître de son temps et pouvoir se rendre à des événements "si je veux" (et que j'ai de quoi me payer un billet de train). J'ai profité du joli mois de mai pour appliquer à bloc cette nouvelle capacité.
 
-Ca déutait avec Strasbourg dès le 4 mai, et j'en cause en [par ici]({{ site.baseurl }}{% link _posts/2017-05-28-retours-start-up-territoire-alsace.md %})). Ce grand raout m'a aussi permis de croiser [Makers For Change](http://makersforchange.org), et profiter de leur expérience pour creuser des pistes pour un futur projet avec des migrants (bam, le teasing).
+Ca débutait avec Strasbourg dès le 4 mai, et j'en cause en partie [par ici]({{ site.baseurl }}{% link _posts/2017-05-28-retours-start-up-territoire-alsace.md %})). Ce grand raout m'a aussi permis de croiser [Makers For Change](http://makersforchange.org), et profiter de leur expérience pour creuser des pistes pour un futur projet avec des migrants (bam, le teasing).
 
 Ensuite, je commençais 10 jours en goguette vers le sud le 12 mai, avec la journée Ethics by Design. Là aussi j'ai pondu un [compte-rendu]({{ site.baseurl }}{% link _posts/2017-05-12-ethics-by-design.md %}) bien commode pour pas avoir à s'éterniser sur le sujet ici. Ah si, un truc que je ne signale pas dans l'article : ce qui est cool dans ce genre d'événement, c'est que la probabilité de croiser des gens avec lesquels tu aurais envie de bosser est plus forte qu'ailleurs. Gros coup de coeur pour [Ochelys](http://www.ochelys.com/), fièrement représentée par Florent et Goulven.
 

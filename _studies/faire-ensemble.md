@@ -62,6 +62,7 @@ Prise de note sur la collaboration, l'animation de communauté...
 - Ideo Human centered [Design Kit](http://www.designkit.org)
 - [Product Design Playbook](https://blog.marvelapp.com/product-design-playbook/)
 - [La transfo - outils](http://latransfo.la27eregion.fr/outils-et-methodes/)
+- [Participatory Design Toolkit](https://www.enterprisecommunity.org/download?fid=9750&nid=13221) : pdf sur un cas pratique avec outils et méthodo, sur le design immobilier
 
 ## Règles collective
 

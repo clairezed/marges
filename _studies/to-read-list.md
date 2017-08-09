@@ -101,3 +101,7 @@ POUR UNE ÉCOLOGIE DES PRATIQUES COLLECTIVES (version en ligne)
 - [Primum non nocere](https://www.youtube.com/user/scilabus) : vulgarisation scientifique
 
 *Merci à [Rue89 et un certain Cyril](http://rue89.nouvelobs.com/2016/12/01/famille-ils-regardent-plus-jt-ils-regardent-youtube-265768?utm_campaign=Echobox&utm_medium=Social&utm_source=Facebook#link_time=1480609991) pour cette lliste*
+
+### Feel good watch
+
+[Wat talk](https://www.destroyallsoftware.com/talks/wat)

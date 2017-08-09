@@ -95,6 +95,19 @@ git rm --cached `git ls-files -i --exclude-from=.gitignore`
 
 Cf [Fit commit hook](https://github.com/m1foley/fit-commit#who-decided-these-rules)
 
+Exemple :
+```bash
+git commit -m 'Init project' -m $'- Base gemfile\n- DB config'    
+```
+
+ce qui donne :
+```txt
+Init project
+
+- Base gemfile
+- DB config
+```
+
 Sources :
 - [Tim Pope's blog](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
 - [The official Git documentation](https://git.kernel.org/pub/scm/git/git.git/tree/Documentation/SubmittingPatches?id=HEAD)

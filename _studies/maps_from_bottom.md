@@ -68,6 +68,8 @@ Ca parle d'outils, de taxonomie, d'api communs, mais je n'en trouve pas de trace
 - [Geofabrik Tools - Map Compare](http://tools.geofabrik.de/)
 - [Le jour où j'ai fait les poubelles](http://florian.lainez.fr/le-jour-ou-jai-fait-les-poubelles/) : récit d'une collecte et traitement de données sur open street map
 - [Pour une pratique féministe de la visualisation de données](https://visionscarto.net/visualisation-donnees-feministe)
+- [Cartopen](http://cartopen.com) : site fr de promotion de la carto collaborative
+- [DatavizForAll](https://www.datavizforall.org/map/) : qq chapitres dédiés à la carto dans ce git book
 
 ## Tech
 
