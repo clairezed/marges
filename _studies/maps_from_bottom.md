@@ -70,6 +70,7 @@ Ca parle d'outils, de taxonomie, d'api communs, mais je n'en trouve pas de trace
 - [Pour une pratique féministe de la visualisation de données](https://visionscarto.net/visualisation-donnees-feministe)
 - [Cartopen](http://cartopen.com) : site fr de promotion de la carto collaborative
 - [DatavizForAll](https://www.datavizforall.org/map/) : qq chapitres dédiés à la carto dans ce git book
+- [The Complete Guide to Hosting a #MapJam in Your City](https://www.shareable.net/blog/the-complete-guide-to-hosting-a-mapjam-in-your-city) : événement de collecte participative de données sur l'économie collavorative dans une ville. Voir leur classification pour inspiration.
 
 ## Tech
 

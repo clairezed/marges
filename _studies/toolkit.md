@@ -158,6 +158,7 @@ Comment bien commencer un projet ? Quelques outils déjà utilisés ou à tester
 
 #### Accessibilité
 	- [Tools for Developing Accessible Websites](https://bitsofco.de/tools-for-developing-accessible-websites/)
+	- [The Accessibility Cheatsheet](https://bitsofco.de/the-accessibility-cheatsheet/)
 
 ### Boilerplates
 

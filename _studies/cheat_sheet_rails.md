@@ -49,7 +49,16 @@ Conseils à la volée pour écrire du meilleur code en ruby.
 ### Utilities
 - [kaminari](https://github.com/kaminari/kaminari) : A Scope & Engine based, clean, powerful, customizable and sophisticated paginator for Ruby webapps (à la place de will_paginate ?)
 - [sitemap_generator)](https://github.com/kjvarga/sitemap_generator) : framework-agnostic XML Sitemap generator written in Ruby with automatic Rails integration. It supports Video, News, Image, Mobile, PageMap and Alternate Links sitemap extensions and includes Rake tasks for managing your sitemaps, as well as many other great features.
+
+### API
+
 - [Json API rb](http://jsonapi-rb.org/) : Efficient and convenient JSON API library for ruby (upgrade de active model serializer, en gros)
+- [Json API serializers](https://github.com/fotinakis/jsonapi-serializers) : Pure Ruby readonly serializers for the JSON:API spec.
+
+### Code structure
+
+- [interactor](https://github.com/collectiveidea/interactor) : common interface for performing complex user interactions. (made by CollectiveIdea)
+- [trailblazer](https://github.com/trailblazer/trailblazer) : A High-Level Architecture for Ruby.
 
 ## Divers
 
