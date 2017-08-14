@@ -5,9 +5,144 @@
     <description>Prise de notes des internets de claire zuliani</description>
     <link>http://marges.clairezuliani.com/</link>
     <atom:link href="http://marges.clairezuliani.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 09 Aug 2017 17:08:31 +0200</pubDate>
-    <lastBuildDate>Wed, 09 Aug 2017 17:08:31 +0200</lastBuildDate>
+    <pubDate>Mon, 14 Aug 2017 17:22:57 +0200</pubDate>
+    <lastBuildDate>Mon, 14 Aug 2017 17:22:57 +0200</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>Je passe trop de temps sur internet - semaine 32</title>
+        <description>&lt;p&gt;Toujours à la recherche du rythme de publication qui me convienne, j’inaugure une nouvelle rubrique. Et zou, à mon tour de m’essayer à la veille hebdomadaire.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Là dessous, il n’y aura pas forcément QUE des nouveaux articles, mais aussi des ressources plus anciennes qui me tombent sous l’oeil. Et tout de même, je promets de me fendre d’un micro-commentaire pour chaque lien.&lt;/p&gt;
+
+&lt;h2 id=&quot;données&quot;&gt;Données&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://tomforth.co.uk/measuringtech/&quot;&gt;Measuring tech in the UK and France in 10 steps&lt;/a&gt;&lt;/strong&gt; : &lt;a href=&quot;https://twitter.com/thomasforth&quot;&gt;Thomas Forth&lt;/a&gt; détaille son processus d’étude de données issues du répertoire SIRENE, entre autres. J’aurais même bien aimé encore plus de détails, tiens.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://beta.gouv.fr/2017/07/21/comment-choisir-vocabulaire-proposition-valeur&quot;&gt;Comment choisir le vocabulaire d’une proposition de valeur&lt;/a&gt;&lt;/strong&gt; : chouette explication d’une démarche de recherche (google search, ngram, trends…) du bon terme pour le bon public, par Matti Schneider de beta.gouv.fr&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;ethique&quot;&gt;Ethique&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2017/07/privacy-by-design-framework/&quot;&gt;How To Protect Your Users With The Privacy By Design Framework&lt;/a&gt;&lt;/strong&gt; : un long article de Smashing Magazine, qui fournit certaines des informations les plus claires que j’aie pu trouver jusqu’à présent sur ce qu’implique concrètement le Réglement Général sur la Protection des Données pour les développeurs d’outils web.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://nicolaslegland.wordpress.com/2013/08/15/les-enfants-ne-savent-pas-se-servir-dun-ordinateur/&quot;&gt;Les enfants ne savent pas se servir d’un ordinateur et vous devriez vous en inquiéter&lt;/a&gt;&lt;/strong&gt; : pourquoi nos chères têtes blondes sont des incultes de l’informatique (spoiler : c’est la faute à un peu tout le monde), pourquoi c’est grave et quelques pistes pour y remédier.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Quand ils auront dix ans, donnez-leur un fichier texte brut avec 10 000 clés WPA2, et dites leur que la bonne est là, quelque part. Voyez avec quelle vitesse ils découvriront Python ou Bash.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;le-monde-va-mal&quot;&gt;Le monde va mal&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nytimes.com/interactive/2017/08/07/opinion/leonhardt-income-inequality.html&quot;&gt;Our Broken Economy, in One Simple Chart&lt;/a&gt;&lt;/strong&gt; : y’a clairement un truc de pêté dans notre système économique. Assez effrayant.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;transformation-sociale&quot;&gt;Transformation sociale&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://provocations.darkmatterlabs.org/building-impact-movements-ff5df8006d0d&quot;&gt;Building Impact Movements…&lt;/a&gt;&lt;br /&gt;
+Going beyond start ups as a means to drive Impact&lt;/strong&gt; : je n’ai fait que feuilleté le document, mais il m’a l’air d’y avoir de bonnes choses là-dedans. Dommage qu’il soit sur une plateforme fermée (issu : pas moyen de télécharger sans s’inscrire, pas moyen de copier pour citer… grr…)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Our proposition is to imagine place-based movements of change, composed of many actors, working with the decentralised, distributed, and democratic capacity of a wide range of people and organisations.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.shareable.net/blog/ghents-quick-rise-as-a-sustainable-commons-based-sharing-city&quot;&gt;Ghent’s Quick Rise as a Sustainable, Commons-Based Sharing City&lt;/a&gt;&lt;/strong&gt; : l’un des premiers retours en anglais sur l’étude menée au printemps à Gand autour des communs. Retour sur quelques initiatives exemplaires, et quelques conseils à une collectivité qui veut soutenir l’émergence de communs sur son territoire.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://medium.com/enspiral-tales/4-things-that-struck-me-after-visiting-political-spaces-in-14-us-cities-c1dceb1e8cb4&quot;&gt;4 Things That Struck Me After Visiting Political Spaces in 14 US Cities&lt;/a&gt;&lt;/strong&gt; : un gars d’Enspiral revient inspiré d’un tour des communautés d’activistes des Etats-Unis, avec des considérations sur les bienfaits de l’Etat-Providence, sur les différences culturelles, sur l’autocensure et la nécessité d’espaces où apprendre à lutter contre le patriarcat en tant qu’homme blanc, sur le passage de l’état de choc à l’action. Plein de liens plutôt chouettes dans le corps de l’article.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;discrimination-et-tech&quot;&gt;Discrimination et tech&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://www.washingtonpost.com/news/posteverything/wp/2017/08/08/techs-sexism-doesnt-stay-in-silicon-valley-its-in-the-products-you-use/&quot;&gt;Tech’s sexism doesn’t stay in Silicon Valley.&lt;/a&gt; It’s in the products you use.&lt;/strong&gt; : à la base, il y a l’affaire Google de la semaine (publicisation d’un texte sexiste d’un employé, suivi du licenciement de son auteur), mais en vérité sexisme et racisme irriguent jusqu’aux productions technologiques (Apple Health, Siri, snapchat…). Pleins d’exemples dans l’article.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The sooner we stop letting tech get away with being insular, inequitable and hostile to diversity, the sooner we’ll start building technology that works for all of us.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;dans-la-boîte-à-outil-de-louvrier-du-web&quot;&gt;Dans la boîte à outil de l’ouvrier du web&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://getpublii.com/&quot;&gt;Publii&lt;/a&gt;&lt;/strong&gt; : nouveau CMS open source pour site statique. Enfin, open source : le dépôt n’est pas encore ouvert car il a besoin de ripolinage, mais on nous promet une ouverture prochaine. Basé sur electron, ce que je trouve surprenant. A tester quand je m’ennuierai.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://aerolab.co/blog/web-accessibility/&quot;&gt;10 guidelines to improve your web accessibility&lt;/a&gt;&lt;/strong&gt; : 10 points chacun quantifié en &lt;em&gt;“temps que ça prend à mettre en place”&lt;/em&gt; pour améliorer l’accessibilité des sites. C’est simple, rapide, concret, je peux me promettre de les mettre en oeuvre sur mon prochain projet et me dire que je ne me mens pas à moi-même :). Thx &lt;a href=&quot;https://twitter.com/WalterStephanie&quot;&gt;Stephanie Walter&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://bradfrost.com/blog/post/launching-a-campaign-website-quickly/&quot;&gt;Launching a campaign website quickly&lt;/a&gt;&lt;/strong&gt; : Brad Frost partage la façon dont il a construit un site de campagne en une semaine. J’aime comme ce garçon réfléchit et trouve des solutions dans un contexte fortement contraint. Une bonne source d’inspiration, quand on cherche comment répondre à des demandes pauvres en temps et/ou en moyens.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://medium.appbase.io/how-to-build-a-github-search-ui-in-60-minutes-295109211c70&quot;&gt;How To Build A Github Search UI in 60 Minutes&lt;/a&gt;&lt;/strong&gt; : exemple de construction rapide d’un outil en se basant sur une palanquée de services tiers. Peu ont l’air d’être ouvert, malheureusement, alors que ce type de démarche (création d’un système modulaire sur lequel on branche d’autres outils selon les besoin) m’intéresse. Aufait, c’est quoi la meilleure alternative à firebase aujourd’hui ?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.sideprojectchecklist.com/marketing-checklist/&quot;&gt;The Side Project Marketing Checklist&lt;/a&gt;&lt;/strong&gt; : plein d’outils de marketing plus ou moins dégueu. Toujours intéressant de connaître les armes de l’ennemi (et de voir si y’en a pas qu’on peut utiliser et détourner :)).&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;plateformes&quot;&gt;Plateformes&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://www.henriverdier.com/2017/07/quand-zuckerberg-veut-faire-le-bonheur.html&quot;&gt;Quand Zuckerberg veut faire le bonheur de l’humanité&lt;/a&gt;&lt;/strong&gt; : Henri Verdier, directeur du numérique et du système d’information de l’Etat, plaide pour un Etat plateforme qui permette &lt;em&gt;“d’agir et d’innover sans être déterminés par les plateformes et les algorithmes de tiers”&lt;/em&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://platformdesigntoolkit.com/toolkit/&quot;&gt;The Platform Design Toolkit&lt;/a&gt;&lt;/strong&gt; : plein plein de documentation et d’outils pour penser sa stratégie de plateformisation. Trop dense et pas assez de temps pour fouiller dans le détail et jauger à quel degré cette boîte à outil est utile et utilisable.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://platform.coop/stories/platform-coops-looking-for-the-next-steps&quot;&gt;Platform Coops Looking for the Next Steps&lt;/a&gt;&lt;/strong&gt; : chouette résumé des discussions entre porteurs de coopératives plateformes menée lors du dernier Ouishare Festival, avec pas mal de questions qui peuvent aussi se poser pour bon nombre de projets d’innovation sociale autres.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Should all platforms seek global domination and is that the only way to be sustainable? Should coop models scale, and if they do, how can they keep in touch with their community? And how can smaller coops get real traction if nobody knows that they exist?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;blockchain-vraiment-&quot;&gt;Blockchain, vraiment ?&lt;/h2&gt;
+
+&lt;p&gt;Et oui, vraiment, juste histoire de garder un oeil sur une initiative que j’avais pas vraiment vu passer.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://duniter.org/fr/comprendre/&quot;&gt;Duniter, monnaie libre&lt;/a&gt;&lt;/strong&gt; : au hasard des liens, je tombe sur un post de l’un des créateurs de Duniter, “monnaie libre”. J’ai toujours un mal de chien à saisir les mécanismes de création monétaire, mais ça a pas l’air inintéressant.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 14 Aug 2017 00:00:00 +0200</pubDate>
+        <link>http://marges.clairezuliani.com/good_job/2017/08/14/liens-semaine.html</link>
+        <guid isPermaLink="true">http://marges.clairezuliani.com/good_job/2017/08/14/liens-semaine.html</guid>
+        
+        <category>hebdomalink</category>
+        
+        <category>cooperative</category>
+        
+        <category>toolkit</category>
+        
+        <category>ethique</category>
+        
+        <category>freelancing</category>
+        
+        
+        <category>good_job</category>
+        
+      </item>
     
       <item>
         <title>A mon compte + 7 mois</title>
@@ -668,150 +803,6 @@ Les échos sont fort avec Ethics by Design. Cette question des indicateurs est v
         <category>evenement</category>
         
         <category>et moi</category>
-        
-        
-        <category>good_job</category>
-        
-      </item>
-    
-      <item>
-        <title>Ethics by design</title>
-        <description>&lt;p&gt;Le numérique nous flingue la vie, le digital nous bouffe notre temps, et nous, travailleurs du web, sommes voués à en être les artisans ? Retour sur la journée Ethics by Design, ou comment, en tant que designer et/ou développeur-se, faire en sorte qu’à la fin ce soient les gentils qui gagnent.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;Les problématiques d’éthique, dans le milieu web, trouvent de plus en plus d’échos (j’en témoigne &lt;a href=&quot;/tags/ethique&quot;&gt;ici-même&lt;/a&gt; sous le tag &lt;code class=&quot;highlighter-rouge&quot;&gt;ethique&lt;/code&gt;), et le 12 mai était organisé à Lyon une journée d’étude autour de ces problématiques :  &lt;a href=&quot;http://ethicsbydesign.fr/&quot;&gt;Ethics by Design&lt;/a&gt;. Ci-dessous, une tentative de synthèse à partir d’une prise de note de 30 000 signes (…)&lt;/p&gt;
-
-&lt;h2 id=&quot;les-constats&quot;&gt;Les constats&lt;/h2&gt;
-
-&lt;p&gt;Les constats de base sont grosso modo partagés par tous les intervenants, je n’y reviendrai pas dans le détail (si vous en voulez, du détail, farfouillez &lt;a href=&quot;/tags/ethique&quot;&gt;ici&lt;/a&gt;). Entre hyperconnexion, économie de l’attention, &lt;strong&gt;captation de l’attention&lt;/strong&gt;, nos usages du numérique ne nous font pas que du bien.&lt;/p&gt;
-
-&lt;p&gt;Comme le rappelle &lt;a href=&quot;https://twitter.com/williamsjames_&quot;&gt;James Williams&lt;/a&gt;, qui intervenait ce jour-là : personne ne se lève le matin avec comme objectif &lt;em&gt;“Combien de temps vais-je réussir à passer sur facebook aujourd’hui ?”&lt;/em&gt; ; personne n’imagine avoir comme regret sur son lit de mort &lt;em&gt;“aaah, si seulement j’avais passé plus de temps sur snapchat !”&lt;/em&gt;. Alors pourquoi y passe-t-on tant de temps ? Car les outils numériques ne sont bien évidemment pas neutres et conçus pour hameçonner le fragile menu fretin que nous sommes.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;The attention economy is not on your side&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p class=&quot;legend&quot;&gt;Extrait des slides de James Williams&lt;/p&gt;
-
-&lt;p&gt;Et cela vient du fait qu’il y a conflit entre ce dont NOUS avons besoin et ce dont la plupart des entreprises (oui, il y a des exceptions, je sais) ont besoin : maximiser leur profit. Cette maximisation passe par la mise en oeuvre des mécanismes d’incitation (manipulation ?) les plus poussés pour nous rendre dépendant des services, en &lt;strong&gt;exploitant nos biais cognitifs&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Ce qui fera dire à James Williams (grand pourvoyeur de bons mots durant cette journée) :&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Internet est le plus grand projet de manipulation du comportement humain au monde.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Au-delà de ce constat, Hubert Guillaud d’Internet Actu remet en perspective quelques a priori souvent croisés. Cette perspective est  utile à garder en tête pour bien envisager nos leviers d’action.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;la capacité au contrôle de soi n’est pas également répartie&lt;/strong&gt;, notamment entre les classes sociales (voir par exemple le &lt;a href=&quot;https://www.youtube.com/watch?v=9NTdx3Iq7EU&quot;&gt;test du shamallow&lt;/a&gt;).&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;les écrans ne font pas forcément des humains des êtres désocialisés&lt;/strong&gt;. Ils permettent aussi de développer d’autres liens, et bénéficient à ce titre surtout aux personnes isolées (les plus privilégiés ont déjà des réseaux sociaux forts dans la vie réelle).&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Comment faire en sorte, alors, que les outils numériques se réorientent sur les besoins véritables de leurs utilisateurs ?&lt;/p&gt;
-
-&lt;h2 id=&quot;on-na-quà-avoir-plus-de-volonté-&quot;&gt;On n’a qu’à avoir plus de volonté ?&lt;/h2&gt;
-
-&lt;p&gt;Quelques leviers d’actions se situent à l’échelle des personnes :&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;la première étape consiste déjà à &lt;strong&gt;prendre conscience&lt;/strong&gt; nous-même de nos failles, et des mécanismes qui s’exercent sur nous,&lt;/li&gt;
-  &lt;li&gt;vient ensuite le temps de la résistance et de la &lt;strong&gt;discipline personnelle&lt;/strong&gt;. Voir les appels à la déconnexion de plus en plus fréquents, par exemple.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Mais cette solution &lt;strong&gt;fait reposer l’entière responsabilité d’une meilleure gestion de la pression numérique sur les épaules de l’individu&lt;/strong&gt;. Or, comme je le disais plus haut, nous ne sommes pas égaux face à l’auto-discipline. Et la possibilité de se déconnecter, d’accéder à des services respectueux et/ou de qualité, tend à devenir un privilège de riche. Verdict : proposition insatisfaisante.&lt;/p&gt;
-
-&lt;h2 id=&quot;cest-le-système-&quot;&gt;C’est le système !&lt;/h2&gt;
-
-&lt;p&gt;Comme le précisaient les intervenant, notre addiction est avant tout un symptôme. Ce qui nous attache à nos appareils électroniques est aussi lié à (je cite approximativement Hubert Guillaud) “l’anxiété générée par le travail” ou à “l’emprise du système”. Encore ce foutu système non identifié. Mais qu’on le chope et qu’on le foute en taule, à la fin.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Si le problème est systémique, les réponses doivent aussi l’être&lt;/strong&gt;. J’étais déjà arrivée à ce type de conclusion, et généralement à cette étape l’angoisse m’étreint et mes sourcils se froncent, face à l’ampleur de la tâche.&lt;/p&gt;
-
-&lt;p&gt;Mais les intervenants étaient plein de ressource, et voici quelques pistes évoquées dans la journée.&lt;/p&gt;
-
-&lt;h3 id=&quot;le-cadre-de-la-loi&quot;&gt;Le cadre de la loi&lt;/h3&gt;
-
-&lt;p&gt;Un des leviers évidents est le levier réglementaire. Tout ce qui, dans la règlementation, incite à une meilleure régulation des usages, est bon à prendre.&lt;/p&gt;
-
-&lt;p&gt;Ceci vaut :&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;dans l’organisation du travail à l’intérieur de nos organisations (le droit à la déconnexion est une première étape)&lt;/li&gt;
-  &lt;li&gt;dans les limites imposées aux produits que nous façonnons. Un rappel aux obligations posées par la CNIL peut permettre très simplement de freiner les ardeurs d’un client trop gourmand en données personnelles (note à moi-même : &lt;em&gt;“me remettre à jour des obligations légales des sites web”&lt;/em&gt;).&lt;/li&gt;
-  &lt;li&gt;Williams insistait aussi sur la réforme du modèle publicitaire, afin de faciliter les changements de modèle économique.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Ce levier n’est pas directement notre à portée (nous ne sommes pas législateurs), mais tout ce qu’on peut faire pour les soutenir va dans le bon sens.&lt;/p&gt;
-
-&lt;h3 id=&quot;i-have-no-idea-of-what-i-am-doing-but-im-not-evil&quot;&gt;I have no idea of what I am doing (but I’m not evil)&lt;/h3&gt;
-
-&lt;p&gt;Partons maintenant de la vision du monde partagée par plusieurs intervenants, et plus particulièrement exposée par &lt;a href=&quot;https://twitter.com/ollywright&quot;&gt;Olly Wright&lt;/a&gt;, et mettons-la en lien avec le dilemme de Collingridge (merci à &lt;a href=&quot;http://www.usine-digitale.fr/editorial/une-ethique-by-design-pour-interroger-l-economie-numerique-propose-flora-fischer.N374483&quot;&gt;Flora Fischer&lt;/a&gt; pour avoir apporté cette référence dans son intervention).&lt;/p&gt;
-
-&lt;p&gt;Ce dilemme stipule que &lt;strong&gt;l’anticipation des effets d’une technologie est difficile tant qu’elle n’est pas largement diffusée. Mais une fois qu’elle est largement adoptée, il est difficile de revenir en arrière.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;En somme, les entrepreneurs du web ne veulent pas forcément faire le mal, c’est plutôt qu’il n’en aucune idée de ce qu’ils font, et cherchent encore comment faire le bien. C’est aussi le “jeu” qui est mal fichu, qui incite à user de stratagèmes de captation (d’attention, de données…) un peu dégueu pour trouver les moyens de faire vivre sa structure.&lt;/p&gt;
-
-&lt;p&gt;Comme tout parti pris, on peut être d’accord ou non avec cette affirmation. Pour la démonstration, partons du principe qu’elle se tient. Comme l’affirme Olly Wright, les entreprises seraient prêtes à revoir leur fonctionnement, à s’axer sur l’éthique… tant que ça continue à leur rapporter du pognon.&lt;/p&gt;
-
-&lt;p&gt;Il faut donc réussir à montrer comment un changement de stratégie ou de comportement de l’entreprise peut avoir un effet positif mesurable. Le premier chantier est donc de trouver et faire accepter des &lt;strong&gt;mesures (“metrics”) pour jauger de la valeur apportée&lt;/strong&gt;, mesurer le temps bien dépensé par exemple.&lt;/p&gt;
-
-&lt;h3 id=&quot;un-changement-de-paradigme-est-il-possible-&quot;&gt;Un changement de paradigme est-il possible ?&lt;/h3&gt;
-
-&lt;p&gt;Pour transformer les entreprises avec lesquelles on travaille, Olly Wright conseille de se baser sur le &lt;strong&gt;modèle opératoire&lt;/strong&gt; (&lt;em&gt;“operating model”&lt;/em&gt;), c’est-à-dire l’ensemble des tâches à accomplir pour assurer la finalité de l’entreprise. Tout système qu’on conçoit pour les entreprises les influence aussi, comme tout être humain ; un changement de ce modèle influencerait donc les modes d’action de l’entreprise.&lt;/p&gt;
-
-&lt;p&gt;Il incite donc à revenir aux valeurs fondamentales de l’entreprises, celles qui figurent dans leurs slogans dévoyés par exemple. Il faut que l’entreprise &lt;em&gt;“soit l’entreprise que ses clients veulent qu’elle soit”&lt;/em&gt;. Il fait la distinction entre deux types de valeurs :&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;valeurs aspirationnelles&lt;/strong&gt;, humaines : éthique, authentique, durable, utile…&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;valeurs fonctionnelles&lt;/strong&gt;, du travail capitaliste : efficace, profitable, rapide, croissant…&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Si on arrive à convaincre les entreprises que ce sont les valeurs aspirationnelles que recherchent leurs clients, et qu’on commence à construire autour, alors il y a de l’espoir. C’est ici que s’effectuerait un changement de paradigme, le passage d’une innovation économique basée sur la compétition et la captation à une innovation centrée sur les personnes, sur le développement de leur autonomie.&lt;/p&gt;
-
-&lt;p&gt;Si le modèle opératoire change, basé sur des valeurs aspirationnelles, il devient aisé d’établir ou consolider la relation de confiance entre la marque et ses consommateurs. Il est plus semble d’être &lt;strong&gt;transparent&lt;/strong&gt; sur ses fonctionnements, ses chiffres (rien d’honteux à cacher). C’est aussi une application du principe de &lt;strong&gt;réciprocité&lt;/strong&gt; : si j’ai besoin de données de la part de mes utilisateurs, si je leur demande de partager leur vie privée (&lt;em&gt;“privacy”&lt;/em&gt;), alors il est normal que l’entreprise en fasse de même et partage des informations personnelles avec eux.&lt;/p&gt;
-
-&lt;p&gt;Très beaux principes. Mais il y a à mon sens un vrai risque de green washing ou de social washing. Je n’étais pas hyper à l’aise, dans l’atelier qui suivait, à entendre un groupe exposer ses préconisations pour Hermès. La finalité de l’entreprise ne me parait pas louable, de base (yup, je suis un peu radicale). Et si les valeurs aspirationnelles sont effectivement de plus en plus recherchées, qu’est-ce qui empêche une entreprise de continuer à s’en réclamer pour de purs effets d’affichage ?&lt;/p&gt;
-
-&lt;h3 id=&quot;croisements-et-suites&quot;&gt;Croisements et suites&lt;/h3&gt;
-
-&lt;p&gt;Je sors de la journée avec plein de matière, pas mal de nouvelles idées à creuser, certaines auxquels j’adhère instantanément et d’autres au sujet desquelles je suis plus suspicieuse de prime abord. Mais elles peuvent peut-être apporter des billes pour améliorer un peu, ici et maintenant, à la marge, la façon dont on bosse avec nos clients.&lt;/p&gt;
-
-&lt;p&gt;Ce qui m’a marquée aussi, ce sont les possibilité de croisements des apports de la journée avec les lectures qui me nourrissent ces derniers temps. Les échanges sur le modèle opératoire, la focale sur les valeurs, me font irrémédiablement penser à l’idée de “raison d’être” de l’entreprise croisé chez &lt;a href=&quot;/good_job/2016/11/11/reinventing-organizations-summary.html&quot;&gt;Frédéric Laloux&lt;/a&gt;) ou aux nouveaux modes d’organisation promus par le MOOC Gouvernance Partagée des Colibris (que je suis actuellement, avec l’ambition d’en faire le 1er MOOC que je mènerai de bout en bout).&lt;/p&gt;
-
-&lt;p&gt;A un niveau plus collectif, cette journée a donné l’occasion de relancer les discussions autour de chartes, de serments, de ces &lt;a href=&quot;/good_job/2017/03/27/serment-lovelace.html&quot;&gt;engagements formels dont des formes existent déjà&lt;/a&gt; mais qui sont peu connus et dont le non-respect n’a pas d’incidence. Les organisateurs et les participants se sont quittés avec l’intention ferme que des suites soient données à ce premier échange, je risque donc de continuer à causer éthique.&lt;/p&gt;
-
-&lt;h2 id=&quot;quelques-liens-pour-creuser&quot;&gt;Quelques liens pour creuser&lt;/h2&gt;
-
-&lt;h3 id=&quot;contenu-des-interventions&quot;&gt;Contenu des interventions&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.slideshare.net/HubertGuillaud/attention-lattention&quot;&gt;Peut-on répondre à la conception de notre exploitation comportementale ?&lt;/a&gt;, les slides de la conférence introductive par Hubert Guillaud&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://docs.google.com/document/d/14j1eM20v1dSd3CpkvxyJ9ttXT3gBGWKi0NDSG6UiDss/edit?ts=59157aa8&quot;&gt;Traduction James Williams&lt;/a&gt; : traduction live de l’intervention de James Williams&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://docs.google.com/document/d/10auifv0wXcRe599YWXJPfkzimV_idc00s6Q_GtirvWU/edit?ts=5915b5f7&quot;&gt;Traduction Olly Wright&lt;/a&gt; : traduction live de l’intervention de Olly Wright&lt;/li&gt;
-  &lt;li&gt;Support de l’atelier &lt;a href=&quot;https://www.slideshare.net/iergo/atelier-persuasive-design&quot;&gt;Persuasive Design&lt;/a&gt;, de Raphaël Yharrassarry&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;compte-rendus-de-la-journée&quot;&gt;Compte-rendus de la journée&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://storify.com/nicolasloubet/ethicsbydesign&quot;&gt;Storify de la journée&lt;/a&gt; par Nicolas Loubet&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.inaglobal.fr/numerique/article/design-numerique-recherche-reglementation-ethique-9715&quot;&gt;Design numérique recherche réglementation éthique&lt;/a&gt;, le compte-rendu de la journée fait par Alexandre FOATELLI, sur inaglobal.fr&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.yume-studio.fr/ethicsbydesign/&quot;&gt;Journée Ethics by design&lt;/a&gt;, le compte-rendu de la journée de l’agence Yume&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://maisouvaleweb.fr/le-designer-est-il-un-manipulateur-manipule/&quot;&gt;Le designer est-il un manipulateur manipulé ?&lt;/a&gt;, compte-rendu par Mais où va le web ?&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;références-croisées-durant-la-journée&quot;&gt;Références croisées durant la journée&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=tf9ZhU7zF8s&amp;amp;feature=youtu.be&amp;amp;list=PLtLeT9oxQnyqag7AVKQn1-WYUhKAHzj-b&quot;&gt;TimeWellSpent videos&lt;/a&gt; : des vidéos créées par le mouvement Time Well Spent, de Tristan Harris, pour faire prendre conscience du temps perdu sur les réseaux.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://fr.wikipedia.org/wiki/Norbert_Wiener&quot;&gt;Norbert Wiener&lt;/a&gt;, père de l’éthique informatique&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Peter-Paul_Verbeek&quot;&gt;Peter Paul Verbeek&lt;/a&gt; : sur des thématiques genre “est-ce que les artefacts ont une moralité ?”&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Fri, 12 May 2017 00:00:00 +0200</pubDate>
-        <link>http://marges.clairezuliani.com/good_job/2017/05/12/ethics-by-design.html</link>
-        <guid isPermaLink="true">http://marges.clairezuliani.com/good_job/2017/05/12/ethics-by-design.html</guid>
-        
-        <category>evenement</category>
-        
-        <category>ethique</category>
         
         
         <category>good_job</category>
