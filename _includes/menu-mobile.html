@@ -1,6 +1,17 @@
 
       <div class="menu-wrapper">
         <ul class="menu">
+          <li class="menu-item">
+            <a class="item" href="{{ site.baseurl }}/recherche">
+              <span class="icon icon-search"></span>
+              Rechercher
+            </a>
+          </li>
+        </ul>
+
+
+
+        <ul class="menu">
           <li class="menu-header">Format</li>
           <li class="menu-item">
             <a class="item" href="{{ site.baseurl }}/depeches">
@@ -17,7 +28,7 @@
         </ul>
 
         <ul class="menu">
-        <li class="menu-header">Lubies</li>
+          <li class="menu-header">Lubies</li>
             {% for category in site.categories %}
               {% assign lubie_name = category[0] %}
               <li class="menu-item">
@@ -25,8 +36,8 @@
                 {{ site.data.categories[lubie_name].title  | capitalize}}
                <div class="menu-label">{{ category[1].size }}</div>
               </a>
-              </li>
             {% endfor %}
+          </li>
         </ul>
 
         <ul class="menu">

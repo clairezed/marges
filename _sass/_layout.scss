@@ -26,6 +26,9 @@
   max-width: 750px;
   margin: 0 auto;
 }
+.layout-container {
+  height: 100vh;
+}
 
 .layout-main {
   padding: 2rem;
@@ -40,7 +43,7 @@
     height: 100%;
   }
   .layout-container {
-    height: 100vh;
+    // height: 100vh;
     display: flex;
   }
 
@@ -107,10 +110,14 @@
       transform: translateX(0);
     }
   }
+  .layout-container_inner{
+    min-height: 100vh;
+  }
   .layout-main {
     order: 1;
     flex: 1;
     padding-top: 62px;
+    min-height: 100vh;
   }
 
   .desktop-nav {
