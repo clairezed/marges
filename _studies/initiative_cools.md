@@ -272,6 +272,20 @@ http://lafabulerie.com/
 
 ##### tags: `cool probable` `marseille`
 
+#### Codeurs en liberté
+
+Une partie des échappés de CapitaineTrain depuis que CapitaineTrain est devenu Trainline.
+
+[Codeurs en Liberté](https://www.xn--codeursenlibert-pnb.fr/)
+
+#### /ut7
+
+/ut7 est une coopérative auto-gérée par ses salariés, une société de conseil en informatique et un organisme agréé de formation. Elle héberge depuis 2008 un collectif de programmeurs expérimentés se réclamant du mouvement des méthodes agiles de développement logiciel, et disposant d'une très solide expertise sur le sujet.
+
+[/ut7](https://ut7.fr/)
+
+##### tags: `paris`
+
 ### Dev solo qui font de l'ESS
 
 - [Yann Rolland](http://www.yannrolland.com/)

@@ -26,6 +26,8 @@ On découvre que les données sont de ce format là :
 script 00 : réduire le nombre de lignes pour pouvoir manipuler les fichiers
 Ici, on fait pas dans le raffiné, pas de DictReader, pas de pandas, car ils n'y arrivent pas et parce que les données sont formatées n'importe comment. Là, faut tailler à la cerpe.
 
+Capital d'utiliser un outil assez libérale à cette étape de travail où, manipulant un fichier de plusieurs gigabytes, la moindre erreur est susceptible de faire imploser ton ordinateur, ou presque.
+
 Vérif
 ```bash
 head -n 10 tech_grand_est_00.csv > tech_grand_est_00_fl.csv

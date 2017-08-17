@@ -120,6 +120,10 @@ Comment bien commencer un projet ? Quelques outils déjà utilisés ou à tester
 - [pixlr](https://pixlr.com/)
 - [photopea](https://www.photopea.com/) : quick webapp picture editor
 
+### Font
+
+- [Fontstorage](https://fontstorage.com)
+
 ### Divers (le fameux fourre-tout)
 
 - [Lists](http://lists.design/) : A gallery of real data ready to be placed in your design. Kind of like an App Store for fake content. (json files downloadable)
@@ -198,11 +202,18 @@ Comment bien commencer un projet ? Quelques outils déjà utilisés ou à tester
 
 ## Bureautique - everyday soft
 
+### Package
+
+Solutions intégrant à minima mail (configurable avec nom de domaine), agenda, contact.
+
+- [Infomaniak](https://www.infomaniak.com) : suisses (base : 18€/an, pro : 90€/an)
+- [indiehosters]()
+
 ### Mail anonyme / secure
 
 - spamgourmet
 - mailinator
-Zaclys : comme openmailbox mais mieux
+- Zaclys : "comme openmailbox mais mieux" (basé sur Roundcube)
 - [protonmail](https://protonmail.com/)
 - [Gérer soi-même son mail](http://mathieu.agopian.info/blog/quitter-gmail.html)
 

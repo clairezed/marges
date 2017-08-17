@@ -16,6 +16,46 @@ Conseils à la volée pour écrire du meilleur code en ruby.
 - [rails starter template](https://github.com/dennybritz/rails_startup_template ) : script qui permet d'installer des gems de bases, et certaines avec des conditions (nécessité de répondre à des questions pdt l'install)
 - [Rails Composer](https://github.com/RailsApps/rails-composer) The Rails generator on steroids for starter apps
 
+## Architecture guidelines
+
+Voir aussi les ressources architecture dans Ressources.
+
+- **Models** : associations and constants (callbacks -> **service objects**, validations -> **Form objects**)
+- **Controllers** : HTTP routing, parameters parsing, authentication, content negotiation, calling the right service or editor object, exception catching, response formatting, and returning the right HTTP status code. The remaining -> **service objects**.
+- **Helpers** : used for utility methods. Otherwise -> **Decorators**
+- Always pass one instance variable per view.
+
+### Service objects
+
+- Called from controller.
+- replaces model callbacks
+- Services should call **Query objects**, and should not store state. Use instance methods, not class methods. There should be very few public methods in keeping with SRP.
+
+### Form objects
+
+Replaces ActiveRecord models naming and validations for the model
+
+- [Active model form objects](https://robots.thoughtbot.com/activemodel-form-objects), Thoughbot
+
+### Value objects
+
+- to keep your code cleaner and to group related attributes
+- use cases : money, date range
+- Value objects should have multiple attributes.
+- Attributes should be immutable throughout the object’s life cycle.
+- Equality is determined by the object’s attributes.
+- []()
+
+### Query objects
+
+- Query object methods should return an object, a hash or an array, not an ActiveRecord association.
+
+### Decorators / Delegators
+
+- great way to use polymorphism — providing different implementations for different contexts or types, over-riding or sub-classing helpers.
+- replaces concerns too ?
+- for specific use cases : formatting model attributes for any kind of presentation logic.
+- Keep them light and breezy.
 
 ## Ressources
 
@@ -23,6 +63,13 @@ Conseils à la volée pour écrire du meilleur code en ruby.
 
 - [Sandi Metz' Rules For Developers](https://robots.thoughtbot.com/sandi-metz-rules-for-developers)
 - [Ruby on Rails, the iMenlo way](https://medium.com/imenlo/ruby-on-rails-the-imenlo-way-d29965618630#.ewxo0q9al)
+
+Architecture & POROs :
+
+- [Building maintainable Rails Apps](http://andypike.com/blog/conferences/rubyc-2016/) : form objects, command objects, query objects, presenter objects
+- [](https://www.toptal.com/ruby-on-rails/decoupling-rails-components)
+- [7 Patterns to Refactor Fat ActiveRecord Models](http://blog.codeclimate.com/blog/2012/10/17/7-ways-to-decompose-fat-activerecord-models/)
+- [Enhanced Ruby on Rails Architecture](https://github.com/CodeRocketCo/enhanced-rails-architecture) : concerns, helpers, form object, decorators, policies, publisher-listener ,services
 
 
 ### Bouquins
@@ -59,6 +106,8 @@ Conseils à la volée pour écrire du meilleur code en ruby.
 
 - [interactor](https://github.com/collectiveidea/interactor) : common interface for performing complex user interactions. (made by CollectiveIdea)
 - [trailblazer](https://github.com/trailblazer/trailblazer) : A High-Level Architecture for Ruby.
+- [draper](https://github.com/drapergem/draper) : Decorators/View-Models for Rails Applications
+- [wisper](https://github.com/krisleech/wisper) : A micro library providing Ruby objects with Publish-Subscribe capabilities
 
 ## Divers
 
@@ -110,7 +159,7 @@ git commit -m 'Init project' -m $'- Base gemfile\n- DB config'
 ```
 
 ce qui donne :
-```txt
+```
 Init project
 
 - Base gemfile

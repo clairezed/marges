@@ -16,7 +16,16 @@ Le mois a surtout été marqué par une bonne semaine hyperactive passée à la 
 
 J'étais déjà présente l'[année dernière]({{ site.baseurl }}{% link _posts/2016-07-14-pseshsf-2016-01.md %}), ça m'avait plu, j'y suis donc retournée cette année.
 
-Sans que ce soit ma communauté de coeur (je suis loin d'être une spécialiste du hacking, de la sécurité ou de la protection de la vie privée), je suis une fervente sympathisante de l'événement, qui me permet de raccrocher les wagons dans les domaines cités entre parenthèses. [Pas sage en Seine](https://passageenseine.fr/), c'est quand même un très bon endroit pour croiser des gens de yunohost, nextcloud ou cozycloud, et en apprendre plus sur les orientations et évolutions de ces outils. Comme d'habitude, il y a un certain nombre de conférences techniques auxquelles je n'ai tout simplement rien pané,  mais j'ai profité du reste. Je retiens plus particulièrement des discussions, encore une fois, passionnées sur design et open source, et coup de coeur pour la session finale laissée aux mains du Reset, hackerspace féministe.
+Sans que ce soit ma communauté de coeur (je suis loin d'être une spécialiste du hacking, de la sécurité ou de la protection de la vie privée), je suis une fervente sympathisante de l'événement, qui me permet de raccrocher les wagons dans les domaines cités entre parenthèses. [Pas sage en Seine](https://passageenseine.fr/), c'est quand même un très bon endroit pour croiser des gens de yunohost, nextcloud ou cozycloud, et en apprendre plus sur les orientations et évolutions de ces outils.
+
+Et sur leurs spécificités ! Par exemple, j'avais jamais vraiment compris les différences entre cozycloud et yunohost. C'est plus clair maintenant :
+- **cozycloud** : se focalise sur la gestion des données personnelles, donc essentiellement des applis pour les gérer / en extraire de la valeur. Les applis s'appuient donc sur un socle de données communes.
+- **yunohost** : plateforme facilitant l'installation d'applications côte à côte, qui n'interagissent pas entre elles. Chaque appli a donc ses propres données, indépendantes les unes des autres.
+
+
+Donc pas de concurrence, mais deux orientations différentes
+
+Comme d'habitude, il y a un certain nombre de conférences techniques auxquelles je n'ai tout simplement rien pané,  mais j'ai profité du reste. Je retiens plus particulièrement des discussions, encore une fois, passionnées sur design et open source, et coup de coeur pour la session finale laissée aux mains du Reset, hackerspace féministe.
 
 Au fait, pour revoir les vidéos, c'est [ici](http://data.passageenseine.org/2017/).
 Et un récap et approfondissement de la conf du Reset, sur leur [wiki](https://wiki.lereset.org/confpses2017).
