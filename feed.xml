@@ -5,8 +5,8 @@
     <description>Prise de notes des internets de claire zuliani</description>
     <link>http://marges.clairezuliani.com/</link>
     <atom:link href="http://marges.clairezuliani.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 14 Aug 2017 17:22:57 +0200</pubDate>
-    <lastBuildDate>Mon, 14 Aug 2017 17:22:57 +0200</lastBuildDate>
+    <pubDate>Thu, 17 Aug 2017 19:02:15 +0200</pubDate>
+    <lastBuildDate>Thu, 17 Aug 2017 19:02:15 +0200</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -156,7 +156,17 @@ Going beyond start ups as a means to drive Impact&lt;/strong&gt; : je n’ai fai
 
 &lt;p&gt;J’étais déjà présente l’&lt;a href=&quot;/binary_transition/2016/07/14/pseshsf-2016-01.html&quot;&gt;année dernière&lt;/a&gt;, ça m’avait plu, j’y suis donc retournée cette année.&lt;/p&gt;
 
-&lt;p&gt;Sans que ce soit ma communauté de coeur (je suis loin d’être une spécialiste du hacking, de la sécurité ou de la protection de la vie privée), je suis une fervente sympathisante de l’événement, qui me permet de raccrocher les wagons dans les domaines cités entre parenthèses. &lt;a href=&quot;https://passageenseine.fr/&quot;&gt;Pas sage en Seine&lt;/a&gt;, c’est quand même un très bon endroit pour croiser des gens de yunohost, nextcloud ou cozycloud, et en apprendre plus sur les orientations et évolutions de ces outils. Comme d’habitude, il y a un certain nombre de conférences techniques auxquelles je n’ai tout simplement rien pané,  mais j’ai profité du reste. Je retiens plus particulièrement des discussions, encore une fois, passionnées sur design et open source, et coup de coeur pour la session finale laissée aux mains du Reset, hackerspace féministe.&lt;/p&gt;
+&lt;p&gt;Sans que ce soit ma communauté de coeur (je suis loin d’être une spécialiste du hacking, de la sécurité ou de la protection de la vie privée), je suis une fervente sympathisante de l’événement, qui me permet de raccrocher les wagons dans les domaines cités entre parenthèses. &lt;a href=&quot;https://passageenseine.fr/&quot;&gt;Pas sage en Seine&lt;/a&gt;, c’est quand même un très bon endroit pour croiser des gens de yunohost, nextcloud ou cozycloud, et en apprendre plus sur les orientations et évolutions de ces outils.&lt;/p&gt;
+
+&lt;p&gt;Et sur leurs spécificités ! Par exemple, j’avais jamais vraiment compris les différences entre cozycloud et yunohost. C’est plus clair maintenant :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;cozycloud&lt;/strong&gt; : se focalise sur la gestion des données personnelles, donc essentiellement des applis pour les gérer / en extraire de la valeur. Les applis s’appuient donc sur un socle de données communes.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;yunohost&lt;/strong&gt; : plateforme facilitant l’installation d’applications côte à côte, qui n’interagissent pas entre elles. Chaque appli a donc ses propres données, indépendantes les unes des autres.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Donc pas de concurrence, mais deux orientations différentes&lt;/p&gt;
+
+&lt;p&gt;Comme d’habitude, il y a un certain nombre de conférences techniques auxquelles je n’ai tout simplement rien pané,  mais j’ai profité du reste. Je retiens plus particulièrement des discussions, encore une fois, passionnées sur design et open source, et coup de coeur pour la session finale laissée aux mains du Reset, hackerspace féministe.&lt;/p&gt;
 
 &lt;p&gt;Au fait, pour revoir les vidéos, c’est &lt;a href=&quot;http://data.passageenseine.org/2017/&quot;&gt;ici&lt;/a&gt;.&lt;br /&gt;
 Et un récap et approfondissement de la conf du Reset, sur leur &lt;a href=&quot;https://wiki.lereset.org/confpses2017&quot;&gt;wiki&lt;/a&gt;.&lt;/p&gt;

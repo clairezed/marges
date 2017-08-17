@@ -8,6 +8,7 @@
   <title>Ruby &amp; Rails Cheatsheet</title>
   <meta name="description" content="Conseils à la volée pour écrire du meilleur code en ruby.">
   <meta name="author" content="Claire Zuliani" />
+  <link rel="shortcut icon" type="image/x-icon" href="img/favicon.png">
 
   <meta property="og:site_name" content="Marges" />
   <meta property="og:title" content=" Ruby & Rails Cheatsheet ">
@@ -753,6 +754,59 @@
   <li><a href="https://github.com/RailsApps/rails-composer">Rails Composer</a> The Rails generator on steroids for starter apps</li>
 </ul>
 
+<h2 id="architecture-guidelines">Architecture guidelines</h2>
+
+<p>Voir aussi les ressources architecture dans Ressources.</p>
+
+<ul>
+  <li><strong>Models</strong>&nbsp;: associations and constants (callbacks -&gt; <strong>service objects</strong>, validations -&gt; <strong>Form objects</strong>)</li>
+  <li><strong>Controllers</strong>&nbsp;: HTTP routing, parameters parsing, authentication, content negotiation, calling the right service or editor object, exception catching, response formatting, and returning the right HTTP status code. The remaining -&gt; <strong>service objects</strong>.</li>
+  <li><strong>Helpers</strong>&nbsp;: used for utility methods. Otherwise -&gt; <strong>Decorators</strong></li>
+  <li>Always pass one instance variable per view.</li>
+</ul>
+
+<h3 id="service-objects">Service objects</h3>
+
+<ul>
+  <li>Called from controller.</li>
+  <li>replaces model callbacks</li>
+  <li>Services should call <strong>Query objects</strong>, and should not store state. Use instance methods, not class methods. There should be very few public methods in keeping with SRP.</li>
+</ul>
+
+<h3 id="form-objects">Form objects</h3>
+
+<p>Replaces ActiveRecord models naming and validations for the model</p>
+
+<ul>
+  <li><a href="https://robots.thoughtbot.com/activemodel-form-objects">Active model form objects</a>, Thoughbot</li>
+</ul>
+
+<h3 id="value-objects">Value objects</h3>
+
+<ul>
+  <li>to keep your code cleaner and to group related attributes</li>
+  <li>use cases&nbsp;: money, date range</li>
+  <li>Value objects should have multiple attributes.</li>
+  <li>Attributes should be immutable throughout the object’s life cycle.</li>
+  <li>Equality is determined by the object’s attributes.</li>
+  <li><a href=""></a></li>
+</ul>
+
+<h3 id="query-objects">Query objects</h3>
+
+<ul>
+  <li>Query object methods should return an object, a hash or an array, not an ActiveRecord association.</li>
+</ul>
+
+<h3 id="decorators--delegators">Decorators / Delegators</h3>
+
+<ul>
+  <li>great way to use polymorphism —&nbsp;providing different implementations for different contexts or types, over-riding or sub-classing helpers.</li>
+  <li>replaces concerns too&#8239;?</li>
+  <li>for specific use cases&nbsp;: formatting model attributes for any kind of presentation logic.</li>
+  <li>Keep them light and breezy.</li>
+</ul>
+
 <h2 id="ressources">Ressources</h2>
 
 <h3 id="articles">Articles</h3>
@@ -760,6 +814,15 @@
 <ul>
   <li><a href="https://robots.thoughtbot.com/sandi-metz-rules-for-developers">Sandi Metz’ Rules For Developers</a></li>
   <li><a href="https://medium.com/imenlo/ruby-on-rails-the-imenlo-way-d29965618630#.ewxo0q9al">Ruby on Rails, the iMenlo way</a></li>
+</ul>
+
+<p>Architecture &amp; POROs&nbsp;:</p>
+
+<ul>
+  <li><a href="http://andypike.com/blog/conferences/rubyc-2016/">Building maintainable Rails Apps</a>&nbsp;: form objects, command objects, query objects, presenter objects</li>
+  <li><a href="https://www.toptal.com/ruby-on-rails/decoupling-rails-components"></a></li>
+  <li><a href="http://blog.codeclimate.com/blog/2012/10/17/7-ways-to-decompose-fat-activerecord-models/">7 Patterns to Refactor Fat ActiveRecord Models</a></li>
+  <li><a href="https://github.com/CodeRocketCo/enhanced-rails-architecture">Enhanced Ruby on Rails Architecture</a>&nbsp;: concerns, helpers, form object, decorators, policies, publisher-listener ,services</li>
 </ul>
 
 <h3 id="bouquins">Bouquins</h3>
@@ -803,6 +866,8 @@
 <ul>
   <li><a href="https://github.com/collectiveidea/interactor">interactor</a>&nbsp;: common interface for performing complex user interactions. (made by CollectiveIdea)</li>
   <li><a href="https://github.com/trailblazer/trailblazer">trailblazer</a>&nbsp;: A High-Level Architecture for Ruby.</li>
+  <li><a href="https://github.com/drapergem/draper">draper</a>&nbsp;: Decorators/View-Models for Rails Applications</li>
+  <li><a href="https://github.com/krisleech/wisper">wisper</a>&nbsp;: A micro library providing Ruby objects with Publish-Subscribe capabilities</li>
 </ul>
 
 <h2 id="divers">Divers</h2>
@@ -858,11 +923,12 @@
 </div>
 
 <p>ce qui donne&nbsp;:</p>
-<pre><code class="language-txt">Init project
+<div class="highlighter-rouge"><pre class="highlight"><code>Init project
 
 - Base gemfile
 - DB config
 </code></pre>
+</div>
 
 <p>Sources&nbsp;:</p>
 <ul>
@@ -887,7 +953,7 @@
         <span title="Date de dernière mise à jour">
           <span class="icon icon-calendar"></span>
           <span>
-              11 Aug 2017
+              15 Aug 2017
             </span>
         </span>
       </td>
@@ -896,13 +962,13 @@
       <td>
         <span>
 <span title=" Environ 
-  3
+  5
  min de lecture">
   <span class="icon icon-clock">
     <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-clock"></use>
   </span>
   
-  3
+  5
  min
 </span>
 </span>
@@ -953,7 +1019,7 @@
         <span title="Date de dernière mise à jour">
           <span class="icon icon-calendar"></span>
           <span>
-            11 Aug 17
+            15 Aug 17
           </span>
         </span>
       </td>
@@ -970,13 +1036,13 @@
       <td>
         <span>
 <span title=" Environ 
-  3
+  5
  min de lecture">
   <span class="icon icon-clock">
     <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-clock"></use>
   </span>
   
-  3
+  5
  min
 </span>
 </span>
