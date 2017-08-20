@@ -5,9 +5,369 @@
     <description>Prise de notes des internets de claire zuliani</description>
     <link>http://marges.clairezuliani.com/</link>
     <atom:link href="http://marges.clairezuliani.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 17 Aug 2017 19:02:15 +0200</pubDate>
-    <lastBuildDate>Thu, 17 Aug 2017 19:02:15 +0200</lastBuildDate>
+    <pubDate>Sun, 20 Aug 2017 20:21:50 +0200</pubDate>
+    <lastBuildDate>Sun, 20 Aug 2017 20:21:50 +0200</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>L'appel des SIRENE</title>
+        <description>&lt;p&gt;Un jour de pont, succomber à l’appel des données ouvertes du répertoire SIRENE, se prendre quelques récifs, mais découvrir quand même de jolis recoins.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Comme les journées sont plus longues l’été, encore plus les week-end de pont, j’ai profité de la mi-août pour me plonger gouluement dans le répertoire SIRENE et joindre l’utile à l’agréable.&lt;/p&gt;
+
+&lt;p&gt;L’agréable : jouer avec des données, apprendre à les manipuler (traitement, nettoyage, visualisation), découvrir les terribles secrets qu’elles renferment.&lt;/p&gt;
+
+&lt;p&gt;L’utile : choisir des terrains d’exercice tout à fait intéressés, ausculter les organismes de l’Economie Sociale et Solidaire (ESS) du coin (potentiels clients) et pister les boites de com’ ou de développement des environs (potentiels concurrents ou partenaires).&lt;/p&gt;
+
+&lt;p&gt;Ci-dessous, un résumé du déroulé des opérations, où je vous épargnerai le détail des impasses et faux plans dans lesquels je me suis laissée embarquer, pour directement sauter aux solutions que j’ai pu trouver.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Précision : je parle ici du haut de mon expérience de quelques bonnes poignées d’heure. Il va sans dire que mes solutions sont probablement loin d’être les plus efficaces ou pertinentes. Mais ça épargnera peut-être quelques heures de galère à ceux qui se lancent comme moi tête la première dans un océan de données. Au moins, ça les épargnera à mon moi futur, quand il lui reprendra de tripatouiller de la donnée.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;ma-boîte-à-outils&quot;&gt;Ma boîte à outils&lt;/h2&gt;
+
+&lt;p&gt;En guise d’introduction, voilà les outils que je me suis retrouvée à exploiter pendant ma quête du 15 août :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;python&lt;/li&gt;
+  &lt;li&gt;un tableur basique&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://pandas.pydata.org/&quot;&gt;pandas&lt;/a&gt;, librairie python d’analyse des données&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://carto.com/&quot;&gt;carto&lt;/a&gt;, service de cartographie et d’analyse de données en ligne&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://my.datascientistworkbench.com/tools/openrefine&quot;&gt;openRefine&lt;/a&gt;, logiciel libre de nettoyage et de mise en forme de données.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;traitement&quot;&gt;Traitement&lt;/h2&gt;
+
+&lt;h3 id=&quot;etape-1--trouver-les-données-et-les-comprendre&quot;&gt;Etape 1 : Trouver les données et les comprendre&lt;/h3&gt;
+
+&lt;p&gt;L’ouverture du répertoire SIRENE début 2017 est quand même une formidable opportunité d’en savoir plus sur la typologie des organisations en France. Les données sont maintenant accessibles en csv, mises à jour tous les jours.&lt;/p&gt;
+
+&lt;p&gt;Pour les trouver, rendez-vous sur &lt;a href=&quot;https://www.data.gouv.fr/en/datasets/base-sirene-des-entreprises-et-de-leurs-etablissements-siren-siret/&quot;&gt;www.data.gouv.fr&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Si vous voulez l’intégralité des donnés et non les mises à jour quotidiennes, bien télécharger un fichier “stock” de début de mois. Vous devriez pas vous tromper : si vous mettez moins de 10 minutes à le télécharger, a priori c’est pas le bon (8,6 GB tout de même).&lt;/p&gt;
+
+&lt;p&gt;Ensuite, pour savoir quoi chercher, arpenter la nomenclature. Un &lt;a href=&quot;https://www.sirene.fr/static-resources/doc/dessin_L2_description_complete.pdf?version=1.14&quot;&gt;pdf explicatif&lt;/a&gt; est disponible, ce qui épargnera les allers-retours pénibles dans la &lt;a href=&quot;https://www.sirene.fr/sirene/public/static/liste-variables&quot;&gt;liste des variables sirene&lt;/a&gt; en ligne. (je me suis fait un petit  &lt;a href=&quot;https://gist.github.com/clairezed/cd69498f75a3e2768eef54e7af3c7536&quot;&gt;pense-bête&lt;/a&gt; un peu plus synthétique).&lt;/p&gt;
+
+&lt;p&gt;J’apprends qu’il y a une &lt;a href=&quot;https://www.sirene.fr/sirene/public/variable/syr-ess&quot;&gt;variable ESS&lt;/a&gt;, c’est celle-là que je vais utiliser pour commencer et cibler les organismes dans le champs de l’ESS.&lt;/p&gt;
+
+&lt;p&gt;Pour les structures faisant potentiellement du développement web, j’ai commencé par aller chercher les codes APE de quelques sociétés auxquels je me compare (une recherche sur &lt;a href=&quot;https://www.societe.com/cgi-bin/search&quot;&gt;societe.com&lt;/a&gt; suffit bien), puis ai fouillé ces codes et les codes proches sur le site de l’&lt;a href=&quot;https://www.insee.fr/fr/metadonnees/nafr2/division/62&quot;&gt;insee&lt;/a&gt; (au passage : bon point pour l’insee, j’ai trouvé leur interface claire, pratique, bien pensée).&lt;/p&gt;
+
+&lt;p&gt;Je garderais les codes suivants :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;5829A : Édition de logiciels système et de réseau&lt;/li&gt;
+  &lt;li&gt;6201Z : Programmation informatique&lt;/li&gt;
+  &lt;li&gt;6202A : Conseil en systèmes et logiciels informatiques&lt;/li&gt;
+  &lt;li&gt;6202B : Tierce maintenance de systèmes et d’applications informatiques&lt;/li&gt;
+  &lt;li&gt;6203Z : Gestion d’installations informatiques&lt;/li&gt;
+  &lt;li&gt;6209Z : Autres activités informatiques&lt;/li&gt;
+  &lt;li&gt;6311Z : Traitement de données, hébergement et activités connexes&lt;/li&gt;
+  &lt;li&gt;6312Z : Portails Internet&lt;/li&gt;
+  &lt;li&gt;7022Z : Conseil pour les affaires et autres&lt;/li&gt;
+  &lt;li&gt;7311Z : Activités des agences de publicité&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;etape-2--vérifier-les-données&quot;&gt;Etape 2 : vérifier les données&lt;/h3&gt;
+
+&lt;p&gt;Pour avoir une idée un peu plus précise de la tête des données, vérifier quels champs sont bien présents dans le fichier qu’on a récupérer, je conseille  d’en extraire dans un fichier temporaire les 10 premières lignes, pour études.&lt;/p&gt;
+
+&lt;p&gt;En console :&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;head -n 10 source.csv &amp;gt; destination.csv
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Ce qui permet de découvrir que les données ont cette tête-là :&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&quot;SIREN&quot;;&quot;NIC&quot;;&quot;L1_NORMALISEE&quot;;&quot;L2_NORMALISEE&quot;;&quot;L3_NORMALISEE&quot;...
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Un point virgule comme séparateurs, toutes les données enserrées dans des double quotes. Une information à connaître pour pouvoir configurer correctement ses scripts de manipulation de données. L’ouverture de l’extrait avec un tableur m’a aussi permis de constater que le fichier n’était pas encodé en utf-8, il y aura donc aussi ce point-là à prendre en compte.&lt;/p&gt;
+
+&lt;h3 id=&quot;etape-3--trancher-dans-le-lard&quot;&gt;Etape 3 : trancher dans le lard&lt;/h3&gt;
+
+&lt;p&gt;Un fichier csv de 8,6 giga, c’est lourd. C’est très lourd. Ce n’est pas du tout manipulable dans un tableur, par exemple (non, n’essayez pas).&lt;/p&gt;
+
+&lt;p&gt;J’ai découvert au fil du temps, et après trop de maltraitance de mon ordinateur, qu’à cette étape du projet il est capital :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;d’écrémer sérieusement et de ne conserver que les données sur lesquelles on va travailler,&lt;/li&gt;
+  &lt;li&gt;de faire cet écrémage avec des outils permissifs, pas raffiné pour deux sous, qui s’en foutent du typage, qui s’en tapent de l’encodage, etc. Pas même utiliser &lt;code class=&quot;highlighter-rouge&quot;&gt;DictReader&lt;/code&gt; vu que les données sont formatées bizarrement, et qu’à la moindre erreur votre machine est susceptible d’imploser.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Et donc, un bon vieux script python de derrière les fagots fait le job :&lt;/p&gt;
+
+&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;csv&lt;/span&gt;
+&lt;span class=&quot;kn&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;collections&lt;/span&gt; &lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;defaultdict&lt;/span&gt;
+
+&lt;span class=&quot;n&quot;&gt;source_file&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;source.csv&quot;&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;dest_file&lt;/span&gt;   &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;tech_grand_est_00.csv&quot;&lt;/span&gt;
+
+
+&lt;span class=&quot;k&quot;&gt;with&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;open&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;source_file&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'rb'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;as&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;csvfile&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;header&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;next&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;csvfile&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;strip&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\n&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;split&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;print&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;header&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;print&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;header&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;42&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;reader&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;csv&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;reader&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;csvfile&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;delimiter&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;';'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;c&quot;&gt;### Filtrage des codes APE&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;results&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;filter&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;lambda&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;row&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;row&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;42&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'5829A'&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;or&lt;/span&gt;
+                                 &lt;span class=&quot;n&quot;&gt;row&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;42&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'6201Z'&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;or&lt;/span&gt;
+                                 &lt;span class=&quot;n&quot;&gt;row&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;42&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'6202A'&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;or&lt;/span&gt;
+                                 &lt;span class=&quot;n&quot;&gt;row&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;42&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'6202B'&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;or&lt;/span&gt;
+                                 &lt;span class=&quot;n&quot;&gt;row&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;42&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'6203Z'&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;or&lt;/span&gt;
+                                 &lt;span class=&quot;n&quot;&gt;row&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;42&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'6209Z'&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;or&lt;/span&gt;
+                                 &lt;span class=&quot;n&quot;&gt;row&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;42&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'6311Z'&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;or&lt;/span&gt;
+                                 &lt;span class=&quot;n&quot;&gt;row&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;42&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'6312Z'&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;or&lt;/span&gt;
+                                 &lt;span class=&quot;n&quot;&gt;row&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;42&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'7311Z'&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;or&lt;/span&gt;
+                                 &lt;span class=&quot;n&quot;&gt;row&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;42&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'7410Z'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;reader&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;c&quot;&gt;### Ou bien filtrage par code ESS :&lt;/span&gt;
+    &lt;span class=&quot;c&quot;&gt;# results = filter(lambda row: row[76] == 'O', reader)&lt;/span&gt;
+
+
+&lt;span class=&quot;k&quot;&gt;with&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;open&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;dest_file&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'wb'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;as&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;outfile&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;writer&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;csv&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;writer&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;outfile&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;writer&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;writerow&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;header&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;result&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;results&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
+        &lt;span class=&quot;n&quot;&gt;writer&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;writerow&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;result&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Une vérification rapide des données, en extrayant les premières lignes, ça mange pas de pain.&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;head -n 10 tech_grand_est_00.csv &amp;gt; tech_grand_est_00_fl.csv
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&quot;etape-4--encoding-continuer-à-réduire&quot;&gt;Etape 4 : encoding, continuer à réduire&lt;/h3&gt;
+
+&lt;p&gt;Cette fois on peut passer à pandas, librairie python dédiée à la manipulation de données, pour y voir plus clair :  formater le header, passer l’encodage de &lt;code class=&quot;highlighter-rouge&quot;&gt;iso-8859-1&lt;/code&gt; à &lt;code class=&quot;highlighter-rouge&quot;&gt;utf-8&lt;/code&gt;….&lt;/p&gt;
+
+&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;pandas&lt;/span&gt; &lt;span class=&quot;kn&quot;&gt;as&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;pd&lt;/span&gt;
+&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;datetime&lt;/span&gt;
+&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;csv&lt;/span&gt;
+&lt;span class=&quot;kn&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;collections&lt;/span&gt; &lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;defaultdict&lt;/span&gt;
+
+&lt;span class=&quot;n&quot;&gt;source_file&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;tech_grand_est_00.csv&quot;&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;dest_file&lt;/span&gt;   &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;tech_grand_est_01.csv&quot;&lt;/span&gt;
+
+&lt;span class=&quot;n&quot;&gt;df&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;pd&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;read_csv&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;source_file&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;sep&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;','&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;error_bad_lines&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;bp&quot;&gt;False&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;encoding&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'iso-8859-1'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;quoting&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;csv&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;QUOTE_NONE&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+
+&lt;span class=&quot;k&quot;&gt;print&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;Begining ==============================================================&quot;&lt;/span&gt;
+
+&lt;span class=&quot;n&quot;&gt;df&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;columns&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;df&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;columns&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;str&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;replace&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\&quot;&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;''&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;df&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;columns&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;df&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;columns&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;str&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;replace&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\r&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;''&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+
+&lt;span class=&quot;c&quot;&gt;# Verification&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;print&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;df&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;columns&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;print&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;df&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[:&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;10&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;print&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;len&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;df&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+
+&lt;span class=&quot;c&quot;&gt;# Selection des departements qui intéressent&lt;/span&gt;
+&lt;span class=&quot;c&quot;&gt;# type des departements pas clair.&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;df&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;df&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;loc&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;df&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'DEPET'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;isin&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;([&lt;/span&gt;
+    &lt;span class=&quot;mi&quot;&gt;88&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;54&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;55&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;57&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;67&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;68&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;70&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;52&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;10&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;51&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;8&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;90&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;s&quot;&gt;'88'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'54'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'55'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'57'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'67'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'68'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'70'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'52'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'10'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'51'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'8'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'08'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'90'&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;])]&lt;/span&gt;
+
+&lt;span class=&quot;n&quot;&gt;df&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;to_csv&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;dest_file&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;sep&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;','&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;encoding&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'utf-8'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;index&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;bp&quot;&gt;False&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+
+&lt;span class=&quot;k&quot;&gt;print&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;Ended ================================================================&quot;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&quot;etape-5--filtrage-des-colonnes-formattage-du-type-des-données&quot;&gt;Etape 5 : filtrage des colonnes, formattage du type des données&lt;/h3&gt;
+
+&lt;p&gt;Le header est formaté correctement, on peut maintenant filtrer les colonnes en ne conservant que celles dont on va se servir.&lt;/p&gt;
+
+&lt;p&gt;A cette étape, j’en profite aussi pour réparer les formattages approximatifs fait par pandas. Voilà ce que c’est que d’utiliser des outils surpuissants sans avoir compulsé le mode d’emploi ; on se retrouve avec plein d’effets de bord pas du tout anticipé.&lt;/p&gt;
+
+&lt;p&gt;Par exemple le fait que dans pandas, les données sont typées (date, nombre, text…), et que de base tout ce qui est perçu comme nombre par pandas est typé comme un &lt;code class=&quot;highlighter-rouge&quot;&gt;float&lt;/code&gt;. Et quand les codes postaux sont enregistrés sous le format &lt;code class=&quot;highlighter-rouge&quot;&gt;75011.0&lt;/code&gt;, le géocodage est plus compliqué.&lt;/p&gt;
+
+&lt;p&gt;Réparons tout ça :&lt;/p&gt;
+
+&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;pandas&lt;/span&gt; &lt;span class=&quot;kn&quot;&gt;as&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;pd&lt;/span&gt;
+&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;csv&lt;/span&gt;
+&lt;span class=&quot;kn&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;collections&lt;/span&gt; &lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;defaultdict&lt;/span&gt;
+
+&lt;span class=&quot;n&quot;&gt;source_file&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;tech_grand_est_01.csv&quot;&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;dest_file&lt;/span&gt;   &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;tech_grand_est_02.csv&quot;&lt;/span&gt;
+
+&lt;span class=&quot;n&quot;&gt;df&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;pd&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;read_csv&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;source_file&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;sep&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;','&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;error_bad_lines&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;bp&quot;&gt;False&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;encoding&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'utf-8'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;quoting&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;csv&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;QUOTE_NONE&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;usecols&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'SIREN'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'L1_NORMALISEE'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'L2_NORMALISEE'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;s&quot;&gt;'NUMVOIE'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'INDREP'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'TYPVOIE'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'LIBVOIE'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'CODPOS'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;s&quot;&gt;'DEPET'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'LIBREG'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'LIBCOM'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'TU'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;s&quot;&gt;'APET700'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'LIBAPET'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'TEFET'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'LIBTEFET'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'EFETCENT'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'DCRET'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;s&quot;&gt;'NJ'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'LIBNJ'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'ESS'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'DATEESS'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'CATEGORIE'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+
+&lt;span class=&quot;c&quot;&gt;# replace 'NN' value with a numeric one (so as to cast afterwards)&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;df&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'TEFET'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;replace&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'NN'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'0'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;inplace&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;bp&quot;&gt;True&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+
+&lt;span class=&quot;c&quot;&gt;### temporarely replace empty (NaN values) with 0, so as to cast afterwards&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;df&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'NUMVOIE'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;df&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'NUMVOIE'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;fillna&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;astype&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;int&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;df&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'DATEESS'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;df&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'DATEESS'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;fillna&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;astype&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;int&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;df&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'NJ'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;df&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'NJ'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;fillna&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;astype&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;int&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+
+&lt;span class=&quot;n&quot;&gt;df&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[[&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'TU'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'CODPOS'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'DCRET'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'TEFET'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;df&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[[&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'TU'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'CODPOS'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'DCRET'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'TEFET'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]]&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;astype&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;int&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+
+&lt;span class=&quot;n&quot;&gt;df&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'NJ'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;replace&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'0'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;''&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;inplace&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;bp&quot;&gt;True&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;df&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'DATEESS'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;replace&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'0'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;''&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;inplace&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;bp&quot;&gt;True&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+
+&lt;span class=&quot;n&quot;&gt;df&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;to_csv&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;dest_file&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;sep&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;','&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;encoding&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'utf-8'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;index&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;bp&quot;&gt;False&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&quot;etape-6--soccuper-des-dates&quot;&gt;Etape 6 : s’occuper des dates&lt;/h3&gt;
+
+&lt;p&gt;Là, je galèrais trop avec pandas, je suis donc repassée à du python basique.&lt;/p&gt;
+
+&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;
+&lt;span class=&quot;c&quot;&gt;#!/usr/bin/env python&lt;/span&gt;
+&lt;span class=&quot;c&quot;&gt;# -*- coding: utf-8 -*-&lt;/span&gt;
+
+&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;csv&lt;/span&gt;
+&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;re&lt;/span&gt;
+&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;datetime&lt;/span&gt;
+
+&lt;span class=&quot;n&quot;&gt;source_file&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;tech_grand_est_02.csv&quot;&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;dest_file&lt;/span&gt;   &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;tech_grand_est_03.csv&quot;&lt;/span&gt;
+
+&lt;span class=&quot;k&quot;&gt;with&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;open&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;source_file&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'rb'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;as&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;csvfile&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;open&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;dest_file&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'wb'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;as&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;outfile&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;reader&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;csv&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;DictReader&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;csvfile&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;delimiter&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;','&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;writer&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;csv&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;DictWriter&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;outfile&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;fieldnames&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;reader&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;fieldnames&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+
+    &lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;row&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;reader&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
+        &lt;span class=&quot;n&quot;&gt;row&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'DCRET'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;str&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;datetime&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;datetime&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;strptime&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;row&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'DCRET'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;],&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;Y&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;m&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;d&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;date&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;())&lt;/span&gt;
+        &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;row&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'DATEESS'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;bp&quot;&gt;None&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
+            &lt;span class=&quot;k&quot;&gt;print&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'skip'&lt;/span&gt;
+        &lt;span class=&quot;k&quot;&gt;else&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
+            &lt;span class=&quot;n&quot;&gt;row&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'DATEESS'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;str&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;datetime&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;datetime&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;strptime&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;row&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'DATEESS'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;],&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;Y&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;m&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;d&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;date&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;())&lt;/span&gt;
+
+        &lt;span class=&quot;n&quot;&gt;writer&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;writerow&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;row&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&quot;etape-6-bis--transformation-des-données&quot;&gt;Etape 6 bis : transformation des données&lt;/h3&gt;
+
+&lt;p&gt;Pour créer une carte permettant de comparer la densité d’établissements dans le Grand Est par rapport au reste de la France, il me fallait extraire le nombre d’établissement de l’ESS par département. C’est le genre de manipulation pour lequel pandas est typiquement approprié.&lt;/p&gt;
+
+&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;pandas&lt;/span&gt; &lt;span class=&quot;kn&quot;&gt;as&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;pd&lt;/span&gt;
+&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;numpy&lt;/span&gt; &lt;span class=&quot;kn&quot;&gt;as&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;np&lt;/span&gt;
+
+&lt;span class=&quot;kn&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;collections&lt;/span&gt; &lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;defaultdict&lt;/span&gt;
+
+&lt;span class=&quot;n&quot;&gt;source_file&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;sirc-201707_L_M_ESS_cleaned.csv&quot;&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;dest_file&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;sirene_ESS_grouped_dept.csv&quot;&lt;/span&gt;
+
+&lt;span class=&quot;n&quot;&gt;df&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;pd&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;read_csv&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;source_file&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;sep&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;','&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;error_bad_lines&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;bp&quot;&gt;False&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;usecols&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'SIREN'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'DEPET'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'LIBREG'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;],&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;encoding&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'utf-8'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+
+&lt;span class=&quot;n&quot;&gt;group_by_dpt&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;df&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;groupby&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;([&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'DEPET'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'LIBREG'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;])&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;count&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;df_dept&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;pd&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;DataFrame&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;group_by_dpt&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;df_dept&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;to_csv&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;dest_file&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;sep&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;','&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;encoding&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'utf-8'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&quot;etape-7--géocoder&quot;&gt;Etape 7 : géocoder&lt;/h3&gt;
+
+&lt;p&gt;Pour afficher les établissements sur une carte, on a besoin de leurs coordonnées GPS, qui ne sont pas présentes dans les fichiers SIRENE.&lt;/p&gt;
+
+&lt;p&gt;Trouver un service en ligne de geocoding :  &lt;a href=&quot;https://adresse.data.gouv.fr/csv&quot;&gt;adresse.data.gouv.fr&lt;/a&gt; remplit nickel la mission.&lt;/p&gt;
+
+&lt;p&gt;Une fois récupéré le fichier csv, reste à faire le tri dans les colonnes qu’on veut conserver parmi celles qui ont été rajoutées dans le géocodage.&lt;/p&gt;
+
+&lt;p&gt;Les données sont propres, complètes, formatées. Prêtes à révéler leurs secrets (tadaaaaaaaaaaa !).&lt;/p&gt;
+
+&lt;h2 id=&quot;analyse-et-résultats&quot;&gt;Analyse et résultats&lt;/h2&gt;
+
+&lt;p&gt;J’avais dans l’idée de présenter les résultats de mes expérimentations ESS sous forme de carte, mais vu le temps déjà passé à préparer les données, je n’avais aucune envie d’en plus avoir à apprendre une librairie de visualisation (à la &lt;a href=&quot;https://d3js.org/&quot;&gt;d3.js&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;J’avais cru repérer que &lt;a href=&quot;https://carto.com/&quot;&gt;carto.com&lt;/a&gt;, tout propriétaire qu’il soit, permettait d’avoir des résultats bien propres et avait un plan gratuit.&lt;/p&gt;
+
+&lt;p&gt;J’ai donc sauter dessus, et voici les résultats :&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;520&quot; frameborder=&quot;0&quot; src=&quot;https://clairezed.carto.com/builder/c4a132ad-501d-49a9-a877-a9b5686a208a/embed&quot; allowfullscreen=&quot;&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; oallowfullscreen=&quot;&quot; msallowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;520&quot; frameborder=&quot;0&quot; src=&quot;https://clairezed.carto.com/builder/b04bcbf6-8ee2-4d58-9911-c374bce6cc44/embed&quot; allowfullscreen=&quot;&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; oallowfullscreen=&quot;&quot; msallowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Verdict : après un temps très raisonnable d’apprentissage, carto fait gagner beaucoup de temps, et très agréable à utiliser, et propose en quelques clics des modules qui permettent de filtrer les données très puissants.&lt;/p&gt;
+
+&lt;p&gt;N’hésitez pas à jouer un peu avec les petits modules “Région”, “Ratio”, “Activité”… pour comparer les données plus finement. Un vrai piège à temps.&lt;/p&gt;
+
+&lt;p&gt;Si vous voulez voir et manipuler les cartes en grand, directement sur carto.com :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://clairezed.carto.com/builder/c4a132ad-501d-49a9-a877-a9b5686a208a/embed?state=%7B%22map%22%3A%7B%22ne%22%3A%5B39.926588421909436%2C-7.668457031250001%5D%2C%22sw%22%3A%5B52.26815737376817%2C12.106933593750002%5D%2C%22center%22%3A%5B46.44542749723387%2C2.2192382812500004%5D%2C%22zoom%22%3A6%7D%2C%22widgets%22%3A%7B%22815bb82d-1bb0-47e0-8dc7-f28747846f74%22%3A%7B%22normalized%22%3Atrue%7D%7D%7D&quot;&gt;Densité des établissements ESS France&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://clairezed.carto.com/builder/b04bcbf6-8ee2-4d58-9911-c374bce6cc44/embed&quot;&gt;Etablissements ESS en Lorraine&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;openrefine&quot;&gt;OpenRefine&lt;/h3&gt;
+
+&lt;p&gt;Pour la liste des établissements faisant du web, je ne voyais pas de plus-value à les mettre directement sur une carte. Je voulais en priorité jouer avec les données brutes, faire des recoupements facilement, etc.&lt;/p&gt;
+
+&lt;p&gt;J’ai donc préféré les importer dans &lt;a href=&quot;http://openrefine.org/&quot;&gt;OpenRefine&lt;/a&gt; (&lt;a href=&quot;https://my.datascientistworkbench.com/tools/openrefine&quot;&gt;version en ligne&lt;/a&gt;) pour estimer ce que je pouvais en tirer.&lt;/p&gt;
+
+&lt;p&gt;Résultat : pas grand chose de probant.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Les Vosges sont le 6e établissement sur 12 étudiés pour le nombre de potentiels professionnels du web.&lt;/li&gt;
+  &lt;li&gt;J’aurais aimé, dans les Vosges, pouvoir faire le tri entre les auto (micro) entreprise et les autres société, mais je ne possède pas d’information sur la nature juridique de l’entreprise pour la grande majorité des établissements.&lt;/li&gt;
+  &lt;li&gt;Le type d’info peut être fourni par le nombre de salarié, mais exclu de fait les sociétés à plusieurs sociétaire sans salariés.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Bref, ce sera à affiner, et j’essaierai de croiser avec d’autres données une prochaine fois.&lt;/p&gt;
+
+&lt;h2 id=&quot;conclusions&quot;&gt;Conclusions&lt;/h2&gt;
+
+&lt;p&gt;Quelques éléments de conclusion après deux jours dans le monde des données :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;récupérer des sources et apprendre à les connaître (quelle colonne correspond à quoi ? Quelle donnée peut m’intéresser ? Est-elle renseignée systématiquement ?) demande beaucoup de temps. Et encore, je n’étais ici que sur des données ultra balisées (SIRENE).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Apprendre de nouveaux outils, c’est toujours long (ici : pandas + carto).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Récupérer des données dont les champs sont mal formatés ou pas formaté avec consistance complique la tâche. Dans le répertoire SIRENE, certains champs booléens (oui / non) sont parfois représentés par des chiffres (1 / 0), d’autres fois par des lettres (O / N)… Quand on utilise en plus un outil de traitement avec un système de typage fort, ça peut très vite devenir le bazar.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Je reste toujours sacrément plus à l’aise sur des outils visuels, mais apprendre un peu de python est + qu’utile pour les gros traitements impossibles à faire par d’autres moyens (fichiers de plusieurs gigabytes…)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;C’est compliqué de manipuler des fichiers “à l’aveugle” (fichiers trop gros), et le risque d’exclure sans le savoir des données qui pourraient être intéressantes est réel. Je sais par exemple que pandas a exclu d’office certaines lignes du CSV qui ne correpondait pas à je ne sais quelle norme (non détectée en faisant des tests sur un extrait plus court du fichier). Et j’ai donc été surprise de ne pas retrouver dans mon fichier final des entreprises du web une société d’Epinal que j’avais en tête, sortie à je ne sais quel moment de mes manipulations. Réussir à prendre en compte absolument toutes les données est un travail de titan.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;J’ai découvert sur le tard des outils qui rendent inutiles la plus grosse part des manipulations que j’aie eu à faire, super. L’&lt;a href=&quot;https://data.opendatasoft.com/explore/dataset/sirene%40public/api/&quot;&gt;API Sirene&lt;/a&gt; proposée par OpenDataSoft permet de faire un grand nombre de recherche sur le répertoire SIRENE, et d’exporter les résultats. En plus les adresses sont déjà géocodées. Heureusement, tous les filtres (notamment code ESS) ne sont pas présnets, ce qui m’a éviter de me dire à 100% que mon travail avait été inutile.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;enfin, un lien que je voulais garder sous la main pour plus tard : &lt;a href=&quot;https://gist.github.com/bsweger/e5817488d161f37dcbd2&quot;&gt;Useful Pandas Snippets&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sun, 20 Aug 2017 00:00:00 +0200</pubDate>
+        <link>http://marges.clairezuliani.com/sustainable_code/2017/08/20/data-tech-ess-grand-est.html</link>
+        <guid isPermaLink="true">http://marges.clairezuliani.com/sustainable_code/2017/08/20/data-tech-ess-grand-est.html</guid>
+        
+        <category>données</category>
+        
+        <category>cartographie</category>
+        
+        
+        <category>sustainable_code</category>
+        
+      </item>
     
       <item>
         <title>Je passe trop de temps sur internet - semaine 32</title>
@@ -752,67 +1112,6 @@ Les échos sont fort avec Ethics by Design. Cette question des indicateurs est v
         <category>evenement</category>
         
         <category>start up</category>
-        
-        
-        <category>good_job</category>
-        
-      </item>
-    
-      <item>
-        <title>La première des conf web</title>
-        <description>&lt;p&gt;La semaine dernière, j’assistais à ma première conférence web. De toute ma vie, oui. Et je me demande si ces deux jours de SudWeb à Aix-en-Provence ne vont pas marquer ma trajectoire de développeuse en solo.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;h2 id=&quot;une-conférence-web-&quot;&gt;Une conférence web ?&lt;/h2&gt;
-
-&lt;p&gt;Petite introduction à l’usage de tous les profils non techniques que les notes orientées code ou design n’ont pas fait fuir et qui lisent encore ce carnet.&lt;/p&gt;
-
-&lt;p&gt;C’est quoi une conférence web ? C’est un genre de colloque professionnel, des journées de conférences et d’interventions sur des thématiques propres à un métier, comme il en existe dans de nombreuses branches professionnelles. C’est aussi, évidemment, une occasion en or de réseauter comme un cochon, de mettre enfin un visage sur des pseudos twitter et de découvrir des nouveaux coins de France.&lt;/p&gt;
-
-&lt;p&gt;Niveau web, il existe en France plein plein de conférences différentes avec chacune sa personnalité. Si je suis allée à SudWeb, c’est parce que le copain &lt;a href=&quot;https://twitter.com/antoinentl&quot;&gt;Antoine&lt;/a&gt; m’a dit d’y aller. &lt;em&gt;“C’est plein de gens chouettes, je pense que ça va te plaire”&lt;/em&gt;. Voici, en substance, comment il m’a convaincue. SudWeb, c’est une de ces conférences où, m’avait-on dit, on ne va pas tant parler technique qu’humain. Pas de conf’ sur comment builder ton projet en continuous integration avec une grid css en combinant AMP et PWA dans le flux react en troquant typescript pour elm ; mais des présentations plus orientées usages, modes de travail, sens de nos pratiques et rapports humains. Tout ce qui compose notre métier une fois qu’on s’extrait du code, en gros.&lt;/p&gt;
-
-&lt;p&gt;En termes de format, SudWeb s’articule ainsi :&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;une première journée avec des interventions programmées de 10 ou 25 minutes, dont le déroulé est visible &lt;a href=&quot;https://sudweb.fr/2017/&quot;&gt;sur le site&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;une deuxième journée où ce sont les participants qui font le programme. Plusieurs salles sont disponibles, et tout le monde peut y proposer un sujet, une question, un échange sur un créneau de 3/4 d’h, qui peut évidemment être prolongé (c’est ce qu’on appelle un forum ouvert).&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;les-conférences-ces-merveilleux-prétextes&quot;&gt;Les conférences, ces merveilleux prétextes&lt;/h2&gt;
-
-&lt;p&gt;Et ça donne quoi, alors ?&lt;/p&gt;
-
-&lt;p&gt;Pour tout avouer, ce n’est pas tant le contenu des conférences dont je vais le plus me souvenir (à part peut-être celle de Bruno Héridet, dont on peut voir les slides &lt;a href=&quot;http://delapouite.com/slides/epopee-fusiodemande/#0&quot;&gt;ici&lt;/a&gt; mais fallait le voir en vrai, vraiment). Un échantillon de ce que je retiendrais :&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Les méthodes d’agilité et le self-management se marient bien &lt;em&gt;(Sabine Safi, &lt;a href=&quot;https://sudweb.fr/2017/#indigestion-d-étoiles&quot;&gt;Indigestion d’étoiles&lt;/a&gt;)&lt;/em&gt;&lt;/li&gt;
-  &lt;li&gt;Quand on cherche à modifier les modes d’organisation de son entreprise pour aller vers plus d’horizontalité, d’autonomie, de “self-management” : il ne faut surtout pas tout faire d’un coup ! En fait, il ne faut pas avoir pour objectif de faire du self-management pour faire du self-management, mais tester des pratiques qui vont dans ce sens petit à petit &lt;em&gt;(Sabine Safi, &lt;a href=&quot;https://sudweb.fr/2017/#indigestion-d-étoiles&quot;&gt;Indigestion d’étoiles&lt;/a&gt;)&lt;/em&gt;&lt;/li&gt;
-  &lt;li&gt;Il existe une start up qui revend les data des objets plutôt que celles des personnes (revente des données concernant l’utilisation d’outils à leurs fabricants). Intéressant comme modèle économique. &lt;em&gt;(Geoffrey Dorne, &lt;a href=&quot;https://sudweb.fr/2017/#vers-un-design-de-la-vie-privée&quot;&gt;Vers un design de la vie privée &lt;/a&gt;)&lt;/em&gt;&lt;/li&gt;
-  &lt;li&gt;Il vaut mieux rester sur de l’authentification classique (mot de passe, etc) que sur de l’identification basée sur des caractéristiques humaines (visage, empreinte..), car s’il y a hack de ton compte, comment modifier ton mot de passe si ton mot de passe c’est ta face ? &lt;em&gt;(Geoffrey Dorne, &lt;a href=&quot;https://sudweb.fr/2017/#vers-un-design-de-la-vie-privée&quot;&gt;Vers un design de la vie privée &lt;/a&gt;)&lt;/em&gt;&lt;/li&gt;
-  &lt;li&gt;Faire des tests utilisateurs peut aussi être utile pour savoir comment communiquer sur le produit. Poser en fin d’interview la question “Comment expliqueriez-vous le produit à un ami ?” permet d’identifier ce qui transparait du produit et le vocabulaire qui fait mouche. &lt;em&gt;(Lucas Cerdan, &lt;a href=&quot;https://sudweb.fr/2017/#l-ux-testing-sans-les-galères&quot;&gt;L’UX Testing sans les galères &lt;/a&gt;)&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Pour ceux qui veulent en savoir plus, les liens de quelques présentations figurent sur &lt;a href=&quot;https://sudweb.fr/2017/&quot;&gt;le site de SudWeb&lt;/a&gt;, et les vidéos des conf’ seront en ligne je ne sais quand.&lt;/p&gt;
-
-&lt;p&gt;Mais bon, en définitive, je n’ai pas l’impression d’avoir forcément appris beaucoup lors de cette première journée (que ce soit parce que certains sujets ne me touchaient pas, ou parce que je suis déjà assez calée sur ceux qui me touchent). Par contre, si le contenu ne m’a pas apporté grand chose individuellement, c’est l’alchimie collective de partager ces contenus à plusieurs qui est inestimable. Car, pour reprendre ce que tout le monde dit déjà de SudWeb (je vais pas faire dans l’originalité), c’est l’humain qui y compte avant tout.&lt;/p&gt;
-
-&lt;h2 id=&quot;tordus-dans-le-même-sens&quot;&gt;Tordus dans le même sens&lt;/h2&gt;
-
-&lt;p&gt;De ce que j’ai pu voir (j’ai dû échanger avec 1/4 des présents à tout casser, mais c’est pas ça qui va m’empêcher de généraliser :)), les participants à SudWeb sont a minima des professionnels soucieux d’un certain bien-être et bien faire, soucieux de bonnes conditions de travail, portés sur une forme d’authenticité, d’attention à l’autre, de bienveillance. Certains cumulent ces caractéristiques de base avec, en prime, un franc côté engagé, sur des thématiques comme l’inclusion, les modes d’organisation alternatifs, la mixité, des questions politiques (open data, privacy, communs…).&lt;/p&gt;
-
-&lt;p&gt;Et tous ces gens, avec des expériences, des préoccupations et des trajectoires différentes, partagent deux journées et deux soirées d’échanges guidés notamment par les thématiques abordées. La première journée s’est terminée, après une intervention très politique sur le “privacy by design”, par le témoignage de Sabine Safi, dézinguant les faux semblant de l’univers start-up et nous enjoignant de repenser à ce qui nous guide professionnellement, si ce n’est pas le pognon. On a tous entendu les mêmes témoignages. Que ce soit une découverte, ou juste un rappel de ce dont on est déjà convaincu, entendre ce type de discours &lt;strong&gt;ensemble&lt;/strong&gt; est cathartique. On l’a tous entendu, ça nous irrigue, et on peut en discuter, ensemble, avec la même base.&lt;/p&gt;
-
-&lt;p&gt;Certains parlent d’alignement (&lt;em&gt;“on est tous alignés pareils”&lt;/em&gt;). Moi, j’ai retrouvé l’expression que j’utilisais à mon entrée dans les études supérieurs, alors que je découvrais, après le lycée, avec surprise et soulagement plein de personnes avec lesquelles je partageais beaucoup de valeurs, de motivations, de façons d’être : &lt;em&gt;“On est tous un peu tordus dans le même sens”&lt;/em&gt;. Et ça fait un bien fou ! Ces gens-là existent donc pour de vrai, je ne suis pas seule. Comme les prémices d’une tribu.&lt;/p&gt;
-
-&lt;p&gt;Je repars de SudWeb gonflée à bloc, pleine d’espoir, et avec une petite dose de pression (&lt;em&gt;“les cool kids ne m’ont pas attendus pour être à bloc, il faut que je trouve un moyen de les rejoindre”&lt;/em&gt; :)). Avec plein d’envies de projet, qu’il va maintenant falloir que je trie et priorise (gros boulot). Avec le désir de continuer à arpenter les conférences web pour me nourrir de l’énergie des tordus. Avec plein de nouvelles connexions précieuses dont je compte bien suivre les trajectoires en attendant de les croiser (Moment name dropping : &lt;a href=&quot;https://twitter.com/goulvench&quot;&gt;Goulven&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/PiaP&quot;&gt;Pia&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/DirtyF&quot;&gt;Franck&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/oncletom&quot;&gt;Thomas&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/DavidBruant&quot;&gt;David&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/ClementineHahn&quot;&gt;Clémentine&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/noeems&quot;&gt;Noémie&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/mariealine_m&quot;&gt;Marie-Aline&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/agnes_crepet&quot;&gt;Agnès&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/langlois_s&quot;&gt;Stéphane&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/Bes_fr&quot;&gt;Guillaume&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/jacomyal&quot;&gt;Alexis&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/naholyr&quot;&gt;Nicolas&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/Delapouite&quot;&gt;Bruno&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/t8g&quot;&gt;Thomas&lt;/a&gt; (un autre), &lt;a href=&quot;https://twitter.com/thibaultj&quot;&gt;Thibault&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/borisschapira&quot;&gt;Boris&lt;/a&gt;,  &lt;a href=&quot;https://twitter.com/HTeuMeuLeu&quot;&gt;Rémi&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/bertrandkeller&quot;&gt;Bertrand&lt;/a&gt;, je vous ai à l’oeil :)). Avec l’ambition d’avoir d’ici l’an prochain fait suffisamment de trucs chouettes pour, pourquoi pas, en parler au prochain SudWeb.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 23 May 2017 00:00:00 +0200</pubDate>
-        <link>http://marges.clairezuliani.com/good_job/2017/05/23/retour-sudweb-2017.html</link>
-        <guid isPermaLink="true">http://marges.clairezuliani.com/good_job/2017/05/23/retour-sudweb-2017.html</guid>
-        
-        <category>evenement</category>
-        
-        <category>et moi</category>
         
         
         <category>good_job</category>
