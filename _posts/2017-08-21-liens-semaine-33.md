@@ -27,3 +27,7 @@ Toujours à la recherche du rythme de publication qui me convienne, j'inaugure u
 - **[Fontstorage](https://fontstorage.com)** : un endroit où trouver , filtrer, tester plein plein - bien plus que chez google fonts - de webfonts.
 
 - **[social.coop](https://social.coop/about)** : une instance mastodon sous forme de coopérative (avec utilisation de [Loomio](https://www.loomio.org/g/ibncxoDR) et de [OpenCollective](https://opencollective.com/socialcoop))
+-
+- **[](http://naildrivin5.com/blog/2017/07/17/four-reasons-why-developers-are-unproductive.html)** : incompétence, manque d'organisation, la "sur-conception" (over-engineering), ou ne pas résoudre le bon problème, tels sont des causes récurrentes à la non-productivité d'un designer. Même si je n'aime pas le terme productivité, à l'utilisation parfois dangereuse, je dois dire que je me pose pas mal en ce moment la question de mon efficacité. Il y a dans l'article quelques concepts chouette pour réfléchir la question : plans *thin slice* (build a simplistic happy path end-to-end and iterate on that handling edge cases) et *outside in* (building out the majority of the UI first, and then iterate on making it real), la "[Règle de 3](http://pragmati.st/2013/07/19/build-it-twice/)"
+
+> Turning a mundane problem into a more interesting one is a hard urge to fight, and that urge does not go away with more experience.
