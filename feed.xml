@@ -5,9 +5,86 @@
     <description>Prise de notes des internets de claire zuliani</description>
     <link>http://marges.clairezuliani.com/</link>
     <atom:link href="http://marges.clairezuliani.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 20 Aug 2017 20:21:50 +0200</pubDate>
-    <lastBuildDate>Sun, 20 Aug 2017 20:21:50 +0200</lastBuildDate>
+    <pubDate>Mon, 21 Aug 2017 23:08:44 +0200</pubDate>
+    <lastBuildDate>Mon, 21 Aug 2017 23:08:44 +0200</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>Je passe trop de temps sur internet - semaine 33</title>
+        <description>&lt;p&gt;Deuxième édition de la fort classique veille hebdomadaire.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;h2 id=&quot;elle-ressemble-à-quoi-ton-équipe-web-&quot;&gt;Elle ressemble à quoi, ton équipe web ?&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://medium.com/@djo/obsession-service-client-captain-train-cb0b91467fd9&quot;&gt;L’obsession du service client chez Captain Train&lt;/a&gt;&lt;/strong&gt; &lt;em&gt;(old)&lt;/em&gt; : l’ancien responsable du service client de ce qui s’appelait à l’époque Captain Train raconte comment ça se passait, et il y a plein d’éléments qui me parlent :
+    &lt;ul&gt;
+      &lt;li&gt;parler à ses clients comme à des humains,&lt;/li&gt;
+      &lt;li&gt;faire en sorte que tous les employés soient à un moment en contact direct avec le client, et puissent réagir directement à un retour (réactivité + responsabilisation),&lt;/li&gt;
+      &lt;li&gt;automatiser toutes les tâches pour lesquelles un humain n’apporte aucune valeur, pour que l’humain ait plus de place là où il est vraiment important.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://www.courrierinternational.com/article/travail-des-equipes-ephemeres-nouvelle-evolution-de-leconomie-des-petits-boulots&quot;&gt;Des équipes éphémères, nouvelle évolution de l’“économie des petits boulots”&lt;/a&gt;&lt;/strong&gt; : Courrier international parle de forme d’organisation émergente, à la suite de projets comme  &lt;a href=&quot;https://gigster.com/&quot;&gt;gigster&lt;/a&gt;, plateforme créée en 2014 qui met en relation des indépendants pour constituer des équipes et concevoir des logiciels. Avec les algo au pilotage de la constitution des équipes, et la promesse du retour en grâce es cadres moyens, reconvertis en chefs de projet. Il va évidemment sans dire que c’est pas gagné pour la protection sociale, par contre. (thx Sylvain de Happy Dev pour la découverte)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;http://naildrivin5.com/blog/2017/07/17/four-reasons-why-developers-are-unproductive.html&quot;&gt;Four Reasons Developers are Unproductive&lt;/a&gt;&lt;/strong&gt; : incompétence, manque d’organisation, la “sur-conception” (over-engineering), ou ne pas résoudre le bon problème, tels sont des causes récurrentes à la non-productivité d’un designer. Même si je n’aime pas le terme productivité, à l’utilisation parfois dangereuse, je dois dire que je me pose pas mal en ce moment la question de mon efficacité. Il y a dans l’article quelques concepts chouette pour réfléchir la question : plans &lt;em&gt;thin slice&lt;/em&gt; (build a simplistic happy path end-to-end and iterate on that handling edge cases) et &lt;em&gt;outside in&lt;/em&gt; (building out the majority of the UI first, and then iterate on making it real), la “&lt;a href=&quot;http://pragmati.st/2013/07/19/build-it-twice/&quot;&gt;Règle de 3&lt;/a&gt;”&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Turning a mundane problem into a more interesting one is a hard urge to fight, and that urge does not go away with more experience.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;transformation-sociale&quot;&gt;Transformation sociale&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://www.thenation.com/article/to-find-alternatives-to-capitalism-think-small/&quot;&gt;To Find Alternatives to Capitalism, Think Small&lt;/a&gt;&lt;/strong&gt; : long article avec plein d’exemples de nouveaux types d’économie (relocalisation, agriculture urbaine, coopératives plateformes, “SLOC: small and local, but open and connected”)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://medium.com/@pollicy/dear-civic-technologists-lets-build-with-not-for-bbead12361ad&quot;&gt;Where’s the ‘Civic’ in CivicTech?&lt;/a&gt;&lt;/strong&gt; : un appel à prendre en compte la communauté dans la production d’outils civic tech, à construire “avec” et non “pour”. Evident, mais ça mange aps de pain de le rappeler.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;To be used for social good, a product needs to be directed, and for its greatest, most transformative impact, it needs to be directed by those who will benefit the most from the creation of the social good that being the community.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;données&quot;&gt;Données&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;http://barregi.com/airbnbmaps&quot;&gt;City maps from tourists’ feelings&lt;/a&gt;&lt;/strong&gt; : oublié de l’inclure la semaine dernière… J’adore ces croisements, et ce que les traces laissées sur des applications révèlent de notre appréhension du monde.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;dans-la-boîte-à-outil-de-louvrier-du-web&quot;&gt;Dans la boîte à outil de l’ouvrier du web&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.producthunt.com/@erwblo/collections/open-source-alternatives-for-everything&quot;&gt;Open Source Alternatives for Everything&lt;/a&gt;&lt;/strong&gt; : une liste d’alternativessur Product Hunt ! Et je ne connaissais pas tout. Encore tellement d’alternatives à creuser…&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://fontstorage.com&quot;&gt;Fontstorage&lt;/a&gt;&lt;/strong&gt; : un endroit où trouver , filtrer, tester plein plein - bien plus que chez google fonts - de webfonts.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;coopératives&quot;&gt;Coopératives&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://social.coop/about&quot;&gt;social.coop&lt;/a&gt;&lt;/strong&gt; : une instance mastodon sous forme de coopérative (avec utilisation de &lt;a href=&quot;https://www.loomio.org/g/ibncxoDR&quot;&gt;Loomio&lt;/a&gt; et de &lt;a href=&quot;https://opencollective.com/socialcoop&quot;&gt;OpenCollective&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 21 Aug 2017 00:00:00 +0200</pubDate>
+        <link>http://marges.clairezuliani.com/good_job/2017/08/21/liens-semaine-33.html</link>
+        <guid isPermaLink="true">http://marges.clairezuliani.com/good_job/2017/08/21/liens-semaine-33.html</guid>
+        
+        <category>hebdomalink</category>
+        
+        <category>cooperative</category>
+        
+        <category>toolkit</category>
+        
+        <category>freelancing</category>
+        
+        
+        <category>good_job</category>
+        
+      </item>
     
       <item>
         <title>L'appel des SIRENE</title>
@@ -1056,62 +1133,6 @@ Les échos sont fort avec Ethics by Design. Cette question des indicateurs est v
         <guid isPermaLink="true">http://marges.clairezuliani.com/good_job/2017/06/20/solo-plus-5-mois.html</guid>
         
         <category>et moi</category>
-        
-        
-        <category>good_job</category>
-        
-      </item>
-    
-      <item>
-        <title>Retours sur start-up de territoire Alsace</title>
-        <description>&lt;p&gt;Le 4 mai à Strasbourg, il y avait mille personnes dans un stade de basket, mais aucune sur le terrain - sinon on se faisait houspiller. C’était la soirée Start Up de territoire Alsace.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;C’est quoi Start Up de Territoire ? D’abord, c’est un événement largement rassembleur (1 000 personnes à Strasbourg) qui a pour objectif de générer plusieurs centaines d’idées de projets à visée sociale sur un territoire. Ensuite, c’est toute une dynamique qui s’enclenche pour que certaines de ces idées soient converties à moyen terme en vrais projets, au bénéfice du territoire.&lt;/p&gt;
-
-&lt;p&gt;La logique Start Up de Territoire s’est déjà ancrée sur plusieurs… territoires, et le 4 mai, c’était au tour de l’Alsace, avec l’événement à Strasbourg.&lt;/p&gt;
-
-&lt;h2 id=&quot;promo-sur-les-entreprises-sociales&quot;&gt;Promo sur les entreprises sociales&lt;/h2&gt;
-
-&lt;p&gt;En ce moment je suis dans une folle lubie “intelligence collective”, et la participation en tant qu’animateur permettait d’être formé à des méthodes de concertation. Alors, j’ai signé :) La thématique sur laquelle je me suis positionnée pendant l’événement : solidarité et lien social. L’intitulé de l’atelier : un truc sur les emplois partagés (oui, ça manque de précision, désolée).&lt;/p&gt;
-
-&lt;p&gt;En prélude, dans l’après-midi, des porteurs de projets sur chacune des thématiques abordées présentaient leur activité. En postlude (disons), le lendemain matin, on pouvait creuser en groupe certains projets existants, en discutant en profondeur avec leurs initiateurs.&lt;/p&gt;
-
-&lt;p&gt;Avant toute chose, je veux saluer l’énorme investissement, le boulot phénoménale, abattu par Sophie Keller et Cécile Dupré-Latour, les principales instigatrices du bouzin. Franchement, c’était hyper impressionnant.&lt;/p&gt;
-
-&lt;p&gt;A présent, quelques retours et réflexions.&lt;/p&gt;
-
-&lt;h2 id=&quot;de-la-définition-de-projets&quot;&gt;De la définition de projets…&lt;/h2&gt;
-
-&lt;p&gt;Sur la méthodologie : si l’objectif était réellement de faire émerger des projets à visée sociale pensés pour le territoire, à mon sens la mission n’est qu’à moitié remplie.&lt;/p&gt;
-
-&lt;p&gt;1/ Pour des raisons de temps notamment, l’accent était plutôt sur l’intention du projet plutôt que sur sa définition précise. La finalité était de produire un discours plutôt marketé (trouver un nom et un solgan, pitch final…), sans creuser les éléments. Dans les conditions de l’exercice, je ne pense toutefois pas qu’il était possible de faire bien mieux.&lt;/p&gt;
-
-&lt;p&gt;2/ Comme pour la plupart des événements de type Start Up Contest, les projets sont pensés hors-sols. On ne part pas de &lt;em&gt;“il y a tel problème chez nous, comment peut-on le résoudre ?”&lt;/em&gt; mais plutôt de &lt;em&gt;“On a envie de faire telle chose”&lt;/em&gt; ou &lt;em&gt;“on a vu telle initiative cool à tel endroit, on veut faire pareil ici”&lt;/em&gt;, et ce, sans s’attacher aux spécificités du territoire, à ses besoins ou à ce qui y existe déjà. Oui, il arrive que de bonnes idées émergent de ce type de terreau (pour peu d’être doté d’une solide intuition) ; mais c’est alors plutôt de l’ordre du heureux hasard que d’un procédé réfléchi.&lt;/p&gt;
-
-&lt;p&gt;Cet événement m’a refait pensé en contraste à la méthodologie des -mix (museomix, garemix, edumix…) qui prend le pendant inverse : on s’attache à un lieu précis, circonscrit, les principaux acteurs du lieu (personnel du musée, par exemple) qui font part des problèmes qu’ils rencontrent, et des équipes pluridisciplinaires s’attachent avec eux à résoudre ce problème particulier.&lt;/p&gt;
-
-&lt;p&gt;Est-ce qu’il n’aurait pas fallu mené un diagnostic qui ait un peu de gueule au préalable, avant de vouloir faire de l’Alsace une start up région ?&lt;/p&gt;
-
-&lt;h2 id=&quot;-à-la-consolidation-dune-communauté&quot;&gt;… à la consolidation d’une communauté&lt;/h2&gt;
-&lt;p&gt;En revanche, si l’objectif tacite était de lancer ou consolider une communauté, de sentir les envies des personnalités les plus engagées d’un territoire, alors là, la mission est bien un succès.&lt;/p&gt;
-
-&lt;p&gt;La méthodologie développée permet formidablement de développer une culture commune (en termes de processus, de connaissance d’une thématique…) sans étiquette ou cloisonnement des participants. Les animateurs (dont bibi) et les participants pouvaient se retrouver, sans le savoir, à faire des blagues plus ou moins bien trouvée avec une élue de la Région Grand Est ou des représentants de la communauté de commune de Strasbourg. Rafraîchissant.&lt;/p&gt;
-
-&lt;h2 id=&quot;toujours-cette-tension-entre-événement-réformiste-ou-révolutionnaire&quot;&gt;Toujours cette tension entre événement réformiste ou révolutionnaire&lt;/h2&gt;
-
-&lt;p&gt;Ici, la plupart des projets présentés font du mieux possible pour apporter un peu de baume social dans un monde hostile. L’idée est de “faire avec” le monde tel qu’il se présente, l’accent est mis avant tout sur le modèle économique, les projets ont pour visée de réparer ce qu’un trop plein de laisser faire vorace a pu éreinter, et non de travailler à changer les fondements. Pas de visée transformatrice. Mais moi, mine de rien, j’ai des grosses envies d’évolution systémique.&lt;/p&gt;
-
-&lt;p&gt;C’est quel événement, pour ce type de symptôme ?&lt;/p&gt;
-</description>
-        <pubDate>Sun, 28 May 2017 00:00:00 +0200</pubDate>
-        <link>http://marges.clairezuliani.com/good_job/2017/05/28/retours-start-up-territoire-alsace.html</link>
-        <guid isPermaLink="true">http://marges.clairezuliani.com/good_job/2017/05/28/retours-start-up-territoire-alsace.html</guid>
-        
-        <category>evenement</category>
-        
-        <category>start up</category>
         
         
         <category>good_job</category>
