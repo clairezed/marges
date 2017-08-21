@@ -35,9 +35,11 @@ Des trucs à lire/voir quand je serai à la retraite (ou que je prendrai un mome
 
 
 ### Design
-- [Don't Make Me Think](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/ref=pd_sim_b_2?ie=UTF8&refRID=18V1XW44Y0XF9Z0HC7WN)
+- [Don't Make Me Think](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/ref=pd_sim_b_2?ie=UTF8&refRID=18V1XW44Y0XF9Z0HC7WN), Steve Krug
 - [Design for Hackers: Reverse Engineering Beauty](https://www.amazon.com/Design-Hackers-Reverse-Engineering-Beauty/dp/1119998956/)
 - [Thinking with Type](https://www.amazon.com/Thinking-Type-2nd-revised-expanded/dp/1568989695)
+- [Change by Design](https://www.ideo.com/post/change-by-design), Tim Brown, CEO of IDEO
+- [How to Use Graphic Design to Sell Things](https://www.amazon.com/Graphic-Design-Things-Explain-Better/dp/0062413902/), Explain Things, Make Things Look Better, Make People Laugh, Make People Cry, and (Every Once in a While) Change the World ; Michael Bierut
 
 ### Programmation
 
@@ -50,10 +52,10 @@ http://marcgg.com/books/
 ### Code / design social
 
 - [Design and Social Impact](https://www.arts.gov/sites/default/files/Design-and-Social-Impact.pdf)
-- [Ours to Hack and to Own](#)
+- [Ours to Hack and to Own](http://www.orbooks.com/catalog/ours-to-hack-and-to-own/)
 
 ### Open source
-https://framablog.org/category/libres-cultures/des-routes-et-des-ponts/
+[Des routes et des ponts](https://framablog.org/category/libres-cultures/des-routes-et-des-ponts/), framablog
 
 ### Activisme
 
