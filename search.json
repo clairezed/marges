@@ -1,23 +1,13 @@
 [
   
     {
-      "title"    : "Je passe trop de temps sur internet - semaine 33",
+      "title"    : "Je passe trop de temps sur internet - semaine 34",
       "content"  : "Troisième édition de la fort classique veille hebdomadaire.Au croisement entre innovation sociale et numérique      How charities can work with tech companies, The Guardian : un article pratique à destination des dirigeants de “charities” (que j’extrapole au secteur non lucratif en France), leur expliquant comment calculer leur degré de maturité numérique, acquérir les connaissances de base, choisir le bon prestataire, évaluer le coût…        Geneviève Fontaine, la transformation sociale en théorie et en pratique : portrait de la directrice du Tetris à Grasse, ex- prof d’économie qui a réussit à monter un établissement dédié à la Transition écologique territoriale par la recherche et l’innovation sociale (d’où TETRIS) orienté “communs” et “capabilités”.  Ethique et influence du numérique      « La disruption rend impossible toute visibilité sur l’avenir » - Entretien avec Bernard Stiegler, RSLN mag : je retombe sur cette interview publiée suite à la parution de “Dans la disruption : Comment ne pas devenir fou ?”. Bernard Stiegler parle de “disruption positive” ou d’économie contributive… Un peu flou sur les moyens, mais toujours d’actualité.        Can’t be evil, par Munneb Ali (Blockstack) : Cloudflare qui ferme le compte d’un site néo-nazi, DreamHost à qui le Département de la Justice demande les adresses IP des visiteurs d’un site anti-Trump… Au delà des questions morales, et si on faisait plutôt en sorte que les sites qu’on conçoit ne puisse en aucun cas être utilisés à mauvais escient ? Comme pistes : DNS décentralisé, stockage décentralisé, chiffrage et navigateurs supportant la blockchain.    In a “Can’t be evil” model¹, trusting “good guys” is replaced by cryptographic ownership of digital assets and mathematical proofs of security.  Ethical Design diagram : encore une entreé dans la catégorie ethique, avec ce diagramme sous forme de pyramide de Maslow, qui classifie les impératifs à assurer en tant que designer (Droits humains, effort humain, expérience humaine)Comment ça va, le milieu du web ?      De l’état du marché du développement : un gars que je ne connaissais plaide pour une posture de développeur expérimenté qui ait du recul sur les technologies, pour assainir un milieu du développement dont il dresse un tableau assez sombre.        Back To Craftsmanship: Lessons from the Arts and Crafts Movement : un plaidoyer pour un retour à l’artisanat, dans les interstices de ce qui, dans le travail humain, ne peut pas être automatisé.  Design, utilisateurs et tutti      Choosing the Right Features with Kano Model : dans une liste sans fin de fonctionnalités potentielles, comment choisir les bonnes fonctionnalités à développer ? Explication du modèle Kano et de son questionnaire, qui permettent d’identifier les fonctionnalités basiques, (attendues par principe), de performance (plus y’en a, mieux c’est), et d’excitation (l’effet wow, qui s’amenuise avec le temps), etc.        Choosing a frontend framework in 2017 : un article dense qui retrace la folle épopée des frameworks front. Qui a apporté tel concept, pourquoi des fois on parle de angular.js, d’autre fois de angular tout court, pour quelles raisons adopter React, Angular, Ember ou Polymer ?  Prendre soin de soi au milieu du numérique  Offline Only :  Là où le fond rejoint la forme pour nous parler de la valeur de la déconnexion. Très chouette expérimentation !Inclassable :)  Ratatiner les croyances pour sublimer les valeurs, Sud Web : Plongée dans les interrogations d’une équipe d’organisation de conférence web, et les astuces et méthodologies mises en oeuvre (interviews tirée du Running Lean…) pour y répondre. Passionnant !",
-      "tags"     : "hebdomalink, cooperative, toolkit, freelancing",
+      "tags"     : "hebdomalink, ethique, dont be evil, detox, ess, design",
       "category" : "good_job",
       "url"      : "/good_job/2017/08/28/liens-semaine-34.html",
       "type"     : "Dépêche",
       "date"     : "28/08/2017"
-    } ,
-  
-    {
-      "title"    : "Je passe trop de temps sur internet - semaine 32",
-      "content"  : "Le process et les outilsEtape 1 : adjectifs décrivant le sitePas le plus complexe, mais permet déjà de s’entendre sur des orientations consensuelles, et servira toujours de points de vigilance.Une prochaine fois, peut-être inviter les gens à choisir de leur côté 3 adjectifs, les noter puis les partager pour éviter l’effet de suivi une fois qu’un adjectif a un ou deux points.Etape 2 :Avec une note minimal de 1.8 et maximal de 3.3, on ne peut pas dire que des tendances vraiment fortes se dégagent.Compliqué sur logo, car le nom du commerce et l’iconographie influe “là, ça symbolise quelqu’un qui sourit, nous le café s’appelle 3e rive, ça ne correspond pas”.Aurait-il fallu les donner tous à voir dès le début plutôt que les faire défiler ?On gagne en finesse de jugement grâce à une comparaison immédiate de tous avec tous, mais on perd le côté dynamique, immédiat.Désarroi en fin d’atelier, lorsque le debrief donne à voir une très forte hétérogénéité des ressentis.Comment, quand on a été élevé dans une certaine doxa graphique, expliquer à quelqu’un qui aime son côté vivant, que ce logo avec 10 couleurs et trois typos différentes, non ça ne va pas ? Comment avancer quand les participants ne sont pas même d’accord sur le fait que tel logo fait “moderne” ou non ?Quelques points d’accord :  nécessité que le logo soit lisible  coloré plutôt que noir et blancVers quel mode de décision partir ?Mes pistes :Etude des écarts-types, pour voir quels sont les logos les plus clivants, ou les plus consensuels.De là peut déboucher une discussion sur ce qu’on valorise : un vrai choix tranché, un logo de caractère mais qui laissera certains participants insatisfaits ; ou tâcher de froisser le minimum de monde, fédérer autant que possible au risque d’un choix consensuel un peu mou ?",
-      "tags"     : "et moi",
-      "category" : "good_job",
-      "url"      : "/good_job/2017/08/27/ateliers-design.html",
-      "type"     : "Dépêche",
-      "date"     : "27/08/2017"
     } ,
   
     {
@@ -759,7 +749,7 @@
       "category" : "sustainable_code",
       "url"      : "/cheat-sheet-ruby",
       "type"     : "Dossier",
-      "date"     : "21/08/2017"
+      "date"     : "28/08/2017"
     } ,
   
     {
@@ -769,7 +759,7 @@
       "category" : "good_job",
       "url"      : "/ess",
       "type"     : "Dossier",
-      "date"     : "21/08/2017"
+      "date"     : "28/08/2017"
     } ,
   
     {
@@ -779,7 +769,7 @@
       "category" : "good_job",
       "url"      : "/faire-ensemble",
       "type"     : "Dossier",
-      "date"     : "21/08/2017"
+      "date"     : "28/08/2017"
     } ,
   
     {
@@ -789,7 +779,7 @@
       "category" : "binary_transition",
       "url"      : "/initiatives-cool",
       "type"     : "Dossier",
-      "date"     : "21/08/2017"
+      "date"     : "28/08/2017"
     } ,
   
     {
@@ -799,7 +789,7 @@
       "category" : "binary_transition",
       "url"      : "/inspirations-graphiques",
       "type"     : "Dossier",
-      "date"     : "21/08/2017"
+      "date"     : "28/08/2017"
     } ,
   
     {
@@ -809,7 +799,7 @@
       "category" : "sustainable_code",
       "url"      : "/jamstack",
       "type"     : "Dossier",
-      "date"     : "21/08/2017"
+      "date"     : "28/08/2017"
     } ,
   
     {
@@ -819,7 +809,7 @@
       "category" : "binary_transition",
       "url"      : "/cartographie-du-bas",
       "type"     : "Dossier",
-      "date"     : "21/08/2017"
+      "date"     : "28/08/2017"
     } ,
   
     {
@@ -829,7 +819,7 @@
       "category" : "sustainable_code",
       "url"      : "/studies/to-read-list/",
       "type"     : "Dossier",
-      "date"     : "24/08/2017"
+      "date"     : "28/08/2017"
     } ,
   
     {
@@ -839,7 +829,7 @@
       "category" : "sustainable_code",
       "url"      : "/toolkits",
       "type"     : "Dossier",
-      "date"     : "21/08/2017"
+      "date"     : "28/08/2017"
     } ,
   
     {
@@ -849,7 +839,7 @@
       "category" : "good_job",
       "url"      : "/notions-juridiques-libre-open-source",
       "type"     : "Dossier",
-      "date"     : "21/08/2017"
+      "date"     : "28/08/2017"
     } ,
   
     {
@@ -859,7 +849,7 @@
       "category" : "binary_transition",
       "url"      : "/tech-changement-social-open-source",
       "type"     : "Dossier",
-      "date"     : "21/08/2017"
+      "date"     : "28/08/2017"
     } 
   
 ]

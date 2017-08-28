@@ -5,12 +5,12 @@
     <description>Prise de notes des internets de claire zuliani</description>
     <link>http://marges.clairezuliani.com/</link>
     <atom:link href="http://marges.clairezuliani.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 28 Aug 2017 08:27:50 +0200</pubDate>
-    <lastBuildDate>Mon, 28 Aug 2017 08:27:50 +0200</lastBuildDate>
+    <pubDate>Mon, 28 Aug 2017 08:31:40 +0200</pubDate>
+    <lastBuildDate>Mon, 28 Aug 2017 08:31:40 +0200</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
-        <title>Je passe trop de temps sur internet - semaine 33</title>
+        <title>Je passe trop de temps sur internet - semaine 34</title>
         <description>&lt;p&gt;Troisième édition de la fort classique veille hebdomadaire.&lt;/p&gt;
 
 &lt;!--more--&gt;
@@ -85,60 +85,15 @@
         
         <category>hebdomalink</category>
         
-        <category>cooperative</category>
+        <category>ethique</category>
         
-        <category>toolkit</category>
+        <category>dont be evil</category>
         
-        <category>freelancing</category>
+        <category>detox</category>
         
+        <category>ess</category>
         
-        <category>good_job</category>
-        
-      </item>
-    
-      <item>
-        <title>Je passe trop de temps sur internet - semaine 32</title>
-        <description>&lt;!--more--&gt;
-
-&lt;h2 id=&quot;le-process-et-les-outils&quot;&gt;Le process et les outils&lt;/h2&gt;
-
-&lt;h3 id=&quot;etape-1--adjectifs-décrivant-le-site&quot;&gt;Etape 1 : adjectifs décrivant le site&lt;/h3&gt;
-
-&lt;p&gt;Pas le plus complexe, mais permet déjà de s’entendre sur des orientations consensuelles, et servira toujours de points de vigilance.&lt;/p&gt;
-
-&lt;p&gt;Une prochaine fois, peut-être inviter les gens à choisir de leur côté 3 adjectifs, les noter puis les partager pour éviter l’effet de suivi une fois qu’un adjectif a un ou deux points.&lt;/p&gt;
-
-&lt;h2 id=&quot;etape-2-&quot;&gt;Etape 2 :&lt;/h2&gt;
-
-&lt;p&gt;Avec une note minimal de 1.8 et maximal de 3.3, on ne peut pas dire que des tendances vraiment fortes se dégagent.&lt;/p&gt;
-
-&lt;p&gt;Compliqué sur logo, car le nom du commerce et l’iconographie influe “là, ça symbolise quelqu’un qui sourit, nous le café s’appelle 3e rive, ça ne correspond pas”.&lt;/p&gt;
-
-&lt;p&gt;Aurait-il fallu les donner tous à voir dès le début plutôt que les faire défiler ?&lt;br /&gt;
-On gagne en finesse de jugement grâce à une comparaison immédiate de tous avec tous, mais on perd le côté dynamique, immédiat.&lt;/p&gt;
-
-&lt;p&gt;Désarroi en fin d’atelier, lorsque le debrief donne à voir une très forte hétérogénéité des ressentis.&lt;/p&gt;
-
-&lt;p&gt;Comment, quand on a été élevé dans une certaine doxa graphique, expliquer à quelqu’un qui aime son côté vivant, que ce logo avec 10 couleurs et trois typos différentes, non ça ne va pas ? Comment avancer quand les participants ne sont pas même d’accord sur le fait que tel logo fait “moderne” ou non ?&lt;/p&gt;
-
-&lt;p&gt;Quelques points d’accord :&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;nécessité que le logo soit lisible&lt;/li&gt;
-  &lt;li&gt;coloré plutôt que noir et blanc&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;vers-quel-mode-de-décision-partir-&quot;&gt;Vers quel mode de décision partir ?&lt;/h2&gt;
-
-&lt;p&gt;Mes pistes :&lt;br /&gt;
-Etude des écarts-types, pour voir quels sont les logos les plus clivants, ou les plus consensuels.&lt;/p&gt;
-
-&lt;p&gt;De là peut déboucher une discussion sur ce qu’on valorise : un vrai choix tranché, un logo de caractère mais qui laissera certains participants insatisfaits ; ou tâcher de froisser le minimum de monde, fédérer autant que possible au risque d’un choix consensuel un peu mou ?&lt;/p&gt;
-</description>
-        <pubDate>Sun, 27 Aug 2017 00:00:00 +0200</pubDate>
-        <link>http://marges.clairezuliani.com/good_job/2017/08/27/ateliers-design.html</link>
-        <guid isPermaLink="true">http://marges.clairezuliani.com/good_job/2017/08/27/ateliers-design.html</guid>
-        
-        <category>et moi</category>
+        <category>design</category>
         
         
         <category>good_job</category>
@@ -1217,6 +1172,42 @@ Les échos sont fort avec Ethics by Design. Cette question des indicateurs est v
         
         
         <category>good_job</category>
+        
+      </item>
+    
+      <item>
+        <title>L'open lave plus blanc que blanc</title>
+        <description>&lt;p&gt;Parce qu’on va quand même pas être 100% content de voir l’open se diffuser à tout crin, voyons l’inévitable côté obscur de la force et parlons “open washing”.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Comme je n’arrive plus à trouver le temps d’écrire et commenter pour de vrai, je me résoud à adopter la très bonne tactique du copain &lt;a href=&quot;https://www.quaternum.net/flux/&quot;&gt;Antoine&lt;/a&gt; : une citation + un commentaire.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Les récentes appropriations d’open sont quelque peu abusives si l’on considère le travail collectif impliqué dans le fonctionnement d’un vrai écosystème libre et ouvert. Un fonctionnement essentiellement invisible car les technologies libres et ouvertes sont censées être structurelles… sauf lorsqu’elles sont utilisées à tort et à travers pour des raisons de marketing. La prolifération des projets open nous invite donc à rappeler tout le travail invisible qui permet aux grandes plateformes numériques de fonctionner. […]&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;l’utilisation du label « libre » est bien plus répandue que ce que nous pensions… et […] ce succès s’accompagne de dynamiques politiques de discrimination et de concentration de pouvoirs (sur des lignes ethniques, socioéconomiques et sexuelles) beaucoup plus marquées que ce que l’on devrait théoriquement accepter dans des projets de ce type.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Je n’avais pas encore trop trop vu le terme “open washing” (j’ai dû en louper), mais je sens que ce n’est qu’un début. Si être ouvert ne suffit pas, il faut continuer à creuser les conditions qui font de nos pratiques et outils des objets fondamentalement éthiques.&lt;/p&gt;
+
+&lt;p&gt;A rapprocher aussi de &lt;a href=&quot;https://blog.imirhil.fr/2017/02/21/logiciel-libre-gouvernance-ethique.html&quot;&gt;cet article&lt;/a&gt; sur l’importance de a gouvernance éthique dans le logiciel libre.&lt;/p&gt;
+
+&lt;p&gt;Source : &lt;a href=&quot;http://parisinnovationreview.com/2017/06/23/openwashing/&quot;&gt;De l’openwashing&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 27 Jun 2017 00:00:00 +0200</pubDate>
+        <link>http://marges.clairezuliani.com/binary_transition/2017/06/27/open-washing.html</link>
+        <guid isPermaLink="true">http://marges.clairezuliani.com/binary_transition/2017/06/27/open-washing.html</guid>
+        
+        <category>open source</category>
+        
+        <category>tech-washing</category>
+        
+        
+        <category>binary_transition</category>
         
       </item>
     
