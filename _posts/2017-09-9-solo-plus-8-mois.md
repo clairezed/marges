@@ -33,3 +33,11 @@ Difficile négociation budgétaire lab rh
 Chouettes discussions avec Florian Perret, investi dans la [Coop des Communs](http://coopdescommuns.org/), et basé à Reims (quelqu'un dans le Grand Est ! Youhou !) avec qui j'échange sur l'essor du mouvement des plateformes dans le domaine des communs. Il me signale notamment deux chouettes initiatives, qui illustrent bien la variété des initiatives et la multitude de choix qui peuvent être fait :
 - [Les oiseaux de passage](http://h2h.hoteldunord.coop/), ex H2H, un genre de AirBnB coopératif orienté communs. Ils se focalisent eux sur les communs physiques, des communs locaux liés au territoire (tourisme, savoir-faire...). Par contre, ils utilisent une plateforme propriétaire.
 - [Mutum](https://www.mutum.com/) : plateforme d'échange d'objets qui est à la base une société classique. Les créateurs se sont posés la question de la communauté après coup, et on bien avancé sur le sujet : ils en sont à vendre petit à petit la plateforme à la communauté, prévoient de distribuer la gouvernance, d'ouvrir le code...
+
+Lancement Ouishare Grand Est ?
+
+## Tech
+
+- refonte de mon site
+- installation de piwik
+-

@@ -337,3 +337,9 @@ Quelques éléments de conclusion après deux jours dans le monde des données :
 - J'ai découvert sur le tard des outils qui rendent inutiles la plus grosse part des manipulations que j'aie eu à faire, super. L'[API Sirene](https://data.opendatasoft.com/explore/dataset/sirene%40public/api/) proposée par OpenDataSoft permet de faire un grand nombre de recherche sur le répertoire SIRENE, et d'exporter les résultats. En plus les adresses sont déjà géocodées. Heureusement, tous les filtres (notamment code ESS) ne sont pas présnets, ce qui m'a éviter de me dire à 100% que mon travail avait été inutile.
 
 - enfin, un lien que je voulais garder sous la main pour plus tard : [Useful Pandas Snippets](https://gist.github.com/bsweger/e5817488d161f37dcbd2)
+
+## Edit
+
+Suite à la publication de l'article, [Thomas](@oncletom@framapiaf.org), qui est bien acoquiné avec data.gouv.fr, me signale d'autres ressources qui m'avaient échappées :
+- En bas de la [page de téléchargement](https://www.data.gouv.fr/fr/datasets/base-sirene-des-entreprises-et-de-leurs-etablissements-siren-siret/) du répertoire, il y a aussi à disposition des "Ressources communautaires" (dont le répertoire géocodé) et des cas de réutilisations.
+- [Sirene as API](https://github.com/sgmap/sirene_as_api) : travaux en cours pour fournir une API au répertoire SIRENE, en Ruby en Rails et Vue.js (yeah!)

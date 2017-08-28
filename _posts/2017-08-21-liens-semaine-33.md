@@ -26,6 +26,7 @@ Deuxième édition de la fort classique veille hebdomadaire.
 ## Transformation sociale
 
 - **[To Find Alternatives to Capitalism, Think Small](https://www.thenation.com/article/to-find-alternatives-to-capitalism-think-small/)** : long article avec plein d'exemples de nouveaux types d'économie (relocalisation, agriculture urbaine, coopératives plateformes, "SLOC: small and local, but open and connected")
+
 - **[Where’s the ‘Civic’ in CivicTech?](https://medium.com/@pollicy/dear-civic-technologists-lets-build-with-not-for-bbead12361ad)** : un appel à prendre en compte la communauté dans la production d'outils civic tech, à construire "avec" et non "pour". Evident, mais ça mange aps de pain de le rappeler.
 
 > To be used for social good, a product needs to be directed, and for its greatest, most transformative impact, it needs to be directed by those who will benefit the most from the creation of the social good that being the community.

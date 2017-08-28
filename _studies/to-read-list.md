@@ -55,7 +55,8 @@ http://marcgg.com/books/
 - [Ours to Hack and to Own](http://www.orbooks.com/catalog/ours-to-hack-and-to-own/)
 
 ### Open source
-[Des routes et des ponts](https://framablog.org/category/libres-cultures/des-routes-et-des-ponts/), framablog
+- [Des routes et des ponts](https://framablog.org/category/libres-cultures/des-routes-et-des-ponts/), framablog
+- [Open Source Guides](https://opensource.guide/)
 
 ### Activisme
 
@@ -75,6 +76,9 @@ POUR UNE ÉCOLOGIE DES PRATIQUES COLLECTIVES (version en ligne)
 
 
 ## A voir
+
+### Code
+- Du Legacy au Cloud en moins d'une heure - [David Gageot à l'USI](https://www.youtube.com/watch?v=q11gydDAMSo), 2014
 
 ### Documentaires
 - [Design and Thinking](https://www.youtube.com/watch?v=Z_YwyMssN0Y), documentaire complet sur le design thinking
