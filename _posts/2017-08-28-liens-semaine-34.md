@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Je passe trop de temps sur internet - semaine 33
+title: Je passe trop de temps sur internet - semaine 34
 category: good_job
-tags: [hebdomalink, cooperative, toolkit, freelancing]
+tags: [hebdomalink, ethique, dont be evil, detox, ess, design]
 
 ---
 
