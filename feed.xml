@@ -5,9 +5,91 @@
     <description>Prise de notes des internets de claire zuliani</description>
     <link>http://marges.clairezuliani.com/</link>
     <atom:link href="http://marges.clairezuliani.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 03 Sep 2017 17:12:29 +0200</pubDate>
-    <lastBuildDate>Sun, 03 Sep 2017 17:12:29 +0200</lastBuildDate>
+    <pubDate>Mon, 04 Sep 2017 13:01:46 +0200</pubDate>
+    <lastBuildDate>Mon, 04 Sep 2017 13:01:46 +0200</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>Je passe trop de temps sur internet - semaine 35</title>
+        <description>&lt;p&gt;Une nouvelle veille hebdo, que je ne sais jamais trop comment intriduire. C’est la veille de la semaine, quoi.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;h2 id=&quot;data&quot;&gt;Data&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www-franceculture-fr.cdn.ampproject.org/c/s/www.franceculture.fr/amp/geographie/cinq-idees-recues-sur-la-france-battues-en-breche-par-les-cartes&quot;&gt;Cinq idées reçues sur la France&lt;/a&gt;  battues en brèche par les cartes&lt;/strong&gt;, France culture : déserts médicaux, pauvreté, redistribution, crèches, prix du sol. Cinq cartes avec des modes de représentation différents&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://quickdraw.withgoogle.com/data&quot;&gt;Quick, draw! The Data&lt;/a&gt;&lt;/strong&gt; : je déteste que google nous fasse bosser pour lui, mais je suis quand même souvent intéressée par les résultats. Grâce à un &lt;a href=&quot;https://twitter.com/kcimc/status/902229612666658816&quot;&gt;fil twitter&lt;/a&gt; (hyper intéressant), je découvre donc la compilation, qui date probablement déjà, de la quintessence des dessins réalisés par des humains et collectés pour le projet Quick, Draw!&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;ux--design&quot;&gt;UX &amp;amp; Design&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://uxdesign.cc/how-to-present-wireframes-to-clients-a5c2824d577b&quot;&gt;How to Present Wireframes to Clients&lt;/a&gt;&lt;/strong&gt;, uxdesign.cc : en parallèle de la présentation de maquettes, présenter des exemples du design envisagé de certaines briques sur des sites existants, pour permettre au client de mieux visualiser ce qu’on a un tête.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Le nouveau site de &lt;a href=&quot;https://www.balenciaga.com/fr/&quot;&gt;balenciaga&lt;/a&gt;&lt;/strong&gt; : hyper minimaliste, avec un chargement très rapide (jusqu’à ce qu’on arrive aux pages avec photos). Je crois que ça me fait du bien, ce côté strict minimum radical.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://uxplanet.org/how-to-choose-a-user-research-method-985112051d84&quot;&gt;How to choose a user research method&lt;/a&gt;&lt;/strong&gt;, uxplanet.org : alors que je commence un projet où la bonne connaissance des utilisateurs est assez cruciale, un bon article qui répertorie nombre de techniques et leurs cas d’usage.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;ethique--vie-privée&quot;&gt;Ethique &amp;amp; Vie privée&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.reuters.com/article/us-volkswagen-emissions-sentencing-idUSKCN1B51YP&quot;&gt;VW engineer sentenced to 40-month prison term in diesel case&lt;/a&gt;&lt;/strong&gt;, Reuters : on peut aller en taule pour du code dégueulasse qu’on nous a demandé de pondre. Ca y est, la responsabilité des développeurs est engagée. Aujourd’hui plus que jamais, s’il vous fallait encore des raisons, refusez ce qu’on vous demande qui sorte des lignes.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://www.numerama.com/politique/282934-enquete-comment-les-apps-figaro-lequipe-ou-closer-participent-au-pistage-de-10-millions-de-francais.html&quot;&gt;Enquête&lt;/a&gt;, comment les apps Figaro, L’Équipe ou Closer participent au pistage de 10 millions de Français&lt;/strong&gt;, Numerama : article en profondeur éclairant sur les pratiques borderlines de certaines sociétés et sur leur encadrement (ou non) juridique.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.kinggafa.com/&quot;&gt;King GAFA and the Magical 0-1 Crop&lt;/a&gt;&lt;/strong&gt; : un joli conte animé de vidéo et riche en ressources pour apprendre à devenir un chevalier de la vie privée et lutter contre le roi GAFA (en anglais).&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;discrimination--tech&quot;&gt;Discrimination &amp;amp; tech&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://usbeketrica.com/article/elles-inventent-un-co-fondateur-homme-pour-leur-start-up-et-c-est-le-jour-et-la-nuit&quot;&gt;Elles inventent un co-fondateur homme  »&lt;/a&gt; pour leur start-up, et c’est « le jour et la nuit&lt;/strong&gt;, Usbek et Rika : ahlala, Keith, ce bon vieil ami imaginaire qui permet aux femmes de pas être prises pour des marioles… Punaise, il est temps que le secteur mûrisse et qu’on n’ait plus besoin de ça.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;communs&quot;&gt;Communs&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://scinfolex.com/2017/08/31/le-comite-invisible-et-les-communs-pourrons-nous-encore-etre-amis/&quot;&gt;Le Comité invisible et les Communs&lt;/a&gt; : pourrons-nous encore être « amis » ?&lt;/strong&gt;, calimaq : une somme qui étudie les propos des livres du Comité invisible au regard des communs. Un texte engagé, documenté, argumenté, qui paticipe aussi à définir ce que sont et ne sont pas les communs. Précieux.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;et-apprendre-toujours-&quot;&gt;Et apprendre, toujours !&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://learn-anything.xyz/learn-anything&quot;&gt;Learn anything&lt;/a&gt;&lt;/strong&gt; : mindmap géante pour apprendre “n’importe quoi (ou presque) en proposant le meilleur cheminement possible avec des ressources plébiscitées par la communauté.” Merci à Gaëlle de Happy Dev pour l’info !&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 04 Sep 2017 00:00:00 +0200</pubDate>
+        <link>http://marges.clairezuliani.com/good_job/2017/09/04/liens-semaine-35.html</link>
+        <guid isPermaLink="true">http://marges.clairezuliani.com/good_job/2017/09/04/liens-semaine-35.html</guid>
+        
+        <category>hebdomalink</category>
+        
+        <category>ethique</category>
+        
+        <category>ui/ux</category>
+        
+        <category>communs</category>
+        
+        <category>données</category>
+        
+        
+        <category>good_job</category>
+        
+      </item>
     
       <item>
         <title>Je passe trop de temps sur internet - semaine 34</title>
@@ -1172,42 +1254,6 @@ Les échos sont fort avec Ethics by Design. Cette question des indicateurs est v
         
         
         <category>good_job</category>
-        
-      </item>
-    
-      <item>
-        <title>L'open lave plus blanc que blanc</title>
-        <description>&lt;p&gt;Parce qu’on va quand même pas être 100% content de voir l’open se diffuser à tout crin, voyons l’inévitable côté obscur de la force et parlons “open washing”.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;Comme je n’arrive plus à trouver le temps d’écrire et commenter pour de vrai, je me résoud à adopter la très bonne tactique du copain &lt;a href=&quot;https://www.quaternum.net/flux/&quot;&gt;Antoine&lt;/a&gt; : une citation + un commentaire.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Les récentes appropriations d’open sont quelque peu abusives si l’on considère le travail collectif impliqué dans le fonctionnement d’un vrai écosystème libre et ouvert. Un fonctionnement essentiellement invisible car les technologies libres et ouvertes sont censées être structurelles… sauf lorsqu’elles sont utilisées à tort et à travers pour des raisons de marketing. La prolifération des projets open nous invite donc à rappeler tout le travail invisible qui permet aux grandes plateformes numériques de fonctionner. […]&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;l’utilisation du label « libre » est bien plus répandue que ce que nous pensions… et […] ce succès s’accompagne de dynamiques politiques de discrimination et de concentration de pouvoirs (sur des lignes ethniques, socioéconomiques et sexuelles) beaucoup plus marquées que ce que l’on devrait théoriquement accepter dans des projets de ce type.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Je n’avais pas encore trop trop vu le terme “open washing” (j’ai dû en louper), mais je sens que ce n’est qu’un début. Si être ouvert ne suffit pas, il faut continuer à creuser les conditions qui font de nos pratiques et outils des objets fondamentalement éthiques.&lt;/p&gt;
-
-&lt;p&gt;A rapprocher aussi de &lt;a href=&quot;https://blog.imirhil.fr/2017/02/21/logiciel-libre-gouvernance-ethique.html&quot;&gt;cet article&lt;/a&gt; sur l’importance de a gouvernance éthique dans le logiciel libre.&lt;/p&gt;
-
-&lt;p&gt;Source : &lt;a href=&quot;http://parisinnovationreview.com/2017/06/23/openwashing/&quot;&gt;De l’openwashing&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 27 Jun 2017 00:00:00 +0200</pubDate>
-        <link>http://marges.clairezuliani.com/binary_transition/2017/06/27/open-washing.html</link>
-        <guid isPermaLink="true">http://marges.clairezuliani.com/binary_transition/2017/06/27/open-washing.html</guid>
-        
-        <category>open source</category>
-        
-        <category>tech-washing</category>
-        
-        
-        <category>binary_transition</category>
         
       </item>
     
