@@ -87,9 +87,13 @@ Comment bien commencer un projet ? Quelques outils déjà utilisés ou à tester
 - [IXD Checklist](http://ixdchecklist.com/)
 - [CSS pro tips](https://github.com/AllThingsSmitty/css-protips)
 
+### UX
+
+- [UX Design Methods & Deliverables](https://uxdesign.cc/ux-design-methods-deliverables-657f54ce3c7d)
+
 ### Prototypage / Wireframe / Mockups
 
--   http://littleplaneapp.com/
+- [Little planet app](http://littleplaneapp.com/)
 - [Pingendo](http://pingendo.com/v4-beta/) : Dead-simple builder for Bootstrap 4
 - [Figma](https://www.figma.com/)
 
