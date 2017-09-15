@@ -1,16 +1,6 @@
 [
   
     {
-      "title"    : "Radiographie d&#39;un site 3 - Decidim",
-      "content"  : "Ici, c’est bien plus une radiographie de code que de site, avec Decidim  Modularité  interface hyper propre, belle ergonomie          menu admin      gestion des champs de trad      editor : https://quilljs.com/        gestion des traductions          Utilisation de crowdin.com pour faciliter la traduction participative      Source : repo github Decidim",
-      "tags"     : "radiographie, toolkit",
-      "category" : "sustainable_code",
-      "url"      : "/sustainable_code/2017/09/15/radiographie-03.html",
-      "type"     : "Dépêche",
-      "date"     : "15/09/2017"
-    } ,
-  
-    {
       "title"    : "Je passe trop de temps sur internet - semaine 36",
       "content"  : "Une nouvelle veille hebdo, qui se raccourcit et c’est pas près de s’arranger. Ce manque de temps, c’est comme une odeur de rentrée !Communs  Méthode de mise en place d’un appel à communs : j’ai vraiment l’impression que la Fabrique des mobilités fait du bon boulot ; une nouvelle preuve avec ce partage d’une procédure détaillée et bourrée d’exemples de cet appel à communs dans le champs de la mobilité.Plateformes  The First Domino Falls in the Gig Economy: HomeJoy Shuts Down : Homejey, une appli que je ne connaissais même pas, ferme. Un freelancer l’analyse comme la fin de la fête pour les plateformes support d’une économie qui n’a de collaborative que le nom.  there is a need to adapt technology so that it does not just empower and enrich those in Silicon Valley, but also the workers who provide the services that make these apps possible. And, ideally, companies should develop these technologies in a collaborative, open-source environment that allows for genuine community collaboration.L’argent de l’open sourceEn ce moment, je vois passer plein de discussions sur l’économie du modèle open source.      Where money meets open source, keynote de Nadia Eghbal (github) : où dépenser de l’argent pour un projet open-source ? Pour la création : mise de départ pour une V1 ; évangélisation : meetups, etc, pour attirer de nouveaux contributeurs, contributin : documentation, meet-ups et ateliers pour réduire le coût d’entrée : maintenance du projet : review, réponre aux questions. Les contributeurs n’ont pas tous besoins d’être payés. Comme les bénévoles et les salariés d’une asso ?create, evangelize, contribute, maintain        Here are some viable software business models, specifically around making money while open sourcing code Thread twitter        If @GitHub added the ability to sell support plans or priority issues then I believe companies would pay for them. Thread twitter  Internet décentralisé  Mastodon is big in Japan. The reason why is… uncomfortable : j’avais loupé la raison pour laquelle Mastodon a si bien pris au Japon. La raison invoqué ici est intéressante : la décentralisation permet à une communauté (ici, celle, très importantes, des amateurs de Lolicon) d’instaurer ses propres règles sur ses propres instances, et d’échapper aux restrictions des plateformes centralisées. Et plein de considérations intéressantes sur l’internet décentralisé !Smart for real city  Read before you come : Boston’s smart city playbook : un guide proposé par la ville de Boston pour toutes les entreprises qui veulent lui proposer des solutions smart city à la noix. “Arrêtez d’envoyer des représentants de commerce, Résolvez les vrais problèmes des vrais gens…” Parfait. (lire le playbook)",
       "tags"     : "hebdomalink, communs, financement, open source",
@@ -799,7 +789,7 @@
       "category" : "sustainable_code",
       "url"      : "/cheat-sheet-ruby",
       "type"     : "Dossier",
-      "date"     : "07/09/2017"
+      "date"     : "15/09/2017"
     } ,
   
     {
@@ -809,7 +799,7 @@
       "category" : "good_job",
       "url"      : "/ess",
       "type"     : "Dossier",
-      "date"     : "07/09/2017"
+      "date"     : "15/09/2017"
     } ,
   
     {
@@ -819,7 +809,7 @@
       "category" : "good_job",
       "url"      : "/faire-ensemble",
       "type"     : "Dossier",
-      "date"     : "07/09/2017"
+      "date"     : "15/09/2017"
     } ,
   
     {
@@ -829,7 +819,7 @@
       "category" : "binary_transition",
       "url"      : "/initiatives-cool",
       "type"     : "Dossier",
-      "date"     : "09/09/2017"
+      "date"     : "15/09/2017"
     } ,
   
     {
@@ -839,7 +829,7 @@
       "category" : "binary_transition",
       "url"      : "/inspirations-graphiques",
       "type"     : "Dossier",
-      "date"     : "07/09/2017"
+      "date"     : "15/09/2017"
     } ,
   
     {
@@ -849,7 +839,7 @@
       "category" : "sustainable_code",
       "url"      : "/jamstack",
       "type"     : "Dossier",
-      "date"     : "07/09/2017"
+      "date"     : "15/09/2017"
     } ,
   
     {
@@ -859,7 +849,7 @@
       "category" : "binary_transition",
       "url"      : "/cartographie-du-bas",
       "type"     : "Dossier",
-      "date"     : "07/09/2017"
+      "date"     : "15/09/2017"
     } ,
   
     {
@@ -869,7 +859,7 @@
       "category" : "sustainable_code",
       "url"      : "/studies/to-read-list/",
       "type"     : "Dossier",
-      "date"     : "07/09/2017"
+      "date"     : "15/09/2017"
     } ,
   
     {
@@ -879,7 +869,7 @@
       "category" : "sustainable_code",
       "url"      : "/toolkits",
       "type"     : "Dossier",
-      "date"     : "07/09/2017"
+      "date"     : "15/09/2017"
     } ,
   
     {
@@ -889,7 +879,7 @@
       "category" : "good_job",
       "url"      : "/notions-juridiques-libre-open-source",
       "type"     : "Dossier",
-      "date"     : "07/09/2017"
+      "date"     : "15/09/2017"
     } ,
   
     {
@@ -899,7 +889,7 @@
       "category" : "binary_transition",
       "url"      : "/tech-changement-social-open-source",
       "type"     : "Dossier",
-      "date"     : "07/09/2017"
+      "date"     : "15/09/2017"
     } 
   
 ]
