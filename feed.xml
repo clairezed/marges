@@ -5,9 +5,169 @@
     <description>Prise de notes des internets de claire zuliani</description>
     <link>http://marges.clairezuliani.com/</link>
     <atom:link href="http://marges.clairezuliani.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 07 Sep 2017 20:04:13 +0200</pubDate>
-    <lastBuildDate>Thu, 07 Sep 2017 20:04:13 +0200</lastBuildDate>
+    <pubDate>Fri, 15 Sep 2017 09:05:08 +0200</pubDate>
+    <lastBuildDate>Fri, 15 Sep 2017 09:05:08 +0200</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>Radiographie d'un site 3 - Decidim</title>
+        <description>&lt;p&gt;Ici, c’est bien plus une radiographie de code que de site, avec Decidim&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Modularité&lt;/li&gt;
+  &lt;li&gt;interface hyper propre, belle ergonomie
+    &lt;ul&gt;
+      &lt;li&gt;menu admin&lt;/li&gt;
+      &lt;li&gt;gestion des champs de trad&lt;/li&gt;
+      &lt;li&gt;editor : https://quilljs.com/&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;gestion des traductions
+    &lt;ul&gt;
+      &lt;li&gt;Utilisation de &lt;a href=&quot;https://crowdin.com&quot;&gt;crowdin.com&lt;/a&gt; pour faciliter la traduction participative&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Source : repo github &lt;a href=&quot;https://github.com/decidim/decidim&quot;&gt;Decidim&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 15 Sep 2017 00:00:00 +0200</pubDate>
+        <link>http://marges.clairezuliani.com/sustainable_code/2017/09/15/radiographie-03.html</link>
+        <guid isPermaLink="true">http://marges.clairezuliani.com/sustainable_code/2017/09/15/radiographie-03.html</guid>
+        
+        <category>radiographie</category>
+        
+        <category>toolkit</category>
+        
+        
+        <category>sustainable_code</category>
+        
+      </item>
+    
+      <item>
+        <title>Je passe trop de temps sur internet - semaine 36</title>
+        <description>&lt;p&gt;Une nouvelle veille hebdo, qui se raccourcit et c’est pas près de s’arranger. Ce manque de temps, c’est comme une odeur de rentrée !&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;h2 id=&quot;communs&quot;&gt;Communs&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;http://wiki.lafabriquedesmobilites.fr/wiki/M%C3%A9thode_de_mise_en_place_d%27un_appel_%C3%A0_communs?fref=gc&amp;amp;dti=644546245604963&quot;&gt;&lt;br /&gt;
+Méthode de mise en place d’un appel à communs&lt;/a&gt;&lt;/strong&gt; : j’ai vraiment l’impression que la Fabrique des mobilités fait du bon boulot ; une nouvelle preuve avec ce partage d’une procédure détaillée et bourrée d’exemples de cet appel à communs dans le champs de la mobilité.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;plateformes&quot;&gt;Plateformes&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;http://www.triplepundit.com/2015/08/first-domino-falls-gig-economy-homejoy-shuts/&quot;&gt;The First Domino Falls in the Gig Economy: HomeJoy Shuts Down&lt;/a&gt;&lt;/strong&gt; : Homejey, une appli que je ne connaissais même pas, ferme. Un freelancer l’analyse comme la fin de la fête pour les plateformes support d’une économie qui n’a de collaborative que le nom.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;there is a need to adapt technology so that it does not just empower and enrich those in Silicon Valley, but also the workers who provide the services that make these apps possible. And, ideally, companies should develop these technologies in a collaborative, open-source environment that allows for genuine community collaboration.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;largent-de-lopen-source&quot;&gt;L’argent de l’open source&lt;/h2&gt;
+
+&lt;p&gt;En ce moment, je vois passer plein de discussions sur l’économie du modèle open source.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.oreilly.com/ideas/where-money-meets-open-source&quot;&gt;Where money meets open source&lt;/a&gt;&lt;/strong&gt;, keynote de Nadia Eghbal (github) : où dépenser de l’argent pour un projet open-source ? Pour la création : mise de départ pour une V1 ; évangélisation : meetups, etc, pour attirer de nouveaux contributeurs, contributin : documentation, meet-ups et ateliers pour réduire le coût d’entrée : maintenance du projet : review, réponre aux questions. Les contributeurs n’ont pas tous besoins d’être payés. Comme les bénévoles et les salariés d’une asso ?&lt;br /&gt;
+create, evangelize, contribute, maintain&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Here are some viable software business models, specifically around making money while open sourcing code &lt;a href=&quot;https://twitter.com/sehurlburt/status/907018758396325888&quot;&gt;Thread twitter&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;If @GitHub added the ability to sell support plans or priority issues then I believe companies would pay for them. &lt;a href=&quot;https://twitter.com/benbjohnson/status/906209191810940928&quot;&gt;Thread twitter&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;internet-décentralisé&quot;&gt;Internet décentralisé&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://medium.com/@EthanZ/mastodon-is-big-in-japan-the-reason-why-is-uncomfortable-684c036498e5&quot;&gt;Mastodon is big in Japan. The reason why is… uncomfortable&lt;/a&gt;&lt;/strong&gt; : j’avais loupé la raison pour laquelle Mastodon a si bien pris au Japon. La raison invoqué ici est intéressante : la décentralisation permet à une communauté (ici, celle, très importantes, des amateurs de &lt;a href=&quot;https://fr.wiktionary.org/wiki/lolicon&quot;&gt;Lolicon&lt;/a&gt;) d’instaurer ses propres règles sur ses propres instances, et d’échapper aux restrictions des plateformes centralisées. Et plein de considérations intéressantes sur l’internet décentralisé !&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;smart-for-real-city&quot;&gt;Smart for real city&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://medium.com/le-lab/read-before-you-come-bostons-smart-city-playbook-1e0eea5dc212&quot;&gt;Read before you come : Boston’s smart city playbook&lt;br /&gt;
+&lt;/a&gt;&lt;/strong&gt; : un guide proposé par la ville de Boston pour toutes les entreprises qui veulent lui proposer des solutions smart city à la noix. &lt;em&gt;“Arrêtez d’envoyer des représentants de commerce, Résolvez les vrais problèmes des vrais gens…”&lt;/em&gt; Parfait. (&lt;a href=&quot;https://monum.github.io/playbook/&quot;&gt;lire le playbook&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 11 Sep 2017 00:00:00 +0200</pubDate>
+        <link>http://marges.clairezuliani.com/good_job/2017/09/11/liens-semaine-36.html</link>
+        <guid isPermaLink="true">http://marges.clairezuliani.com/good_job/2017/09/11/liens-semaine-36.html</guid>
+        
+        <category>hebdomalink</category>
+        
+        <category>communs</category>
+        
+        <category>financement</category>
+        
+        <category>open source</category>
+        
+        
+        <category>good_job</category>
+        
+      </item>
+    
+      <item>
+        <title>A mon compte + 8 mois</title>
+        <description>&lt;p&gt;Simili journal de bord simili mensuel épisode 8. Ce mois d’août était&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;h2 id=&quot;dynamiser-lécosystème-local&quot;&gt;Dynamiser l’écosystème local&lt;/h2&gt;
+
+&lt;p&gt;Rencontre avec Ecoter, discussions gouvernance, leadership, coopération avec Pascal.&lt;/p&gt;
+
+&lt;p&gt;Alors que je finis le Mooc, et à la lumière de ces échanges, je me dis que vraiment, l’un des enjeux de beaucoup de projets, c’est déjà de réussir à faire travailler des gens ensemble, efficacement.&lt;/p&gt;
+
+&lt;p&gt;Je découvre que l’un des fondateurs de Coopaname est golbéen, et on prend le temps d’échanger lors d’un retour estival en terre natale, sur la situation locale. Moralité, il y a du pain sur la planche (pas que ce soit une surprise…)&lt;/p&gt;
+
+&lt;p&gt;Discussion legollaborative&lt;/p&gt;
+
+&lt;p&gt;Me dis qu’il me faut un nom d’agence, pour donner le change.&lt;/p&gt;
+
+&lt;h2 id=&quot;taf&quot;&gt;Taf&lt;/h2&gt;
+
+&lt;p&gt;Difficile négociation budgétaire lab rh&lt;/p&gt;
+
+&lt;h2 id=&quot;plateforme-coops&quot;&gt;Plateforme coops&lt;/h2&gt;
+
+&lt;p&gt;Chouettes discussions avec Florian Perret, investi dans la &lt;a href=&quot;http://coopdescommuns.org/&quot;&gt;Coop des Communs&lt;/a&gt;, et basé à Reims (quelqu’un dans le Grand Est ! Youhou !) avec qui j’échange sur l’essor du mouvement des plateformes dans le domaine des communs. Il me signale notamment deux chouettes initiatives, qui illustrent bien la variété des initiatives et la multitude de choix qui peuvent être fait :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://h2h.hoteldunord.coop/&quot;&gt;Les oiseaux de passage&lt;/a&gt;, ex H2H, un genre de AirBnB coopératif orienté communs. Ils se focalisent eux sur les communs physiques, des communs locaux liés au territoire (tourisme, savoir-faire…). Par contre, ils utilisent une plateforme propriétaire.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.mutum.com/&quot;&gt;Mutum&lt;/a&gt; : plateforme d’échange d’objets qui est à la base une société classique. Les créateurs se sont posés la question de la communauté après coup, et on bien avancé sur le sujet : ils en sont à vendre petit à petit la plateforme à la communauté, prévoient de distribuer la gouvernance, d’ouvrir le code…&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Lancement Ouishare Grand Est ?&lt;/p&gt;
+
+&lt;h2 id=&quot;tech&quot;&gt;Tech&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;refonte de mon site&lt;/li&gt;
+  &lt;li&gt;
+    &lt;h2 id=&quot;installation-de-piwik&quot;&gt;installation de piwik&lt;/h2&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sat, 09 Sep 2017 00:00:00 +0200</pubDate>
+        <link>http://marges.clairezuliani.com/good_job/2017/09/09/solo-plus-8-mois.html</link>
+        <guid isPermaLink="true">http://marges.clairezuliani.com/good_job/2017/09/09/solo-plus-8-mois.html</guid>
+        
+        <category>et moi</category>
+        
+        
+        <category>good_job</category>
+        
+      </item>
     
       <item>
         <title>Co-construire 2017 : de la coopération, et un doigt de numérique</title>
@@ -882,372 +1042,6 @@ Et un récap et approfondissement de la conf du Reset, sur leur &lt;a href=&quot
         <pubDate>Wed, 09 Aug 2017 00:00:00 +0200</pubDate>
         <link>http://marges.clairezuliani.com/good_job/2017/08/09/solo-plus-7-mois.html</link>
         <guid isPermaLink="true">http://marges.clairezuliani.com/good_job/2017/08/09/solo-plus-7-mois.html</guid>
-        
-        <category>et moi</category>
-        
-        
-        <category>good_job</category>
-        
-      </item>
-    
-      <item>
-        <title>Ouishare Fest 2017, l'envie de partir de la ville pour changer le monde</title>
-        <description>&lt;p&gt;Le Ouishare Festival, ce grand raout international autour de l’économie collaborative, et plus largement des grandes tendances de l’innovation sociale, ça faisait un paquet de temps que je le reluquais. Et ce n’est pas la canicule pantinoise de ce début juillet qui m’empêcha d’en profiter.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;&lt;em&gt;“Et toi, tu es là pour quoi ?”&lt;/em&gt; Question difficile et récurrente lors du festival, à laquelle il ne me semble pas avoir répondu deux fois de la même façon (et jamais en moins de 3 minutes…). Avoir une meilleure connaissance des gens qui font autrement, rencontrer les réseaux cachés de l’économie collaborative du Grand Est (raté !), découvrir des projets dans lesquels je pourrais avoir envie de m’investir, me faire une veille express sur les thématiques les plus en vogue de l’innovation sociale et numérique… Je sentais en fait qu’être ici stimulerait immanquablement mes neurones, et ce n’est qu’en cours de route que la question qui, finalement, me taraudait s’est vraiment précisée.&lt;/p&gt;
-
-&lt;p&gt;Alors que le festival présentait surtout des initiatives prenant corps dans les métropoles, &lt;strong&gt;comment on fait, concrètement, pour soutenir un autre modèle de développement territorial quand on est un citoyen lambda dans une ville moyenne ?&lt;/strong&gt; Et c’est cette question qui orientera ma lecture de l’événement.&lt;/p&gt;
-
-&lt;h2 id=&quot;la-ville-comme-moteur-du-changement-&quot;&gt;La ville comme moteur du changement ?&lt;/h2&gt;
-
-&lt;p&gt;La question ne sort pas de nulle part, puisque la thématique centrale du festival était celle des villes, comme nouvel horizon d’action pertinent de la transformation sociale. Et c’est vrai que ces dernier temps, on entend parler de plus en plus de réseaux de villes. Histoire de s’y retrouver, petit panel :&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Mayors National Climate Action Agenda&lt;/strong&gt; (&lt;a href=&quot;http://climatemayors.org/&quot;&gt;site&lt;/a&gt;) : réseau de 350 villes américaines  pour affirmer leur volonté d’agir en faveur de la transition écologique malgré le retrait des Etats-Unis de l’accord de Paris sur le climat.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;C40&lt;/strong&gt; (&lt;a href=&quot;http://www.c40.org/&quot;&gt;site&lt;/a&gt;) : réseau de quatre-vingt-six métropoles mondiales (dont New York, Séoul, Mexico…), pour agir contre le changement climatique.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Fearless cities&lt;/strong&gt; (&lt;a href=&quot;http://fearlesscities.com/&quot;&gt;site&lt;/a&gt;) : réseau de villes réunies autour d’un sommet à Barcelone en juin 2017 pour « résister à la xénophobie, à l’extrême droite et à la puissance des multinationales »&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;On est ici sur du réseau international de métropoles. Et les réseaux de villes françaises moyennes ?&lt;/p&gt;
-
-&lt;h2 id=&quot;un-plan-daction-pour-les-villes-de-tailles-moyennes&quot;&gt;Un plan d’action pour les villes de tailles moyennes&lt;/h2&gt;
-
-&lt;p&gt;Il se trouve que cette question des villes moyennes a directement été abordée lors de la dernière journée du festival.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.le-lab.org/bienvenue&quot;&gt;Le Lab&lt;/a&gt; de Ouishare finalise une étude sur l’économie collaborative dans les villes moyennes : &lt;a href=&quot;https://www.sharitories.eu/&quot;&gt;Sharitories&lt;/a&gt;. L’enjeu de l’étude est non pas de fournir un mode d’emploi de comment faire du collaboratif à petite échelle, mais d’identifier les stratégies possibles, expliquer ce qui a marcher à tel endroit dans tel contexte. Si l’étude ne sera rendue publique qu’à l’automne, quelques conclusions ont déjà été partagée lors du festival. Quand j’ai appris qu’Epinal, en plus, était l’un des terrains d’étude, j’étais toute fofolle.&lt;/p&gt;
-
-&lt;p&gt;Mes notes ci-dessous.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Les piliers pour une ville résiliente et autonome :&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;consommation collaborative&lt;/strong&gt; : carpooling, circuits courts, tourisme P2P, réseaux de proximité&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;production distribuée&lt;/strong&gt; : coworking, coliving, fablabs, repair café&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;financement participatif&lt;/strong&gt; : crowdfunding, crowdlending, crowdequity&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;gouvernance ouverte&lt;/strong&gt; : plannification urbaine participative, co-design, budgets participatifs (cartographie des espaces ouverts, des espaces vacants, des projets, et les impliquer ensuite dans la planification urbaine)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Certains de ces piliers croisent les enjeux des villes moyennes :&lt;/p&gt;
-
-&lt;table class=&quot;table table-default&quot;&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Enjeux des villes moyennes&lt;/th&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;Initiative de l’éco. coll.&lt;/th&gt;
-      &lt;th&gt;Exemple&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;attractivité touristique&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;habitat partagé, tourisme P2P…&lt;/td&gt;
-      &lt;td&gt;Aveiro, Espagne, échange de maison sur la plateforme GuestToGuest&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;attractivité territoriale&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;espaces de coworking, réseaux B2B et entrepreneurs…&lt;/td&gt;
-      &lt;td&gt;-&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;dynamisme économique&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;fab-lab, coworking, incubateurs, crowdfunding local, plateforme collaborative B2B…&lt;/td&gt;
-      &lt;td&gt;La Louvière, wallonie, The Cowork Factory&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;gouvernance&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;budget et financement participatif, co-construction…&lt;/td&gt;
-      &lt;td&gt;Lanester, agglo Lorient, budget participatif&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;développement durable&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;circuit-court, covoiturage, réseaux de voisinage…&lt;/td&gt;
-      &lt;td&gt;Albi, objectif d’autosuffisance alimentaire en 2020, avec jardins partagés et circuits court&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;revitalisation centre ville&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;plug &amp;amp; play shops, réhabilitation urbaine, fermes urbaines..&lt;/td&gt;
-      &lt;td&gt;-&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;meilleure qualité de vie&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;cartographie crowdsourcée, budget participatif, co-planning urbain…&lt;/td&gt;
-      &lt;td&gt;-&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;Les piliers d’une économie collaborative territoriale fonctionnelle :&lt;/p&gt;
-&lt;ol&gt;
-  &lt;li&gt;&lt;strong&gt;Gouvernance partagée entre les parties prenantes de la ville&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;identifier collectivement les projets et besoins&lt;/li&gt;
-      &lt;li&gt;sensibiliser les parties prenantes pour disséminer les bonnes pratiques&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Nouveaux leviers de développement économique&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;optimiser les ressources et relocaliser la valeur économique&lt;/li&gt;
-      &lt;li&gt;expérimenter de nouveaux outils liés aux assets de la ville&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Réseau d’écosystèmes locaux&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;créer inspirer, soutenir les communautés ouvertes&lt;/li&gt;
-      &lt;li&gt;soutenir la coopération entre acteurs pour développer les opprtunités locales, avec des réseaux régionaux&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Les points communs quand ça marche:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;une &lt;strong&gt;bonne connaissance du territoire&lt;/strong&gt;. Il faut des gens connecteurs, et les villes moyennes en manque.&lt;/li&gt;
-  &lt;li&gt;toutes les &lt;strong&gt;parties prenantes&lt;/strong&gt; (pouvoirs publics, société civile, entreprises) sont &lt;strong&gt;actives&lt;/strong&gt;,&lt;/li&gt;
-  &lt;li&gt;la création de &lt;strong&gt;preuves de concepts&lt;/strong&gt; qui servent d’exemple : investissement sur des projets à petit budget, proche du prototypage, pour enclencher la mobilisation,&lt;/li&gt;
-  &lt;li&gt;des &lt;strong&gt;projets orientés prioritairement sur l’impact&lt;/strong&gt; (la question de la mesure d’impact est importante)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Ok, donc la première étape est déjà d’identifier et fédérer un écosystème. C’est parti !&lt;/p&gt;
-
-&lt;h2 id=&quot;fédérer-un-écosystème&quot;&gt;Fédérer un écosystème&lt;/h2&gt;
-
-&lt;h3 id=&quot;par-la-conception-participative-dune-plateforme-territoriale&quot;&gt;…par la conception participative d’une plateforme territoriale&lt;/h3&gt;
-
-&lt;p&gt;L’&lt;a href=&quot;https://arcinnovation.fr&quot;&gt;arc de l’innovation&lt;/a&gt;, initié par les pouvoirs publics, regroupe les acteurs (communes, entreprises, société civile) de l’Est Parisien dans une démarche visant à y dynamiser l’économie et l’emploi.&lt;/p&gt;
-
-&lt;p&gt;Ce qui m’a intéressée dans l’exposé est bien entendu le détail de la démarche opératoire portée par &lt;a href=&quot;https://civicwise.org/about/&quot;&gt;Civic Wise&lt;/a&gt;, &lt;a href=&quot;http://ouishare.net/fr&quot;&gt;Ouishare&lt;/a&gt; et &lt;a href=&quot;http://www.opensourcepolitics.eu/&quot;&gt;Open Source Politics&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Pour associer les différentes parties prenantes, des &lt;strong&gt;entretiens&lt;/strong&gt; ont été mené avec une grande variété de porteurs de projet du territoire. Ces entretiens avaient pour objectifs d’identifier les besoins réels, et présentaient un enjeu de technologie sociale : dans ces ateliers, les participants étaient présents en tant qu’individu (et non structure), et en tant que &lt;strong&gt;conseillers&lt;/strong&gt;. Ce sont eux qui apportaient leur expérience, et des pistes de solution.&lt;/p&gt;
-
-&lt;p&gt;Qu’est-ce qui a été produit ensuite ?&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Cartographie des potentiels acteurs de l’arc&lt;/li&gt;
-  &lt;li&gt;Cartographie aussi des liens et collaborations entre ces acteurs&lt;/li&gt;
-  &lt;li&gt;Travail sur la synergie et les valeurs : sur quels aspects ces différents acteurs pourraient-ils collaborer ?&lt;/li&gt;
-  &lt;li&gt;Elaboration de visions : objectifs en interne qui pourraient être partagés et pourraient fédérer les parties prenantes.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Finalement, remarquent les initiateurs de la démarche, il s’est agi de concevoir un outil qui ressemble aux outils de mouvements sociaux, un outil pour aider les acteurs a s’organiser.&lt;/p&gt;
-
-&lt;p&gt;D’autres retours intéressants sur la table ronde  &lt;a href=&quot;http://www.makery.info/2017/07/11/au-ouishare-fest-un-vent-militant-souffle-sur-la-ville/&quot;&gt;ici&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3 id=&quot;par-le-co-design-provocateur-et-stylé&quot;&gt;…par le co-design provocateur et stylé&lt;/h3&gt;
-
-&lt;p&gt;&lt;em&gt;“Lisbonne est le nouveau Berlin”&lt;/em&gt;, &lt;em&gt;“Lisbonne est la nouvelle Silicon Valley”&lt;/em&gt;… Las d’être comparé sans cesse à d’autres entités faute d’une identité personnelle forte, Lisbonne a engagé une démarche de définition et de branding de son écosystème entrepreneurial avec l’aide de l’agence &lt;a href=&quot;https://with-company.com/work/defining-lisbon-innovation-scene/&quot;&gt;with company&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Un résumé de la démarche :&lt;/p&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/eS38ITmmT6M&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;Bon, ici c’est un peu triché, vu qu’ils s’appuient notamment sur une grosse communuté de créatifs, mais je pense que y’a quand même plein d’astuces à prendre dans la démarche pour, en quelque sorte, fédérer une communauté “en soi et pour soi”…&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Le site support de la consultation participative : &lt;a href=&quot;http://definelisboa.pt/&quot;&gt;definelisboa.pt&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Et le résultat final : &lt;a href=&quot;https://madeoflisboa.com/&quot;&gt;madeoflisboa.com&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;en-favorisant-une-culture-de-la-participation&quot;&gt;…en favorisant une culture de la participation&lt;/h3&gt;
-
-&lt;p&gt;Petit pas de côté pour intégrer à cette réflexion des éléments tirés d’une session sur &lt;a href=&quot;https://ouisharefestparis2017.sched.com/event/BF1d/more-than-money-mobilising-resources-for-the-participatory-city?iframe=no&amp;amp;w=100%&amp;amp;sidebar=yes&amp;amp;bg=no&quot;&gt;comment favoriser la participation&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Pas mal de retours d’expérience de budgets ou autres approches participatives, où on constate toujours que le taux d’implication et la diversité des participants pourraient être meilleurs.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“Travailler avec les enfants et sur le long terme pourrait être plus efficace pour améliorer l’engagement et la participation, que la publicité.” (citation approximative et traduite de je ne sais plus qui)&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Ainsi, une partie du budget participatif de Paris est utilisé pour &lt;strong&gt;sensibiliser les écoliers&lt;/strong&gt; à la participation, pour essaimer une culture de la participation dès le plus jeune âge.&lt;/p&gt;
-
-&lt;p&gt;Autre astuce : dans les centres d’appel des villes, lorsque des administrés appellent pour se plaindre de telle ou telle chose, il est possible de &lt;strong&gt;leur dire que ça peut être résolu via le budget participatif&lt;/strong&gt;. Leur filer plus d’infos, et leur proposer qu’on leur rappelle quand la procédure sera engagée.&lt;/p&gt;
-
-&lt;p&gt;D’autres outils technologiques pourraient à terme faciliter la participation, comme les &lt;strong&gt;chatbots&lt;/strong&gt; (voir par exemple le &lt;a href=&quot;http://www.numerama.com/tech/240095-sur-facebook-messenger-un-chatbot-aide-les-migrants-a-formuler-leur-demande-dasile.html&quot;&gt;chatbot Do not pay&lt;/a&gt; qui aide les migrants dans leur procédures administratives)&lt;/p&gt;
-
-&lt;p&gt;Autre ressource :&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;l’article &lt;a href=&quot;https://www.pubpub.org/pub/design-as-participation&quot;&gt;“Design as participation”&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;la plateforme &lt;a href=&quot;https://digitalsocial.eu/&quot;&gt;Digital Social Innovation&lt;/a&gt; proposée par Nesta&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;avec-une-meilleure-politique-de-gestion-des-données&quot;&gt;…avec une meilleure politique de gestion des données&lt;/h3&gt;
-
-&lt;p&gt;Nouveau pas de côté pour ajouter quelques retours de la session &lt;a href=&quot;https://ouisharefestparis2017.sched.com/event/BHID/data-as-a-commons-for-citizens&quot;&gt;“Data as a common for citizens”&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Je ne sais plus qui suggère de plancher sur des &lt;strong&gt;licences d’utilisation de ses données personnelles flexibles et personnalisées&lt;/strong&gt;. Avec cette licence à tiroirs, les utilisateurs qui cèdent leurs données pourraient valider des options du type :&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;si ça me permet de résoudre tel problème (utile par exemple dans un cadre de recherche médicale ou sociologique), ok pour partager mes données ; sinon niet .&lt;/li&gt;
-  &lt;li&gt;si je peux décider a qui et pourquoi mes données sont cédées, ok aussi ; sinon niet.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;et-à-part-ça-&quot;&gt;Et à part ça ?&lt;/h2&gt;
-
-&lt;h3 id=&quot;conviction-nest-pas-béatitude&quot;&gt;Conviction n’est pas béatitude&lt;/h3&gt;
-
-&lt;p&gt;Il y avait un peu de tout dans le festival, et parfois on pouvait avoir l’impression d’un espèce d’unanimisme ou de conformisme un peu béat et stérile. En vérité, dès que l’on grattait un tantinet sous la surface, on découvrait que des voix dissidentes ou plus nuancées avaient aussi voix au chapitre. Merci à elles.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;“&lt;em&gt;“Airbnb started to solve an issue, and then had to confront the market”&lt;/em&gt;, et c’est là que les effets rebonds sont apparus. (&lt;a href=&quot;https://twitter.com/participatory&quot;&gt;Tiago Peixoto&lt;/a&gt;)&lt;/li&gt;
-  &lt;li&gt;Il faut que nous luttions nous-mêmes contre la course à l’innovation et l’atttrait de la technique. Il faut que les organisations soient VRAIMENT orientées solutions. Et dans ce cas, la blockchain n’est pas forcément nécessaire. (En substance, &lt;a href=&quot;https://twitter.com/participatory&quot;&gt;Tiago Peixoto&lt;/a&gt;, encore lui)&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;“We must avoid fundamentalist views that everything that is ‘bottom up’ is unchallenge-able”&lt;/em&gt; (&lt;a href=&quot;https://twitter.com/tomasdiez&quot;&gt;Tomas Diez&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;les-sessions-que-jai-manquées&quot;&gt;Les sessions que j’ai manquées…&lt;/h3&gt;
-
-&lt;p&gt;..et que je regrette d’avoir manquées ; et quelques liens pour me rattraper.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;“Barcelona’s Strategy for Digital Sovereignty: building the networked city from the ground up with citizens”&lt;/strong&gt; (&lt;a href=&quot;https://ouisharefestparis2017.sched.com/event/B1dT/barcelonas-strategy-for-digital-sovereignty-building-the-networked-city-from-the-ground-up-with-citizens&quot;&gt;détail&lt;/a&gt;), par &lt;a href=&quot;https://twitter.com/francesca_bria&quot;&gt;Francesca Bria&lt;/a&gt;.
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;https://www.slideshare.net/francescabria/bcn-digital-ouishare-fest-2017&quot;&gt;les slides&lt;/a&gt;.&lt;/li&gt;
-      &lt;li&gt;Plus d’infos : &lt;a href=&quot;http://www.alphr.com/technology/1006261/how-one-european-smart-city-is-giving-power-back-to-its-citizens&quot;&gt;How one European smart city is giving power back to its citizens&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;Ou encore : &lt;a href=&quot;http://magazine.ouishare.net/2017/06/building-the-networked-city-from-the-ground-up-with-citizens-interview-with-francesca-bria/&quot;&gt;Building the networked city from the ground up with citizens&lt;/a&gt; - interview with Francesca Bria&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;“Medellin: from fear to becoming the ‘most innovative city in the world’“&lt;/strong&gt; (&lt;a href=&quot;https://ouisharefestparis2017.sched.com/event/B1dk/medellin-from-fear-to-becoming-the-most-innovative-city-in-the-world&quot;&gt;détail&lt;/a&gt;), par &lt;a href=&quot;https://twitter.com/juanp_ortega&quot;&gt;Juan Pablo Ortega&lt;/a&gt;, de Medellin : &lt;em&gt;“We started to construct the best infrastructures in the poor neighborhoods.”&lt;/em&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;“What corporate innovation can learn from grassroots movements&lt;br /&gt;
-“&lt;/strong&gt; (&lt;a href=&quot;https://ouisharefestparis2017.sched.com/event/B1dv/what-corporate-innovation-can-learn-from-grassroots-movements&quot;&gt;détail&lt;/a&gt;), par &lt;a href=&quot;https://twitter.com/anilgb&quot;&gt;Anil Gupta&lt;/a&gt;. A parlé notamment de &lt;em&gt;“the need for micro venture finance to support grassroots”&lt;/em&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;“Organizing a Transition City: Cooperation Jackson and the campaign to transform Jackson, Mississippi&lt;br /&gt;
-“&lt;/strong&gt;, par Brandon King. &lt;a href=&quot;http://www.cooperationjackson.org/&quot;&gt;Cooperation Jackson&lt;/a&gt; a l’air assez canon : &lt;em&gt;“Building a solidarity economy in Jackson, Mississippi, anchored by a network of cooperatives and other worker-owned, democratically self-managed enterprises.”&lt;/em&gt;  + utilisation de devises alternatives pour favoriser les conditions locales.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;autres-infos-glanées-au-hasard&quot;&gt;Autres infos glanées au hasard&lt;/h2&gt;
-
-&lt;p&gt;Il existe au moins une Coopérative d’Activité et d’Emploi dédiée au numérique : &lt;a href=&quot;https://portparallele.com&quot;&gt;Port parallèle&lt;/a&gt;, en Ile-de-France. Et il me semble qu’on m’a parlé d’autres depuis, mais forcément si je note pas..&lt;/p&gt;
-
-&lt;p&gt;Quelques discussions sur &lt;em&gt;“Est-ce que ce qu’on fait est éthique ? Voler aux riches pour donner aux pauvres ? Lutter contre ou bosser avec et transformer de l’intérieur ?”&lt;/em&gt; Souvent, les méchants agissent en pensant faire le bien. Quels indicateurs pour estimer si ce qu’on fait est “le bien” ?&lt;/p&gt;
-
-&lt;p&gt;J’ai enfin compris ce qu’est &lt;a href=&quot;https://opencollective.com/&quot;&gt;Open Collective&lt;/a&gt; : c’est une organisation qui propose de “virtualiser” la structure juridique, pour que les organisations se concentrent sur leur coeur de mission. Toutes les formes d’initiatives (associations, projets, collectifs, partis politiques) ont par exemple la possibilité d’y organiser des levées de fonds et de gérer leur trésorerie en totale transparence, sans avoir besoin d’un compte bancaire.&lt;/p&gt;
-
-&lt;h2 id=&quot;récapitulatifs-from-outer-space&quot;&gt;Récapitulatifs from outer space&lt;/h2&gt;
-
-&lt;p&gt;D’autres gens que moi écrivent sur le Ouishare Fest, si vous voulez encore prolonger la visite :&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;“Le OuiShare Fest nous invite à repenser la ville pour réinventer nos sociétés !”, &lt;a href=&quot;https://lareleveetlapeste.fr/ouishare-fest-invite-a-repenser-ville-reinventer-nos-societes/&quot;&gt;La relève et la Peste&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;“Au OuiShare Fest, un vent militant souffle sur la ville”,  &lt;a href=&quot;http://www.makery.info/2017/07/11/au-ouishare-fest-un-vent-militant-souffle-sur-la-ville/&quot;&gt;makery.info&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;“Les villes inventent de nouvelles façons de jouer collectif”, &lt;a href=&quot;http://www.lemonde.fr/chronique-des-communs/article/2017/07/11/les-villes-inventent-de-nouvelles-facons-de-jouer-collectif_5158916_5049504.html&quot;&gt;lemonde.fr&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;“Event Reporter - Ouishare fest 2017” , &lt;a href=&quot;https://silex-id.com/newsletters/event-reporter/event-reporter-ouishare-fest-2017&quot;&gt;silex ID&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Fri, 28 Jul 2017 00:00:00 +0200</pubDate>
-        <link>http://marges.clairezuliani.com/binary_transition/2017/07/28/OuiShare.html</link>
-        <guid isPermaLink="true">http://marges.clairezuliani.com/binary_transition/2017/07/28/OuiShare.html</guid>
-        
-        <category>evenement</category>
-        
-        
-        <category>binary_transition</category>
-        
-      </item>
-    
-      <item>
-        <title>Numérique + écologique : des transitions qui se mélangent ?</title>
-        <description>&lt;p&gt;La transition numérique, je connais un peu. La transition écologique, un peu moins, mais j’ai des bases. Suffisantes pour savoir que pour concilier les deux, des fois ça coince sec. Alors je suis aller à Paris voir ce que la FING avait à dire là-dessus.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;La Fondation Internet Nouvelle Génération (FING) est actuellement engagée dans un programme d’étude qui vise à concilier transition numérique et transition écologique, &lt;em&gt;« mettre le numérique au service de la transition écologique »&lt;/em&gt;. Ca s’appelle &lt;a href=&quot;http://www.transitions2.net/&quot;&gt;Transitions²&lt;/a&gt;, et le 4 juillet se déroulait la deuxième journée d’étude autour de l’&lt;a href=&quot;http://www.transitions2.net/catalogue/view/1674/agenda-du-futur-transitions%C2%B2-open-conference-2&quot;&gt;Agenda du Futur&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Je n’avais rien suivi de l’initiative jusqu’à présent, ce qui ne m’a pas empêchée d’y aller. Ma première participation à un événement de la FING ! Je fus agréablement surprise de la qualité de réflexion que j’ai pu y trouver, et mes apprentissages furent nombreux, comme vous le constaterez à la longueur de l’article. Désolée, je m’étale.&lt;/p&gt;
-
-&lt;h2 id=&quot;impact-et-effets-rebonds&quot;&gt;Impact et effets rebonds&lt;/h2&gt;
-
-&lt;h3 id=&quot;tout-nest-pas-si-vert&quot;&gt;Tout n’est pas si vert…&lt;/h3&gt;
-
-&lt;p&gt;Les &lt;strong&gt;effets rebonds&lt;/strong&gt;, vous connaissez ? Moi, ça ne me disait que vaguement quelque chose, mais l’approche nuancée de la journée ma permis de sacrément mieux saisir l’idée. Un genre de double effet kisscool où, en pensant faire bien, on provoque en réaction du moins bien.&lt;/p&gt;
-
-&lt;p&gt;J’apprends par exemple que contrairement à ce qu’on pourrait croire, &lt;strong&gt;l’économie collaborative ne réduit finalement pas tant qu’espéré l’empreinte écologique&lt;/strong&gt;. Par exemple, les logiques de circuits courts peuvent amener à la multiplication de petits trajets. Et là-dessus, le numérique pourrait avoir un rôle à jouer en rationnalisant et réduisant la complexité ?&lt;/p&gt;
-
-&lt;p&gt;Blablacar permet d’améliorer le taux de remplissage des véhicules, et donc est bénéfique écologiquement ? Ou bien ne créé-t-il pas aussi un effet d’opportunité tant pour les conducteurs que les passagers, qui conduit à l’augmentation du nombre de bagnoles sur les routes ?&lt;/p&gt;
-
-&lt;p&gt;Même s’il réduit la production, Le Bon Coin redonne de la capacité de consommation plutôt qu’il n’incite à réduire sa consommation. A contrario, les repair cafés, par exemple, modifient en profondeur les modes de consommation, et permette de la réduire en réparant l’existant.&lt;/p&gt;
-
-&lt;p&gt;J’ai l’impression, au cours de la journée, de trouver des pistes qui me permettront de préciser ma pensée lorsque j’affirme en plaisantant vouloir &lt;em&gt;“changer le monde, comme tout le monde, mais d’une certaine façon”&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;Je vous conseille, si les questions de qualification de modèles d’entreprise vous intéressent, de jeter un oeil sur les slides de la présentation de Daniel Kaplan faite pendant la journée, accessibles en bas de &lt;a href=&quot;http://www.transitions2.net/catalogue/view/1749/le-referentiel-innovation-facteur-4-daniel-kaplan-renaud-francou&quot;&gt;cette page&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3 id=&quot;un-modèle-ouvert-ne-suffit-pas&quot;&gt;Un modèle ouvert ne suffit pas&lt;/h3&gt;
-
-&lt;p&gt;Louis-David Benyayer, de Without Model, prend lui l’exemple des modèles ouverts, où la valeur est créée en partie par des parties prenantes extérieures à l’organisation (par exemple wikipedia). Mais ce n’est pas parce qu’un modèle est ouvert qu’il a un impact positif (4x4 avec plan open source, arme imprimée en 3D…).&lt;/p&gt;
-
-&lt;p&gt;D’autres critères entrent en jeu, en complémentarité, pour que ces modèles aient un impact positif :&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;L’&lt;strong&gt;intention d’impact&lt;/strong&gt; : l’impact écologique n’était dans la tête des dirigeants de blablacar, ce n’était pas leur intention première. Contrairement à fairphone qui cherche d’abord à avoir un impact, puis construit son modèle d’affaire en fonction.&lt;/li&gt;
-  &lt;li&gt;La &lt;strong&gt;question des infrastructures&lt;/strong&gt; : il faut des lieux pour assembler la voiture open source, par exemple. Quel est l’actif que possède Uber ? Uber utilise des infrastructures (routes, voitures) auxquelles il n’a pas contribué et dans lesquelles il n’investit pas.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;anecdotes-et-apprentissages-en-vrac&quot;&gt;Anecdotes et apprentissages en vrac&lt;/h2&gt;
-
-&lt;h3 id=&quot;des-indicateurs-pour-prouver-que-faire-le-bien-est-rentable&quot;&gt;Des indicateurs pour prouver que faire le bien est rentable&lt;/h3&gt;
-
-&lt;p&gt;Lors d’un atelier sur la réduction de l’infobésité, l’un des participants travaillant dans la “green IT” pour des banques, et nous fait part de ses difficultés à convaincre ses banques clientes d’adopter des comportements vertueux. Raison : il ne trouve &lt;strong&gt;pas d’indicateurs convaincants qui leur prouverait que c’est financièrement intéressent pour elle.&lt;/strong&gt;&lt;br /&gt;
-Les échos sont fort avec Ethics by Design. Cette question des indicateurs est vraiment récurrente, il va peut-être falloir que je m’y penche.&lt;/p&gt;
-
-&lt;h3 id=&quot;le-numérique-bientôt-en-descente-de-hype-&quot;&gt;Le numérique, bientôt en descente de hype ?&lt;/h3&gt;
-
-&lt;p&gt;Hypothèse intéressante : est-ce que la croissance de nos usages numériques est inéluctable ? Un participant fait remarquer que dans les années 70, la chimie était vue comme un progrès positif. Aujourd’hui, “produits chimiques” a une connotation très négative, et on assiste au développement du bio. &lt;strong&gt;Est-ce que la notion de numérique pourrait à terme être rejetée par les gens ?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;mener-correctement-un-projet-avec-des-humains-ça-prend-du-temps&quot;&gt;Mener correctement un projet avec des humains, ça prend du temps&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;Pour bosser avec des collectivités, il faut privilégier le temps long.&lt;/strong&gt; Partir d’abord sur des solutions médianes, récoltant le consensus plus ou moins mou, pour acculturer. Puis monter en gamme sur l’outil suivant.&lt;/p&gt;
-
-&lt;h3 id=&quot;cest-difficile-de-susciter-lengagement&quot;&gt;C’est difficile de susciter l’engagement&lt;/h3&gt;
-
-&lt;p&gt;L’engagement est de plus en plus compliqué à susciter : par exemple, on a eu dans l’ordre des campagnes pour économiser l’eau, pour la réduction des déchet, et maintenant pour l’économie d’énergie. &lt;strong&gt;L’impact visible de ces campagnes sur le portefeuille est de plus en plus faible, de moins en moins visible, ce qui limite l’engagement.&lt;/strong&gt; Aussi, le taux d’engagement est généralement assez fort les 2 ou 3 premières semaines (effet de nouveauté) et s’amenuise avec le temps. D’où la nécessité de bien le calculer dans la durée.&lt;/p&gt;
-
-&lt;h3 id=&quot;les-effets-bénéfiques-de-léconomie-circulaire-sur-le-numérique&quot;&gt;Les effets bénéfiques de l’économie circulaire sur le numérique&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;Comment est-ce que l’économie circulaire peut aider à réduire l’impact du numérique ?&lt;/strong&gt; Parmi les pistes évoquées en atelier :&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;récupération de la chaleur des data center&lt;/li&gt;
-  &lt;li&gt;éco-conception des logiciels et applications&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;derniers-liens-à-la-volée&quot;&gt;Derniers liens à la volée&lt;/h3&gt;
-
-&lt;p&gt;L’&lt;a href=&quot;http://fing.org/?Un-nouveau-defi-de-Transitions%C2%B2&quot;&gt;innovation facteur 4&lt;/a&gt; est une innovation radicale et massive qui &lt;em&gt;“contribue à transformer nos sociétés et nos économies en profondeur, vers des modèles plus frugaux, plus justes et plus durables”&lt;/em&gt;. Concept développé par la FING, si j’ai bien saisi. Ce sont les entreprises qui font de l’innovation facteur 4 qu’on a cherché un peu toute la journée.&lt;/p&gt;
-
-&lt;p&gt;On reparle aussi du label &lt;a href=&quot;https://fr.wikipedia.org/wiki/Certification_B_Corp&quot;&gt;B Corp&lt;/a&gt;, qualifiant l’impact sociétal et environnemental d’une entreprise.&lt;/p&gt;
-
-&lt;p&gt;Je note dans un coin de tête la référence du data center vert &lt;a href=&quot;https://evoswitch.com/data-centers/sustainability/&quot;&gt;evoswitch&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Je découvre &lt;a href=&quot;https://en.wikipedia.org/wiki/Ray_Anderson_(entrepreneur)&quot;&gt;Ray Anderson&lt;/a&gt;, industriel pionnier des démarches de consommation et production durables.&lt;/p&gt;
-
-&lt;p&gt;Je m’attarde sur le Kit &lt;a href=&quot;http://www.transitions2.net/catalogue/view/1401/un-kit-agirlocal-pourquoi&quot;&gt;Agir local&lt;/a&gt; de la FING, avec plein de concepts, catégorisations, liens à creuser pour mettre en place sur un territoire des projets numériques au service des démarches environnementales. Précieux.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 24 Jul 2017 00:00:00 +0200</pubDate>
-        <link>http://marges.clairezuliani.com/binary_transition/2017/07/24/transition-carre.html</link>
-        <guid isPermaLink="true">http://marges.clairezuliani.com/binary_transition/2017/07/24/transition-carre.html</guid>
-        
-        <category>evenement</category>
-        
-        <category>ecologie</category>
-        
-        
-        <category>binary_transition</category>
-        
-      </item>
-    
-      <item>
-        <title>A mon compte + 6 mois</title>
-        <description>&lt;p&gt;Simili journal de bord simili mensuel épisode 6. Ce mois de juin était plein de statique et de mouvements, de fins et de débuts.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;Qu’ai-je fait sous la canicule d’Epinal et d’ailleurs ?&lt;/p&gt;
-
-&lt;p&gt;Les demandes de deux structures copines issues de mon ancienne vie (bisou &lt;a href=&quot;http://organic-orchestra.com/&quot;&gt;Organic Orchestra&lt;/a&gt; et &lt;a href=&quot;http://aadn.org/&quot;&gt;AADN&lt;/a&gt;) m’amènent à pousser plus loin ma connaissance des sites statiques et des solutions d’édition numérique (&lt;a href=&quot;https://www.gitbook.com&quot;&gt;gitbook&lt;/a&gt;, wiki github, &lt;a href=&quot;https://jekyllrb.com/&quot;&gt;jekyll&lt;/a&gt; et back office avec &lt;a href=&quot;https://www.netlifycms.org/&quot;&gt;Netlify CMS&lt;/a&gt;…).&lt;/p&gt;
-
-&lt;p&gt;Mon inscription à l’étape Grand Est du Tour des &lt;a href=&quot;http://www.interconnectes.com/grand-est2017/&quot;&gt;Interconnectés&lt;/a&gt;, m’a permise de me mettre à jour sur les acteurs publiques sensibles ou actifs dans le numérique dans ma région, et sur les pratiques et questionnements en cours sur la question du numérique dans les collectivités. J’en parle plus précisément &lt;a href=&quot;/good_job/2017/07/10/interco-grand-est.html&quot;&gt;ici&lt;/a&gt;).&lt;/p&gt;
-
-&lt;p&gt;Un passage parisien me permet de rencontrer physiquement un bout de la communauté française d’&lt;a href=&quot;https://www.openfoodfrance.org/&quot;&gt;Open Food Network&lt;/a&gt;, projet international très chouette mêlant communs et problématiques de gestion alimentaire (pour faire court). Malgré mon envie de soutenir et de contribuer, après un commit très modeste je mets ma participation en stand by, faute de temps. Si vous vous y connaissez un peu en ruby on rails, et encore plus si vous avez des bases sur Spree et Angular, faites leur signe !&lt;/p&gt;
-
-&lt;p&gt;Le même passage parisien me permet aussi de rencontrer dans la vraie vie des membres d’&lt;a href=&quot;http://happy-dev.fr/&quot;&gt;Happy Dev&lt;/a&gt;, réseau de développeurs indépendants bien branchés Economie Sociale et Solidaire et innovation sociale. Et dans la foulée, d’ailleurs, j’intègre le réseau. Zou :)&lt;/p&gt;
-
-&lt;p&gt;Et j’ai enfin bouclé mon premier projet en freelance, pour l’association &lt;a href=&quot;http://www.project-mirador.org/&quot;&gt;Mirador&lt;/a&gt; : &lt;a href=&quot;https://www.lafabriquedumonde.fr/&quot;&gt;La fabrique du monde&lt;/a&gt;, réalisé avec &lt;a href=&quot;http://phicarre.fr/&quot;&gt;Phi²&lt;/a&gt; au graphisme. Si le projet n’est pas techniquement le plus complexe que j’aie eu à réaliser, il a induit une bonne montée en compétence sur des pratiques qui n’étaient pas jusqu’à présent mon coeur de métier : l’intégration et la configuration de serveur. Je voulais, en me mettant à mon compte, diversifier mes pratiques : je ne suis pas déçue :)&lt;/p&gt;
-</description>
-        <pubDate>Tue, 11 Jul 2017 00:00:00 +0200</pubDate>
-        <link>http://marges.clairezuliani.com/good_job/2017/07/11/solo-plus-6-mois.html</link>
-        <guid isPermaLink="true">http://marges.clairezuliani.com/good_job/2017/07/11/solo-plus-6-mois.html</guid>
         
         <category>et moi</category>
         
