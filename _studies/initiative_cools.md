@@ -125,6 +125,12 @@ Liste d'organismes, projets, agendas dans le champs de l'innovation sociale et n
 
 ### Collaborations professionnels - société civile
 
+#### Design des politiques publiques en Europe
+
+Site proposé par Nesta ET 27e Région qui répertorie les acteurs européens
+
+[Design for Europe](http://publicsector-map.designforeurope.eu/fr/)
+
 #### Plateau Urbain
 
 [www.plateau-urbain.com](http://www.plateau-urbain.com/)
