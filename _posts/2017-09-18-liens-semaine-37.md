@@ -15,7 +15,7 @@ Une nouvelle veille hebdo, que je ne sais jamais trop comment introduire. C'est 
 
 ## Disrupting the disruptors
 
-- [Culture eats coops for breakfast](https://medium.com/enspiral-tales/culture-eats-coops-for-breakfast-4555560154cb)
+- [Culture eats coops for breakfast](https://medium.com/enspiral-tales/culture-eats-coops-for-breakfast-4555560154cb) : un article d'Enspiral qui fait le pont entre les outils collaboratifs et la culture qui permet d'en tirer le bénéfice. De la nécessité de créer une nouvelle culture pour créer de nouveaux outils qui la soutiennent et qui fonctionnent.
 
 Une suite d'articles récapitulatifs :
 
