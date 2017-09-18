@@ -8,7 +8,8 @@
   <title>L&#39;appel des SIRENE</title>
   <meta name="description" content="Un jour de pont, succomber à l’appel des données ouvertes du répertoire SIRENE, se prendre quelques récifs, mais découvrir quand même de jolis recoins.">
   <meta name="author" content="Claire Zuliani" />
-  <link rel="shortcut icon" type="image/x-icon" href="img/favicon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="http://marges.clairezuliani.com/assets/img/favicon.ico">
+
 
   <meta property="og:site_name" content="Marges" />
   <meta property="og:title" content=" L'appel des SIRENE ">
@@ -102,7 +103,7 @@
     <li class="menu-item ">
       <a class="item" href="/depeches">
         Dépêches
-        <span class="menu-label">78</span>
+        <span class="menu-label">79</span>
       </a>
     </li>
     <li class="menu-item ">
@@ -136,7 +137,7 @@
     <li class="menu-item ">
       <a class="item"  href="/lubies/good_job">
         Good job
-       <div class="menu-label">28</div>
+       <div class="menu-label">29</div>
       </a>
     </li>
   
@@ -338,7 +339,7 @@
       <li class="menu-item  ">
         <a class="item" href="/tags/hebdomalink">
          hebdomalink
-         <div class="menu-label">5</div>
+         <div class="menu-label">6</div>
         </a>
       </li>
     
@@ -455,7 +456,7 @@
           <li class="menu-item">
             <a class="item" href="/depeches">
               Dépêches
-              <div class="menu-label">78</div>
+              <div class="menu-label">79</div>
             </a>
           </li>
           <li class="menu-item">
@@ -487,7 +488,7 @@
               <li class="menu-item">
               <a class="item"  href="/lubies/good_job">
                 Good job
-               <div class="menu-label">28</div>
+               <div class="menu-label">29</div>
               </a>
             
           </li>
@@ -689,7 +690,7 @@
             <li class="menu-item">
               <a class="item" href="/tags/hebdomalink">
                hebdomalink
-               <div class="menu-label">5</div>
+               <div class="menu-label">6</div>
               </a>
             </li>
             
@@ -918,43 +919,7 @@
 
 <p>Cette fois on peut passer à pandas, librairie python dédiée à la manipulation de données, pour y voir plus clair&nbsp;:  formater le header, passer l’encodage de <code class="highlighter-rouge">iso-8859-1</code> à <code class="highlighter-rouge">utf-8</code>….</p>
 
-<div class="language-python highlighter-rouge"><pre class="highlight"><code><span class="kn">import</span> <span class="nn">pandas</span> <span class="kn">as</span> <span class="nn">pd</span>
-<span class="kn">import</span> <span class="nn">datetime</span>
-<span class="kn">import</span> <span class="nn">csv</span>
-<span class="kn">from</span> <span class="nn">collections</span> <span class="kn">import</span> <span class="n">defaultdict</span>
-
-<span class="n">source_file</span> <span class="o">=</span> <span class="s">"tech_grand_est_00.csv"</span>
-<span class="n">dest_file</span>   <span class="o">=</span> <span class="s">"tech_grand_est_01.csv"</span>
-
-<span class="n">df</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_csv</span><span class="p">(</span><span class="n">source_file</span><span class="p">,</span>
-    <span class="n">sep</span><span class="o">=</span><span class="s">','</span> <span class="p">,</span>
-    <span class="n">error_bad_lines</span><span class="o">=</span><span class="bp">False</span><span class="p">,</span>
-    <span class="n">encoding</span><span class="o">=</span><span class="s">'iso-8859-1'</span><span class="p">,</span>
-    <span class="n">quoting</span><span class="o">=</span><span class="n">csv</span><span class="o">.</span><span class="n">QUOTE_NONE</span>
-<span class="p">)</span>
-
-<span class="k">print</span> <span class="s">"Begining =============================================================="</span>
-
-<span class="n">df</span><span class="o">.</span><span class="n">columns</span> <span class="o">=</span> <span class="n">df</span><span class="o">.</span><span class="n">columns</span><span class="o">.</span><span class="nb">str</span><span class="o">.</span><span class="n">replace</span><span class="p">(</span><span class="s">'</span><span class="se">\"</span><span class="s">'</span><span class="p">,</span><span class="s">''</span><span class="p">)</span>
-<span class="n">df</span><span class="o">.</span><span class="n">columns</span> <span class="o">=</span> <span class="n">df</span><span class="o">.</span><span class="n">columns</span><span class="o">.</span><span class="nb">str</span><span class="o">.</span><span class="n">replace</span><span class="p">(</span><span class="s">"</span><span class="se">\r</span><span class="s">"</span><span class="p">,</span><span class="s">''</span><span class="p">)</span>
-
-<span class="c"># Verification</span>
-<span class="k">print</span> <span class="n">df</span><span class="o">.</span><span class="n">columns</span>
-<span class="k">print</span> <span class="n">df</span><span class="p">[:</span><span class="mi">10</span><span class="p">]</span>
-<span class="k">print</span> <span class="nb">len</span><span class="p">(</span><span class="n">df</span><span class="p">)</span>
-
-<span class="c"># Selection des departements qui intéressent</span>
-<span class="c"># type des departements pas clair.</span>
-<span class="n">df</span> <span class="o">=</span> <span class="n">df</span><span class="o">.</span><span class="n">loc</span><span class="p">[</span><span class="n">df</span><span class="p">[</span><span class="s">'DEPET'</span><span class="p">]</span><span class="o">.</span><span class="n">isin</span><span class="p">([</span>
-    <span class="mi">88</span><span class="p">,</span> <span class="mi">54</span><span class="p">,</span> <span class="mi">55</span><span class="p">,</span> <span class="mi">57</span><span class="p">,</span> <span class="mi">67</span><span class="p">,</span> <span class="mi">68</span><span class="p">,</span> <span class="mi">70</span><span class="p">,</span> <span class="mi">52</span><span class="p">,</span> <span class="mi">10</span><span class="p">,</span> <span class="mi">51</span><span class="p">,</span> <span class="mi">8</span><span class="p">,</span> <span class="mi">90</span><span class="p">,</span>
-    <span class="s">'88'</span><span class="p">,</span> <span class="s">'54'</span><span class="p">,</span> <span class="s">'55'</span><span class="p">,</span> <span class="s">'57'</span><span class="p">,</span> <span class="s">'67'</span><span class="p">,</span> <span class="s">'68'</span><span class="p">,</span> <span class="s">'70'</span><span class="p">,</span> <span class="s">'52'</span><span class="p">,</span> <span class="s">'10'</span><span class="p">,</span> <span class="s">'51'</span><span class="p">,</span> <span class="s">'8'</span><span class="p">,</span> <span class="s">'08'</span><span class="p">,</span> <span class="s">'90'</span>
-<span class="p">])]</span>
-
-<span class="n">df</span><span class="o">.</span><span class="n">to_csv</span><span class="p">(</span><span class="n">dest_file</span><span class="p">,</span> <span class="n">sep</span><span class="o">=</span><span class="s">','</span><span class="p">,</span> <span class="n">encoding</span><span class="o">=</span><span class="s">'utf-8'</span><span class="p">,</span> <span class="n">index</span><span class="o">=</span><span class="bp">False</span><span class="p">)</span>
-
-<span class="k">print</span> <span class="s">"Ended ================================================================"</span>
-</code></pre>
-</div>
+<script src="https://gist.github.com/clairezed/c21fb505188f47a68f186e9f1271bee9.js"></script>
 
 <h3 id="etape-5--filtrage-des-colonnes-formattage-du-type-des-données">Etape 5&nbsp;: filtrage des colonnes, formattage du type des données</h3>
 
@@ -1171,13 +1136,13 @@
       <td>
         <span>
 <span title=" Environ 
-  17
+  15
  min de lecture">
   <span class="icon icon-clock">
     <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-clock"></use>
   </span>
   
-  17
+  15
  min
 </span>
 </span>
@@ -1245,13 +1210,13 @@
       <td>
         <span>
 <span title=" Environ 
-  17
+  15
  min de lecture">
   <span class="icon icon-clock">
     <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-clock"></use>
   </span>
   
-  17
+  15
  min
 </span>
 </span>

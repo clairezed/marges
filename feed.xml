@@ -5,9 +5,51 @@
     <description>Prise de notes des internets de claire zuliani</description>
     <link>http://marges.clairezuliani.com/</link>
     <atom:link href="http://marges.clairezuliani.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 17 Sep 2017 20:40:42 +0200</pubDate>
-    <lastBuildDate>Sun, 17 Sep 2017 20:40:42 +0200</lastBuildDate>
+    <pubDate>Mon, 18 Sep 2017 09:27:23 +0200</pubDate>
+    <lastBuildDate>Mon, 18 Sep 2017 09:27:23 +0200</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>Je passe trop de temps sur internet - semaine 36</title>
+        <description>&lt;p&gt;Une nouvelle veille hebdo, que je ne sais jamais trop comment introduire. C’est la veille de la semaine, quoi.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://vimeo.com/232524527&quot;&gt;Public Money? Public Code!&lt;/a&gt; : une vidéo transposant les logiques de l’informatique (privé / ouvert) à celles d’une ville pour faire comprendre l’intérêt de l’open source.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;disrupting-the-disruptors&quot;&gt;Disrupting the disruptors&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/enspiral-tales/culture-eats-coops-for-breakfast-4555560154cb&quot;&gt;Culture eats coops for breakfast&lt;/a&gt; : un article d’Enspiral qui fait le pont entre les outils collaboratifs et la culture qui permet d’en tirer le bénéfice. De la nécessité de créer une nouvelle culture pour créer de nouveaux outils qui la soutiennent et qui fonctionnent.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Une suite d’articles récapitulatifs :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://ingbrief.wordpress.com/tag/platformcoop/&quot;&gt;Liste de compte-rendus&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ingbrief.wordpress.com/2017/09/10/20170910-1355-paul-cabaj-financing-a-coop-disrupting-the-disruptors/&quot;&gt;Financing a Coop&lt;/a&gt;, par Paul Cabaj&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ingbrief.wordpress.com/2017/09/10/20170910-1240-margaret-vincent-brian-iler-international-platforms-and-national-legal-frameworks-disrupting-the-disruptors/&quot;&gt;International Platforms and National Legal Frameworks&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ingbrief.wordpress.com/2017/09/10/20170910-1050-paul-cabaj-russ-christianson-margaret-vincent-coop-governance-legal-frameworks-disrupting-the-disruptors/&quot;&gt;Coop Governance, Legal Frameworks&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ingbrief.wordpress.com/2017/09/10/20170910-0955-nathan-schneider-an-internet-of-ownership-disrupting-the-disruptors/&quot;&gt;An Internet of Ownership&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ingbrief.wordpress.com/2017/09/09/20170909-1630-evan-henshaw-plath-building-platform-coops-disrupting-the-disruptors/&quot;&gt;Building Platform Coops&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ingbrief.wordpress.com/2017/09/09/20170909-1520-frisia-donders-cloe-waretini-patrick-nangle-established-co-ops-and-experimental-models-disrupting-the-disruptors/&quot;&gt;Established Co-ops and Experimental Models&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ingbrief.wordpress.com/2017/09/09/20170909-1415-colette-murphy-kristy-milland-greig-de-peuter-trebor-schotz-frisia-donders-freelancers-the-gig-economy-and-platform-co-ops-disrupting-the-disruptors/&quot;&gt;Freelancers, the Gig Economy, and Platform Co-ops&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 18 Sep 2017 00:00:00 +0200</pubDate>
+        <link>http://marges.clairezuliani.com/good_job/2017/09/18/liens-semaine-37.html</link>
+        <guid isPermaLink="true">http://marges.clairezuliani.com/good_job/2017/09/18/liens-semaine-37.html</guid>
+        
+        <category>hebdomalink</category>
+        
+        
+        <category>good_job</category>
+        
+      </item>
     
       <item>
         <title>Je passe trop de temps sur internet - semaine 36</title>
@@ -585,43 +627,7 @@ create, evangelize, contribute, maintain&lt;/p&gt;
 
 &lt;p&gt;Cette fois on peut passer à pandas, librairie python dédiée à la manipulation de données, pour y voir plus clair :  formater le header, passer l’encodage de &lt;code class=&quot;highlighter-rouge&quot;&gt;iso-8859-1&lt;/code&gt; à &lt;code class=&quot;highlighter-rouge&quot;&gt;utf-8&lt;/code&gt;….&lt;/p&gt;
 
-&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;pandas&lt;/span&gt; &lt;span class=&quot;kn&quot;&gt;as&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;pd&lt;/span&gt;
-&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;datetime&lt;/span&gt;
-&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;csv&lt;/span&gt;
-&lt;span class=&quot;kn&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;collections&lt;/span&gt; &lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;defaultdict&lt;/span&gt;
-
-&lt;span class=&quot;n&quot;&gt;source_file&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;tech_grand_est_00.csv&quot;&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;dest_file&lt;/span&gt;   &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;tech_grand_est_01.csv&quot;&lt;/span&gt;
-
-&lt;span class=&quot;n&quot;&gt;df&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;pd&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;read_csv&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;source_file&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;sep&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;','&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;error_bad_lines&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;bp&quot;&gt;False&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;encoding&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'iso-8859-1'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;quoting&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;csv&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;QUOTE_NONE&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-
-&lt;span class=&quot;k&quot;&gt;print&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;Begining ==============================================================&quot;&lt;/span&gt;
-
-&lt;span class=&quot;n&quot;&gt;df&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;columns&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;df&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;columns&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;str&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;replace&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\&quot;&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;''&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;df&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;columns&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;df&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;columns&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;str&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;replace&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\r&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;''&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-
-&lt;span class=&quot;c&quot;&gt;# Verification&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;print&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;df&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;columns&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;print&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;df&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[:&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;10&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;print&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;len&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;df&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-
-&lt;span class=&quot;c&quot;&gt;# Selection des departements qui intéressent&lt;/span&gt;
-&lt;span class=&quot;c&quot;&gt;# type des departements pas clair.&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;df&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;df&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;loc&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;df&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'DEPET'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;isin&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;([&lt;/span&gt;
-    &lt;span class=&quot;mi&quot;&gt;88&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;54&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;55&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;57&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;67&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;68&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;70&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;52&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;10&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;51&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;8&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;90&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-    &lt;span class=&quot;s&quot;&gt;'88'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'54'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'55'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'57'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'67'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'68'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'70'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'52'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'10'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'51'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'8'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'08'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'90'&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;])]&lt;/span&gt;
-
-&lt;span class=&quot;n&quot;&gt;df&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;to_csv&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;dest_file&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;sep&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;','&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;encoding&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'utf-8'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;index&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;bp&quot;&gt;False&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-
-&lt;span class=&quot;k&quot;&gt;print&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;Ended ================================================================&quot;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
+&lt;script src=&quot;https://gist.github.com/clairezed/c21fb505188f47a68f186e9f1271bee9.js&quot;&gt;&lt;/script&gt;
 
 &lt;h3 id=&quot;etape-5--filtrage-des-colonnes-formattage-du-type-des-données&quot;&gt;Etape 5 : filtrage des colonnes, formattage du type des données&lt;/h3&gt;
 
@@ -1010,255 +1016,6 @@ Et un récap et approfondissement de la conf du Reset, sur leur &lt;a href=&quot
         
         
         <category>good_job</category>
-        
-      </item>
-    
-      <item>
-        <title>Ouishare Fest 2017, l'envie de partir de la ville pour changer le monde</title>
-        <description>&lt;p&gt;Le Ouishare Festival, ce grand raout international autour de l’économie collaborative, et plus largement des grandes tendances de l’innovation sociale, ça faisait un paquet de temps que je le reluquais. Et ce n’est pas la canicule pantinoise de ce début juillet qui m’empêcha d’en profiter.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;&lt;em&gt;“Et toi, tu es là pour quoi ?”&lt;/em&gt; Question difficile et récurrente lors du festival, à laquelle il ne me semble pas avoir répondu deux fois de la même façon (et jamais en moins de 3 minutes…). Avoir une meilleure connaissance des gens qui font autrement, rencontrer les réseaux cachés de l’économie collaborative du Grand Est (raté !), découvrir des projets dans lesquels je pourrais avoir envie de m’investir, me faire une veille express sur les thématiques les plus en vogue de l’innovation sociale et numérique… Je sentais en fait qu’être ici stimulerait immanquablement mes neurones, et ce n’est qu’en cours de route que la question qui, finalement, me taraudait s’est vraiment précisée.&lt;/p&gt;
-
-&lt;p&gt;Alors que le festival présentait surtout des initiatives prenant corps dans les métropoles, &lt;strong&gt;comment on fait, concrètement, pour soutenir un autre modèle de développement territorial quand on est un citoyen lambda dans une ville moyenne ?&lt;/strong&gt; Et c’est cette question qui orientera ma lecture de l’événement.&lt;/p&gt;
-
-&lt;h2 id=&quot;la-ville-comme-moteur-du-changement-&quot;&gt;La ville comme moteur du changement ?&lt;/h2&gt;
-
-&lt;p&gt;La question ne sort pas de nulle part, puisque la thématique centrale du festival était celle des villes, comme nouvel horizon d’action pertinent de la transformation sociale. Et c’est vrai que ces dernier temps, on entend parler de plus en plus de réseaux de villes. Histoire de s’y retrouver, petit panel :&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Mayors National Climate Action Agenda&lt;/strong&gt; (&lt;a href=&quot;http://climatemayors.org/&quot;&gt;site&lt;/a&gt;) : réseau de 350 villes américaines  pour affirmer leur volonté d’agir en faveur de la transition écologique malgré le retrait des Etats-Unis de l’accord de Paris sur le climat.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;C40&lt;/strong&gt; (&lt;a href=&quot;http://www.c40.org/&quot;&gt;site&lt;/a&gt;) : réseau de quatre-vingt-six métropoles mondiales (dont New York, Séoul, Mexico…), pour agir contre le changement climatique.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Fearless cities&lt;/strong&gt; (&lt;a href=&quot;http://fearlesscities.com/&quot;&gt;site&lt;/a&gt;) : réseau de villes réunies autour d’un sommet à Barcelone en juin 2017 pour « résister à la xénophobie, à l’extrême droite et à la puissance des multinationales »&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;On est ici sur du réseau international de métropoles. Et les réseaux de villes françaises moyennes ?&lt;/p&gt;
-
-&lt;h2 id=&quot;un-plan-daction-pour-les-villes-de-tailles-moyennes&quot;&gt;Un plan d’action pour les villes de tailles moyennes&lt;/h2&gt;
-
-&lt;p&gt;Il se trouve que cette question des villes moyennes a directement été abordée lors de la dernière journée du festival.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.le-lab.org/bienvenue&quot;&gt;Le Lab&lt;/a&gt; de Ouishare finalise une étude sur l’économie collaborative dans les villes moyennes : &lt;a href=&quot;https://www.sharitories.eu/&quot;&gt;Sharitories&lt;/a&gt;. L’enjeu de l’étude est non pas de fournir un mode d’emploi de comment faire du collaboratif à petite échelle, mais d’identifier les stratégies possibles, expliquer ce qui a marcher à tel endroit dans tel contexte. Si l’étude ne sera rendue publique qu’à l’automne, quelques conclusions ont déjà été partagée lors du festival. Quand j’ai appris qu’Epinal, en plus, était l’un des terrains d’étude, j’étais toute fofolle.&lt;/p&gt;
-
-&lt;p&gt;Mes notes ci-dessous.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Les piliers pour une ville résiliente et autonome :&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;consommation collaborative&lt;/strong&gt; : carpooling, circuits courts, tourisme P2P, réseaux de proximité&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;production distribuée&lt;/strong&gt; : coworking, coliving, fablabs, repair café&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;financement participatif&lt;/strong&gt; : crowdfunding, crowdlending, crowdequity&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;gouvernance ouverte&lt;/strong&gt; : plannification urbaine participative, co-design, budgets participatifs (cartographie des espaces ouverts, des espaces vacants, des projets, et les impliquer ensuite dans la planification urbaine)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Certains de ces piliers croisent les enjeux des villes moyennes :&lt;/p&gt;
-
-&lt;table class=&quot;table table-default&quot;&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Enjeux des villes moyennes&lt;/th&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;Initiative de l’éco. coll.&lt;/th&gt;
-      &lt;th&gt;Exemple&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;attractivité touristique&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;habitat partagé, tourisme P2P…&lt;/td&gt;
-      &lt;td&gt;Aveiro, Espagne, échange de maison sur la plateforme GuestToGuest&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;attractivité territoriale&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;espaces de coworking, réseaux B2B et entrepreneurs…&lt;/td&gt;
-      &lt;td&gt;-&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;dynamisme économique&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;fab-lab, coworking, incubateurs, crowdfunding local, plateforme collaborative B2B…&lt;/td&gt;
-      &lt;td&gt;La Louvière, wallonie, The Cowork Factory&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;gouvernance&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;budget et financement participatif, co-construction…&lt;/td&gt;
-      &lt;td&gt;Lanester, agglo Lorient, budget participatif&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;développement durable&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;circuit-court, covoiturage, réseaux de voisinage…&lt;/td&gt;
-      &lt;td&gt;Albi, objectif d’autosuffisance alimentaire en 2020, avec jardins partagés et circuits court&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;revitalisation centre ville&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;plug &amp;amp; play shops, réhabilitation urbaine, fermes urbaines..&lt;/td&gt;
-      &lt;td&gt;-&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;meilleure qualité de vie&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;cartographie crowdsourcée, budget participatif, co-planning urbain…&lt;/td&gt;
-      &lt;td&gt;-&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;Les piliers d’une économie collaborative territoriale fonctionnelle :&lt;/p&gt;
-&lt;ol&gt;
-  &lt;li&gt;&lt;strong&gt;Gouvernance partagée entre les parties prenantes de la ville&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;identifier collectivement les projets et besoins&lt;/li&gt;
-      &lt;li&gt;sensibiliser les parties prenantes pour disséminer les bonnes pratiques&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Nouveaux leviers de développement économique&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;optimiser les ressources et relocaliser la valeur économique&lt;/li&gt;
-      &lt;li&gt;expérimenter de nouveaux outils liés aux assets de la ville&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Réseau d’écosystèmes locaux&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;créer inspirer, soutenir les communautés ouvertes&lt;/li&gt;
-      &lt;li&gt;soutenir la coopération entre acteurs pour développer les opprtunités locales, avec des réseaux régionaux&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Les points communs quand ça marche:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;une &lt;strong&gt;bonne connaissance du territoire&lt;/strong&gt;. Il faut des gens connecteurs, et les villes moyennes en manque.&lt;/li&gt;
-  &lt;li&gt;toutes les &lt;strong&gt;parties prenantes&lt;/strong&gt; (pouvoirs publics, société civile, entreprises) sont &lt;strong&gt;actives&lt;/strong&gt;,&lt;/li&gt;
-  &lt;li&gt;la création de &lt;strong&gt;preuves de concepts&lt;/strong&gt; qui servent d’exemple : investissement sur des projets à petit budget, proche du prototypage, pour enclencher la mobilisation,&lt;/li&gt;
-  &lt;li&gt;des &lt;strong&gt;projets orientés prioritairement sur l’impact&lt;/strong&gt; (la question de la mesure d’impact est importante)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Ok, donc la première étape est déjà d’identifier et fédérer un écosystème. C’est parti !&lt;/p&gt;
-
-&lt;h2 id=&quot;fédérer-un-écosystème&quot;&gt;Fédérer un écosystème&lt;/h2&gt;
-
-&lt;h3 id=&quot;par-la-conception-participative-dune-plateforme-territoriale&quot;&gt;…par la conception participative d’une plateforme territoriale&lt;/h3&gt;
-
-&lt;p&gt;L’&lt;a href=&quot;https://arcinnovation.fr&quot;&gt;arc de l’innovation&lt;/a&gt;, initié par les pouvoirs publics, regroupe les acteurs (communes, entreprises, société civile) de l’Est Parisien dans une démarche visant à y dynamiser l’économie et l’emploi.&lt;/p&gt;
-
-&lt;p&gt;Ce qui m’a intéressée dans l’exposé est bien entendu le détail de la démarche opératoire portée par &lt;a href=&quot;https://civicwise.org/about/&quot;&gt;Civic Wise&lt;/a&gt;, &lt;a href=&quot;http://ouishare.net/fr&quot;&gt;Ouishare&lt;/a&gt; et &lt;a href=&quot;http://www.opensourcepolitics.eu/&quot;&gt;Open Source Politics&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Pour associer les différentes parties prenantes, des &lt;strong&gt;entretiens&lt;/strong&gt; ont été mené avec une grande variété de porteurs de projet du territoire. Ces entretiens avaient pour objectifs d’identifier les besoins réels, et présentaient un enjeu de technologie sociale : dans ces ateliers, les participants étaient présents en tant qu’individu (et non structure), et en tant que &lt;strong&gt;conseillers&lt;/strong&gt;. Ce sont eux qui apportaient leur expérience, et des pistes de solution.&lt;/p&gt;
-
-&lt;p&gt;Qu’est-ce qui a été produit ensuite ?&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Cartographie des potentiels acteurs de l’arc&lt;/li&gt;
-  &lt;li&gt;Cartographie aussi des liens et collaborations entre ces acteurs&lt;/li&gt;
-  &lt;li&gt;Travail sur la synergie et les valeurs : sur quels aspects ces différents acteurs pourraient-ils collaborer ?&lt;/li&gt;
-  &lt;li&gt;Elaboration de visions : objectifs en interne qui pourraient être partagés et pourraient fédérer les parties prenantes.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Finalement, remarquent les initiateurs de la démarche, il s’est agi de concevoir un outil qui ressemble aux outils de mouvements sociaux, un outil pour aider les acteurs a s’organiser.&lt;/p&gt;
-
-&lt;p&gt;D’autres retours intéressants sur la table ronde  &lt;a href=&quot;http://www.makery.info/2017/07/11/au-ouishare-fest-un-vent-militant-souffle-sur-la-ville/&quot;&gt;ici&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3 id=&quot;par-le-co-design-provocateur-et-stylé&quot;&gt;…par le co-design provocateur et stylé&lt;/h3&gt;
-
-&lt;p&gt;&lt;em&gt;“Lisbonne est le nouveau Berlin”&lt;/em&gt;, &lt;em&gt;“Lisbonne est la nouvelle Silicon Valley”&lt;/em&gt;… Las d’être comparé sans cesse à d’autres entités faute d’une identité personnelle forte, Lisbonne a engagé une démarche de définition et de branding de son écosystème entrepreneurial avec l’aide de l’agence &lt;a href=&quot;https://with-company.com/work/defining-lisbon-innovation-scene/&quot;&gt;with company&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Un résumé de la démarche :&lt;/p&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/eS38ITmmT6M&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;Bon, ici c’est un peu triché, vu qu’ils s’appuient notamment sur une grosse communuté de créatifs, mais je pense que y’a quand même plein d’astuces à prendre dans la démarche pour, en quelque sorte, fédérer une communauté “en soi et pour soi”…&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Le site support de la consultation participative : &lt;a href=&quot;http://definelisboa.pt/&quot;&gt;definelisboa.pt&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Et le résultat final : &lt;a href=&quot;https://madeoflisboa.com/&quot;&gt;madeoflisboa.com&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;en-favorisant-une-culture-de-la-participation&quot;&gt;…en favorisant une culture de la participation&lt;/h3&gt;
-
-&lt;p&gt;Petit pas de côté pour intégrer à cette réflexion des éléments tirés d’une session sur &lt;a href=&quot;https://ouisharefestparis2017.sched.com/event/BF1d/more-than-money-mobilising-resources-for-the-participatory-city?iframe=no&amp;amp;w=100%&amp;amp;sidebar=yes&amp;amp;bg=no&quot;&gt;comment favoriser la participation&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Pas mal de retours d’expérience de budgets ou autres approches participatives, où on constate toujours que le taux d’implication et la diversité des participants pourraient être meilleurs.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“Travailler avec les enfants et sur le long terme pourrait être plus efficace pour améliorer l’engagement et la participation, que la publicité.” (citation approximative et traduite de je ne sais plus qui)&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Ainsi, une partie du budget participatif de Paris est utilisé pour &lt;strong&gt;sensibiliser les écoliers&lt;/strong&gt; à la participation, pour essaimer une culture de la participation dès le plus jeune âge.&lt;/p&gt;
-
-&lt;p&gt;Autre astuce : dans les centres d’appel des villes, lorsque des administrés appellent pour se plaindre de telle ou telle chose, il est possible de &lt;strong&gt;leur dire que ça peut être résolu via le budget participatif&lt;/strong&gt;. Leur filer plus d’infos, et leur proposer qu’on leur rappelle quand la procédure sera engagée.&lt;/p&gt;
-
-&lt;p&gt;D’autres outils technologiques pourraient à terme faciliter la participation, comme les &lt;strong&gt;chatbots&lt;/strong&gt; (voir par exemple le &lt;a href=&quot;http://www.numerama.com/tech/240095-sur-facebook-messenger-un-chatbot-aide-les-migrants-a-formuler-leur-demande-dasile.html&quot;&gt;chatbot Do not pay&lt;/a&gt; qui aide les migrants dans leur procédures administratives)&lt;/p&gt;
-
-&lt;p&gt;Autre ressource :&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;l’article &lt;a href=&quot;https://www.pubpub.org/pub/design-as-participation&quot;&gt;“Design as participation”&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;la plateforme &lt;a href=&quot;https://digitalsocial.eu/&quot;&gt;Digital Social Innovation&lt;/a&gt; proposée par Nesta&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;avec-une-meilleure-politique-de-gestion-des-données&quot;&gt;…avec une meilleure politique de gestion des données&lt;/h3&gt;
-
-&lt;p&gt;Nouveau pas de côté pour ajouter quelques retours de la session &lt;a href=&quot;https://ouisharefestparis2017.sched.com/event/BHID/data-as-a-commons-for-citizens&quot;&gt;“Data as a common for citizens”&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Je ne sais plus qui suggère de plancher sur des &lt;strong&gt;licences d’utilisation de ses données personnelles flexibles et personnalisées&lt;/strong&gt;. Avec cette licence à tiroirs, les utilisateurs qui cèdent leurs données pourraient valider des options du type :&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;si ça me permet de résoudre tel problème (utile par exemple dans un cadre de recherche médicale ou sociologique), ok pour partager mes données ; sinon niet .&lt;/li&gt;
-  &lt;li&gt;si je peux décider a qui et pourquoi mes données sont cédées, ok aussi ; sinon niet.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;et-à-part-ça-&quot;&gt;Et à part ça ?&lt;/h2&gt;
-
-&lt;h3 id=&quot;conviction-nest-pas-béatitude&quot;&gt;Conviction n’est pas béatitude&lt;/h3&gt;
-
-&lt;p&gt;Il y avait un peu de tout dans le festival, et parfois on pouvait avoir l’impression d’un espèce d’unanimisme ou de conformisme un peu béat et stérile. En vérité, dès que l’on grattait un tantinet sous la surface, on découvrait que des voix dissidentes ou plus nuancées avaient aussi voix au chapitre. Merci à elles.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;“&lt;em&gt;“Airbnb started to solve an issue, and then had to confront the market”&lt;/em&gt;, et c’est là que les effets rebonds sont apparus. (&lt;a href=&quot;https://twitter.com/participatory&quot;&gt;Tiago Peixoto&lt;/a&gt;)&lt;/li&gt;
-  &lt;li&gt;Il faut que nous luttions nous-mêmes contre la course à l’innovation et l’atttrait de la technique. Il faut que les organisations soient VRAIMENT orientées solutions. Et dans ce cas, la blockchain n’est pas forcément nécessaire. (En substance, &lt;a href=&quot;https://twitter.com/participatory&quot;&gt;Tiago Peixoto&lt;/a&gt;, encore lui)&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;“We must avoid fundamentalist views that everything that is ‘bottom up’ is unchallenge-able”&lt;/em&gt; (&lt;a href=&quot;https://twitter.com/tomasdiez&quot;&gt;Tomas Diez&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;les-sessions-que-jai-manquées&quot;&gt;Les sessions que j’ai manquées…&lt;/h3&gt;
-
-&lt;p&gt;..et que je regrette d’avoir manquées ; et quelques liens pour me rattraper.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;“Barcelona’s Strategy for Digital Sovereignty: building the networked city from the ground up with citizens”&lt;/strong&gt; (&lt;a href=&quot;https://ouisharefestparis2017.sched.com/event/B1dT/barcelonas-strategy-for-digital-sovereignty-building-the-networked-city-from-the-ground-up-with-citizens&quot;&gt;détail&lt;/a&gt;), par &lt;a href=&quot;https://twitter.com/francesca_bria&quot;&gt;Francesca Bria&lt;/a&gt;.
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;https://www.slideshare.net/francescabria/bcn-digital-ouishare-fest-2017&quot;&gt;les slides&lt;/a&gt;.&lt;/li&gt;
-      &lt;li&gt;Plus d’infos : &lt;a href=&quot;http://www.alphr.com/technology/1006261/how-one-european-smart-city-is-giving-power-back-to-its-citizens&quot;&gt;How one European smart city is giving power back to its citizens&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;Ou encore : &lt;a href=&quot;http://magazine.ouishare.net/2017/06/building-the-networked-city-from-the-ground-up-with-citizens-interview-with-francesca-bria/&quot;&gt;Building the networked city from the ground up with citizens&lt;/a&gt; - interview with Francesca Bria&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;“Medellin: from fear to becoming the ‘most innovative city in the world’“&lt;/strong&gt; (&lt;a href=&quot;https://ouisharefestparis2017.sched.com/event/B1dk/medellin-from-fear-to-becoming-the-most-innovative-city-in-the-world&quot;&gt;détail&lt;/a&gt;), par &lt;a href=&quot;https://twitter.com/juanp_ortega&quot;&gt;Juan Pablo Ortega&lt;/a&gt;, de Medellin : &lt;em&gt;“We started to construct the best infrastructures in the poor neighborhoods.”&lt;/em&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;“What corporate innovation can learn from grassroots movements&lt;br /&gt;
-“&lt;/strong&gt; (&lt;a href=&quot;https://ouisharefestparis2017.sched.com/event/B1dv/what-corporate-innovation-can-learn-from-grassroots-movements&quot;&gt;détail&lt;/a&gt;), par &lt;a href=&quot;https://twitter.com/anilgb&quot;&gt;Anil Gupta&lt;/a&gt;. A parlé notamment de &lt;em&gt;“the need for micro venture finance to support grassroots”&lt;/em&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;“Organizing a Transition City: Cooperation Jackson and the campaign to transform Jackson, Mississippi&lt;br /&gt;
-“&lt;/strong&gt;, par Brandon King. &lt;a href=&quot;http://www.cooperationjackson.org/&quot;&gt;Cooperation Jackson&lt;/a&gt; a l’air assez canon : &lt;em&gt;“Building a solidarity economy in Jackson, Mississippi, anchored by a network of cooperatives and other worker-owned, democratically self-managed enterprises.”&lt;/em&gt;  + utilisation de devises alternatives pour favoriser les conditions locales.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;autres-infos-glanées-au-hasard&quot;&gt;Autres infos glanées au hasard&lt;/h2&gt;
-
-&lt;p&gt;Il existe au moins une Coopérative d’Activité et d’Emploi dédiée au numérique : &lt;a href=&quot;https://portparallele.com&quot;&gt;Port parallèle&lt;/a&gt;, en Ile-de-France. Et il me semble qu’on m’a parlé d’autres depuis, mais forcément si je note pas..&lt;/p&gt;
-
-&lt;p&gt;Quelques discussions sur &lt;em&gt;“Est-ce que ce qu’on fait est éthique ? Voler aux riches pour donner aux pauvres ? Lutter contre ou bosser avec et transformer de l’intérieur ?”&lt;/em&gt; Souvent, les méchants agissent en pensant faire le bien. Quels indicateurs pour estimer si ce qu’on fait est “le bien” ?&lt;/p&gt;
-
-&lt;p&gt;J’ai enfin compris ce qu’est &lt;a href=&quot;https://opencollective.com/&quot;&gt;Open Collective&lt;/a&gt; : c’est une organisation qui propose de “virtualiser” la structure juridique, pour que les organisations se concentrent sur leur coeur de mission. Toutes les formes d’initiatives (associations, projets, collectifs, partis politiques) ont par exemple la possibilité d’y organiser des levées de fonds et de gérer leur trésorerie en totale transparence, sans avoir besoin d’un compte bancaire.&lt;/p&gt;
-
-&lt;h2 id=&quot;récapitulatifs-from-outer-space&quot;&gt;Récapitulatifs from outer space&lt;/h2&gt;
-
-&lt;p&gt;D’autres gens que moi écrivent sur le Ouishare Fest, si vous voulez encore prolonger la visite :&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;“Le OuiShare Fest nous invite à repenser la ville pour réinventer nos sociétés !”, &lt;a href=&quot;https://lareleveetlapeste.fr/ouishare-fest-invite-a-repenser-ville-reinventer-nos-societes/&quot;&gt;La relève et la Peste&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;“Au OuiShare Fest, un vent militant souffle sur la ville”,  &lt;a href=&quot;http://www.makery.info/2017/07/11/au-ouishare-fest-un-vent-militant-souffle-sur-la-ville/&quot;&gt;makery.info&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;“Les villes inventent de nouvelles façons de jouer collectif”, &lt;a href=&quot;http://www.lemonde.fr/chronique-des-communs/article/2017/07/11/les-villes-inventent-de-nouvelles-facons-de-jouer-collectif_5158916_5049504.html&quot;&gt;lemonde.fr&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;“Event Reporter - Ouishare fest 2017” , &lt;a href=&quot;https://silex-id.com/newsletters/event-reporter/event-reporter-ouishare-fest-2017&quot;&gt;silex ID&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Fri, 28 Jul 2017 00:00:00 +0200</pubDate>
-        <link>http://marges.clairezuliani.com/binary_transition/2017/07/28/OuiShare.html</link>
-        <guid isPermaLink="true">http://marges.clairezuliani.com/binary_transition/2017/07/28/OuiShare.html</guid>
-        
-        <category>evenement</category>
-        
-        
-        <category>binary_transition</category>
         
       </item>
     
