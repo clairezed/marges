@@ -136,43 +136,8 @@ head -n 10 tech_grand_est_00.csv > tech_grand_est_00_fl.csv
 
 Cette fois on peut passer à pandas, librairie python dédiée à la manipulation de données, pour y voir plus clair :  formater le header, passer l'encodage de `iso-8859-1` à `utf-8`....
 
-```python
-import pandas as pd
-import datetime
-import csv
-from collections import defaultdict
+<script src="https://gist.github.com/clairezed/c21fb505188f47a68f186e9f1271bee9.js"></script>
 
-source_file = "tech_grand_est_00.csv"
-dest_file   = "tech_grand_est_01.csv"
-
-df = pd.read_csv(source_file,
-    sep=',' ,
-    error_bad_lines=False,
-    encoding='iso-8859-1',
-    quoting=csv.QUOTE_NONE
-)
-
-print "Begining =============================================================="
-
-df.columns = df.columns.str.replace('\"','')
-df.columns = df.columns.str.replace("\r",'')
-
-# Verification
-print df.columns
-print df[:10]
-print len(df)
-
-# Selection des departements qui intéressent
-# type des departements pas clair.
-df = df.loc[df['DEPET'].isin([
-    88, 54, 55, 57, 67, 68, 70, 52, 10, 51, 8, 90,
-    '88', '54', '55', '57', '67', '68', '70', '52', '10', '51', '8', '08', '90'
-])]
-
-df.to_csv(dest_file, sep=',', encoding='utf-8', index=False)
-
-print "Ended ================================================================"
-```
 
 ### Etape 5 : filtrage des colonnes, formattage du type des données
 

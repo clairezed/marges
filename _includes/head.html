@@ -5,7 +5,8 @@
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
   <meta name="author" content="Claire Zuliani" />
-  <link rel="shortcut icon" type="image/x-icon" href="img/favicon.png">
+  <link rel="shortcut icon" type="image/x-icon" href="{{'assets/img/favicon.ico' | absolute_url }}">
+
 
   <meta property="og:site_name" content="{{ site.title }}" />
   <meta property="og:title" content="{% if page.title %} {{ page.title | strip_html | strip_newlines | truncate: 160 }} {% else %} {{ site.title | escape }} {% endif %}">
