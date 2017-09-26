@@ -10,4 +10,6 @@ Simili journal de bord simili mensuel épisode 9. Ce mois de septembre était
 
 <!--more-->
 
-## Dynamiser l'écosystème local
+AG café asso + site
+
+sites rbs ? coop communs ?
