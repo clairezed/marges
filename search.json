@@ -1,13 +1,33 @@
 [
   
     {
-      "title"    : "Je passe trop de temps sur internet - semaine 36",
-      "content"  : "Une nouvelle veille hebdo, que je ne sais jamais trop comment introduire. C’est la veille de la semaine, quoi.  Public Money? Public Code! : une vidéo transposant les logiques de l’informatique (privé / ouvert) à celles d’une ville pour faire comprendre l’intérêt de l’open source.Disrupting the disruptors  Culture eats coops for breakfast : un article d’Enspiral qui fait le pont entre les outils collaboratifs et la culture qui permet d’en tirer le bénéfice. De la nécessité de créer une nouvelle culture pour créer de nouveaux outils qui la soutiennent et qui fonctionnent.Une suite d’articles récapitulatifs :      Liste de compte-rendus    Financing a Coop, par Paul Cabaj  International Platforms and National Legal Frameworks  Coop Governance, Legal Frameworks  An Internet of Ownership  Building Platform Coops  Established Co-ops and Experimental Models  Freelancers, the Gig Economy, and Platform Co-ops",
+      "title"    : "Je passe trop de temps sur internet - semaine 38",
+      "content"  : "Une veille hebdo décousue et parcellaire. Le prochain semestre, il faut vraiment que j’organise mieux mes plannings pour pouvoir passer plus de temps sur internet.Pas de miracle civic tech  Cynicism, Naiveté and Amnesia :  retour sur le livre “Civic Tech in the Global South Good : Assessing Technology for the Public”, de Tiago Peixoto et Micah Sifry. Il semblerait que les promesses des nouveaux outils de la civic tech de permettre une meilleure participation des citoyens ne soient pas tout à fait tenue.Web décroissant  Creating a Static API from a Repository : une API statique hébergée sur git. Trop bien !Coop  Taxiapp:  London’s black cab co-op alternative to Uber : Taxiapp, une coopérative de taxis anglais détenus par les taxi eux-même, pourrait profiter du non renouvellement de la licence de Uber à Londres.Google partout  Une situation qui AMPire : les Accelerated Mobile Pages de Google, pas forcément plus performantes, mais surtout menaçante pour un internet ouvert, quand elles deviennent insidieusement obligatoires.Diversité  Pourquoi y a-t-il aussi peu de diversité dans la tech ? : un article dense de Cheek magazine (et oui) qui revient sur l’origine du manque de diversité dans la tech, ses risques et les actions mises en oeuvre pour combattre ce manque.Design de politique, design de service      Mapping service design and policy design : ça faisait longtemps que j’avais pas parlé des services numériques grands-bretons. Ici, je découvre le “Policy Lab” et son tableau des différents styles d’intervention des structures publiques. La distinction entre “design du détail”, “design de services et de systèmes” et “design de politiques” donne aussi à penser.        19 Things We’re Dying to Redesign : Ideo présente 19 brèves envies de redesign, des services d’immigration aux divertissements, en passant par la gym ou la vie avec un nouveau né.  Bitcoin et monnaie locale  HullCoins well spent? City’s ‘Bitcoin for volunteers’ offers a new way to pay : les crypto monnaies m’emmerdent un peu et me laissent sceptique (les discussions monétaires n’ont jamais été ma tasse de thé), mais devant l’engouement de nombre de mes amis, je suis quand même de loin. Et je suis toujours contente quand j’entends parler d’autre chose que de spéculations et que je vois de vraies applications des crypto monnaires dans des objectifs qui me semblent louables (ici, un mix entre monnaie locale et système d’échange locale). Et l’article n’évacue pas les risques et défis de la démarche. Précieux !          Forget blockchain. What really sets HullCoin apart from other community currencies is the creation of spending power from “good deeds”.      ",
+      "tags"     : "hebdomalink, civic tech, cooperative, design, politique",
+      "category" : "good_job",
+      "url"      : "/good_job/2017/09/25/liens-semaine-38.html",
+      "type"     : "Dépêche",
+      "date"     : "25/09/2017"
+    } ,
+  
+    {
+      "title"    : "Je passe trop de temps sur internet - semaine 37",
+      "content"  : "Cette veille hebdo se réduit comme peau de chagrin… Bon, ça veut dire que j’ai dû avoir une semaine bien remplie.Code public  Public Money? Public Code! : une vidéo transposant les logiques de l’informatique (privé / ouvert) à celles d’une ville pour faire comprendre l’intérêt de l’open source.Disrupting the disruptorsIl y a eu la semaine passée au Canada un événement alléchant qui, sous le doux nom de “Disrupting the disruptors”, se centrait sur les modèles économiques coopératifs pour des platformes durable (“Co-operative Business Models for Sustainable Platform Enterprises”). Je n’ai pas encore pu lire autant de retours de l’événement que souhaité, alors je sauve des liens et les partage :  Culture eats coops for breakfast : un article d’Enspiral qui fait le pont entre les outils collaboratifs et la culture qui permet d’en tirer le bénéfice. De la nécessité de créer une nouvelle culture pour créer de nouveaux outils qui la soutiennent et qui fonctionnent.Une suite d’articles récapitulatifs :      Liste de compte-rendus    Financing a Coop, par Paul Cabaj  International Platforms and National Legal Frameworks  Coop Governance, Legal Frameworks  An Internet of Ownership  Building Platform Coops  Established Co-ops and Experimental Models  Freelancers, the Gig Economy, and Platform Co-opsEthique &amp;amp; Design, encore  Ethics for Design : un documentaire de 50 minutes remarquable tant dans le fond que dans la forme (je vous laisse aller voir).Design tout court  Roundups : Curated collection of newsletters &amp;amp; roundups for designers",
       "tags"     : "hebdomalink",
       "category" : "good_job",
       "url"      : "/good_job/2017/09/18/liens-semaine-37.html",
       "type"     : "Dépêche",
       "date"     : "18/09/2017"
+    } ,
+  
+    {
+      "title"    : "A mon compte + 8 mois",
+      "content"  : "Simili journal de bord simili mensuel épisode 8. Ce mois d’août était comme une belle rampe de lancement d’un deuxième semestre que j’essaye de rendre prometteur. C’tait les vacances, il faisait chaud, et tout était possible. A priori, vu la densité de cette rentrée, la rampe de lancement n’était pas trop savonneuse :)Dynamiser l’écosystème localA force d’en parler, j’ai lancé les premières perches pour, à ma mesure, soutenir l’écosystème local de la transition. Des discussions passionnantes avec Cécile, la chargée de mission du Pôle Ecoter, ou avec Pascal, président d’Epinal en Transition, autour des entreprises libérées, de connexions à faire, de projets sur le territoire… Et toujours, toujours, les problématiques de l’humain, de la coopération, de la gouvernance qui reviennent sur le tapis. On verra à l’automne dans quelle mesure j’arrive à épauler les deux projets sur ce terrain.Ca tombe bien, ma participation à co-construire me donne déjà quelques pistes…Je découvre aussi que l’un des fondateurs de Coopaname est golbéen, et on prend le temps d’échanger lors d’un de ses retours en terre natale, sur la situation locale. Moralité : il y a du pain sur la planche (pas vraiment une surprise…).A une échelle plus large, des discussions s’amorcent avec des personnes à Reims, Nancy, Strasbourg ou Mulhouse pour faire du lien dans la région autour de thématiques d’innovations sociales. Chouette !Plateform coopsMon compte-rendu du OuiShare Festival et mon appel du pied aux réseaux du Grand Est n’est finalement pas resté lettre morte et m’a permis de chouettes discussions avec Florian Perret, investi dans la Coop des Communs. Je me laisse avec grand plasiri embarquée dans le groupe Plateformes en communs, actif autour de l’essor du mouvement des plateformes dans le domaine des communs.Florian me signale notamment deux jolis projets, qui illustrent bien la variété des initiatives et la multitude des configurations possibles quand on parle de communs :  Les oiseaux de passage, ex H2H, un genre de AirBnB coopératif orienté communs. Ils se focalisent eux sur les communs physiques, des communs locaux liés au territoire (tourisme, savoir-faire…). Par contre, ils utilisent une plateforme propriétaire.  Mutum : plateforme d’échange d’objets qui est à la base une société classique. Les créateurs se sont posés la question de la communauté après coup, et ont bien avancé sur le sujet : ils en sont à vendre petit à petit la plateforme à la communauté, prévoient de distribuer la gouvernance, d’ouvrir le code…Les mois d’été, c’est fait pour faire tout ce qu’on prend jamais le temps de faireUn jour où je constate que mon site personnel, en ruby on rails hébergé sur un compte gratos chez heroku, plante méchamment ; j’en profite pour tout le bazardé et le refaire en jekyll. Voilà, une journée de boulot en adaptant un thème tout fait, un site vachement plus léger avec connexion sécurisée… Je me sens mieux :) Et pour le voir c’est par là.Aussi, j’en ai profité pour me prendre un petit serveur chez scaleway et me faire une installation de piwik pour pouvoir avoir quelques infos sur qui se rend sur mes sites sans devoir faire appel à google. Grâce à ça, j’ai donc la confirmation que personne, pas même ma mère, ne se rend sur mon portfolio.En même temps, je ne sais toujours pas comment vraiment me présenter, et je sens les limites de n’avoir comme identité que celle d’une indépendante en solo, alors que j’ai envie de faire un peu de tout. Doucement, l’envie de me créer une identité d’agence fait son chemin. Un bon moyen pour laisser la porte ouverte à des partenariats à géométrie variable et gagner du crédit auprès de prospects ?Et niveau boulot ?On n’oublie pas que c’est le mois d’août et que c’est normal si ça s’affole pas :) Entre discussions qui trainent en longueur pour commencer un projet qui devait initialement sortir à la rentrée ; partenaires d’un projet prévu de longue date à l’automne en vacances, et échanges badins de conseils qui déboucheraient contre toute attente sur un contrat, en août ça frémit tout juste.Spoiler : on est maintenant mi-septembre, et si j’ai pas réussi à boucler ce récap avant aujourd’hui, c’est bien qu’aujourd’hui, on n’en est plus au stade du frémissement. Ca fait de grosse bulles, ça bouillonne, ça déborde, même ! Je me retrouve accidentellement cet automne à jongler entre 3 projets en parallèle, sans avoir réussi à garder vraiment de jours tampons de respiration (erreur de débutant, on m’y reprendra plus, promis). Cet automne, mon plus gros chantier sera peut-être donc d’accroitre ma capacité de résistance au stress et à la fatigue ?Allez, on va dire que ne plus avoir un moment pour soit d’ici 2018, c’est plutôt bon signe ?",
+      "tags"     : "et moi",
+      "category" : "good_job",
+      "url"      : "/good_job/2017/09/17/solo-plus-8-mois.html",
+      "type"     : "Dépêche",
+      "date"     : "17/09/2017"
     } ,
   
     {
@@ -18,16 +38,6 @@
       "url"      : "/good_job/2017/09/11/liens-semaine-36.html",
       "type"     : "Dépêche",
       "date"     : "11/09/2017"
-    } ,
-  
-    {
-      "title"    : "A mon compte + 8 mois",
-      "content"  : "Simili journal de bord simili mensuel épisode 8. Ce mois d’août était comme une belle rampe de lancement d’un deuxième semestre que j’essaye de rendre prometteur. C’tait les vacances, il faisait chaud, et tout était possible. A priori, vu la densité de cette rentrée, la rampe de lancement n’était pas trop savonneuse :)Dynamiser l’écosystème localA force d’en parler, j’ai lancé les premières perches pour, à ma mesure, soutenir l’écosystème local de la transition. Des discussions passionnantes avec Cécile, la chargée de mission du Pôle Ecoter, ou avec Pascal, président d’Epinal en Transition, autour des entreprises libérées, de connexions à faire, de projets sur le territoire… Et toujours, toujours, les problématiques de l’humain, de la coopération, de la gouvernance qui reviennent sur le tapis. On verra à l’automne dans quelle mesure j’arrive à épauler les deux projets sur ce terrain.Ca tombe bien, ma participation à co-construire me donne déjà quelques pistes…Je découvre aussi que l’un des fondateurs de Coopaname est golbéen, et on prend le temps d’échanger lors d’un de ses retours en terre natale, sur la situation locale. Moralité : il y a du pain sur la planche (pas vraiment une surprise…).A une échelle plus large, des discussions s’amorcent avec des personnes à Reims, Nancy, Strasbourg ou Mulhouse pour faire du lien dans la région autour de thématiques d’innovations sociales. Chouette !Plateform coopsMon compte-rendu du OuiShare Festival et mon appel du pied aux réseaux du Grand Est n’est finalement pas resté lettre morte et m’a permis de chouettes discussions avec Florian Perret, investi dans la Coop des Communs. Je me laisse avec grand plasiri embarquée dans le groupe Plateformes en communs, actif autour de l’essor du mouvement des plateformes dans le domaine des communs.Florian me signale notamment deux jolis projets, qui illustrent bien la variété des initiatives et la multitude des configurations possibles quand on parle de communs :  Les oiseaux de passage, ex H2H, un genre de AirBnB coopératif orienté communs. Ils se focalisent eux sur les communs physiques, des communs locaux liés au territoire (tourisme, savoir-faire…). Par contre, ils utilisent une plateforme propriétaire.  Mutum : plateforme d’échange d’objets qui est à la base une société classique. Les créateurs se sont posés la question de la communauté après coup, et ont bien avancé sur le sujet : ils en sont à vendre petit à petit la plateforme à la communauté, prévoient de distribuer la gouvernance, d’ouvrir le code…Les mois d’été, c’est fait pour faire tout ce qu’on prend jamais le temps de faireUn jour où je constate que mon site personnel, en ruby on rails hébergé sur un compte gratos chez heroku, plante méchamment ; j’en profite pour tout le bazardé et le refaire en jekyll. Voilà, une journée de boulot en adaptant un thème tout fait, un site vachement plus léger avec connexion sécurisée… Je me sens mieux :) Et pour le voir c’est par là.Aussi, j’en ai profité pour me prendre un petit serveur chez scaleway et me faire une installation de piwik pour pouvoir avoir quelques infos sur qui se rend sur mes sites sans devoir faire appel à google. Grâce à ça, j’ai donc la confirmation que personne, pas même ma mère, ne se rend sur mon portfolio.En même temps, je ne sais toujours pas comment vraiment me présenter, et je sens les limites de n’avoir comme identité que celle d’une indépendante en solo, alors que j’ai envie de faire un peu de tout. Doucement, l’envie de me créer une identité d’agence fait son chemin. Un bon moyen pour laisser la porte ouverte à des partenariats à géométrie variable et gagner du crédit auprès de prospects ?Et niveau boulot ?On n’oublie pas que c’est le mois d’août et que c’est normal si ça s’affole pas :) Entre discussions qui trainent en longueur pour commencer un projet qui devait initialement sortir à la rentrée ; partenaires d’un projet prévu de longue date à l’automne en vacances, et échanges badins de conseils qui déboucheraient contre toute attente sur un contrat, en août ça frémit tout juste.Spoiler : on est maintenant mi-septembre, et si j’ai pas réussi à boucler ce récap avant aujourd’hui, c’est bien qu’aujourd’hui, on n’en est plus au stade du frémissement. Ca fait de grosse bulles, ça bouillonne, ça déborde, même ! Je me retrouve accidentellement cet automne à jongler entre 3 projets en parallèle, sans avoir réussi à garder vraiment de jours tampons de respiration (erreur de débutant, on m’y reprendra plus, promis). Cet automne, mon plus gros chantier sera peut-être donc d’accroitre ma capacité de résistance au stress et à la fatigue ?Allez, on va dire que ne plus avoir un moment pour soit d’ici 2018, c’est plutôt bon signe ?",
-      "tags"     : "et moi",
-      "category" : "good_job",
-      "url"      : "/good_job/2017/09/09/solo-plus-8-mois.html",
-      "type"     : "Dépêche",
-      "date"     : "09/09/2017"
     } ,
   
     {
@@ -799,7 +809,7 @@
       "category" : "sustainable_code",
       "url"      : "/cheat-sheet-ruby",
       "type"     : "Dossier",
-      "date"     : "17/09/2017"
+      "date"     : "18/09/2017"
     } ,
   
     {
@@ -809,7 +819,7 @@
       "category" : "good_job",
       "url"      : "/ess",
       "type"     : "Dossier",
-      "date"     : "17/09/2017"
+      "date"     : "18/09/2017"
     } ,
   
     {
@@ -819,7 +829,7 @@
       "category" : "good_job",
       "url"      : "/faire-ensemble",
       "type"     : "Dossier",
-      "date"     : "17/09/2017"
+      "date"     : "18/09/2017"
     } ,
   
     {
@@ -829,7 +839,7 @@
       "category" : "binary_transition",
       "url"      : "/initiatives-cool",
       "type"     : "Dossier",
-      "date"     : "17/09/2017"
+      "date"     : "18/09/2017"
     } ,
   
     {
@@ -839,7 +849,7 @@
       "category" : "binary_transition",
       "url"      : "/inspirations-graphiques",
       "type"     : "Dossier",
-      "date"     : "17/09/2017"
+      "date"     : "18/09/2017"
     } ,
   
     {
@@ -849,7 +859,7 @@
       "category" : "sustainable_code",
       "url"      : "/jamstack",
       "type"     : "Dossier",
-      "date"     : "17/09/2017"
+      "date"     : "18/09/2017"
     } ,
   
     {
@@ -859,7 +869,7 @@
       "category" : "binary_transition",
       "url"      : "/cartographie-du-bas",
       "type"     : "Dossier",
-      "date"     : "17/09/2017"
+      "date"     : "18/09/2017"
     } ,
   
     {
@@ -869,7 +879,7 @@
       "category" : "sustainable_code",
       "url"      : "/studies/to-read-list/",
       "type"     : "Dossier",
-      "date"     : "17/09/2017"
+      "date"     : "18/09/2017"
     } ,
   
     {
@@ -879,7 +889,7 @@
       "category" : "sustainable_code",
       "url"      : "/toolkits",
       "type"     : "Dossier",
-      "date"     : "17/09/2017"
+      "date"     : "18/09/2017"
     } ,
   
     {
@@ -889,7 +899,7 @@
       "category" : "good_job",
       "url"      : "/notions-juridiques-libre-open-source",
       "type"     : "Dossier",
-      "date"     : "17/09/2017"
+      "date"     : "18/09/2017"
     } ,
   
     {
@@ -899,7 +909,7 @@
       "category" : "binary_transition",
       "url"      : "/tech-changement-social-open-source",
       "type"     : "Dossier",
-      "date"     : "17/09/2017"
+      "date"     : "18/09/2017"
     } 
   
 ]

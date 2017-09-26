@@ -5,21 +5,101 @@
     <description>Prise de notes des internets de claire zuliani</description>
     <link>http://marges.clairezuliani.com/</link>
     <atom:link href="http://marges.clairezuliani.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 18 Sep 2017 09:27:23 +0200</pubDate>
-    <lastBuildDate>Mon, 18 Sep 2017 09:27:23 +0200</lastBuildDate>
+    <pubDate>Tue, 26 Sep 2017 09:48:58 +0200</pubDate>
+    <lastBuildDate>Tue, 26 Sep 2017 09:48:58 +0200</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
-        <title>Je passe trop de temps sur internet - semaine 36</title>
-        <description>&lt;p&gt;Une nouvelle veille hebdo, que je ne sais jamais trop comment introduire. C’est la veille de la semaine, quoi.&lt;/p&gt;
+        <title>Je passe trop de temps sur internet - semaine 38</title>
+        <description>&lt;p&gt;Une veille hebdo décousue et parcellaire. Le prochain semestre, il faut vraiment que j’organise mieux mes plannings pour pouvoir passer plus de temps sur internet.&lt;/p&gt;
 
 &lt;!--more--&gt;
+
+&lt;h2 id=&quot;pas-de-miracle-civic-tech&quot;&gt;Pas de miracle civic tech&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;http://feedbacklabs.org/blog/cynicism-and-amnesia&quot;&gt;Cynicism, Naiveté and Amnesia&lt;/a&gt;&lt;/strong&gt; :  retour sur le livre “&lt;a href=&quot;https://openknowledge.worldbank.org/handle/10986/27947&quot;&gt;Civic Tech in the Global South Good&lt;/a&gt; : Assessing Technology for the Public”, de Tiago Peixoto et Micah Sifry. Il semblerait que les promesses des nouveaux outils de la civic tech de permettre une meilleure participation des citoyens ne soient pas tout à fait tenue.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;web-décroissant&quot;&gt;Web décroissant&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://css-tricks.com/creating-static-api-repository/&quot;&gt;Creating a Static API from a Repository&lt;/a&gt;&lt;/strong&gt; : une API statique hébergée sur git. Trop bien !&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;coop&quot;&gt;Coop&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://www.thenews.coop/122467/sector/community/taxiapp-londons-black-cab-co-op-alternative-uber/&quot;&gt;Taxiapp: &lt;/a&gt; London’s black cab co-op alternative to Uber&lt;/strong&gt; : Taxiapp, une coopérative de taxis anglais détenus par les taxi eux-même, pourrait profiter du non renouvellement de la licence de Uber à Londres.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;google-partout&quot;&gt;Google partout&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;http://nota-bene.org/Une-situation-qui-AMPire&quot;&gt;Une situation qui AMPire&lt;/a&gt;&lt;/strong&gt; : les Accelerated Mobile Pages de Google, pas forcément plus performantes, mais surtout menaçante pour un internet ouvert, quand elles deviennent insidieusement obligatoires.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;diversité&quot;&gt;Diversité&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;http://cheekmagazine.fr/geek/diversite-mixite-tech/&quot;&gt;Pourquoi y a-t-il aussi peu de diversité dans la tech ?&lt;/a&gt;&lt;/strong&gt; : un article dense de Cheek magazine (et oui) qui revient sur l’origine du manque de diversité dans la tech, ses risques et les actions mises en oeuvre pour combattre ce manque.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;design-de-politique-design-de-service&quot;&gt;Design de politique, design de service&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://openpolicy.blog.gov.uk/2017/09/22/designing-policy/&quot;&gt;Mapping service design and policy design&lt;/a&gt;&lt;/strong&gt; : ça faisait longtemps que j’avais pas parlé des services numériques grands-bretons. Ici, je découvre le “Policy Lab” et son tableau des différents styles d’intervention des structures publiques. La distinction entre “design du détail”, “design de services et de systèmes” et “design de politiques” donne aussi à penser.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.ideo.com/blog/19-things-were-dying-to-redesign&quot;&gt;19 Things We’re Dying to Redesign&lt;/a&gt;&lt;/strong&gt; : Ideo présente 19 brèves envies de redesign, des services d’immigration aux divertissements, en passant par la gym ou la vie avec un nouveau né.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;bitcoin-et-monnaie-locale&quot;&gt;Bitcoin et monnaie locale&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://www.theguardian.com/cities/2016/apr/22/hullcoin-bitcoin-volunteers-new-way-pay&quot;&gt;HullCoins well spent?&lt;/a&gt; City’s ‘Bitcoin for volunteers’ offers a new way to pay&lt;/strong&gt; : les crypto monnaies m’emmerdent un peu et me laissent sceptique (les discussions monétaires n’ont jamais été ma tasse de thé), mais devant l’engouement de nombre de mes amis, je suis quand même de loin. Et je suis toujours contente quand j’entends parler d’autre chose que de spéculations et que je vois de vraies applications des crypto monnaires dans des objectifs qui me semblent louables (ici, un mix entre monnaie locale et système d’échange locale). Et l’article n’évacue pas les risques et défis de la démarche. Précieux !
+    &lt;blockquote&gt;
+      &lt;p&gt;Forget blockchain. What really sets HullCoin apart from other community currencies is the creation of spending power from “good deeds”.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 25 Sep 2017 00:00:00 +0200</pubDate>
+        <link>http://marges.clairezuliani.com/good_job/2017/09/25/liens-semaine-38.html</link>
+        <guid isPermaLink="true">http://marges.clairezuliani.com/good_job/2017/09/25/liens-semaine-38.html</guid>
+        
+        <category>hebdomalink</category>
+        
+        <category>civic tech</category>
+        
+        <category>cooperative</category>
+        
+        <category>design</category>
+        
+        <category>politique</category>
+        
+        
+        <category>good_job</category>
+        
+      </item>
+    
+      <item>
+        <title>Je passe trop de temps sur internet - semaine 37</title>
+        <description>&lt;p&gt;Cette veille hebdo se réduit comme peau de chagrin… Bon, ça veut dire que j’ai dû avoir une semaine bien remplie.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;h2 id=&quot;code-public&quot;&gt;Code public&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://vimeo.com/232524527&quot;&gt;Public Money? Public Code!&lt;/a&gt; : une vidéo transposant les logiques de l’informatique (privé / ouvert) à celles d’une ville pour faire comprendre l’intérêt de l’open source.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;disrupting-the-disruptors&quot;&gt;Disrupting the disruptors&lt;/h2&gt;
+
+&lt;p&gt;Il y a eu la semaine passée au Canada un événement alléchant qui, sous le doux nom de “&lt;a href=&quot;http://platformcoop.ca/&quot;&gt;Disrupting the disruptors&lt;/a&gt;”, se centrait sur les modèles économiques coopératifs pour des platformes durable (&lt;em&gt;“Co-operative Business Models for Sustainable Platform Enterprises”&lt;/em&gt;). Je n’ai pas encore pu lire autant de retours de l’événement que souhaité, alors je sauve des liens et les partage :&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://medium.com/enspiral-tales/culture-eats-coops-for-breakfast-4555560154cb&quot;&gt;Culture eats coops for breakfast&lt;/a&gt; : un article d’Enspiral qui fait le pont entre les outils collaboratifs et la culture qui permet d’en tirer le bénéfice. De la nécessité de créer une nouvelle culture pour créer de nouveaux outils qui la soutiennent et qui fonctionnent.&lt;/li&gt;
@@ -39,12 +119,77 @@
   &lt;li&gt;&lt;a href=&quot;https://ingbrief.wordpress.com/2017/09/09/20170909-1520-frisia-donders-cloe-waretini-patrick-nangle-established-co-ops-and-experimental-models-disrupting-the-disruptors/&quot;&gt;Established Co-ops and Experimental Models&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://ingbrief.wordpress.com/2017/09/09/20170909-1415-colette-murphy-kristy-milland-greig-de-peuter-trebor-schotz-frisia-donders-freelancers-the-gig-economy-and-platform-co-ops-disrupting-the-disruptors/&quot;&gt;Freelancers, the Gig Economy, and Platform Co-ops&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;h2 id=&quot;ethique--design-encore&quot;&gt;Ethique &amp;amp; Design, encore&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://ethicsfordesign.com/fr&quot;&gt;Ethics for Design&lt;/a&gt; : un documentaire de 50 minutes remarquable tant dans le fond que dans la forme (je vous laisse aller voir).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;design-tout-court&quot;&gt;Design tout court&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://roundups.co/&quot;&gt;Roundups&lt;/a&gt; : Curated collection of newsletters &amp;amp; roundups for designers&lt;/li&gt;
+&lt;/ul&gt;
 </description>
         <pubDate>Mon, 18 Sep 2017 00:00:00 +0200</pubDate>
         <link>http://marges.clairezuliani.com/good_job/2017/09/18/liens-semaine-37.html</link>
         <guid isPermaLink="true">http://marges.clairezuliani.com/good_job/2017/09/18/liens-semaine-37.html</guid>
         
         <category>hebdomalink</category>
+        
+        
+        <category>good_job</category>
+        
+      </item>
+    
+      <item>
+        <title>A mon compte + 8 mois</title>
+        <description>&lt;p&gt;Simili journal de bord simili mensuel épisode 8. Ce mois d’août était comme une belle rampe de lancement d’un deuxième semestre que j’essaye de rendre prometteur. C’tait les vacances, il faisait chaud, et tout était possible. A priori, vu la densité de cette rentrée, la rampe de lancement n’était pas trop savonneuse :)&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;h2 id=&quot;dynamiser-lécosystème-local&quot;&gt;Dynamiser l’écosystème local&lt;/h2&gt;
+
+&lt;p&gt;A force d’en parler, j’ai lancé les premières perches pour, à ma mesure, soutenir l’écosystème local de la transition. Des discussions passionnantes avec Cécile, la chargée de mission du &lt;a href=&quot;http://www.poleecotervosges.org/&quot;&gt;Pôle Ecoter&lt;/a&gt;, ou avec Pascal, président d’&lt;a href=&quot;http://epinal-en-transition.fr/&quot;&gt;Epinal en Transition&lt;/a&gt;, autour des entreprises libérées, de connexions à faire, de projets sur le territoire… Et toujours, toujours, les problématiques de l’humain, de la coopération, de la gouvernance qui reviennent sur le tapis. On verra à l’automne dans quelle mesure j’arrive à épauler les deux projets sur ce terrain.&lt;/p&gt;
+
+&lt;p&gt;Ca tombe bien, ma participation à &lt;a href=&quot;{ site.baseurl }/binary_transition/2017/09/07/co-construire-2017.html&quot;&gt;co-construire&lt;/a&gt; me donne déjà quelques pistes…&lt;/p&gt;
+
+&lt;p&gt;Je découvre aussi que l’un des fondateurs de Coopaname est golbéen, et on prend le temps d’échanger lors d’un de ses retours en terre natale, sur la situation locale. Moralité : il y a du pain sur la planche (pas vraiment une surprise…).&lt;/p&gt;
+
+&lt;p&gt;A une échelle plus large, des discussions s’amorcent avec des personnes à Reims, Nancy, Strasbourg ou Mulhouse pour faire du lien dans la région autour de thématiques d’innovations sociales. Chouette !&lt;/p&gt;
+
+&lt;h2 id=&quot;plateform-coops&quot;&gt;Plateform coops&lt;/h2&gt;
+
+&lt;p&gt;Mon compte-rendu du OuiShare Festival et mon appel du pied aux réseaux du Grand Est n’est finalement pas resté lettre morte et m’a permis de chouettes discussions avec Florian Perret, investi dans la &lt;a href=&quot;http://coopdescommuns.org/&quot;&gt;Coop des Communs&lt;/a&gt;. Je me laisse avec grand plasiri embarquée dans le groupe &lt;strong&gt;Plateformes en communs&lt;/strong&gt;, actif autour de l’essor du mouvement des plateformes dans le domaine des communs.&lt;/p&gt;
+
+&lt;p&gt;Florian me signale notamment deux jolis projets, qui illustrent bien la variété des initiatives et la multitude des configurations possibles quand on parle de communs :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://h2h.hoteldunord.coop/&quot;&gt;Les oiseaux de passage&lt;/a&gt;, ex H2H, un genre de AirBnB coopératif orienté communs. Ils se focalisent eux sur les communs physiques, des communs locaux liés au territoire (tourisme, savoir-faire…). Par contre, ils utilisent une plateforme propriétaire.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.mutum.com/&quot;&gt;Mutum&lt;/a&gt; : plateforme d’échange d’objets qui est à la base une société classique. Les créateurs se sont posés la question de la communauté après coup, et ont bien avancé sur le sujet : ils en sont à vendre petit à petit la plateforme à la communauté, prévoient de distribuer la gouvernance, d’ouvrir le code…&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;les-mois-dété-cest-fait-pour-faire-tout-ce-quon-prend-jamais-le-temps-de-faire&quot;&gt;Les mois d’été, c’est fait pour faire tout ce qu’on prend jamais le temps de faire&lt;/h2&gt;
+
+&lt;p&gt;Un jour où je constate que mon site personnel, en ruby on rails hébergé sur un compte gratos chez heroku, plante méchamment ; j’en profite pour tout le bazardé et le refaire en jekyll. Voilà, une journée de boulot en adaptant un thème tout fait, un site vachement plus léger avec connexion sécurisée… Je me sens mieux :) Et pour le voir c’est &lt;a href=&quot;https://www.clairezuliani.com/&quot;&gt;par là&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Aussi, j’en ai profité pour me prendre un petit serveur chez scaleway et me faire une installation de &lt;a href=&quot;https://piwik.org/&quot;&gt;piwik&lt;/a&gt; pour pouvoir avoir quelques infos sur qui se rend sur mes sites sans devoir faire appel à google. Grâce à ça, j’ai donc la confirmation que personne, pas même ma mère, ne se rend sur mon portfolio.&lt;/p&gt;
+
+&lt;p&gt;En même temps, je ne sais toujours pas comment vraiment me présenter, et je sens les limites de n’avoir comme identité que celle d’une indépendante en solo, alors que j’ai envie de faire un peu de tout. Doucement, l’envie de me créer une identité d’agence fait son chemin. Un bon moyen pour laisser la porte ouverte à des partenariats à géométrie variable et gagner du crédit auprès de prospects ?&lt;/p&gt;
+
+&lt;h2 id=&quot;et-niveau-boulot-&quot;&gt;Et niveau boulot ?&lt;/h2&gt;
+
+&lt;p&gt;On n’oublie pas que c’est le mois d’août et que c’est normal si ça s’affole pas :) Entre discussions qui trainent en longueur pour commencer un projet qui devait initialement sortir à la rentrée ; partenaires d’un projet prévu de longue date à l’automne en vacances, et échanges badins de conseils qui déboucheraient contre toute attente sur un contrat, en août ça frémit tout juste.&lt;/p&gt;
+
+&lt;p&gt;Spoiler : on est maintenant mi-septembre, et si j’ai pas réussi à boucler ce récap avant aujourd’hui, c’est bien qu’aujourd’hui, on n’en est plus au stade du frémissement. Ca fait de grosse bulles, ça bouillonne, ça déborde, même ! Je me retrouve accidentellement cet automne à jongler entre 3 projets en parallèle, sans avoir réussi à garder vraiment de jours tampons de respiration (erreur de débutant, on m’y reprendra plus, promis). Cet automne, mon plus gros chantier sera peut-être donc d’accroitre ma capacité de résistance au stress et à la fatigue ?&lt;/p&gt;
+
+&lt;p&gt;Allez, on va dire que ne plus avoir un moment pour soit d’ici 2018, c’est plutôt bon signe ?&lt;/p&gt;
+</description>
+        <pubDate>Sun, 17 Sep 2017 00:00:00 +0200</pubDate>
+        <link>http://marges.clairezuliani.com/good_job/2017/09/17/solo-plus-8-mois.html</link>
+        <guid isPermaLink="true">http://marges.clairezuliani.com/good_job/2017/09/17/solo-plus-8-mois.html</guid>
+        
+        <category>et moi</category>
         
         
         <category>good_job</category>
@@ -115,59 +260,6 @@ create, evangelize, contribute, maintain&lt;/p&gt;
         <category>financement</category>
         
         <category>open source</category>
-        
-        
-        <category>good_job</category>
-        
-      </item>
-    
-      <item>
-        <title>A mon compte + 8 mois</title>
-        <description>&lt;p&gt;Simili journal de bord simili mensuel épisode 8. Ce mois d’août était comme une belle rampe de lancement d’un deuxième semestre que j’essaye de rendre prometteur. C’tait les vacances, il faisait chaud, et tout était possible. A priori, vu la densité de cette rentrée, la rampe de lancement n’était pas trop savonneuse :)&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;h2 id=&quot;dynamiser-lécosystème-local&quot;&gt;Dynamiser l’écosystème local&lt;/h2&gt;
-
-&lt;p&gt;A force d’en parler, j’ai lancé les premières perches pour, à ma mesure, soutenir l’écosystème local de la transition. Des discussions passionnantes avec Cécile, la chargée de mission du &lt;a href=&quot;http://www.poleecotervosges.org/&quot;&gt;Pôle Ecoter&lt;/a&gt;, ou avec Pascal, président d’&lt;a href=&quot;http://epinal-en-transition.fr/&quot;&gt;Epinal en Transition&lt;/a&gt;, autour des entreprises libérées, de connexions à faire, de projets sur le territoire… Et toujours, toujours, les problématiques de l’humain, de la coopération, de la gouvernance qui reviennent sur le tapis. On verra à l’automne dans quelle mesure j’arrive à épauler les deux projets sur ce terrain.&lt;/p&gt;
-
-&lt;p&gt;Ca tombe bien, ma participation à &lt;a href=&quot;{ site.baseurl }/binary_transition/2017/09/07/co-construire-2017.html&quot;&gt;co-construire&lt;/a&gt; me donne déjà quelques pistes…&lt;/p&gt;
-
-&lt;p&gt;Je découvre aussi que l’un des fondateurs de Coopaname est golbéen, et on prend le temps d’échanger lors d’un de ses retours en terre natale, sur la situation locale. Moralité : il y a du pain sur la planche (pas vraiment une surprise…).&lt;/p&gt;
-
-&lt;p&gt;A une échelle plus large, des discussions s’amorcent avec des personnes à Reims, Nancy, Strasbourg ou Mulhouse pour faire du lien dans la région autour de thématiques d’innovations sociales. Chouette !&lt;/p&gt;
-
-&lt;h2 id=&quot;plateform-coops&quot;&gt;Plateform coops&lt;/h2&gt;
-
-&lt;p&gt;Mon compte-rendu du OuiShare Festival et mon appel du pied aux réseaux du Grand Est n’est finalement pas resté lettre morte et m’a permis de chouettes discussions avec Florian Perret, investi dans la &lt;a href=&quot;http://coopdescommuns.org/&quot;&gt;Coop des Communs&lt;/a&gt;. Je me laisse avec grand plasiri embarquée dans le groupe &lt;strong&gt;Plateformes en communs&lt;/strong&gt;, actif autour de l’essor du mouvement des plateformes dans le domaine des communs.&lt;/p&gt;
-
-&lt;p&gt;Florian me signale notamment deux jolis projets, qui illustrent bien la variété des initiatives et la multitude des configurations possibles quand on parle de communs :&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://h2h.hoteldunord.coop/&quot;&gt;Les oiseaux de passage&lt;/a&gt;, ex H2H, un genre de AirBnB coopératif orienté communs. Ils se focalisent eux sur les communs physiques, des communs locaux liés au territoire (tourisme, savoir-faire…). Par contre, ils utilisent une plateforme propriétaire.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.mutum.com/&quot;&gt;Mutum&lt;/a&gt; : plateforme d’échange d’objets qui est à la base une société classique. Les créateurs se sont posés la question de la communauté après coup, et ont bien avancé sur le sujet : ils en sont à vendre petit à petit la plateforme à la communauté, prévoient de distribuer la gouvernance, d’ouvrir le code…&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;les-mois-dété-cest-fait-pour-faire-tout-ce-quon-prend-jamais-le-temps-de-faire&quot;&gt;Les mois d’été, c’est fait pour faire tout ce qu’on prend jamais le temps de faire&lt;/h2&gt;
-
-&lt;p&gt;Un jour où je constate que mon site personnel, en ruby on rails hébergé sur un compte gratos chez heroku, plante méchamment ; j’en profite pour tout le bazardé et le refaire en jekyll. Voilà, une journée de boulot en adaptant un thème tout fait, un site vachement plus léger avec connexion sécurisée… Je me sens mieux :) Et pour le voir c’est &lt;a href=&quot;https://www.clairezuliani.com/&quot;&gt;par là&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Aussi, j’en ai profité pour me prendre un petit serveur chez scaleway et me faire une installation de &lt;a href=&quot;https://piwik.org/&quot;&gt;piwik&lt;/a&gt; pour pouvoir avoir quelques infos sur qui se rend sur mes sites sans devoir faire appel à google. Grâce à ça, j’ai donc la confirmation que personne, pas même ma mère, ne se rend sur mon portfolio.&lt;/p&gt;
-
-&lt;p&gt;En même temps, je ne sais toujours pas comment vraiment me présenter, et je sens les limites de n’avoir comme identité que celle d’une indépendante en solo, alors que j’ai envie de faire un peu de tout. Doucement, l’envie de me créer une identité d’agence fait son chemin. Un bon moyen pour laisser la porte ouverte à des partenariats à géométrie variable et gagner du crédit auprès de prospects ?&lt;/p&gt;
-
-&lt;h2 id=&quot;et-niveau-boulot-&quot;&gt;Et niveau boulot ?&lt;/h2&gt;
-
-&lt;p&gt;On n’oublie pas que c’est le mois d’août et que c’est normal si ça s’affole pas :) Entre discussions qui trainent en longueur pour commencer un projet qui devait initialement sortir à la rentrée ; partenaires d’un projet prévu de longue date à l’automne en vacances, et échanges badins de conseils qui déboucheraient contre toute attente sur un contrat, en août ça frémit tout juste.&lt;/p&gt;
-
-&lt;p&gt;Spoiler : on est maintenant mi-septembre, et si j’ai pas réussi à boucler ce récap avant aujourd’hui, c’est bien qu’aujourd’hui, on n’en est plus au stade du frémissement. Ca fait de grosse bulles, ça bouillonne, ça déborde, même ! Je me retrouve accidentellement cet automne à jongler entre 3 projets en parallèle, sans avoir réussi à garder vraiment de jours tampons de respiration (erreur de débutant, on m’y reprendra plus, promis). Cet automne, mon plus gros chantier sera peut-être donc d’accroitre ma capacité de résistance au stress et à la fatigue ?&lt;/p&gt;
-
-&lt;p&gt;Allez, on va dire que ne plus avoir un moment pour soit d’ici 2018, c’est plutôt bon signe ?&lt;/p&gt;
-</description>
-        <pubDate>Sat, 09 Sep 2017 00:00:00 +0200</pubDate>
-        <link>http://marges.clairezuliani.com/good_job/2017/09/09/solo-plus-8-mois.html</link>
-        <guid isPermaLink="true">http://marges.clairezuliani.com/good_job/2017/09/09/solo-plus-8-mois.html</guid>
-        
-        <category>et moi</category>
         
         
         <category>good_job</category>
@@ -955,64 +1047,6 @@ Going beyond start ups as a means to drive Impact&lt;/strong&gt; : je n’ai fai
         <category>ethique</category>
         
         <category>freelancing</category>
-        
-        
-        <category>good_job</category>
-        
-      </item>
-    
-      <item>
-        <title>A mon compte + 7 mois</title>
-        <description>&lt;p&gt;Simili journal de bord simili mensuel épisode 7. Ce mois de juillet était très plein au tout début, et vachement moins après (vacances obligent). Et c’était bien comme ça, aussi :)&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;Le mois a surtout été marqué par une bonne semaine hyperactive passée à la capitale. Quatre événements en 7 jours, un jour de repos. C’était bien.&lt;/p&gt;
-
-&lt;h2 id=&quot;pas-sage-en-seine-2017&quot;&gt;Pas sage en Seine 2017&lt;/h2&gt;
-
-&lt;p&gt;J’étais déjà présente l’&lt;a href=&quot;/binary_transition/2016/07/14/pseshsf-2016-01.html&quot;&gt;année dernière&lt;/a&gt;, ça m’avait plu, j’y suis donc retournée cette année.&lt;/p&gt;
-
-&lt;p&gt;Sans que ce soit ma communauté de coeur (je suis loin d’être une spécialiste du hacking, de la sécurité ou de la protection de la vie privée), je suis une fervente sympathisante de l’événement, qui me permet de raccrocher les wagons dans les domaines cités entre parenthèses. &lt;a href=&quot;https://passageenseine.fr/&quot;&gt;Pas sage en Seine&lt;/a&gt;, c’est quand même un très bon endroit pour croiser des gens de yunohost, nextcloud ou cozycloud, et en apprendre plus sur les orientations et évolutions de ces outils.&lt;/p&gt;
-
-&lt;p&gt;Et sur leurs spécificités ! Par exemple, j’avais jamais vraiment compris les différences entre cozycloud et yunohost. C’est plus clair maintenant :&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;cozycloud&lt;/strong&gt; : se focalise sur la gestion des données personnelles, donc essentiellement des applis pour les gérer / en extraire de la valeur. Les applis s’appuient donc sur un socle de données communes.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;yunohost&lt;/strong&gt; : plateforme facilitant l’installation d’applications côte à côte, qui n’interagissent pas entre elles. Chaque appli a donc ses propres données, indépendantes les unes des autres.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Donc pas de concurrence, mais deux orientations différentes&lt;/p&gt;
-
-&lt;p&gt;Comme d’habitude, il y a un certain nombre de conférences techniques auxquelles je n’ai tout simplement rien pané,  mais j’ai profité du reste. Je retiens plus particulièrement des discussions, encore une fois, passionnées sur design et open source, et coup de coeur pour la session finale laissée aux mains du Reset, hackerspace féministe.&lt;/p&gt;
-
-&lt;p&gt;Au fait, pour revoir les vidéos, c’est &lt;a href=&quot;http://data.passageenseine.org/2017/&quot;&gt;ici&lt;/a&gt;.&lt;br /&gt;
-Et un récap et approfondissement de la conf du Reset, sur leur &lt;a href=&quot;https://wiki.lereset.org/confpses2017&quot;&gt;wiki&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;open-democracy-now&quot;&gt;Open Democracy Now!&lt;/h2&gt;
-
-&lt;p&gt;J’ai enfin assisté à ma première soirée &lt;a href=&quot;http://opendemocracynow.net/&quot;&gt;Open Democracy Now!&lt;/a&gt;, organisée par plein de copains. Cette édition m’a permise de croiser Pia Mancini en prélude au OuiShare festival, et de découvrir les prochaines priorités du collectif. Transparence budgétaire, suivi de l’écriture de la loi, blockchain… Je sais que de mon côté, je suivrai plus particulièrement les chantiers charte éthique, enjeux des plateformes de consultation et cartographie de l’écosystème.&lt;/p&gt;
-
-&lt;p&gt;Les soirées Open Democracy Now, c’est aussi l’occasion de croiser plein de gens de l’écosystème civic tech (parisien) (enfin, parisien ou national, c’est en gros pareil). Et d’apprendre par exemple, grâce à &lt;a href=&quot;https://fr.okfn.org/&quot;&gt;Open Knowledge France&lt;/a&gt;, qu’il y a déjà eu, ô surprise, un hackathon au Ministère des Affaires Etrangères (par contre, pas encore à la Cour des Comptes, faut pas déconner non plus).&lt;/p&gt;
-
-&lt;h2 id=&quot;fing---journée-transition-2&quot;&gt;Fing - journée Transition 2&lt;/h2&gt;
-
-&lt;p&gt;Je ne m’éterniserai pas, vous pouvez retrouver déjà &lt;a href=&quot;/binary_transition/2017/07/24/transition-carre.html&quot;&gt;dans ce carnet&lt;/a&gt; un long récapitulatif de cette journée sur les croisements entre transition numérique et transition écologique.&lt;/p&gt;
-
-&lt;h2 id=&quot;ouishare-festival&quot;&gt;OuiShare festival&lt;/h2&gt;
-
-&lt;p&gt;Idem pour le Ouishare Fest, qui bénéficie lui aussi d’un bien bon et long résumé &lt;a href=&quot;/binary_transition/2017/07/28/OuiShare.html&quot;&gt;dans ces pages&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;et-sinon-&quot;&gt;Et sinon ?&lt;/h2&gt;
-
-&lt;p&gt;A part l’opération &lt;em&gt;“une provinciale monte à la capitale”&lt;/em&gt; ? De l’étude de maquette et du chiffrage, des avancées dans quelques projets associatifs par chez moi, de chouettes échanges avec l’équipe de &lt;a href=&quot;https://sudweb.fr/2017/&quot;&gt;SudWeb&lt;/a&gt; qui cherche à faire évoluer son événement dans le bon sens, et des vacances en Bretagne (oui, bien sûr, nous avons eu beau temps. Entre autres.)&lt;/p&gt;
-
-&lt;p&gt;Et je reviens gonflée à bloc pour dynamiser mon ici et mon maintenant.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 09 Aug 2017 00:00:00 +0200</pubDate>
-        <link>http://marges.clairezuliani.com/good_job/2017/08/09/solo-plus-7-mois.html</link>
-        <guid isPermaLink="true">http://marges.clairezuliani.com/good_job/2017/08/09/solo-plus-7-mois.html</guid>
-        
-        <category>et moi</category>
         
         
         <category>good_job</category>
