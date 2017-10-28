@@ -34,15 +34,15 @@ Florian me signale notamment deux jolis projets, qui illustrent bien la variét�
 
 Un jour où je constate que mon site personnel, en ruby on rails hébergé sur un compte gratos chez heroku, plante méchamment ; j'en profite pour tout le bazardé et le refaire en jekyll. Voilà, une journée de boulot en adaptant un thème tout fait, un site vachement plus léger avec connexion sécurisée... Je me sens mieux :) Et pour le voir c'est [par là](https://www.clairezuliani.com/).
 
-Aussi, j'en ai profité pour me prendre un petit serveur chez scaleway et me faire une installation de [piwik](https://piwik.org/) pour pouvoir avoir quelques infos sur qui se rend sur mes sites sans devoir faire appel à google. Grâce à ça, j'ai donc la confirmation que personne, pas même ma mère, ne se rend sur mon portfolio.
+Aussi, j'en ai profité pour me prendre un petit serveur chez scaleway et me faire une installation de [piwik](https://piwik.org/) pour pouvoir avoir quelques infos sur qui se rend sur mes sites sans devoir faire appel à google. Grâce à ça, j'ai donc la confirmation que ma mère ne me lit pas (y paraît que c'est trop technique, ce que j'écris..)(oui, c'est vrai, tu as raison maman).
 
-En même temps, je ne sais toujours pas comment vraiment me présenter, et je sens les limites de n'avoir comme identité que celle d'une indépendante en solo, alors que j'ai envie de faire un peu de tout. Doucement, l'envie de me créer une identité d'agence fait son chemin. Un bon moyen pour laisser la porte ouverte à des partenariats à géométrie variable et gagner du crédit auprès de prospects ?
+Ca me fait réfléchir à mon identité professionnelle, à mon "branding", tout ça. Je me rends compte que je ne sais toujours pas vraiment comment me présenter, comment présenter l'éventail de ce que je peux et veux faire. Je sens aussi les limites de n'avoir comme identité que celle d'une indépendante en solo, pas forcément rassurante pour les entreprises. Doucement, l'envie de me créer une identité d'agence fait son chemin. Un bon moyen pour laisser la porte ouverte à des partenariats à géométrie variable et gagner du crédit auprès de prospects ?
 
 
 ## Et niveau boulot ?
 
 On n'oublie pas que c'est le mois d'août et que c'est normal si ça s'affole pas :) Entre discussions qui trainent en longueur pour commencer un projet qui devait initialement sortir à la rentrée ; partenaires d'un projet prévu de longue date à l'automne en vacances, et échanges badins de conseils qui déboucheraient contre toute attente sur un contrat, en août ça frémit tout juste.
 
-Spoiler : on est maintenant mi-septembre, et si j'ai pas réussi à boucler ce récap avant aujourd'hui, c'est bien qu'aujourd'hui, on n'en est plus au stade du frémissement. Ca fait de grosse bulles, ça bouillonne, ça déborde, même ! Je me retrouve accidentellement cet automne à jongler entre 3 projets en parallèle, sans avoir réussi à garder vraiment de jours tampons de respiration (erreur de débutant, on m'y reprendra plus, promis). Cet automne, mon plus gros chantier sera peut-être donc d'accroitre ma capacité de résistance au stress et à la fatigue ?
+Spoiler : on est maintenant mi-septembre, et si je n'ai pas réussi à boucler ce récap avant aujourd'hui, c'est bien qu'à présnet, on n'en est plus au stade du frémissement. Ca fait de grosse bulles, ça bouillonne, ça déborde, même ! Je me retrouve accidentellement cet automne à jongler entre 3 projets en parallèle, sans avoir réussi à garder vraiment de jours tampons de respiration (erreur de débutant, on m'y reprendra plus, promis). Cet automne, mon plus gros chantier sera peut-être donc d'accroitre ma capacité de résistance au stress et à la fatigue ?
 
-Allez, on va dire que ne plus avoir un moment pour soit d'ici 2018, c'est plutôt bon signe ?
+Allez, on va dire que ne plus avoir un moment pour soi d'ici 2018, c'est plutôt bon signe ?
