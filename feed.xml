@@ -5,9 +5,66 @@
     <description>Prise de notes des internets de claire zuliani</description>
     <link>http://marges.clairezuliani.com/</link>
     <atom:link href="http://marges.clairezuliani.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 28 Oct 2017 17:50:02 +0200</pubDate>
-    <lastBuildDate>Sat, 28 Oct 2017 17:50:02 +0200</lastBuildDate>
+    <pubDate>Sun, 19 Nov 2017 22:25:56 +0100</pubDate>
+    <lastBuildDate>Sun, 19 Nov 2017 22:25:56 +0100</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>Je passe trop de temps sur internet - semaine 47</title>
+        <description>&lt;p&gt;Plus d’un mois de pause de la veille, damned. Voici donc le maigre résultat d’une veille sacrément éparse, avec parfois des liens sortis d’outre-tombe.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;h2 id=&quot;les-plateformes-sont-nos-amies&quot;&gt;Les plateformes sont nos amies&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://medium.com/@matti_sg_fr/construire-des-plateformes-num%C3%A9riques-publiques-et-communes-comme-alternative-%C3%A0-l-uberisation-ea4f6163495d&quot;&gt;Construire des plateformes numériques publiques et communes&lt;/a&gt; comme alternative à l’« uberisation »&lt;/strong&gt; : bonne analyse par Matti Schneider de ce qu’implique l’uberisation (mêlant numérisation, intermédiation et plateformisation), qui invite à faire la distinction entre &lt;em&gt;“stratégie de plateforme numérique”&lt;/em&gt; et &lt;em&gt;“comportement de multinationale prédatrice”&lt;/em&gt;, ce dernier  venant &lt;em&gt;“d’une dépendance au capital-risque et à l’exigence de rentabilité à court terme qui en découle.”&lt;/em&gt;. Il invite également(et c’est là la partie la + intéressante), pour contrecarrer la captation prédatrice,  à &lt;em&gt;“créer des plateformes publiques de référencement et soutenir la création de plateformes coopératives d’intermédiation”&lt;/em&gt; (avec quelques idées de plateformes pour inspiration).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;et-dans-10-ans-on-nous-les-gens-du-web-fait-quoi-&quot;&gt;Et dans 10 ans, on (nous les gens du web) fait quoi ?&lt;/h2&gt;
+
+&lt;h3 id=&quot;le-web-de-demain-a-lair-pourri&quot;&gt;Le web de demain a l’air pourri&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://staltz.com/the-web-began-dying-in-2014-heres-how.html&quot;&gt;The web began dying in 2014, here’s how&lt;/a&gt;&lt;/strong&gt; : comment Google, Facebook, Amazon sont en train de tuer internet, en ayant réussi à capter une majeure partie du trafic, et en tendant de plus en plus à n’utiliser les protocoles d’internet que comme moyen de communication direct entre leurs nuages et l’utilisateur (voir les priorités actuelles sur l’intelligence artificielle, la réalité virtuelle, les appareils connectés…). Fin des navigateurs, fin de l’internet comme protocole peer to peer.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;-ou-lair-dêtre-sans-ligne-de-code&quot;&gt;… ou l’air d’être sans ligne de code&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;http://www.internetactu.net/2017/11/08/vers-un-design-de-la-mediation-12-reinventer-la-programmation/&quot;&gt;Vers un design de la médiation (1/2) : réinventer la programmation&lt;/a&gt;&lt;/strong&gt; : après-demain, on arrête de pondre des lignes de code pour penser plutôt en termes de système et modèles, et être en capacité d’appréhender plus de complexité ?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;pour-une-poignée-dux&quot;&gt;Pour une poignée d’UX&lt;/h2&gt;
+
+&lt;h3 id=&quot;tests-hors-cadre-et-plantade&quot;&gt;Tests hors cadre et plantade&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://alistapart.com/article/what-the-failure-of-new-coke-can-teach-us-about-user-research-and-design&quot;&gt;What the Failure of New Coke Can Teach Us About User Research And Design&lt;/a&gt;&lt;/strong&gt; : trois exemples concrets illustrant comment la façon dont sont menés des tests, leur cadre, peut influencer les interviewés et donc les résultats. Et quelques pistes pour éviter que ce soit source d’erreurs.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;lux-cest-de-lévangelisation&quot;&gt;l’UX, c’est de l’évangelisation&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://medium.muz.li/communicating-the-value-of-ux-design-7fcd173e1745&quot;&gt;Communicating the value of UX Design&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;les-dark-patterns-peuvent-se-cacher-là-où-on-ne-les-attends-pas&quot;&gt;Les dark patterns peuvent se cacher là où on ne les attends pas&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://adactio.com/journal/13109&quot;&gt;Hooked and booked &lt;/a&gt;&lt;/strong&gt; : si on ne jauge les résultats de l’A/B testing (faire tester 2 versions d’un site pour déterminer lequel “fonctionne” le mieux) que sur des objectifs de croissance, d’acquisition, de consommation ; alors on ne met pas l’utilisateur au centre de sa démarche ; mais plutôt les objectifs de l’entreprise.&lt;/p&gt;
+
+&lt;h2 id=&quot;et-pour-finir&quot;&gt;Et pour finir&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=8S0FDjFBj8o&quot;&gt;La meilleure des conf’ TedX ?&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 19 Nov 2017 00:00:00 +0100</pubDate>
+        <link>http://marges.clairezuliani.com/good_job/2017/11/19/liens-semaine-47.html</link>
+        <guid isPermaLink="true">http://marges.clairezuliani.com/good_job/2017/11/19/liens-semaine-47.html</guid>
+        
+        <category>hebdomalink</category>
+        
+        
+        <category>good_job</category>
+        
+      </item>
     
       <item>
         <title>A mon compte + 9 mois</title>
@@ -613,87 +670,6 @@ create, evangelize, contribute, maintain&lt;/p&gt;
         <category>ess</category>
         
         <category>design</category>
-        
-        
-        <category>good_job</category>
-        
-      </item>
-    
-      <item>
-        <title>Je passe trop de temps sur internet - semaine 33</title>
-        <description>&lt;p&gt;Deuxième édition de la fort classique veille hebdomadaire.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;h2 id=&quot;elle-ressemble-à-quoi-ton-équipe-web-&quot;&gt;Elle ressemble à quoi, ton équipe web ?&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://medium.com/@djo/obsession-service-client-captain-train-cb0b91467fd9&quot;&gt;L’obsession du service client chez Captain Train&lt;/a&gt;&lt;/strong&gt; &lt;em&gt;(old)&lt;/em&gt; : l’ancien responsable du service client de ce qui s’appelait à l’époque Captain Train raconte comment ça se passait, et il y a plein d’éléments qui me parlent :
-    &lt;ul&gt;
-      &lt;li&gt;parler à ses clients comme à des humains,&lt;/li&gt;
-      &lt;li&gt;faire en sorte que tous les employés soient à un moment en contact direct avec le client, et puissent réagir directement à un retour (réactivité + responsabilisation),&lt;/li&gt;
-      &lt;li&gt;automatiser toutes les tâches pour lesquelles un humain n’apporte aucune valeur, pour que l’humain ait plus de place là où il est vraiment important.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://www.courrierinternational.com/article/travail-des-equipes-ephemeres-nouvelle-evolution-de-leconomie-des-petits-boulots&quot;&gt;Des équipes éphémères, nouvelle évolution de l’“économie des petits boulots”&lt;/a&gt;&lt;/strong&gt; : Courrier international parle de forme d’organisation émergente, à la suite de projets comme  &lt;a href=&quot;https://gigster.com/&quot;&gt;gigster&lt;/a&gt;, plateforme créée en 2014 qui met en relation des indépendants pour constituer des équipes et concevoir des logiciels. Avec les algo au pilotage de la constitution des équipes, et la promesse du retour en grâce es cadres moyens, reconvertis en chefs de projet. Il va évidemment sans dire que c’est pas gagné pour la protection sociale, par contre. (thx Sylvain de Happy Dev pour la découverte)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;http://naildrivin5.com/blog/2017/07/17/four-reasons-why-developers-are-unproductive.html&quot;&gt;Four Reasons Developers are Unproductive&lt;/a&gt;&lt;/strong&gt; : incompétence, manque d’organisation, la “sur-conception” (over-engineering), ou ne pas résoudre le bon problème, tels sont des causes récurrentes à la non-productivité d’un designer. Même si je n’aime pas le terme productivité, à l’utilisation parfois dangereuse, je dois dire que je me pose pas mal en ce moment la question de mon efficacité. Il y a dans l’article quelques concepts chouette pour réfléchir la question : plans &lt;em&gt;thin slice&lt;/em&gt; (build a simplistic happy path end-to-end and iterate on that handling edge cases) et &lt;em&gt;outside in&lt;/em&gt; (building out the majority of the UI first, and then iterate on making it real), la “&lt;a href=&quot;http://pragmati.st/2013/07/19/build-it-twice/&quot;&gt;Règle de 3&lt;/a&gt;”&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Turning a mundane problem into a more interesting one is a hard urge to fight, and that urge does not go away with more experience.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;transformation-sociale&quot;&gt;Transformation sociale&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.thenation.com/article/to-find-alternatives-to-capitalism-think-small/&quot;&gt;To Find Alternatives to Capitalism, Think Small&lt;/a&gt;&lt;/strong&gt; : long article avec plein d’exemples de nouveaux types d’économie (relocalisation, agriculture urbaine, coopératives plateformes, “SLOC: small and local, but open and connected”)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://medium.com/@pollicy/dear-civic-technologists-lets-build-with-not-for-bbead12361ad&quot;&gt;Where’s the ‘Civic’ in CivicTech?&lt;/a&gt;&lt;/strong&gt; : un appel à prendre en compte la communauté dans la production d’outils civic tech, à construire “avec” et non “pour”. Evident, mais ça mange aps de pain de le rappeler.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;To be used for social good, a product needs to be directed, and for its greatest, most transformative impact, it needs to be directed by those who will benefit the most from the creation of the social good that being the community.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;données&quot;&gt;Données&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;http://barregi.com/airbnbmaps&quot;&gt;City maps from tourists’ feelings&lt;/a&gt;&lt;/strong&gt; : oublié de l’inclure la semaine dernière… J’adore ces croisements, et ce que les traces laissées sur des applications révèlent de notre appréhension du monde.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;dans-la-boîte-à-outil-de-louvrier-du-web&quot;&gt;Dans la boîte à outil de l’ouvrier du web&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.producthunt.com/@erwblo/collections/open-source-alternatives-for-everything&quot;&gt;Open Source Alternatives for Everything&lt;/a&gt;&lt;/strong&gt; : une liste d’alternativessur Product Hunt ! Et je ne connaissais pas tout. Encore tellement d’alternatives à creuser…&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://fontstorage.com&quot;&gt;Fontstorage&lt;/a&gt;&lt;/strong&gt; : un endroit où trouver , filtrer, tester plein plein - bien plus que chez google fonts - de webfonts.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;coopératives&quot;&gt;Coopératives&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://social.coop/about&quot;&gt;social.coop&lt;/a&gt;&lt;/strong&gt; : une instance mastodon sous forme de coopérative (avec utilisation de &lt;a href=&quot;https://www.loomio.org/g/ibncxoDR&quot;&gt;Loomio&lt;/a&gt; et de &lt;a href=&quot;https://opencollective.com/socialcoop&quot;&gt;OpenCollective&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Mon, 21 Aug 2017 00:00:00 +0200</pubDate>
-        <link>http://marges.clairezuliani.com/good_job/2017/08/21/liens-semaine-33.html</link>
-        <guid isPermaLink="true">http://marges.clairezuliani.com/good_job/2017/08/21/liens-semaine-33.html</guid>
-        
-        <category>hebdomalink</category>
-        
-        <category>cooperative</category>
-        
-        <category>toolkit</category>
-        
-        <category>freelancing</category>
         
         
         <category>good_job</category>

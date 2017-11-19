@@ -1,6 +1,16 @@
 [
   
     {
+      "title"    : "Je passe trop de temps sur internet - semaine 47",
+      "content"  : "Plus d’un mois de pause de la veille, damned. Voici donc le maigre résultat d’une veille sacrément éparse, avec parfois des liens sortis d’outre-tombe.Les plateformes sont nos amies  Construire des plateformes numériques publiques et communes comme alternative à l’« uberisation » : bonne analyse par Matti Schneider de ce qu’implique l’uberisation (mêlant numérisation, intermédiation et plateformisation), qui invite à faire la distinction entre “stratégie de plateforme numérique” et “comportement de multinationale prédatrice”, ce dernier  venant “d’une dépendance au capital-risque et à l’exigence de rentabilité à court terme qui en découle.”. Il invite également(et c’est là la partie la + intéressante), pour contrecarrer la captation prédatrice,  à “créer des plateformes publiques de référencement et soutenir la création de plateformes coopératives d’intermédiation” (avec quelques idées de plateformes pour inspiration).Et dans 10 ans, on (nous les gens du web) fait quoi ?Le web de demain a l’air pourri  The web began dying in 2014, here’s how : comment Google, Facebook, Amazon sont en train de tuer internet, en ayant réussi à capter une majeure partie du trafic, et en tendant de plus en plus à n’utiliser les protocoles d’internet que comme moyen de communication direct entre leurs nuages et l’utilisateur (voir les priorités actuelles sur l’intelligence artificielle, la réalité virtuelle, les appareils connectés…). Fin des navigateurs, fin de l’internet comme protocole peer to peer.… ou l’air d’être sans ligne de code  Vers un design de la médiation (1/2) : réinventer la programmation : après-demain, on arrête de pondre des lignes de code pour penser plutôt en termes de système et modèles, et être en capacité d’appréhender plus de complexité ?Pour une poignée d’UXTests hors cadre et plantade  What the Failure of New Coke Can Teach Us About User Research And Design : trois exemples concrets illustrant comment la façon dont sont menés des tests, leur cadre, peut influencer les interviewés et donc les résultats. Et quelques pistes pour éviter que ce soit source d’erreurs.l’UX, c’est de l’évangelisationCommunicating the value of UX DesignLes dark patterns peuvent se cacher là où on ne les attends pasHooked and booked  : si on ne jauge les résultats de l’A/B testing (faire tester 2 versions d’un site pour déterminer lequel “fonctionne” le mieux) que sur des objectifs de croissance, d’acquisition, de consommation ; alors on ne met pas l’utilisateur au centre de sa démarche ; mais plutôt les objectifs de l’entreprise.Et pour finirLa meilleure des conf’ TedX ?",
+      "tags"     : "hebdomalink",
+      "category" : "good_job",
+      "url"      : "/good_job/2017/11/19/liens-semaine-47.html",
+      "type"     : "Dépêche",
+      "date"     : "19/11/2017"
+    } ,
+  
+    {
       "title"    : "A mon compte + 9 mois",
       "content"  : "Simili journal de bord simili mensuel épisode 9. Ce mois de septembre était…inexistant (c’est le seul terme qui me vienne quand je découvre, fin octobre, que j’ai tout simplement oublié de faire un récap du mois de septembre, trop occupée que j’étais à survivre dans un tunnel).Alors il s’est passé quoi en septembre ? C’est loin, et je n’avais laissé que quelques notes préparatoires laconiques.. Essayons de reconstituer.Des bouchons dans un tunnelJe l’annonçais dans le récap’ mensuel précédent, j’entame une longue phase de tunnel où je jongle entre plusieurs projets en même temps.D’un côté, je reprends un projet déjà existant, dont le développeur historique est parti ailleurs. Le projet me parle particulièrement : revalorisation d’un territoire par ses habitants, avec un vrai soucis de développement durable et local. Le projet s’appelle Clic Clac Vac, c’est encore en cours (avec plein d’apprentissages et de surprise), je vous en reparlerai sûrement.D’un autre côté, j’entame la création d’une place de marché non monétaire pour entreprises, en tant que développeuse back, au sein d’une équipe que je ne connais pas à la base. Là aussi, l’expérience est en cours et déjà riche d’enseignements.D’un troisième côté (il s’agit donc d’un triangle), j’entame un nouveau projet avec l’association complice Mirador, avec laquelle j’ai déjà collaboré (La fabrique du monde, c’était avec eux). Cette fois, il s’agit d’une plateforme de mise en relation, autour d’activités, entre personnes de culture française et personnes de culture étrangère, afin notamment de rompre la solitude de ces derniers. En septembre, nous sommes en pleine phase de recherche afin d’actualiser le cahier des charges initial : entretiens avec des habitants d’Epinal de longue date, avec des personnes étrangères installées depuis quelques années, avec des professionnels de l’accompagnement de primo-arrivants ; préparation d’une semaine de résidence participative avec un groupe de futurs utilisateurs… Le projet s’annonce passionnant.L’associatif en perte sèchePleine d’optimisme, j’avais commencé dans l’été ou promis à différentes structures de filer un coup de main dans la mise en place de leurs sites web. Une radio associative à Strasbourg, le projet de café associatif auquel je participe, un site sur la thématiques des plateformes et des communs pour la Coop des Communs… En partant de thèmes tout fait en jekyll, le générateur de sites statiques, c’était l’affaire de quelques heures.Sauf que ce n’est jamais le cas. Les besoins sont finalement plus nombreux et spécifiques, il faut parfois intégrer dedans des solutions tierces un peu obscures, on commet quelques erreurs qui font perdre du temps…J’ai été amenée en cette rentrée à mettre en sommeil bon nombre de mes engagements et de mes projets associatifs en cours. Un crève-coeur, et encore désolée pour les projets temporairement laissés sur le carreau. Je me rattraperai, promis.Et dans les intersticesDans les interstices, j’ai commencé la trompette. Et c’est chouette (sauf pour les voisins).",
       "tags"     : "et moi",
@@ -829,7 +839,7 @@
       "category" : "sustainable_code",
       "url"      : "/cheat-sheet-ruby",
       "type"     : "Dossier",
-      "date"     : "26/09/2017"
+      "date"     : "28/10/2017"
     } ,
   
     {
@@ -839,7 +849,7 @@
       "category" : "good_job",
       "url"      : "/ess",
       "type"     : "Dossier",
-      "date"     : "26/09/2017"
+      "date"     : "28/10/2017"
     } ,
   
     {
@@ -849,7 +859,7 @@
       "category" : "good_job",
       "url"      : "/faire-ensemble",
       "type"     : "Dossier",
-      "date"     : "28/09/2017"
+      "date"     : "28/10/2017"
     } ,
   
     {
@@ -859,7 +869,7 @@
       "category" : "binary_transition",
       "url"      : "/initiatives-cool",
       "type"     : "Dossier",
-      "date"     : "26/09/2017"
+      "date"     : "28/10/2017"
     } ,
   
     {
@@ -869,7 +879,7 @@
       "category" : "binary_transition",
       "url"      : "/inspirations-graphiques",
       "type"     : "Dossier",
-      "date"     : "26/09/2017"
+      "date"     : "28/10/2017"
     } ,
   
     {
@@ -879,7 +889,7 @@
       "category" : "sustainable_code",
       "url"      : "/jamstack",
       "type"     : "Dossier",
-      "date"     : "26/09/2017"
+      "date"     : "28/10/2017"
     } ,
   
     {
@@ -889,7 +899,7 @@
       "category" : "binary_transition",
       "url"      : "/cartographie-du-bas",
       "type"     : "Dossier",
-      "date"     : "26/09/2017"
+      "date"     : "28/10/2017"
     } ,
   
     {
@@ -899,17 +909,17 @@
       "category" : "sustainable_code",
       "url"      : "/studies/to-read-list/",
       "type"     : "Dossier",
-      "date"     : "26/09/2017"
+      "date"     : "28/10/2017"
     } ,
   
     {
       "title"    : "Toolkit",
-      "content"  : "Comment bien commencer un projet ? Quelques outils déjà utilisés ou à tester, pour aller plus vite.  Général          Listes      Alternatives        Design          Listes de ressources      Checklist      Prototypage / Wireframe / Mockups      Couleurs      Templates      Photos / illustrations      Retoucher vite fait une image      Trouver l’inspiration                  Plutôt web          Plutot élément web (UI)          Plutôt typo                      Code          Good practices                  Javascript          Accessibilité                    Boilerplates      Lib        DevOps          Performance      Hébergement      Sys Admin        Bureautique - everyday soft          Mail anonyme / secure      Gestion de docs      Sauvegarde / Partage de docs      Messagerie      Gif (dans un but pro, bien sûr)        Collaboration / productivité  Administratif          Licence, open source      CRM      GénéralListes  Awesome : Curated list of awesome lists  Awesome awesomess  Repos les + likés sur githubAlternatives  IndiewebDesignListes de ressources  Sans Francis.co : A collection of tools to help designers craft delightful experiences.  Awesome Design : Best UI/UX Design Resources For Developer &amp;amp; Designer Ever  75 of the Smartest Resources for Web Designers  Hack Design Toolkit  Resource Cards  Wwwhere.io  uxtools.co : comparison table of available UX tools (design / prototyping)Checklist  Web designer’s checklist app (Le repo github )  Web designer’s checklist  UX Recipe  UX Checklist  IXD Checklist  CSS pro tipsUX  UX Design Methods &amp;amp; DeliverablesPrototypage / Wireframe / Mockups  Little planet app  Pingendo : Dead-simple builder for Bootstrap 4  FigmaCouleurs  Palettable : générations de palettes cohérentes  Coolors : comme palettable, mais plus touffu  Vanschneider, colors : alliance de deux couleurs dans des ptites cartes  Cohesive Colors  Color Supply : “The best color combinations from designers &amp;amp; illustrators around the world.”Templates  HTML5 up  Start Bootstrap  Bootswatch  templated  Creative Tim Repo : bootstrap UI kitsPhotos / illustrations  Unsplash  Pexels  Freepik : du vectorial libre  Banque Image Archive via GrapheineRetoucher vite fait une image  pixlr  photopea : quick webapp picture editorFont  FontstorageDivers (le fameux fourre-tout)  Lists : A gallery of real data ready to be placed in your design. Kind of like an App Store for fake content. (json files downloadable)Trouver l’inspirationPlutôt web  Awwwards  CodPen.io  Webdesign Inspiration  site inspire  unmatched stylePlutot élément web (UI)  UI Patterns : User Interface Design patterns library  Good UI : 75 GoodUI ideas  UX design - Ui in : annuaire  Zurb Patterntap  Checkout Pages : curated directory of checkout pages (existe aussi pour pricing pages, product pages, store pages)  UI DB : A collection of specific UI and design examples.Plutôt typo  Discover Typography  TypeWolfCodeGood practicesJavascript  Clean Code JavascriptAccessibilité- [Tools for Developing Accessible Websites](https://bitsofco.de/tools-for-developing-accessible-websites/)- [The Accessibility Cheatsheet](https://bitsofco.de/the-accessibility-cheatsheet/)Boilerplates  Megaboilerplate  Holy JS  Node.js hackathon starterLib  Accelerated Mobile Pages (AMP) Project : Fast and responsive custom elements as part of a larger spec to build content pages easily.  Packery : Gapless, draggable grid layouts  Simple Sharing Buttons Generator : Create light-weight, mobile-friendly sharing buttons for Facebook, Twitter, Google+ and other social networks – it’s all completely free!  flatpickr : lightweight and powerful datetimepicker with no dependenciesDevOpsPerformance  Perftool : Collect information about your website and display it in an easy-to-digest manner.Hébergement  www.000webhost.com  yunohost  unhosted  Netlib : Netlib.re vous donne un nom de domaine, gratuitement et simplement“Voici les deux hébergements à prix libres sérieux que je connais/propose:”  http://www.toile-libre.org/1  https://www.tuxfamily.org/Sys Admin  SysAdmin toolbox (github)  Security guide for developers (github)Bureautique - everyday softPackageSolutions intégrant à minima mail (configurable avec nom de domaine), agenda, contact.  Infomaniak : suisses (base : 18€/an, pro : 90€/an)  indiehostersMail anonyme / secure  spamgourmet  mailinator  Zaclys : “comme openmailbox mais mieux” (basé sur Roundcube)  protonmail  Gérer soi-même son mailGestion de docs  seafile  owncloud  nextcloud (fork de owncloud)  pyd.ioSauvegarde / Partage de docs  Tresorit : moins de 1 To  Arq : gros stockage crypté en cloud, 50$  Wallabag (comme pocket)Messagerie  Signal  RicochetGif (dans un but pro, bien sûr)  Peek - an animated GIF recorderCollaboration / productivité  Project Groupie : ProjectGroupie is a place to find awesome software projects to join and collaborate. Create your own project and find skilled like-minded individuals to help bring your idea to life.  Remote Starter KitAdministratif  Contrats Français : Exemples de Conditions générales d’achat, de vente, de développement d’application web, de scénario utilisateursLicence, open source  Open source template : A README template to encourage open-source contributions  Open Source GuideCRMhttps://www.open-dsi.fr/crm-open-source-gratuit-entreprises-open-dsi/  CiviCRM  CremeCRM  Odoo  Dolibarr  VTiger",
+      "content"  : "Comment bien commencer un projet ? Quelques outils déjà utilisés ou à tester, pour aller plus vite.  Général          Listes      Alternatives        Design          Listes de ressources      Checklist      Prototypage / Wireframe / Mockups      Couleurs      Templates      Photos / illustrations      Retoucher vite fait une image      Trouver l’inspiration                  Plutôt web          Plutot élément web (UI)          Plutôt typo                      Code          Good practices                  Javascript          Accessibilité                    Boilerplates      Lib        DevOps          Performance      Hébergement      Sys Admin        Bureautique - everyday soft          Mail anonyme / secure      Gestion de docs      Sauvegarde / Partage de docs      Messagerie      Gif (dans un but pro, bien sûr)        Collaboration / productivité  Administratif          Licence, open source      CRM      GénéralListes  Awesome : Curated list of awesome lists  Awesome awesomess  Repos les + likés sur githubAlternatives  IndiewebDesignListes de ressources  Sans Francis.co : A collection of tools to help designers craft delightful experiences.  Awesome Design : Best UI/UX Design Resources For Developer &amp;amp; Designer Ever  75 of the Smartest Resources for Web Designers  Hack Design Toolkit  Resource Cards  Wwwhere.io  uxtools.co : comparison table of available UX tools (design / prototyping)Checklist  Web designer’s checklist app (Le repo github )  Web designer’s checklist  UX Recipe  UX Checklist  IXD Checklist  CSS pro tipsUX  UX Design Methods &amp;amp; DeliverablesPrototypage / Wireframe / Mockups  Little planet app  Pingendo : Dead-simple builder for Bootstrap 4  FigmaCouleurs  Palettable : générations de palettes cohérentes  Coolors : comme palettable, mais plus touffu  Vanschneider, colors : alliance de deux couleurs dans des ptites cartes  Cohesive Colors  Color Supply : “The best color combinations from designers &amp;amp; illustrators around the world.”Templates  HTML5 up  Start Bootstrap  Bootswatch  templated  Creative Tim Repo : bootstrap UI kitsPhotos / illustrations  Unsplash  Pexels  Freepik : du vectorial libre  Banque Image Archive via GrapheineRetoucher vite fait une image  pixlr  photopea : quick webapp picture editorFont  FontstorageDivers (le fameux fourre-tout)  Lists : A gallery of real data ready to be placed in your design. Kind of like an App Store for fake content. (json files downloadable)Trouver l’inspirationPlutôt web  Awwwards  CodPen.io  Webdesign Inspiration  site inspire  unmatched stylePlutot élément web (UI)  UI Patterns : User Interface Design patterns library  Good UI : 75 GoodUI ideas  UX design - Ui in : annuaire  Zurb Patterntap  Checkout Pages : curated directory of checkout pages (existe aussi pour pricing pages, product pages, store pages)  UI DB : A collection of specific UI and design examples.Plutôt typo  Discover Typography  TypeWolfCodeGood practicesJavascript  Clean Code JavascriptAccessibilité- [Tools for Developing Accessible Websites](https://bitsofco.de/tools-for-developing-accessible-websites/)- [The Accessibility Cheatsheet](https://bitsofco.de/the-accessibility-cheatsheet/)Boilerplates  Megaboilerplate  Holy JS  Node.js hackathon starterLib  Accelerated Mobile Pages (AMP) Project : Fast and responsive custom elements as part of a larger spec to build content pages easily.  Packery : Gapless, draggable grid layouts  Simple Sharing Buttons Generator : Create light-weight, mobile-friendly sharing buttons for Facebook, Twitter, Google+ and other social networks – it’s all completely free!  flatpickr : lightweight and powerful datetimepicker with no dependenciesDevOpsPerformance  Perftool : Collect information about your website and display it in an easy-to-digest manner.Hébergement  www.000webhost.com  yunohost  unhosted  Netlib : Netlib.re vous donne un nom de domaine, gratuitement et simplement“Voici les deux hébergements à prix libres sérieux que je connais/propose:”  http://www.toile-libre.org/1  https://www.tuxfamily.org/Sys Admin  SysAdmin toolbox (github)  Security guide for developers (github)Bureautique - everyday softPackageSolutions intégrant à minima mail (configurable avec nom de domaine), agenda, contact.  Infomaniak : suisses (base : 18€/an, pro : 90€/an)  indiehosters  cozycloudMail anonyme / secure  spamgourmet  mailinator  Zaclys : “comme openmailbox mais mieux” (basé sur Roundcube)  protonmail  Gérer soi-même son mailGestion de docs  seafile  owncloud  nextcloud (fork de owncloud)  pyd.ioavec édition collaborative :  collaboraoffice  onlyoffice  cloudronSauvegarde / Partage de docs  Tresorit : moins de 1 To  Arq : gros stockage crypté en cloud, 50$  Wallabag (comme pocket)Messagerie  Signal  RicochetGif (dans un but pro, bien sûr)  Peek - an animated GIF recorderCollaboration / productivité  Project Groupie : ProjectGroupie is a place to find awesome software projects to join and collaborate. Create your own project and find skilled like-minded individuals to help bring your idea to life.  Remote Starter KitAdministratif  Contrats Français : Exemples de Conditions générales d’achat, de vente, de développement d’application web, de scénario utilisateursLicence, open source  Open source template : A README template to encourage open-source contributions  Open Source GuideCRMhttps://www.open-dsi.fr/crm-open-source-gratuit-entreprises-open-dsi/  CiviCRM  CremeCRM  Odoo  Dolibarr  VTiger",
       "tags"     : "hackathon, color, design, toolkit",
       "category" : "sustainable_code",
       "url"      : "/toolkits",
       "type"     : "Dossier",
-      "date"     : "26/09/2017"
+      "date"     : "01/11/2017"
     } ,
   
     {
@@ -919,7 +929,7 @@
       "category" : "good_job",
       "url"      : "/notions-juridiques-libre-open-source",
       "type"     : "Dossier",
-      "date"     : "26/09/2017"
+      "date"     : "28/10/2017"
     } ,
   
     {
@@ -929,7 +939,7 @@
       "category" : "binary_transition",
       "url"      : "/tech-changement-social-open-source",
       "type"     : "Dossier",
-      "date"     : "26/09/2017"
+      "date"     : "28/10/2017"
     } 
   
 ]
