@@ -5,8 +5,8 @@
     <description>Prise de notes des internets de claire zuliani</description>
     <link>http://marges.clairezuliani.com/</link>
     <atom:link href="http://marges.clairezuliani.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 19 Nov 2017 22:25:56 +0100</pubDate>
-    <lastBuildDate>Sun, 19 Nov 2017 22:25:56 +0100</lastBuildDate>
+    <pubDate>Sun, 19 Nov 2017 22:40:17 +0100</pubDate>
+    <lastBuildDate>Sun, 19 Nov 2017 22:40:17 +0100</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -60,6 +60,10 @@
         <guid isPermaLink="true">http://marges.clairezuliani.com/good_job/2017/11/19/liens-semaine-47.html</guid>
         
         <category>hebdomalink</category>
+        
+        <category>ui/ux</category>
+        
+        <category>plateformes</category>
         
         
         <category>good_job</category>
