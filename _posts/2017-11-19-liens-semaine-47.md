@@ -2,7 +2,7 @@
 layout: post
 title: Je passe trop de temps sur internet - semaine 47
 category: good_job
-tags: [hebdomalink]
+tags: [hebdomalink, ui/ux, plateformes]
 
 ---
 

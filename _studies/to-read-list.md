@@ -10,23 +10,27 @@ Des trucs à lire/voir quand je serai à la retraite (ou que je prendrai un mome
 
 <!--more-->
 
-<!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-- [A lire](#a-lire)
-	- [Feel good reads](#feel-good-reads)
-	- [Design](#design)
-	- [Javascript](#javascript)
-	- [Code / design social](#code-design-social)
-	- [Open source](#open-source)
-	- [Activisme](#activisme)
-	- [A son compte](#a-son-compte)
-- [A voir](#a-voir)
-	- [Chaînes youtubes](#chanes-youtubes)
+	- [A lire](#a-lire)
+		- [Feel good reads](#feel-good-reads)
+		- [Design](#design)
+		- [Programmation](#programmation)
+		- [Javascript](#javascript)
+		- [Code / design social](#code-design-social)
+		- [Open source](#open-source)
+		- [Activisme](#activisme)
+		- [A son compte](#a-son-compte)
+		- [Listes](#listes)
+	- [A voir](#a-voir)
+		- [Code](#code)
+		- [Documentaires](#documentaires)
+		- [Chaînes youtubes](#chanes-youtubes)
+		- [Feel good watch](#feel-good-watch)
 
 <!-- /TOC -->
 
 ## A lire
-
 
 ### Feel good reads
 
@@ -73,6 +77,10 @@ POUR UNE ÉCOLOGIE DES PRATIQUES COLLECTIVES (version en ligne)
 <!-- http://livre.fnac.com/a9180576/Scott-Stossel-Anxiete -->
 
 - Gloria Steinem, « Revolution from Within. A Book of Self-Esteem »
+
+### Listes
+
+- [8 livres qui m’ont beaucoup marqué](https://medium.com/nouvelle-ecole/8-livres-qui-mont-beaucoup-marqu%C3%A9-c13ca2133aab)
 
 
 ## A voir
