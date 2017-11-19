@@ -213,6 +213,9 @@ Solutions intégrant à minima mail (configurable avec nom de domaine), agenda, 
 
 - [Infomaniak](https://www.infomaniak.com) : suisses (base : 18€/an, pro : 90€/an)
 - [indiehosters]()
+- [cozycloud]()
+
+
 
 ### Mail anonyme / secure
 
@@ -228,6 +231,12 @@ Solutions intégrant à minima mail (configurable avec nom de domaine), agenda, 
 - owncloud
 - nextcloud (fork de owncloud)
 - [pyd.io](https://pydio.com/)
+
+avec édition collaborative :
+
+- [collaboraoffice](https://www.collaboraoffice.com/)
+- [onlyoffice](https://www.onlyoffice.com)
+- [cloudron](https://cloudron.io/)
 
 ### Sauvegarde / Partage de docs
 
