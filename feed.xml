@@ -5,9 +5,59 @@
     <description>Prise de notes des internets de claire zuliani</description>
     <link>http://marges.clairezuliani.com/</link>
     <atom:link href="http://marges.clairezuliani.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 19 Nov 2017 22:40:17 +0100</pubDate>
-    <lastBuildDate>Sun, 19 Nov 2017 22:40:17 +0100</lastBuildDate>
+    <pubDate>Sun, 10 Dec 2017 16:28:47 +0100</pubDate>
+    <lastBuildDate>Sun, 10 Dec 2017 16:28:47 +0100</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>A mon compte + 11 mois</title>
+        <description>&lt;p&gt;Simili journal de bord simili mensuel épisode 11. Ce mois de novembre était tout dans la continuité d’octobre, le résumé devrait en être tout aussi rapide.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;J’ai réussi à mettre sur pause l’un des 3 projets entre lesquels je jongle et c’est déjà un vrai soulagement cognitif. Je peux donc entièrement me consacré à deux projets bien gourmands.&lt;/p&gt;
+
+&lt;p&gt;Deux virées à Nancy pour parler DevOps, place du libre dans les collectivités (où je revois Virgile d’&lt;a href=&quot;http://www.opensourcepolitics.eu/&quot;&gt;Open Source Politics&lt;/a&gt; et rencontre &lt;a href=&quot;https://twitter.com/AnneGaelC&quot;&gt;Anne Gael&lt;/a&gt;, chouette moment), lancement d’un réseau orienté économie collaborative dans le Grand Est…&lt;/p&gt;
+
+&lt;p&gt;Et c’est un peu tout ce que je fais du mois à côté du travail (d’autant que là j’ai plein d’articles à la bourre à lire et un programme d’atelier autour des outils de la coopération à fignoler).&lt;/p&gt;
+
+&lt;p&gt;Zou !&lt;/p&gt;
+</description>
+        <pubDate>Sat, 09 Dec 2017 00:00:00 +0100</pubDate>
+        <link>http://marges.clairezuliani.com/good_job/2017/12/09/solo-plus-11-mois.html</link>
+        <guid isPermaLink="true">http://marges.clairezuliani.com/good_job/2017/12/09/solo-plus-11-mois.html</guid>
+        
+        <category>et moi</category>
+        
+        
+        <category>good_job</category>
+        
+      </item>
+    
+      <item>
+        <title>A mon compte + 10 mois</title>
+        <description>&lt;p&gt;Simili journal de bord simili mensuel épisode 10. Ce mois d’octobre était encore plus inexistant que le précédent, vu que c’est déjà l’heure de faire celui du mois suivant. Je compulse les pages passés de mon agenda et vous fais un résumé rapide.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;L’événement marquant, c’est probablement le lancement concret d’un nouveau projet avec l’association &lt;a href=&quot;http://www.project-mirador.org/&quot;&gt;Mirador&lt;/a&gt;. Je mets en oeuvre, enfin, des méthodologies qu’il me tenait à coeur d’expérimenter, lors d’une semaine de résidence auprès des premiers concernés. Je reste encore un peu mystérieuse pour le moment mais un article sur certains aspects de l’expérience ne devrait pas tarder à pointer le bout de son nez sur &lt;a href=&quot;http://24joursdeweb.fr/&quot;&gt;24 jours de web&lt;/a&gt; (merci à eux de m’avoir laissé une case !). Au passage, faites donc un tour sur ce calendrier, y’a plein d’articles chouettes (mais ça s’adresse plutôt aux gens de la profession, j’avoue).&lt;/p&gt;
+
+&lt;p&gt;En octobre, j’apprends la dure vie de freelance. Les estimations mauvaises dans des contextes complexes et intenables, les négociations sincères et droit dans ses bottes avec des clients… Des moments un peu stressants mais qui finissent bien (contente !), merci à tous ceux qui m’ont conseillée et accompagnée là-dedans !&lt;/p&gt;
+
+&lt;p&gt;Je me suis quand même permise une rapide virée parisienne en début de mois. Les ateliers de Paris Web furent un excellent prétexte pour rencontrer de nouveaux gens chouettes, revoir les copains de &lt;a href=&quot;https://dtc-innovation.org/&quot;&gt;dtc innovation&lt;/a&gt;, faire coucou aux collègues d’&lt;a href=&quot;http://happy-dev.fr/&quot;&gt;Happy Dev&lt;/a&gt;…&lt;/p&gt;
+
+&lt;p&gt;A côté de ça, je continue la trompette, et fantasme sur tout ce que j’aurai le temps de faire en 2018 (croisement de doigts).&lt;/p&gt;
+</description>
+        <pubDate>Fri, 08 Dec 2017 00:00:00 +0100</pubDate>
+        <link>http://marges.clairezuliani.com/good_job/2017/12/08/solo-plus-10-mois.html</link>
+        <guid isPermaLink="true">http://marges.clairezuliani.com/good_job/2017/12/08/solo-plus-10-mois.html</guid>
+        
+        <category>et moi</category>
+        
+        
+        <category>good_job</category>
+        
+      </item>
     
       <item>
         <title>Je passe trop de temps sur internet - semaine 47</title>
@@ -504,179 +554,6 @@ create, evangelize, contribute, maintain&lt;/p&gt;
         
         
         <category>binary_transition</category>
-        
-      </item>
-    
-      <item>
-        <title>Je passe trop de temps sur internet - semaine 35</title>
-        <description>&lt;p&gt;Une nouvelle veille hebdo, que je ne sais jamais trop comment intriduire. C’est la veille de la semaine, quoi.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;h2 id=&quot;data&quot;&gt;Data&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www-franceculture-fr.cdn.ampproject.org/c/s/www.franceculture.fr/amp/geographie/cinq-idees-recues-sur-la-france-battues-en-breche-par-les-cartes&quot;&gt;Cinq idées reçues sur la France&lt;/a&gt;  battues en brèche par les cartes&lt;/strong&gt;, France culture : déserts médicaux, pauvreté, redistribution, crèches, prix du sol. Cinq cartes avec des modes de représentation différents&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://quickdraw.withgoogle.com/data&quot;&gt;Quick, draw! The Data&lt;/a&gt;&lt;/strong&gt; : je déteste que google nous fasse bosser pour lui, mais je suis quand même souvent intéressée par les résultats. Grâce à un &lt;a href=&quot;https://twitter.com/kcimc/status/902229612666658816&quot;&gt;fil twitter&lt;/a&gt; (hyper intéressant), je découvre donc la compilation, qui date probablement déjà, de la quintessence des dessins réalisés par des humains et collectés pour le projet Quick, Draw!&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;ux--design&quot;&gt;UX &amp;amp; Design&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://uxdesign.cc/how-to-present-wireframes-to-clients-a5c2824d577b&quot;&gt;How to Present Wireframes to Clients&lt;/a&gt;&lt;/strong&gt;, uxdesign.cc : en parallèle de la présentation de maquettes, présenter des exemples du design envisagé de certaines briques sur des sites existants, pour permettre au client de mieux visualiser ce qu’on a un tête.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Le nouveau site de &lt;a href=&quot;https://www.balenciaga.com/fr/&quot;&gt;balenciaga&lt;/a&gt;&lt;/strong&gt; : hyper minimaliste, avec un chargement très rapide (jusqu’à ce qu’on arrive aux pages avec photos). Je crois que ça me fait du bien, ce côté strict minimum radical.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://uxplanet.org/how-to-choose-a-user-research-method-985112051d84&quot;&gt;How to choose a user research method&lt;/a&gt;&lt;/strong&gt;, uxplanet.org : alors que je commence un projet où la bonne connaissance des utilisateurs est assez cruciale, un bon article qui répertorie nombre de techniques et leurs cas d’usage.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;ethique--vie-privée&quot;&gt;Ethique &amp;amp; Vie privée&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.reuters.com/article/us-volkswagen-emissions-sentencing-idUSKCN1B51YP&quot;&gt;VW engineer sentenced to 40-month prison term in diesel case&lt;/a&gt;&lt;/strong&gt;, Reuters : on peut aller en taule pour du code dégueulasse qu’on nous a demandé de pondre. Ca y est, la responsabilité des développeurs est engagée. Aujourd’hui plus que jamais, s’il vous fallait encore des raisons, refusez ce qu’on vous demande qui sorte des lignes.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://www.numerama.com/politique/282934-enquete-comment-les-apps-figaro-lequipe-ou-closer-participent-au-pistage-de-10-millions-de-francais.html&quot;&gt;Enquête&lt;/a&gt;, comment les apps Figaro, L’Équipe ou Closer participent au pistage de 10 millions de Français&lt;/strong&gt;, Numerama : article en profondeur éclairant sur les pratiques borderlines de certaines sociétés et sur leur encadrement (ou non) juridique.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.kinggafa.com/&quot;&gt;King GAFA and the Magical 0-1 Crop&lt;/a&gt;&lt;/strong&gt; : un joli conte animé de vidéo et riche en ressources pour apprendre à devenir un chevalier de la vie privée et lutter contre le roi GAFA (en anglais).&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;discrimination--tech&quot;&gt;Discrimination &amp;amp; tech&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://usbeketrica.com/article/elles-inventent-un-co-fondateur-homme-pour-leur-start-up-et-c-est-le-jour-et-la-nuit&quot;&gt;Elles inventent un co-fondateur homme  »&lt;/a&gt; pour leur start-up, et c’est « le jour et la nuit&lt;/strong&gt;, Usbek et Rika : ahlala, Keith, ce bon vieil ami imaginaire qui permet aux femmes de pas être prises pour des marioles… Punaise, il est temps que le secteur mûrisse et qu’on n’ait plus besoin de ça.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;communs&quot;&gt;Communs&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://scinfolex.com/2017/08/31/le-comite-invisible-et-les-communs-pourrons-nous-encore-etre-amis/&quot;&gt;Le Comité invisible et les Communs&lt;/a&gt; : pourrons-nous encore être « amis » ?&lt;/strong&gt;, calimaq : une somme qui étudie les propos des livres du Comité invisible au regard des communs. Un texte engagé, documenté, argumenté, qui paticipe aussi à définir ce que sont et ne sont pas les communs. Précieux.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;et-apprendre-toujours-&quot;&gt;Et apprendre, toujours !&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://learn-anything.xyz/learn-anything&quot;&gt;Learn anything&lt;/a&gt;&lt;/strong&gt; : mindmap géante pour apprendre “n’importe quoi (ou presque) en proposant le meilleur cheminement possible avec des ressources plébiscitées par la communauté.” Merci à Gaëlle de Happy Dev pour l’info !&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Mon, 04 Sep 2017 00:00:00 +0200</pubDate>
-        <link>http://marges.clairezuliani.com/good_job/2017/09/04/liens-semaine-35.html</link>
-        <guid isPermaLink="true">http://marges.clairezuliani.com/good_job/2017/09/04/liens-semaine-35.html</guid>
-        
-        <category>hebdomalink</category>
-        
-        <category>ethique</category>
-        
-        <category>ui/ux</category>
-        
-        <category>communs</category>
-        
-        <category>données</category>
-        
-        
-        <category>good_job</category>
-        
-      </item>
-    
-      <item>
-        <title>Je passe trop de temps sur internet - semaine 34</title>
-        <description>&lt;p&gt;Troisième édition de la fort classique veille hebdomadaire.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;h2 id=&quot;au-croisement-entre-innovation-sociale-et-numérique&quot;&gt;Au croisement entre innovation sociale et numérique&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.theguardian.com/voluntary-sector-network/2017/aug/23/how-charities-can-work-with-tech-companies&quot;&gt;How charities can work with tech companies&lt;/a&gt;&lt;/strong&gt;, The Guardian : un article pratique à destination des dirigeants de “charities” (que j’extrapole au secteur non lucratif en France), leur expliquant comment calculer leur degré de maturité numérique, acquérir les connaissances de base, choisir le bon prestataire, évaluer le coût…&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://www.lemonde.fr/festival/visuel/2017/08/19/ceuxquifont-genevieve-fontaine-la-transformation-sociale-en-theorie-et-en-pratique_5174084_4415198.html&quot;&gt;Geneviève Fontaine&lt;/a&gt;, la transformation sociale en théorie et en pratique&lt;/strong&gt; : portrait de la directrice du Tetris à Grasse, ex- prof d’économie qui a réussit à monter un établissement dédié à la Transition écologique territoriale par la recherche et l’innovation sociale (d’où TETRIS) orienté “communs” et “capabilités”.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;ethique-et-influence-du-numérique&quot;&gt;Ethique et influence du numérique&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;« La disruption rend impossible toute visibilité sur l’avenir » - &lt;a href=&quot;https://rslnmag.fr/cite/disruption-impossible-avenir-entretien-bernard-stiegler&quot;&gt;Entretien avec Bernard Stiegler&lt;/a&gt;&lt;/strong&gt;, RSLN mag : je retombe sur cette interview publiée suite à la parution de “Dans la disruption : Comment ne pas devenir fou ?”. Bernard Stiegler parle de “disruption positive” ou d’économie contributive… Un peu flou sur les moyens, mais toujours d’actualité.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://medium.com/@muneeb/cant-be-evil-bc5ec16c6306&quot;&gt;Can’t be evil&lt;/a&gt;&lt;/strong&gt;, par Munneb Ali (Blockstack) : Cloudflare qui ferme le compte d’un site néo-nazi, DreamHost à qui le Département de la Justice demande les adresses IP des visiteurs d’un site anti-Trump… Au delà des questions morales, et si on faisait plutôt en sorte que les sites qu’on conçoit ne puisse en aucun cas être utilisés à mauvais escient ? Comme pistes : DNS décentralisé, stockage décentralisé, chiffrage et navigateurs supportant la blockchain.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;In a “Can’t be evil” model¹, trusting “good guys” is replaced by cryptographic ownership of digital assets and mathematical proofs of security.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://ind.ie/ethical-design/&quot;&gt;Ethical Design&lt;/a&gt; diagram&lt;/strong&gt; : encore une entreé dans la catégorie ethique, avec ce diagramme sous forme de pyramide de Maslow, qui classifie les impératifs à assurer en tant que designer (Droits humains, effort humain, expérience humaine)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;comment-ça-va-le-milieu-du-web-&quot;&gt;Comment ça va, le milieu du web ?&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://medium.com/arpinum/de-l%C3%A9tat-du-march%C3%A9-du-d%C3%A9veloppement-4187836015a5&quot;&gt;De l’état du marché du développement&lt;/a&gt;&lt;/strong&gt; : un gars que je ne connaissais plaide pour une posture de développeur expérimenté qui ait du recul sur les technologies, pour assainir un milieu du développement dont il dresse un tableau assez sombre.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://medium.com/want-more-work/back-to-craftsmanship-lessons-from-the-arts-and-crafts-movement-e1aa5f09ec16&quot;&gt;Back To Craftsmanship: Lessons from the Arts and Crafts Movement&lt;/a&gt;&lt;/strong&gt; : un plaidoyer pour un retour à l’artisanat, dans les interstices de ce qui, dans le travail humain, ne peut pas être automatisé.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;design-utilisateurs-et-tutti&quot;&gt;Design, utilisateurs et tutti&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://uxdesign.cc/choosing-the-right-features-with-kano-model-cc0274b6a83&quot;&gt;Choosing the Right Features with Kano Model&lt;/a&gt;&lt;/strong&gt; : dans une liste sans fin de fonctionnalités potentielles, comment choisir les &lt;strong&gt;bonnes&lt;/strong&gt; fonctionnalités à développer ? Explication du modèle Kano et de son questionnaire, qui permettent d’identifier les fonctionnalités basiques, (attendues par principe), de performance (plus y’en a, mieux c’est), et d’excitation (l’effet wow, qui s’amenuise avec le temps), etc.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://medium.com/this-dot-labs/building-modern-web-applications-in-2017-791d2ef2e341?__s=gcqx2xmvbsdz77mdqjqf&quot;&gt;Choosing a frontend framework in 2017&lt;/a&gt;&lt;/strong&gt; : un article dense qui retrace la folle épopée des frameworks front. Qui a apporté tel concept, pourquoi des fois on parle de angular.js, d’autre fois de angular tout court, pour quelles raisons adopter React, Angular, Ember ou Polymer ?&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;prendre-soin-de-soi-au-milieu-du-numérique&quot;&gt;Prendre soin de soi au milieu du numérique&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://chris.bolin.co/offline/&quot;&gt;Offline Only&lt;/a&gt;&lt;/strong&gt; :  Là où le fond rejoint la forme pour nous parler de la valeur de la déconnexion. Très chouette expérimentation !&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;inclassable-&quot;&gt;Inclassable :)&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://sudweb.fr/blog/2018/ratatiner-les-croyances-pour-sublimer-les-valeurs&quot;&gt;Ratatiner les croyances pour sublimer les valeurs&lt;/a&gt;&lt;/strong&gt;, Sud Web : Plongée dans les interrogations d’une équipe d’organisation de conférence web, et les astuces et méthodologies mises en oeuvre (interviews tirée du Running Lean…) pour y répondre. Passionnant !&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Mon, 28 Aug 2017 00:00:00 +0200</pubDate>
-        <link>http://marges.clairezuliani.com/good_job/2017/08/28/liens-semaine-34.html</link>
-        <guid isPermaLink="true">http://marges.clairezuliani.com/good_job/2017/08/28/liens-semaine-34.html</guid>
-        
-        <category>hebdomalink</category>
-        
-        <category>ethique</category>
-        
-        <category>dont be evil</category>
-        
-        <category>detox</category>
-        
-        <category>ess</category>
-        
-        <category>design</category>
-        
-        
-        <category>good_job</category>
         
       </item>
     
