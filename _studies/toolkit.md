@@ -97,6 +97,11 @@ Comment bien commencer un projet ? Quelques outils déjà utilisés ou à tester
 - [Pingendo](http://pingendo.com/v4-beta/) : Dead-simple builder for Bootstrap 4
 - [Figma](https://www.figma.com/)
 
+Open source :
+
+- [Pencil](https://pencil.evolus.vn/Stencils-Templates.html)
+- [Wireframe Sketcher](https://wireframesketcher.com)
+
 ### Couleurs
 
 - [Palettable](http://www.palettable.io/) : générations de palettes cohérentes
@@ -211,7 +216,8 @@ Comment bien commencer un projet ? Quelques outils déjà utilisés ou à tester
 
 Solutions intégrant à minima mail (configurable avec nom de domaine), agenda, contact.
 
-- [Infomaniak](https://www.infomaniak.com) : suisses (base : 18€/an, pro : 90€/an)
+- [Infomaniak](https://www.infomaniak.com/en/professional-tools/workspace) : suisses (base : 18€/an, pro : 90€/an)
+- [fastmail](https://www.fastmail.com/) : email, calendar, contact (50$/an/user)
 - [indiehosters]()
 - [cozycloud]()
 
@@ -258,6 +264,7 @@ avec édition collaborative :
 
 - [Project Groupie](https://projectgroupie.com/) : ProjectGroupie is a place to find awesome software projects to join and collaborate. Create your own project and find skilled like-minded individuals to help bring your idea to life.
 - [Remote Starter Kit](https://www.remotestarterkit.com/)
+- [toggl](https://toggl.com/) : time tracking
 
 ##  Administratif
 
@@ -277,3 +284,7 @@ https://www.open-dsi.fr/crm-open-source-gratuit-entreprises-open-dsi/
 - [Odoo](https://www.odoo.com/fr_FR/)
 - [Dolibarr](http://www.dolibarr.fr/)
 - [VTiger](https://www.vtiger.com/)
+
+## Socio
+
+- [Microsoft Diversity Training](https://www.microsoft.com/en-us/diversity/training)

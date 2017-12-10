@@ -44,6 +44,7 @@ Des trucs à lire/voir quand je serai à la retraite (ou que je prendrai un mome
 - [Thinking with Type](https://www.amazon.com/Thinking-Type-2nd-revised-expanded/dp/1568989695)
 - [Change by Design](https://www.ideo.com/post/change-by-design), Tim Brown, CEO of IDEO
 - [How to Use Graphic Design to Sell Things](https://www.amazon.com/Graphic-Design-Things-Explain-Better/dp/0062413902/), Explain Things, Make Things Look Better, Make People Laugh, Make People Cry, and (Every Once in a While) Change the World ; Michael Bierut
+- [How to Make Sense of Any Mess: Information Architecture for Everybody](https://www.amazon.com/How-Make-Sense-Any-Mess/dp/1500615994/)
 
 ### Programmation
 
@@ -70,13 +71,14 @@ http://marcgg.com/books/
 
 -[20 outils pou bien vivre son activité d'indépendant](http://www.kob-one.com/blog/graphistes-freelances-20-outils-calculettes-sites-et-livres-pour-bien-vivre-de-son-activite-dindependant/)
 
-- Système 1, système 2 - Les deux vitesses de la pensée, Daniel Kahneman
+- Système 1, système 2 - Les deux vitesses de la pensée (Thinking, Fast and Slow en v.o.), Daniel Kahneman
 - http://micropolitiques.collectifs.net/ : MICROPOLITIQUES DES GROUPES
 POUR UNE ÉCOLOGIE DES PRATIQUES COLLECTIVES (version en ligne)
 
 <!-- http://livre.fnac.com/a9180576/Scott-Stossel-Anxiete -->
 
 - Gloria Steinem, « Revolution from Within. A Book of Self-Esteem »
+- Getting Things Done
 
 ### Listes
 

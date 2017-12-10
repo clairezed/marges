@@ -64,6 +64,11 @@ Prise de note sur la collaboration, l'animation de communauté...
 - [La transfo - outils](http://latransfo.la27eregion.fr/outils-et-methodes/)
 - [Participatory Design Toolkit](https://www.enterprisecommunity.org/download?fid=9750&nid=13221) : pdf sur un cas pratique avec outils et méthodo, sur le design immobilier
 - [Les outils du "Faire Ensemble"](http://www.passerelleco.info/article.php?id_article=1794), passerelle éco
+- [Communagir](http://pouremporter.communagir.org/incontournables) : Des activités d’animation mobilisantes
+et participatives (Québec)
+- [Gymkhana](http://www.gymkhana.fr/) ((repo github)[https://github.com/gymkhana-fr/gymkhana-contenu/tree/master/contributions]) : atelier de co-construction citoyenne
+
+
 
 ## Règles collective
 
