@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A mon compte + 1 an
+title: A mon compte + 1 an, déjà !
 category: good_job
 tags: [et moi]
 
@@ -14,7 +14,7 @@ Janvier. La saison de fleuraison des bonnes résolutions châtoyantes. C'est aus
 
 Se mettre à son compte, c'est choisir de quoi et comment on remplit son temps. Grand luxe. Vu que je me retrouvais seule toute pleine de curiosité, l'une de mes priorités à été l'an passé de partir en quête de communautés affinitaires. Où trouver de nouveaux copains ?
 
-Alors, j'ai arpenté les routes de France et de Wallonie, en croisant les thématiques : design et éthique, web du sud, économie collaborative, coopération et intelligence collective, numérique et collectivités... (itinéraire gps grosso modo retraçable à partir du tag [événement]({ site.baseurl }/tags/evenement/))). Bref, ça refète pas mal une année qui a été assez plurielle en termes de centres d'intérêt.
+Alors, j'ai arpenté les routes de France et de Wallonie, en croisant les thématiques : design et éthique, web du sud, économie collaborative, coopération et intelligence collective, numérique et collectivités... (itinéraire gps grosso modo retraçable à partir du tag [événement]({{ site.baseurl }}/tags/evenement/))). Bref, ça refète pas mal une année qui a été assez plurielle en termes de centres d'intérêt.
 Bonus : je crois que j'ai commencé à trouver des copains et des copines et que j'identifie mieux mes affinités de coeur :)
 
 
@@ -44,11 +44,9 @@ Comment articuler tout ça à l'avenir ? Réussir à me faire rémunérer un peu
 
 L'un des éléments les plus précieux que je retire de cette année, c'est peut-être un éclaircissement de mes préférences et de vers où je veux aller. L'intuition que j'ai et qui me guide, c'est que développer des compétences résolument humaines et les transmettre aura de plus en plus de sens et d'importance.
 
-Les technologies évoluent et se diversifient méga vite aujourd'hui ("javascript fatigue" tout ça), et je ne vois pas de sens à courir après un train tout fou inarrêtable. Bien maîtriser les bases, savoir proposer des solutions adéquates pour vérifier des hypothèses ou satisfaire les premières exigences et savoir orienter intelligemment les autres demandes, c'est plutôt ça mon ambition technique. Je crois que je préfère la bricole maïeutique à la haute technicité. En plus, une grosse partie de mes compétences techniques actuelles va très certainement être automatisée prochainement. Pas de raison que les robots piquent les boulots que des autres :)
+Les technologies évoluent et se diversifient hyper vite aujourd'hui, et je ne vois pas de sens à courir après un train tout fou inarrêtable. Bien maîtriser les bases, savoir proposer des solutions adéquates pour vérifier des hypothèses ou satisfaire les premières exigences et savoir orienter intelligemment les autres demandes, c'est plutôt ça mon ambition technique. Je crois que je préfère la bricole maïeutique à la haute technicité. En plus, une grosse partie de mes compétences techniques actuelles va très certainement être automatisée prochainement. Pas de raison que les robots piquent les boulots que des autres :)
 
-Par contre, là où robots et intelligences artificielles devraient être plus en galère, c'est sur l'accompagnement de l'humain : permettre aux individus de comprendre ce qu'ils veulent vraiment, accompagner les groupes pour qu'ils arrivent à faire des choses ensemble sans se bouffer, ce genre de choses. Cette année, je me suis surprise à lire de plus en plus de littérature spécialisée en sciences humaines : intelligence collective, facilitation, psychologie cognitive, coopération, agilité, psychologie sociale... Je croise et apprends de personnes pour lesquelles ces domaines sont des évidences depuis déjà quelques temps, et je prends vachement de plaisir aujourd'hui à enfin rattraper quelques wagons (chacun son rythme, hein. Je suis sortie de ma grotte y'a un an :)).
-
-De fil en aiguille, j'ai donné il y quelques temps ma première séance de formation sur les outils et méthodes de la coopération, et c'était chouette.
+Par contre, là où robots et intelligences artificielles devraient être plus en galère, c'est sur l'accompagnement de l'humain : permettre aux individus de comprendre ce qu'ils veulent vraiment, accompagner les groupes pour qu'ils arrivent à faire des choses ensemble sans se bouffer, ce genre de choses. Cette année, je me suis surprise à lire de plus en plus de littérature spécialisée en sciences humaines : intelligence collective, facilitation, psychologie cognitive, coopération, agilité, psychologie sociale... Je croise et apprends de personnes pour lesquelles ces domaines sont des évidences depuis déjà quelques temps, et je prends vachement de plaisir aujourd'hui à enfin rattraper quelques wagons (chacun son rythme, hein. Je suis sortie de ma grotte y'a un an :)). De fil en aiguille, j'ai donné il y quelques temps ma première séance de formation sur les outils et méthodes de la coopération, et c'était chouette.
 
 Alors quoi ? Ca y est, je veux abandonner le code ?
 
@@ -59,7 +57,7 @@ Clairement pas tout de suite, non. Parce que l'humain peut être sacrément fati
 
 ### Et si c'était à refaire ?
 
-Je re-signe. L'obligation d'apprendre en permanence dans plein de domaines, j'aime. La sensation que rien n'est déterminé et qu'une multitude de possibles sont ouverts, j'aime aussi (et j'apprends à gérer l'angoisse qui va avec). Mais j'ai conscience d'être en position privilégiée : mon double statut de chômeuse-freelance m'aide à ne pas paniquer face à cette multitudes de choix possibles, dans la crainte de faire le "mauvais" choix (vue que mes indemnités me permettent d'amortir les hors pistes). Je compte bien, d'ici que je n'aie plus cette béquille, avoir suffisamment sous le coude pour que la liberté ne me fasse plus baliser.
+Je re-signe. L'obligation d'apprendre en permanence dans plein de domaines, j'aime. La sensation que rien n'est déterminé et qu'une multitude de possibles sont ouverts, j'aime aussi (et j'apprends à gérer l'angoisse qui va avec). Mais j'ai conscience d'être en position privilégiée : mon double statut de chômeuse-freelance m'aide à ne pas paniquer face à cette multitude de choix possibles, dans la crainte de faire le "mauvais" choix (vue que mes indemnités me permettent d'amortir les hors pistes). Je compte bien, d'ici que je n'aie plus cette béquille, avoir suffisamment sous le coude pour que la liberté ne me fasse plus baliser.
 
 
 ### La liste à puces du bilan
@@ -93,4 +91,4 @@ Ce qui me tiendrait à coeur pour l'année à venir :
 - Reprendre une veille qui ressemble à quelque chose :)
 
 
-Et puis bonne année, hein ! Bisous
+Et puis bonne année ! (jusqu'à la fin du mois, il y a droit)
