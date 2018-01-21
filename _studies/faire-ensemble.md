@@ -32,6 +32,7 @@ Prise de note sur la collaboration, l'animation de communauté...
 	- [Mettre en place ou réorganiser une communauté pas à pas](#mettre-en-place-ou-rorganiser-une-communaut-pas-pas)
 	- [Faire vivre la communauté](#faire-vivre-la-communaut)
 	- [Sources](#sources)
+	- [SessionLab](https://www.sessionlab.com/library) : facilitation resources
 
 <!-- /TOC -->
 
@@ -67,7 +68,7 @@ Prise de note sur la collaboration, l'animation de communauté...
 - [Communagir](http://pouremporter.communagir.org/incontournables) : Des activités d’animation mobilisantes
 et participatives (Québec)
 - [Gymkhana](http://www.gymkhana.fr/) ((repo github)[https://github.com/gymkhana-fr/gymkhana-contenu/tree/master/contributions]) : atelier de co-construction citoyenne
-
+- [Collaboration workout](http://fasterthan20.com/workout/) by fasterthan20
 
 
 ## Règles collective
