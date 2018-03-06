@@ -35,3 +35,5 @@ Inspirations graphiques, probablement dans une optique assez simple, fonctionnel
 
 - [Parable of the polygons](http://ncase.me/polygons/) ; un essai jouable sur la forme que prend une société (à partir de triangles jaunes et de carrés bleus) (retrouvé grâce à http://explorableexplanations.com/)
 - [Send a message to](http://sendamessage.to/)
+- [The disconnect](https://thedisconnect.co/one/) : site accessible uniquement hors-ligne
+- [Poor millenials](http://highline.huffingtonpost.com/articles/en/poor-millennials/) : infographie du huffpost

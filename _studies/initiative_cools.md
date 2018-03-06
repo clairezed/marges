@@ -235,6 +235,18 @@ Atelier rassemblant paysagistes, urbanistes, botanistes, jardiniers et artistes.
 
 [www.vraimentvraiment.fr](http://www.vraimentvraiment.fr/)
 
+#### La Boussole
+
+Coopérative de formation et de recherche.
+
+Nous construisons des pédagogies et outils au service d’individus et de projets sociaux et solidaires. Nos activités s’inscrivent dans la tradition de l’éducation populaire, c’est-à-dire que notre posture pédagogique vise à l’émancipation des personnes, quel que soit leur bagage préalable.
+
+- Intelligence collective et méthodes participatives
+- Dialogue culturel et lutte contre les discriminations
+- Émancipation numérique et éducation aux médias
+
+[laboussole.coop](https://laboussole.coop)
+
 ### Collaboration développeur - société civile
 
 #### Scopyleft
