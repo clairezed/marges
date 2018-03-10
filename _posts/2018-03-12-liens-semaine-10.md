@@ -14,6 +14,8 @@ Ca faisait looongtemps ! Je retrouve peu à peu un peu de respirations
 
 - **[Pourquoi et comment nous choisissons de construire un modèle économique fondé sur des biens communs numériques.](https://medium.com/open-source-politics/pourquoi-et-comment-nous-choisissons-de-construire-un-mod%C3%A8le-%C3%A9conomique-fond%C3%A9-sur-des-biens-communs-6c4f3ec3c075)** Les copains d'Open Source Politics expliquent toujours aussi bien leur philosophie d'action tout en dressant le portrait d'un secteur civic tech non exempt de risques ou clivages. Je partage leur vision. Construisons des biens communs numériques.
 
+- **[Coopyright : enfin une licence à réciprocité pour faire le lien entre Communs et ESS ?](https://scinfolex.com/2018/03/02/coopyright-une-licence-a-reciprocite-pour-faire-le-lien-entre-communs-et-ess/)** : Lionel Maurel explique la façon dont il a pensé une licence à réciprocité renforcée qui ne sorte pas du néant, mais réutilise des briques connues des creative commons. J'en ai eu une explication en live lors de la dernière rencontre Plateformes en Communs (c'est la licence qui est expérimenté par la Coop des Communs), et c'est top.
+- **[La compostabilité : pour un écosystème de projets vivaces](https://vecam.org/La-compostabilite-pour-un-ecosysteme-de-projets-vivaces)** : Laurent Marseault nous parle de compostabilité des projets et des idées : de l'importance de capitaliser, de penser très tôt à ce qu'il restera d'un projet après sa mort, pour vraiment permettre sa réutilisation. Passionnant, et ça fait pour moi écho avec certains des questionnements qui irriguent l'écosystème Plateformes en communs.
 
 ## Les vieux liens qui traînaient sous les meubles
 

@@ -130,6 +130,12 @@ Open source :
 - [pixlr](https://pixlr.com/)
 - [photopea](https://www.photopea.com/) : quick webapp picture editor
 
+### Compression photo
+- [https://bulkresizephotos.com](https://bulkresizephotos.com) : choisir une longueur max (longest side ou width) selon l'utilisation (par ex. pour une photo en fullscreen, 2000px suffisent pour couvrir les écrans Retina). Et cliques sur "Pro" pour choisir la qualité de compression (tente entre 60% et 80%). Sachant que plus la photo est grande (2000px) plus tu peux te permettre une forte compression (genre 60%). Teste avec une ou deux photos pour trouver le bon rapport Qualité/Poids. 150ko max c'est une bonne cible.
+- [https://tinyjpg.com](https://tinyjpg.com) : appliquer une compression sans perte de qualité supplémentaire (par contre, t'as le droit à max 20 images, à faire en plusieurs fois du coup). Ça peut être une bonne chose de redimmensionner jusqu'à avoir un fichier de genre 250-300ko (compression avec perte de qualité), et le passer dans TinyJpg (compression sans perte de qualité) pour le réduire d'avantage jusqu'à être dans les 150ko.
+
+Pense à virer les infos EXIF des photos aussi, elles seront plus légères après
+
 ### Font
 
 - [Fontstorage](https://fontstorage.com)
