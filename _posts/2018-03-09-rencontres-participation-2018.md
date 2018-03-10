@@ -84,4 +84,4 @@ Les éléments qui m'ont le plus marquée :
 
 ## D'autres retours, ailleurs
 
-- [](http://www.lagazettedescommunes.com/553455/aux-rencontres-nationales-de-la-participation-le-local-a-lhonneur/)
+- [Aux rencontres nationales de la participation, le local à l’honneur](http://www.lagazettedescommunes.com/553455/aux-rencontres-nationales-de-la-participation-le-local-a-lhonneur/)
