@@ -23,11 +23,11 @@ p, li {
     outline: none;
     color: $link-color;
     text-decoration: none;
-    white-space: nowrap;
+    // white-space: nowrap;
     position: relative;
     display: inline-block;
     vertical-align: bottom;
-    overflow: hidden;
+    // overflow: hidden;
     font-weight: 500;
 
     /*&:hover{
