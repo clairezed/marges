@@ -38,7 +38,7 @@ locale: fr
 algolia:
   application_id:       NVUW30NOLV
   index_name:           blog
-  search_only_api_key:  ENV['MARGE_ALGOLIA_SEARCH_ONLY_API_KEY']
+  search_only_api_key:  b2bf1f88cc83a378d0466c77b6c8f6df
   files_to_exclude:
     - index.html
     - index.md
