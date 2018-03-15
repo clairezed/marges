@@ -33,6 +33,18 @@ timezone: Europe/Paris
 encoding: utf-8
 locale: fr
 
+# Search --------------------------------------------
+
+algolia:
+  application_id:       NVUW30NOLV
+  index_name:           blog
+  search_only_api_key:  ENV['MARGE_ALGOLIA_SEARCH_ONLY_API_KEY']
+  files_to_exclude:
+    - index.html
+    - index.md
+    - _pages/*.html
+    - _pages/*.md
+
 
 # Folders and formatting ---------------------------------
 

@@ -1,0 +1,131 @@
+<!-- Including InstantSearch.js library and styling -->
+<script src="https://cdn.jsdelivr.net/npm/instantsearch.js@2.5.1"></script>
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.5.1/dist/instantsearch.min.css">
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.5.1/dist/instantsearch-theme-algolia.min.css">
+
+<script>
+// Instanciating InstantSearch.js with Algolia credentials
+const search = instantsearch({
+  appId: '{{ site.algolia.application_id }}',
+  indexName: '{{ site.algolia.index_name }}',
+  apiKey: '{{ site.algolia.search_only_api_key }}',
+});
+
+const categories = {
+  good_job: "good job",
+  sustainable_code: "code décroissant",
+  binary_transition: "transition binaire"
+}
+
+const hitTemplate = function(hit) {
+  // console.log(hit);
+  // title ------------------
+  const title = hit._highlightResult.title.value;
+  // content ------------------
+  const content = hit._highlightResult.html.value;
+  // url ------------------
+  const url = hit.url;
+  // date ------------------
+  let date = '';
+  if (hit.date) {
+    date = moment.unix(hit.date).format('DD/MM/YYYY');
+  }
+  // category ------------------
+  const category = hit.category
+  const categoryTitle = categories[category]
+  // tags ------------------
+  let tags = ''
+  if (hit.tags) {
+    let arrayTags = []
+    for (tag of hit._highlightResult.tags) {
+      arrayTags.push(tag.value)
+    }
+    tags = arrayTags.join(", ")
+  }
+  // type ------------------
+  let format = ''
+  if (hit.collection && hit.collection == "studies") {
+    format = 'Dossiers';
+  } else {
+    format = 'Dépêches'
+  }
+
+  return `
+    <li class="search-result">
+      <div class="card">
+        <div class="card-header">
+          <h4 class="card-title">
+            <a  href="{{ site.url }}${url}">
+              ${title}
+            </a>
+          </h4>
+        </div>
+        <div class="card-body"> ${content} </div>
+        <table class="table table-meta">
+          <tbody>
+            <tr>
+              <td>
+                <span title="${date}">
+                  <span class="icon icon-calendar"></span>
+                  <span> ${date} </span>
+                </span>
+              </td>
+              <td>
+                <span>${format}</span>
+              </td>
+              <td>
+                <a class="link-underline" href="{{ site.baseurl }}/lubies/${category}">
+                  <span>${categoryTitle}</span>
+                </a>
+              </td>
+              <!-- Hidden on mobile -->
+              <td class="hide-xs">
+                <span class="icon icon-price-tag"></span>
+                ${tags}
+              </td>
+              <td class="table-read-link table-read-link-excerpt hide-xs">
+                <a href="{{ site.base_url }}${url}">
+                  Lire l'article
+                </a>
+              </td>
+            </tr>
+            <!-- Shown on mobile -->
+            <tr class="show-xs" >
+                <td colspan="2">
+                  <span class="icon icon-price-tag"></span>
+                  ${tags}
+                </td>
+              <td class="table-read-link table-read-link-excerpt">
+                <a href="{{ site.base_url }}${url}">
+                  Lire l'article
+                </a>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </li>
+  `;
+}
+
+// Adding searchbar and results widgets
+search.addWidget(
+  instantsearch.widgets.searchBox({
+    container: '#search-searchbar',
+    placeholder: 'Rechercher dans les dépêches et dossiers...',
+    poweredBy: true // This is required if you're on the free Community plan
+  })
+);
+search.addWidget(
+  instantsearch.widgets.hits({
+    container: '#search-hits',
+    templates: {
+      item: hitTemplate,
+      empty: 'Pas de résultat, désolée !'
+    }
+  })
+);
+
+// Starting the search
+search.start();
+</script>

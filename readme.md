@@ -9,8 +9,10 @@ La branche la plus à jour est la branche `source`. Lors du déploiement, cette 
 
 Lancer le serveur en local :
 
+`_config.secrets.yml` contient des données de configuration qu'on ne veut pas rendre publique (clé d'API par exemple) et est donc gitignoré.
+
 ```bash
-jekyll serve
+jekyll serve --config _config.yml,_config.dev.yml,_config.secrets.yml
 ```
 
 Lister les commandes rake disponibles :

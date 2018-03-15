@@ -1,0 +1,41 @@
+.searchbar_wrapper {
+  .ais-search-box {
+    max-width: 100%;
+    margin-bottom: 15px;
+  }
+}
+.search-result {
+  margin-bottom: 30px;
+}
+.search-result .ais-Highlight {
+  background-color: lighten($brand-primary, 15%);
+  font-style: normal;
+  // text-decoration: underline;
+}
+// .search-result .ais-Highlight {
+//   color: #2a7ae2;
+//   font-style: normal;
+//   font-weight: bold;
+// }
+// Search =======================
+.search-results_wrapper {
+  margin: 2em 0;
+}
+.search-result {
+  list-style: none;
+  .search-result_title {
+    @include transition (all 0.5s ease-in-out);
+    &:hover {
+      font-weight: 600
+    }
+  }
+
+}
+
+.search-meta {
+  color: lighten($link-color, 3%);
+  font-size: 0.8em;
+  position: absolute;
+  top: 0.5rem;
+  right: 0
+}

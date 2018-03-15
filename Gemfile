@@ -17,4 +17,5 @@ group :jekyll_plugins do
   gem 'jekyll-livereload'
   gem 'jekyll-microtypo'
   # gem 'jekyll-seo-tag'
+  gem 'jekyll-algolia'
 end
