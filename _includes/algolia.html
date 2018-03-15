@@ -4,11 +4,13 @@
 <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.5.1/dist/instantsearch-theme-algolia.min.css">
 
 <script>
+
+console.log('{{ site.algolia.search_only_api_key }}');
 // Instanciating InstantSearch.js with Algolia credentials
 const search = instantsearch({
   appId: '{{ site.algolia.application_id }}',
   indexName: '{{ site.algolia.index_name }}',
-  apiKey: '{{ site.algolia.search_only_api_key }}',
+  apiKey: '{{ site.algolia.search_only_api_key }}'
 });
 
 const categories = {
@@ -42,7 +44,7 @@ const hitTemplate = function(hit) {
     }
     tags = arrayTags.join(", ")
   }
-  // type ------------------
+  // format ------------------
   let format = ''
   if (hit.collection && hit.collection == "studies") {
     format = 'Dossiers';
