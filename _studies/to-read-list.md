@@ -89,6 +89,8 @@ POUR UNE ÉCOLOGIE DES PRATIQUES COLLECTIVES (version en ligne)
 
 ### Code
 - Du Legacy au Cloud en moins d'une heure - [David Gageot à l'USI](https://www.youtube.com/watch?v=q11gydDAMSo), 2014
+- [Bret Victor - Inventing on Principle](https://vimeo.com/36579366)
+- [Jenn Turner - Open Source Beyond Software - CascadiaFest 2016](https://www.youtube.com/watch?v=XdCPblnTMCw)
 
 ### Documentaires
 - [Design and Thinking](https://www.youtube.com/watch?v=Z_YwyMssN0Y), documentaire complet sur le design thinking
@@ -121,3 +123,8 @@ POUR UNE ÉCOLOGIE DES PRATIQUES COLLECTIVES (version en ligne)
 ### Feel good watch
 
 [Wat talk](https://www.destroyallsoftware.com/talks/wat)
+
+### Socio-politique
+
+- [Le vide des discours politiques par Franck Lepage](https://www.youtube.com/watch?v=f2bsGWWZ45E) 11min.
+- [Incultures 4 Faim de pétrole Anthony Brault Scop Le Pave Conférence gesticulée Franck Lepage](https://www.youtube.com/watch?v=3l4JwCv1Gtc)

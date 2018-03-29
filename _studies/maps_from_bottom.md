@@ -153,6 +153,9 @@ Cartographie collaborative
 
 [ushahidi.com](https://www.ushahidi.com/)
 
+### Observatoire Airbnb
+
+- [Observatoire airbnb](http://observatoire-airbnb.fr/)
 
 ## Exemples de cartographies d'acteurs locaux
 

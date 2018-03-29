@@ -189,7 +189,6 @@ Pense à virer les infos EXIF des photos aussi, elles seront plus légères apr�
 
 ### Lib
 
-- [Accelerated Mobile Pages (AMP) Project](https://www.ampproject.org/) : Fast and responsive custom elements as part of a larger spec to build content pages easily.
 - [Packery](http://packery.metafizzy.co/) : Gapless, draggable grid layouts
 - [Simple Sharing Buttons Generator](https://simplesharingbuttons.com) : Create light-weight, mobile-friendly sharing buttons for Facebook, Twitter, Google+ and other social networks -- it's all completely free!
 - [flatpickr](https://github.com/chmln/flatpickr) : lightweight and powerful datetimepicker with no dependencies
@@ -211,13 +210,25 @@ Pense à virer les infos EXIF des photos aussi, elles seront plus légères apr�
 * http://www.toile-libre.org/1
 * https://www.tuxfamily.org/
 
+- [Surge](http://surge.sh/) : Static web publishing for Front-End Developers (mentionné par le gars qui a présenté Vue.js au Nancy Web Meetup)
+- [Hertzner](https://www.hetzner.com) : de mémoire, utilisé par yunohost et/ou framasoft (allemand, donc hors lois françaises mais européen quand même)
+- [Zeit](https://zeit.co) (et [now](https://zeit.co/now)) : realtime global deployments pour docker, node, sites staiques...
+
 ### Sys Admin
 
 - [SysAdmin toolbox (github)](https://github.com/skhaen/sysadmin-toolbox)
 - [Security guide for developers (github)](https://github.com/FallibleInc/security-guide-for-developers)
 
 
+### Sécurité
+
+- [Hacksplaining](https://www.hacksplaining.com/) : site de formation en ligne sur la sécurité, pour les développeurs. 
+
 ## Bureautique - everyday soft
+
+### Mailing
+
+- [Our nonprofit needed a cheaper way to send email blasts. So we engineered one.](https://medium.freecodecamp.org/our-nonprofit-needed-a-cheaper-way-to-send-email-blasts-so-we-engineered-one-167322e3f28e)
 
 ### Package
 
@@ -227,7 +238,6 @@ Solutions intégrant à minima mail (configurable avec nom de domaine), agenda, 
 - [fastmail](https://www.fastmail.com/) : email, calendar, contact (50$/an/user)
 - [indiehosters]()
 - [cozycloud]()
-
 
 
 ### Mail anonyme / secure
@@ -272,6 +282,11 @@ avec édition collaborative :
 - [Project Groupie](https://projectgroupie.com/) : ProjectGroupie is a place to find awesome software projects to join and collaborate. Create your own project and find skilled like-minded individuals to help bring your idea to life.
 - [Remote Starter Kit](https://www.remotestarterkit.com/)
 - [toggl](https://toggl.com/) : time tracking
+- [todoist]() : todo list qui permet aussi de tracker, un peu
+
+### Gestion de projet
+
+- [Taiga](https://taiga.io/) : outil de gestion de projet focalisé agile. Open source ! Formule gratuite réduite pour l'open source.
 
 ##  Administratif
 

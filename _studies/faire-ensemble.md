@@ -69,6 +69,8 @@ Prise de note sur la collaboration, l'animation de communauté...
 et participatives (Québec)
 - [Gymkhana](http://www.gymkhana.fr/) ((repo github)[https://github.com/gymkhana-fr/gymkhana-contenu/tree/master/contributions]) : atelier de co-construction citoyenne
 - [Collaboration workout](http://fasterthan20.com/workout/) by fasterthan20
+- [Plans for agile restrospective](https://plans-for-retrospectives.com/en/?id=32-80-105-21-14)
+- [Retrospective Techniques for Coaches, Scrum Masters, and Other Facilitators](https://trello.com/b/40BwQg57/retrospective-techniques-for-coaches-scrum-masters-and-other-facilitators)
 
 
 ## Règles collective
