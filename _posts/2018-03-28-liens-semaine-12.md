@@ -16,14 +16,14 @@ Vous en liriez deux :)
 
 Ci-dessous, les deux lectures que je retiens des 10 derniers jours, celles qui m'ont le plus nourrie.
 
-- **[12 Things Everyone Should Understand About Tech](https://medium.com/humane-tech/12-things-everyone-should-understand-about-tech-d158f5a26411)** : très chouette article généraliste qui démonte et précise des préjugés communs sur les technologies de façon claire et précise. Extraits résumés :
-- Non neutralité de la technologie,
-- sincère envie de bien faire de la majorité des gens de la tech (qui n'empêche pas les effets rebonds et les contrecoups très négatifs),
-- distance avec les utilisateurs,
-- les startups ne sont qu'une petite facette du secteur avec beaucoup trop d'influence actuellement,
-- les sociétés tech ne font du fric que de 3 façons : la publicité (vente de vos données et capitalisme de surveillance) ; vente à d'autres sociétés de gros outils pour les patrons qui veulent surveiller et contrôler leurs employés (Microsoft, Oracle, Salesforce...), vente direct au consommateur (apple, amazon, spotify...),
-- le modèle économique prédominant ressemble à l'industrie du cinéma : soit tu as les moyens d'être une énorme société monopolistique ("winners take all", à base d'investisseurs à rémunérer sur du court terme), soit tu es un petit studio indépendant. Les développeurs constituent l'essentiel poste de dépense hors investisseurs (peu d'argent reste pour d'autres types de postes ou servir la communauté).
-- choix technologique à la pointe ne signifie pas meilleur produit...
+- **[12 Things Everyone Should Understand About Tech](https://medium.com/humane-tech/12-things-everyone-should-understand-about-tech-d158f5a26411)** : très chouette article généraliste qui démonte des préjugés communs sur les technologies de façon claire et précise. Extraits résumés :
+  - Non neutralité de la technologie,
+  - sincère envie de bien faire de la majorité des gens de la tech (qui n'empêche pas les effets rebonds et les contrecoups très négatifs),
+  - distance avec les utilisateurs,
+  - les startups ne sont qu'une petite facette du secteur avec beaucoup trop d'influence actuellement,
+  - les sociétés tech ne font de l'argent que de 3 façons : la publicité (vente de vos données et capitalisme de surveillance) ; vente à d'autres sociétés de gros outils pour les patrons qui veulent surveiller et contrôler leurs employés (Microsoft, Oracle, Salesforce...), vente direct au consommateur (apple, amazon, spotify...),
+  - le modèle économique prédominant ressemble à l'industrie du cinéma : soit tu as les moyens d'être une énorme société monopolistique ("winners take all", à base d'investisseurs à rémunérer sur du court terme), soit tu es un petit studio indépendant. Pas d'entre deux. Les développeurs constituent l'essentiel poste de dépense hors investisseurs (le business profite donc à peu de monde, peu de diversité dans les métiers ou la communauté).
+  - choix technologique à la pointe ne signifie pas meilleur produit...
 
 - **[C'est quoi ta conception des communs ?](http://maiadereva.net/cest-quoi-ta-conception-des-communs/)** : J'aime la façon dont Maïa Dereva analyse et décrit le fonctionnement de l'écosystème des communs. Elle met en mot des différences parfois compliquées à faire comprendre sur différentes façons de faire ensemble, leur état d'esprit et leurs implications.
 
