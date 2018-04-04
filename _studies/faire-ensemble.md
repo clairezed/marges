@@ -71,6 +71,7 @@ et participatives (Québec)
 - [Collaboration workout](http://fasterthan20.com/workout/) by fasterthan20
 - [Plans for agile restrospective](https://plans-for-retrospectives.com/en/?id=32-80-105-21-14)
 - [Retrospective Techniques for Coaches, Scrum Masters, and Other Facilitators](https://trello.com/b/40BwQg57/retrospective-techniques-for-coaches-scrum-masters-and-other-facilitators)
+- [l'atelier collaboratif](http://atelier-collaboratif.com/toutes-les-pratiques.php)
 
 
 ## Règles collective

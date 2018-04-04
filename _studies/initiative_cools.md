@@ -307,6 +307,13 @@ Une partie des échappés de CapitaineTrain depuis que CapitaineTrain est devenu
 
 ##### tags: `paris`
 
+#### Indie
+
+Agende de développement éthique, avec un [gitlab ouvert](https://source.ind.ie/indienet).
+
+
+[Indie](https://ind.ie/)
+
 ### Dev solo qui font de l'ESS
 
 - [Yann Rolland](http://www.yannrolland.com/)
