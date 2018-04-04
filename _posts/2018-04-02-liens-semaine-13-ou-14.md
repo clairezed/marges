@@ -25,3 +25,7 @@ Une veille hebdo en retard (c'est la faute à la [FreelanceFair](http://freelanc
 ## Des annonces politiques pleines d'ouverture
 
 - **[Pour une action publique transparente et collaborative : plan d'action national 2018-2010](https://www.etalab.gouv.fr/wp-content/uploads/2018/04/PlanOGP-FR-2018-2020-VF-FR.pdf)** : le gouvernement a annoncé cette semaine une palanquée d'engagements autour de la transparence (des services publics, de la commande publique), de l'ouverture (des données, des algorithmes, des codes sources), de la "participation"... Curieuse de voir à quel point ces engagements seront vraiment suivis d'effets.
+
+## Dernière minute
+
+- **[La mutualisation 2.0](https://arcadiconnect.fr/news/18)** : ARCADI a lancé sa plateforme dédiée à la mutualisation dans le secteur culturel en Ile-de-France, et on a discuté mise en commun et outils numériques ensemble. On retrouve même dans cette interview plein de mes tics de langage !
