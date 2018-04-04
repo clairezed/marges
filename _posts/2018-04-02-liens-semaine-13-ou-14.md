@@ -6,8 +6,7 @@ tags: [hebdomalink, design, collectivites, open source, politique]
 
 ---
 
-Une veille hebdo en retard (c'est la faute à la [FreelanceFair](http://freelancefair.org/) où j'étais en début de semaine). Ca me permet de tricher et d'intégrer quelques lectures toutes récentes. En haut de la pile : quelques liens qui m'ont particulièrement marquée.
-
+Cette semaine, peut de grosses lectures, mais des outils, des annonces officielles, et même des bouts de moi.
 <!--more-->
 
 ## Un certain pragmatisme dans le design
