@@ -35,26 +35,27 @@ On a d'abord une association engagée dans un projet européen transfrontalier a
 
 On a aussi un ensemble de structures (privées et publiques) poussées à se regrouper pour former un pôle d'activités autour de l'économie sociale, solidaire et durable ; que les questions de coopération chatouillent. Auprès d'eux, et avec une équipe de chercheuses en sciences de gestion, j'ai mené un atelier sur les outils et méthodes de la collaboration.
 
-Tout ceci me laisse penser qu'il y a une vraie attente sur ces enjeux (à confirmer dans les prochains mois).
+Est-ce que ce croisement du numérique et de la coopération (sur le tapis depuis une bonne dizaine d'années, je ne fais que prendre le train en marche) est un enjeu qui gagnerait aujourd'hui en ampleur ? A confirmer dans les prochains mois.
 
 
 ## A venir
 
-Souffler un peu, c'est pas mal aussi des fois. Alors j'ai pris de bonne résolution (que je ne tiens déjà que moyennement) : lever le pied sur les projets, quitte à en refuser, pour mettre pedant quelques mois la priorité sur le développement de mon activité.
+Souffler un peu, c'est pas mal aussi des fois. Alors j'ai pris une bonne résolution (que je commence déjà à ne pas tout à fait tenir) : lever le pied sur les projets, quitte à en refuser, pour mettre dans les prochains mois la priorité sur le développement de mon activité.
 
 
 ### Chausser le cordonnier
 
 Par quoi ça va passer ? Par la création d'une identité d'agence (ça y est, c'est décidé, y'a même un nom de domaine de déposé, c'est l'aventure !). Histoire de présenter mon offre de service non pas tant comme un inventaire à la Prévert de compétences techniques individuelles, mais comme un projet plus global, avec une philosophie d'action précise et un positionnement politique (au sens non partisan du terme). Et puis ça pourrait permettre d'embarquer des copains plus facilement ?
+
 C'est vraiment utile ce boxon ? Le temps le dira. En tout cas j'ai envie d'expérimenter autour du concept d'agence, de voir comment cet outil-là peut me servir, ce que ça change en matière de positionnement et les réactions que ça suscite.
 
-Je vais aussi prendre le temps de bien négocier un changement de statut qui me pend de plus en plus au nez et qui me réjouit pas mal d'avance :)
+Je vais aussi prendre le temps de bien négocier un changement de statut qui me pend de plus en plus au nez et qui me réjouit pas mal d'avance :) (coopérative, me voilà !) (si tout se passe comme prévu)
 
 Je me réserve enfin une gourmandise supplémentaire : vraiment prendre le temps de me former, pour de vrai, (à javascript en l'occurrence), avec l'appui d'un [gourou réjouissant](https://github.com/DavidBruant/). Ca va être bien !
 
 ### Le prétexte des projets territoriaux
 
-Mon projet local du moment, c'est l'accompagnement technique (qui devrait aller au-delà de ça, on ne se refait pas) d'un guide du consom'acteur vosgien. Le principe est archi simple, et vu 1000 fois : faire une cartographie, autant que possible collaborative, d'établissements du territoire qui répondent à une démarche de consommation engagée, d'une manière ou d'une autre (bio, éthique, fait main, produits locaux, etc). Ce qui est toujours assez chouette dans les cartographies, c'est que ça permet de relier et d'unir. Je prends aussi ce prétexte pour parler de communs autour de moi, et pour faire des expériences autour de l'interopérabilité (histoire d'éviter de créer une énième base de données périssable et étanche). Et puis, ça permet de commencer à contribuer à des projets chouettes, et ça fait toujours plaisir : pour commencer à travailler sur le guide, on se base sur le [système de cartographie de Communecter](https://www.communecter.org/network/default/index?src=https://gist.githubusercontent.com/clairezed/ae93048583af95c1d9ca6f3d0d62c34f/raw/communecter-consomacteur-epinal).
+Mon projet local du moment, c'est l'accompagnement technique (qui devrait aller au-delà de ça, on ne se refait pas) d'un guide du consom'acteur vosgien. Le principe est archi simple, et vu 1000 fois : faire une cartographie, autant que possible collaborative, d'établissements du territoire qui répondent à une démarche de consommation engagée (bio, éthique, fait main, produits locaux, etc). Ce qui est toujours assez chouette dans les cartographies, c'est que ça permet de relier et d'unir. Je prends aussi ce prétexte pour parler de communs autour de moi, et pour faire des expériences autour de l'interopérabilité (histoire d'éviter de créer une énième base de données périssable et étanche). Et puis, ça permet de contribuer à des projets chouettes, et ça fait toujours plaisir : pour commencer à travailler sur le guide, on se base sur le [système de cartographie de Communecter](https://www.communecter.org/network/default/index?src=https://gist.githubusercontent.com/clairezed/ae93048583af95c1d9ca6f3d0d62c34f/raw/communecter-consomacteur-epinal).
 
 ### Des nouveaux projets quand même
 
@@ -62,10 +63,13 @@ Des projets laissent la place à d'autres : à force de se côtoyer et de se cro
 
 ### Et un gros paquet de déplacements
 
-Entamée dès mars, je poursuis mon [tour de France d'événements chouettes](http://marges.clairezuliani.com/good_job/2018/03/06/c-est-le-printemps-en-mouvement.html), et ça me fait bien plaisir.
+Entamé dès mars, je vais poursuivre mon [tour de France d'événements chouettes](http://marges.clairezuliani.com/good_job/2018/03/06/c-est-le-printemps-en-mouvement.html) avec un plaisir anticipé.
 
-Déjà, certaines étapes représentent des petits défis personnels (réussir à parler de façon claire à des inconnus de sujets qui te tiennent à coeur, ça vient pas tout seul), et c'est pas mal les petits défis personnels.
+Déjà, certaines étapes représentent des petits défis personnels : je prends la parole lors de mes deux prochains points d'étape, et réussir à parler de façon claire à des inconnus de sujets qui te tiennent à coeur, ça vient pas tout seul. Ici, le plaisir sera mêlé de belles chocottes.
 
-Mais surtout, cette année est la deuxième année où je me rends à certains événements. Ca implique un changement de sémantique : le passage de "rencontrer" à "revoir" des gens, avec tout ce que ça comporte de promesses de discussions encore plus épaisses !
+Mais surtout, cette année est la deuxième année où je me rends à certains événements. Ca implique un changement de sémantique : le passage de "rencontrer" à "revoir" des gens, avec tout ce que ça comporte de promesses de discussions encore plus épaisses.
 
-Bon printemps à tous, n'oubliez pas de regarder les plantes bourgeonner !
+
+Fin de ce récap.
+
+Bon printemps à tous et n'oubliez pas de regarder les plantes bourgeonner !
