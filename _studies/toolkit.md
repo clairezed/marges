@@ -201,6 +201,9 @@ Pense à virer les infos EXIF des photos aussi, elles seront plus légères apr�
 - [Simple Sharing Buttons Generator](https://simplesharingbuttons.com) : Create light-weight, mobile-friendly sharing buttons for Facebook, Twitter, Google+ and other social networks -- it's all completely free!
 - [flatpickr](https://github.com/chmln/flatpickr) : lightweight and powerful datetimepicker with no dependencies
 
+### Data
+
+- [Data Permissions Catalogue](https://catalogue.projectsbyif.com/)
 
 ## DevOps
 
@@ -285,12 +288,13 @@ avec édition collaborative :
 - [Peek - an animated GIF recorder](https://github.com/phw/peek)
 
 
-## Collaboration / productivité
+## Collaboration / organisation
 
 - [Project Groupie](https://projectgroupie.com/) : ProjectGroupie is a place to find awesome software projects to join and collaborate. Create your own project and find skilled like-minded individuals to help bring your idea to life.
 - [Remote Starter Kit](https://www.remotestarterkit.com/)
 - [toggl](https://toggl.com/) : time tracking
 - [todoist]() : todo list qui permet aussi de tracker, un peu
+- [GetPlan](https://getplan.co/pricing)
 
 ### Gestion de projet
 
@@ -318,3 +322,13 @@ https://www.open-dsi.fr/crm-open-source-gratuit-entreprises-open-dsi/
 ## Socio
 
 - [Microsoft Diversity Training](https://www.microsoft.com/en-us/diversity/training)
+
+## Vrac - com
+
+### Stickers
+
+- [Stickermule](https://www.stickermule.com/).
+- [Proformats]() à Bordeaux
+- [pixartprinting](https://www.pixartprinting.fr/)
+
+Tu croiseras peut-être dans les prochains jours Thomas Parisot de DTC, qui est bien bien calé sur l'édition numérique

@@ -99,6 +99,12 @@ https://www.gcoop.coop/
 
 Coopérative de dev. Mais peut-être tout de même plus orientés bien-être personnel, au travail, que changement social ?
 
+#### Metastrat
+
+collectif d'indépendants soucieux des enjeux économiques, écologiques et sociétaux. #Apps #Website #Design #Game #Chatbot #Freelance
+
+http://metastrat.com/fr/
+
 ### Clusters d'innovation sociale
 
 Cf la logique des PTCE (Pôles territoriaux de coopération économique)
@@ -280,10 +286,6 @@ Voir aussi Mutualab, à Lille (avec VanDamme), même si l'espace de coworking ne
 
 ##### tags: `cool probable` `lille`
 
-#### Cap Collectif
-http://www.cap-collectif.com/
-
-Une startup civique au service de la transformation de la société
 
 #### La Fabulerie
 
@@ -311,8 +313,13 @@ Une partie des échappés de CapitaineTrain depuis que CapitaineTrain est devenu
 
 Agende de développement éthique, avec un [gitlab ouvert](https://source.ind.ie/indienet).
 
-
 [Indie](https://ind.ie/)
+
+#### Mnemotix
+
+SCIC, constituées principalement de chercheurs, qui font de l'analyse de données, de la visualisation, du sémantique, au service des transitions (né d'un projet de recherche de Sofia Antipolis)
+
+[Mnemotix](http://mnemotix.com/)
 
 ### Dev solo qui font de l'ESS
 

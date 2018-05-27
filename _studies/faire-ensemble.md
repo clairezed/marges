@@ -151,3 +151,12 @@ Amélioration de processus :
 - **créativité** (vert)
 - **intuition**, émotions (rouge)
 - **processus**, organisation de la pensée (bleu)
+
+## Jeu du roi et de la reine
+
+-> réappropriation de son pouvoir d'action
+
+reine
+Batisseurs - Sages
+Guerriers - Artistes
+Inconnu
