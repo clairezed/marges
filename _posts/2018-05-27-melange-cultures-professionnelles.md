@@ -40,7 +40,7 @@ Jusqu'à ce que ça ne le soit plus.
 
 ### La dépunkisation
 
-Au fil du temps, l'association a grossi et s'est professionalisée. Son activité a doublé, et j'ai dû laisser de côté tout ce qui était un tant soit peu marrant pour me concentrer sur mon coeur de métier : l'administratif.
+Au fil du temps, l'association a grossi et s'est professionnalisée. Son activité a doublé, et j'ai dû laisser de côté tout ce qui était un tant soit peu marrant pour me concentrer sur mon coeur de métier : l'administratif.
 Et, comme beaucoup de gens, je crois que fondamentalement je n'aime PAS l'administratif (après 4 ans en poste, il était temps que je me l'avoue).
 
 Bref. Ce n'était plus drôle, et je décidai de quitter mon boulot.
@@ -122,7 +122,7 @@ Etre minimal stack, c'est aussi faire le choix d'une courbe d'apprentissage à l
 
 Concrètement, ça signifie qu'à résultat + ou - équivalent, je préfère partir sur la technologie qui sera la plus simple à apprendre, la plus documentée et la plus éprouvée.
 
-Quelle est l'idée derrière mininal stack ? C'est la recherche d'une certaine frugalité, et de l'efficience : consommer le moins de ressources possibles pour arriver au résultat espéré.
+Quelle est l'idée derrière minimal stack ? C'est la recherche d'une certaine frugalité, et de l'efficience : consommer le moins de ressources possibles pour arriver au résultat espéré.
 
 ## Fluid stack
 
@@ -143,7 +143,7 @@ C'est, en somme, faire en sorte que son parcours professionnel suive et soit en 
 
 Etre fluid stack, c'est aussi, et en conséquence avec ce que je viens de d'écrire, assumer une posture d'apprentissage constant.
 
-Pour moi, ce qui est punk, c'est de reconnaitre qu'il y a plein de choses qu'on ne sait pas, mais de réussir à s'en moquer, de se dire que ce n'est pas grave. Et même tznt mieux, qu'on ne sache pas tout : un projet où on sait d'emblée tout faire, c'est généralement un projet où on s'ennuie !
+Pour moi, ce qui est punk, c'est de reconnaitre qu'il y a plein de choses qu'on ne sait pas, mais de réussir à s'en moquer, de se dire que ce n'est pas grave. Et même tant mieux, qu'on ne sache pas tout : un projet où on sait d'emblée tout faire, c'est généralement un projet où on s'ennuie !
 
 De toute façon, à partir du moment où on cherche à mener sa barque vers des territoires inexplorés (aller vers de l'UX ou de la facilitation quand on vient du back end, par exemple), alors on se retrouve en position de junior.
 
@@ -174,7 +174,7 @@ C'est peut-être une question de procédés ou de méthodologies inaboutis, ou b
 
 Et donc, je me dis : quitte à produire des prototypes plutôt que des produit finis, autant l'assumer dès le début. Je réalise des croquis, des ébauches, plus que des statues en marbre conçues pour durer. Et c'est peut-être dans ces esquisses que réside ma plus-value.
 
-Réussir à accompagner des porteurs de projets, à ordonner leurs enjeux et leurs idées, à mettre en place une maïeutique, "l'art de faire accoucher les esprits", c'est peut-être là que se situe la plus grande valeur (d'autant plus dans un monde où la maîtrise techologique tend à se démocratiser ou à s'automatiser).
+Réussir à accompagner des porteurs de projets, à ordonner leurs enjeux et leurs idées, à mettre en place une maïeutique, "l'art de faire accoucher les esprits", c'est peut-être là que se situe la plus grande valeur (d'autant plus dans un monde où la maîtrise technologique tend à se démocratiser ou à s'automatiser).
 
 Et puis, la notion de produit fini conçu pour durer, c'est peut-être un peu obsolète, non ? Combien des sites qu'on a réalisé il y a plus de 5 ans sont encore en ligne ? Est-ce que dans 3 ou 4 ans, ce framework que j'apprends sera encore utilisé ?
 
@@ -203,7 +203,7 @@ Réaliser un projet web, c'est définir de façon précise les règles de foncti
 
 Comment vous voulez que ça ne soit pas politique ! [Code is law](https://framablog.org/2010/05/22/code-is-law-lessig/), comme disait l'autre.
 
-Le code est binaire, une suite de portes logiques. Cette binarité est d'ailleurs l'une des vertues que j'ai appréciées le plus lors de mon changement d'orientation : mon travail a soudainement gagné énormément en concret, en regard aux tâches administratives intangibles de mon précédent poste.
+Le code est binaire, une suite de portes logiques. Cette binarité est d'ailleurs l'une des vertus que j'ai appréciées le plus lors de mon changement d'orientation : mon travail a soudainement gagné énormément en concret, en regard aux tâches administratives intangibles de mon précédent poste.
 
 Avec la mise en oeuvre d'un projet web, on est donc dans du concret, du pratique, du détail. Il n'y a pas moyen de se cacher derrière l'énonciation de grands principes généraux un peu flous.
 
