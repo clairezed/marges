@@ -1,15 +1,18 @@
 ---
 layout: post
-title: Le joyeux mélange des cultures professionnelles : soliste de haut-niveau, cheffe d’orchestre ou femme-orchestre ?
+title: "Le joyeux mélange des cultures professionnelles : soliste de haut-niveau, cheffe d’orchestre ou femme-orchestre ?"
 category: good_job
-tags: [politique]
+tags: [punk, politique]
 
 ---
 
-Retranscription de l'intervention donnée à SudWeb le 25 mai 2018.
-Lors de la 6e édition de SudWeb qui vient de se terminer, je donnais ma toute [toute première intervention](https://sudweb.fr/2018/programme/#le-joyeux-melanges-des-cultures-professionnelles-soliste-de-haut-niveau-cheffe-dorchestre-ou-femme-orchestre) en solo dans une conférence web. Comme, les semaines précédentes, je n'ai cessais d'écrire/raturer/supprimer/préciser, j'en ai une trame rédigée assez précise. Voici donc une retranscription plus ou moins fidèle de ce que j'ai raconté, agrémenté de quelques infos, données et liens supplémentaires.
+Lors de la 8e édition de SudWeb qui vient de se terminer, je donnais ma toute toute [première intervention](https://sudweb.fr/2018/programme/#le-joyeux-melanges-des-cultures-professionnelles-soliste-de-haut-niveau-cheffe-dorchestre-ou-femme-orchestre) en solo dans une conférence web (et c'est aussi stressant que ce que j'anticipais).
 
+Comme, les semaines précédentes, je n'ai cessé d'écrire / raturer / supprimer / expliciter, j'en ai une trame rédigée assez précise. Voici donc une retranscription plus ou moins fidèle de ce que j'ai raconté, agrémenté de quelques infos supplémentaires.
 <!--more-->
+
+C'est parti !
+
 
 ## Avant, j'étais une cyber punk associative
 
@@ -64,9 +67,10 @@ Pourquoi est-ce que je pars ? Par manque de punk, sûrement :)
 Fondamentalement, parce que j'avais envie de choisir mes projets, de choisir avec qui je travaille... Mais aussi, parce que je n'avais pas envie de choisir un rôle, une étiquette, je ne voulais pas me spécialiser.
 
 Je me souviens des entretiens semi-annuels dans mon ancienne boîte, quand on me demandait mes envies de formation c'était un calvaire !
-"Alors.... L'admin-sys j'aimerais en savoir plus parce que ça me fout les jetons, l'intégration c'est un domaine qui me plaît et que j'aimerais bien creuser, la gestion de projet ça m'intéresse aussi pas mal..."
 
-Mouais. Comme la tentation d'être un couteau suisse (même si je reste encore assez proche du canif, pour le moment).
+*"Alors.... L'admin-sys j'aimerais en savoir plus parce que ça me fout les jetons, l'intégration c'est un domaine qui me plaît et que j'aimerais bien creuser, la gestion de projet ça m'intéresse aussi pas mal..."*
+
+Envie de tout, comme la tentation d'être un couteau suisse (même si je reste encore assez proche du canif pour le moment, hein).
 
 Au fond, ce qui m'intéresse, c'est d'être capable de maîtriser dans les grandes lignes toute la chaîne de production de bout en bout, c'est d'avoir une vue d'ensemble sur un projet.
 
@@ -88,7 +92,7 @@ Donc, je ne veux être ni spécialisée, ni gestionnaire, ok. C'est quoi que je 
 
 Mais.. Mais... mais en fait...
 
-Oh purée, ma vocation, ce serait d'être fullstack ? (mot à prononcer avec une grimace) (petit à petit, j'ai intégré les codes et valeurs de mon nouveau secteur, et à ce que j'ai cru comprendre c'est un mot à prononcer avec une légère expression de dégoût).
+Oh purée, ma vocation, ce serait d'être fullstack ? (mot à prononcer avec une grimace, car petit à petit, j'ai intégré les codes et valeurs de mon nouveau secteur, et à ce que j'ai cru comprendre c'est un terme à prononcer avec une légère expression de dégoût).
 
 Est-ce que c'est vraiment ça que je veux ? Etre une "pseudo-dev de pacotille, qui dit savoir tout faire et qui en fait ne sait pas faire grand chose", ce genre de profil moqué par les VRAIS développeurs ?
 
@@ -227,4 +231,4 @@ Une stack minimal, fluide et politique, de quoi faire de la bidouille numérique
 Où est-ce que j'en suis de ce programme ? Au tout début. C'est autant une feuille de route qu'un retour d'expérience, une manière de trouver une légitimité à mon profil hybride. Je suis encore une toute jeune freelance, j'avance à petit pas, et je ne sais pas encore si ce type de positionnement est faisable et tenable sur le long terme. Mais j'ai grave envie de le tenter.
 
 
-*Une question ? Une remarque ? Vous partagez le même genre de positionnement ? Vous pouvez m'alpaguer sur [twitter](https://twitter.com/ZooletteDesBois) ou par [mail](https://www.clairezuliani.com/#contact)*
+*Une question ? Une remarque ? Vous voulez qu'on monte un club punk ? Vous pouvez m'alpaguer sur [twitter](https://twitter.com/ZooletteDesBois) ou par [mail](https://www.clairezuliani.com/#contact)*

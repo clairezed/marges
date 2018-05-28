@@ -4,6 +4,7 @@
       text-transform: uppercase;
       font-weight: 600;
       background-size: 100% 100%;
+      line-height: 1.4;
       span{
         background-image: linear-gradient(180deg, transparent 65%, lighten($brand-primary, 5%) 0);
       }
