@@ -45,12 +45,7 @@ const hitTemplate = function(hit) {
     tags = arrayTags.join(", ")
   }
   // format ------------------
-  let format = ''
-  if (hit.collection && hit.collection == "studies") {
-    format = 'Dossiers';
-  } else {
-    format = 'Dépêches'
-  }
+  let format = 'Dépêches'
 
   return `
     <li class="search-result">

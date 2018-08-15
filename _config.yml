@@ -76,11 +76,5 @@ defaults:
     values:
       layout: "post"
 
-collections:
-  studies:
-    output: true
-    permalink: /:collection/:path/
-    title: Dossiers
-
 # config vars -------------------------------------------------
 reading_speed: 200

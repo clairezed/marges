@@ -18,25 +18,6 @@
   </ul>
 
   <ul class="menu">
-    <li class="menu-header">
-      Formats
-    </li>
-
-    <li class="menu-item {% if page.url contains 'depeches' %}active{% endif %}">
-      <a class="item" href="{{ site.baseurl }}/depeches">
-        Dépêches
-        <span class="menu-label">{{ site.posts.size }}</span>
-      </a>
-    </li>
-    <li class="menu-item {% if page.url contains 'dossiers' %}active{% endif %}">
-      <a class="item" href="{{ site.baseurl }}/dossiers">
-        <span> Dossiers </span>
-        <span class="menu-label">{{ site.studies.size }}</span>
-      </a>
-    </li>
-  </ul>
-
-  <ul class="menu">
   <li class="menu-header"> Lubies </li>
   {% for category in site.categories %}
     {% assign lubie_name = category[0] %}
