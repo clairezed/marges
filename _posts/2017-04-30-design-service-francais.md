@@ -18,7 +18,7 @@ Le référentiel sous forme de [9 grands principes](https://references.modernisa
 
 ## Le portail d'outils et méthodes "Comment faire"
 
-Le portail de méthodes de design de service [comment-faire.modernisation.gouv.fr](http://comment-faire.modernisation.gouv.fr/), inspiré notamment du portail mis en place par Nesta outre Manche (déjà bookmarké [dans ces pages]({{ site.baseurl }}{% link _studies/faire-ensemble.md %})), est sorti dans la semaine, . Pour quelques éléments de contexte autour de ce projet, jeter un coup d'oeil à l'article [le SGMAP apporte son expertise aux administrations](http://www.modernisation.gouv.fr/les-services-publics-se-simplifient-et-innovent/par-la-co-construction/design-de-service-sgmap-apporte-son-expertise-aux-administrations).
+Le portail de méthodes de design de service [comment-faire.modernisation.gouv.fr](http://comment-faire.modernisation.gouv.fr/), inspiré notamment du portail mis en place par Nesta outre Manche (déjà bookmarké [dans ces pages](https://github.com/clairezed/base-de-connaissance/faire-a-plusieurs/methodes.md)), est sorti dans la semaine, . Pour quelques éléments de contexte autour de ce projet, jeter un coup d'oeil à l'article [le SGMAP apporte son expertise aux administrations](http://www.modernisation.gouv.fr/les-services-publics-se-simplifient-et-innovent/par-la-co-construction/design-de-service-sgmap-apporte-son-expertise-aux-administrations).
 
 A noter : le [code du portail](https://github.com/modernisation/comment-faire) est en accès libre sur github, et à ce que je vois c'est donc le framework jekyll (allié à forestry pour l'édition des contenus) qui est utilisé. Ce sont des outils en lesquels je crois, décidément l'administration publique me fait doublement plaisir.
 

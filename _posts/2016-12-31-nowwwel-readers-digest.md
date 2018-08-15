@@ -27,7 +27,7 @@ Quand une agence renommée partage les arcanes de son organisation, il y a gén�
 
 ### Liberté, vie privée, sécurité
 
-Quelques conseils simples pour améliorer la sécurité de sa navigation, sa communication numérique, son partage ou sa sauvegarde de fichiers ou ses mots de passe. C'est sur le [blog de David Larlet](https://larlet.fr/david/blog/2016/militantisme-festif/), membre de Scopyleft, et ça me permet d'alimenter ma [boite à outils]({{ site.baseurl }}{% link _studies/toolkit.md %}).
+Quelques conseils simples pour améliorer la sécurité de sa navigation, sa communication numérique, son partage ou sa sauvegarde de fichiers ou ses mots de passe. C'est sur le [blog de David Larlet](https://larlet.fr/david/blog/2016/militantisme-festif/), membre de Scopyleft, et ça me permet d'alimenter ma [boite à outils](https://github.com/clairezed/base-de-connaissance/boite-a-outils).
 
 
 ## Concevoir pour durer

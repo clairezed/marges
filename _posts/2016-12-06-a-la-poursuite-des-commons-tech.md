@@ -49,8 +49,6 @@ Le versant "libre" de ces outils appartient plutôt à une 3e voie :
 
 Outils développés dans des logiques libres, open source; qu'on retrouve pas mal dans le mouvement civic-tech hors de France.
 
-Pour des exemples, rdv sur la page d'un tout nouveau dossier, [ici-même]({{ site.baseurl }}{% link _studies/tech-changement-social-open-source.md %}), inauguré aujourd'hui pour recenser les solutions ouvertes réutilisables pour différentes fonctions.
-
 ## Pour une réorientation des civic tech
 
 Quelques extraits éclairants, mais je vous invite à lire le texte intégralement, il y a vraiment plein de choses intéressantes.
