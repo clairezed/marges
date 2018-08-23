@@ -24,7 +24,7 @@ Si j'étais en goguette tout le printemps, c'était notamment pour de grandes pr
 
 J'ai eu l'occasion de parler en public durant deux événements printaniers :
 - [Mix-it](https://mixitconf.org/en/), à Lyon en avril, avec le comparse [Thomas Parisot](https://twitter.com/oncletom). Il y a eu des problèmes d'enregistrement de la session, et il ne reste donc aucune trace de ce qu'il s'y est dit.
-- [SudWeb](https://sudweb.fr/2018/) à Anduze en mai, pour un one woman show (seule sur scène, le flip). Ici, il reste une trace écrite (la [retranscription]({ site.baseurl }{% link _posts/2018-05-27-melange-cultures-professionnelles.md %}) que j'ai faite ici-même) et [vidéo](https://vimeo.com/272440240).
+- [SudWeb](https://sudweb.fr/2018/) à Anduze en mai, pour un one woman show (seule sur scène, le flip). Ici, il reste une trace écrite (la [retranscription]({{ site.baseurl }}{% link _posts/2018-05-27-melange-cultures-professionnelles.md %}) que j'ai faite ici-même) et [vidéo](https://vimeo.com/272440240).
 
 L'enchaînement des deux dates était pas mal trouvé, puisque j'avais, pour ma première prise de parole de toute ma vie en tant qu'oratrice, les deux meilleures petites roues qui soient (en la personne de Thomas). Grâce à cette première conf', j'ai pu apprécier de construire une proposition à deux, dans l'échange. Rien de mieux pour détecter des particularismes et affiner un discours ! Aussi, j'ai pu vérifier que, décidement, je ne me sentais jamais autant à l'aise sur scène que lorsque j'avais bossé mon sujet à fond. Pas dit que j'arrive un jour à me contenter d'une semi-improvisation...
 
@@ -37,8 +37,8 @@ Quand ce n'est pas pour faire la mariole sur scène, je suis très heureuse de m
 Je remarque que, dans les événements spécifiquement web, je suis en ce moment plus attirée par les interventions techniques que par les interventions non-techniques. Comme si les idées, je les rencontrais et les croisais déjà beaucoup, alors que j'ai toujours l'impression d'être un peu à la bourre sur la pratique. C'est aussi un peu pour moi comme être au fil du temps de plus en plus attirée par les arts appliquées au détriment des arts plastiques ou des beaux arts. Ce qui m'intéresse, c'est comment les idées s'incarnent de façon tangible dans la vraie vie, comment on donne corps à des intuitions.
 
 Bilan des courses :
-- Mix-it et la [kiwi party](XX) strasbourgeoise ont pleinement pu satisfaire mon envie de me remettre à jour niveau technique ;
-- L'[Intercotour](XX) à Metz et l'événement Nancy ville numérique m'ont reliée à la façon dont le numérique pouvait irriguer un territoire de façon vraiment intelligente
+- Mix-it et la [kiwi party](http://2018.kiwiparty.fr/) strasbourgeoise ont pleinement pu satisfaire mon envie de me remettre à jour niveau technique ;
+- L'[Intercotour](http://www.interconnectes.com/grandest-2018/) à Metz et l'événement Nancy ville numérique m'ont reliée à la façon dont le numérique pouvait irriguer un territoire de façon vraiment intelligente
 - Le Forum des Usages Coopératifs à Brest (oui, c'était tot début juillet, j'empiète un peu sur le 3e trimestre) m'a reconnectée avec la facilitation, la coopération, et le numérique social.
 
 Un trimestre hyper nourricier, c'est top !
