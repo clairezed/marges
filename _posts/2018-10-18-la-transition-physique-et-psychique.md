@@ -127,4 +127,4 @@ A travers cette vitrine, j'ai envie de donner une orientation résolument politi
 
 J'ai aussi envie d'en faire une marque collective ultra légère et sans contrainte. Un étendard qui permette de faire connaître et mettre en réseau des professionnels engagés ; qui permette de constituer des équipes ad hoc et fluides, par affinité, au gré des projets ; qui permette d'expérimenter une foultitude de choses pour un web responsable.
 
-Il y a volontairement très peu de cadres définis pour le fonctionnement de cette agence qui sera l'outil qu'on en fera. Si ça vous intrigue, si vous vous sentez concernés, si vous voulez en discuter, n'hésitez pas : la [boîte mail de l'assembleuse](mailto:bonjour@lassembleuse.fr) est ouverte.
+Il y a volontairement très peu de cadres définis pour le fonctionnement de cette agence qui sera l'outil qu'on en fera. Si ça vous intrigue, si vous vous sentez concernés, si vous voulez en discuter, n'hésitez pas : la [boîte mail de l'assembleuse](https://www.lassembleuse.fr/contact) est ouverte.
