@@ -17,7 +17,7 @@ Il ne s'agit pas tant ici de révolutions (qui impliqueraient un tour complet su
 Je vais prendre le temps de vous raconter ces transitions, au fil des jours, en 3 morceaux :
 - la [transition géographique]({{ site.baseurl }}{% link _posts/2018-10-16-la-transition-geographique.md %})
 - la [transition juridique]({{ site.baseurl }}{% link _posts/2018-10-17-la-transition-juridique.md %})
-- la transition physique et psychique
+- la [transition physique et psychique]({{ site.baseurl }}{% link _posts/2018-10-18-la-transition-physique-et-psychique.md %})
 
 
 
