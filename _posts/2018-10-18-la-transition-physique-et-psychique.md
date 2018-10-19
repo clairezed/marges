@@ -12,7 +12,7 @@ Dernière transition, la plus complexe, la plus longue, celle qui est encore en 
 
 [Retrouver les autres transitions de la fin 2018]({{ site.baseurl }}{% link _posts/2018-10-15-solo-plus-1an-trois-quart.md %})
 
-*En guise de prémbule, sachez qu'il va être question d'effondrement dans les lignes qui suivent. Si cette notion vous est complètement étrangère, vous pouvez prendre un moment pour parcourir [cet article]((https://medium.com/sismique/le-monde-change-et-on-ny-comprend-rien-b63d364830df)), qui fait un bon résumé transversal de la situation actuelle, des courants de pensée co-existant, de leurs leviers d'action...*
+*En guise de prémbule, sachez qu'il va être question d'effondrement dans les lignes qui suivent. Si cette notion vous est complètement étrangère, vous pouvez prendre un moment pour parcourir [cet article](https://medium.com/sismique/le-monde-change-et-on-ny-comprend-rien-b63d364830df), qui fait un bon résumé transversal de la situation actuelle, des courants de pensée co-existant, de leurs leviers d'action...*
 
 
 ## Alignement de planètes et effondrement
