@@ -41,7 +41,7 @@ Le Petit Pré
 2 rue du Petit Pré
 22100 Quévert
 
-Inscription : [lepetitpre@kejal.fr](lepetitpre@kejal.fr)
+Inscription : [lepetitpre@kejal.fr](mailto:lepetitpre@kejal.fr)
 
 [Plus d'infos sur le Petit Pré](https://www.kejal.fr/le-petit-pre-lieu-partage/)
 
