@@ -51,7 +51,7 @@ Commençons donc déjà par supprimer netlify, qui me fournissait hébergement e
 
 La mise en ligne d'un site sur gitlab demande un poil plus de manipulation que sur github. Il faut en passer par la rédaction d'un fichier `gitlab-ci.yml` qui permet de gérer l'intégration et le déploiement continus sur la plateforme. Il y a donc un peu plus de boulot de configuration, mais ça permet aussi, une fois qu'on est à l'aise avec ce fichier, une granularité + fine de cette configuration.
 
-Et qu'est-ce qu'on y met, dans son fichier `gitlab-ci.yml` ? Cette [liste d'exemples de projets][liste gitlab pages] tournant sur gitlab pages est une très bonne ressource pour dégoter un fichier type pour faire tourner votre projet
+Et qu'est-ce qu'on y met, dans son fichier `gitlab-ci.yml` ? Cette [liste d'exemples de projets][liste gitlab pages] tournant sur gitlab pages est une très bonne ressource pour dégoter un fichier type pour faire tourner votre projet.
 
 De mon côté, voici à quoi il ressemble : 
 
@@ -84,7 +84,7 @@ pages:
     - master
 ```
 
-Cette configuration me permet, en testant systématiquement `master`, d'être informée lorsque l'interaction de mon client et du CMS (qui pousse sur la branche `master`) casse pour je ne sais quelle raison la génération du site.
+Cette configuration me permet, en testant systématiquement `master`, d'être par exemple informée lorsque l'interaction de mon client et du CMS (qui pousse sur la branche `master`) casse pour je ne sais quelle raison la génération du site (je parle d'expérience...).
 
 #### Adapter les urls de son site web
 
@@ -95,7 +95,7 @@ baseurl: "/nom-projet"
 url: "https://nom-utilisateur-ou-groupe.gitlab.io"
 ```
 
-Et voilà ! Votre site devrait être en ligne sur https://nom-utilisateur-ou-groupe.gitlab.io/nom-projet !
+Et voilà ! Votre site devrait être en ligne sur [https://nom-utilisateur-ou-groupe.gitlab.io/nom-projet](https://nom-utilisateur-ou-groupe.gitlab.io/nom-projet) !
 
 
 ### Le connecter au nom de domaine personnalisé
@@ -112,15 +112,15 @@ sous-domaine	CNAME	10800	nom-utilisateur-ou-groupe.gitlab.io.
 - je mets bien uniquement l'url du domaine générique gitlab (`nom-utilisateur-ou-groupe.gitlab.io`), sans ajouter celle du projet (`/nom-projet`), 
 - je n'oublie pas de glisser un `.` après `nom-utilisateur-ou-groupe.gitlab.io` (même si à un moment dans la doc ils disent de ne pas le faire. C'est ce qui a marché pour moi, avec mon hébergement chez Gandi, en tout cas).
 
-Puis je retourne à la page de paramérages de mon projet sur gitlab (`Settings` > `Pages`)
+Puis je retourne à la page de paramétrage de mon projet sur gitlab (`Settings` > `Pages`)
 
 On se chargera de la connexion sécurisée par la suite, donc pour le moment je décoche la case "Force domains with SSL certificates to use HTTPS".
 
 Je clique sur le bouton "New domain", et saisi mon domaine (`sous-domaine.domaine.fr`) sans me préoccuper pour le moment des champs "Certificate" ou "Key".
 
-Il me faut maintenant authentifier la propriété de ce domaine avec un nouvel enregistrement DNS, comme indiqué une fois le domaine enregistré.
+Il me faut maintenant authentifier la propriété de ce domaine avec un nouvel enregistrement DNS, comme indiqué une fois qu'on a enregistré son domaine dans les paramètres.
 
-#### L'authentifier avec un enregistrement TXT
+#### Authentifier son domaine avec un enregistrement TXT
 
 Retour chez mon fournisseur de nom de domaine pour saisir l'enregistrement TXT qui vient de m'être donné : 
 
@@ -129,6 +129,15 @@ _gitlab-pages-verification-code.mon-sous-domaine	TXT	1800	"gitlab-pages-verifica
 ```
 
 Après un court instant, de retour dans la page de paramètres de mon projet gitlab, mon nom de domaine apparaît bien comme vérifié. Félicitation moi-même !
+
+#### Mettre à jour l'url du site
+
+Bis repetita, reste à mettre à jour mon fichier jekyll `_config.yml` comme suit : 
+
+```yaml
+# baseurl: "/nom-projet"
+url: "http://sous-domaine.domaine.fr"
+```
 
 ### Connexion https
 
@@ -151,7 +160,7 @@ Ainsi, tout ce que j'explique ci-dessus est valable et fonctionne pour un site j
 
 Ainsi en est-il du site de ce client. J'ai organisé les pages en dossiers et, pour certaines, sous-dossiers, puis automatisé le paramétrage des pages de sous-dossiers à l'aide de `defaults` dans mon fichier `_config.yml`. Dès lors que mes pages n'ont pas de sous-pages (pas de sous-dossier ou sous_dossier vide), les liens sont parfaitement gérés. Dans le cas contraire, gitlab pages me gratifie d'une 404.
 
-Peut-être est-ce en lien avec la façon dont gitlab [résoud les urls ambigües](https://docs.gitlab.com/ee/user/project/pages/introduction.html#resolving-ambiguous-urls) ? Peut-être, mais au fond peu m'importe. Le simple fait qu'il n'y ait pas d'équivalence entre le comportement de mon site en local, sur mon ordinateur de développement, et sur gitlab pages, est une vraie douleur dans les fesses. Je n'ai pas envie de faire un surcroit d'efforts pour me conformer au particularisme de gitlab pages, d'autant plus que cette solution ne me convainc pas à 100%.
+Peut-être est-ce en lien avec la façon dont gitlab [résoud les urls ambigües](https://docs.gitlab.com/ee/user/project/pages/introduction.html#resolving-ambiguous-urls) ? Peut-être, mais au fond peu m'importe. Le simple fait qu'il n'y ait pas d'équivalence entre le comportement de mon site en local, sur mon ordinateur de développement, et sur gitlab pages, est une vraie douleur dans les fesses. Je n'ai pas envie de faire un surcroît d'efforts pour me conformer au particularisme de gitlab pages, d'autant plus que cette solution d'hébergement ne me convainc pas à 100%.
 
 J'ai donc envie de pousser la logique un peu plus loin et d'héberger le site ailleurs que sur gitlab pages. Ce sera l'objet d'un prochain article.
 
