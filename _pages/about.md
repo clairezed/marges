@@ -4,7 +4,7 @@ title: Qu'est-ce donc que ceci ?
 permalink: /c-est-quoi-don
 ---
 
-Ce carnet est rédigé par une développeuse web trentenaire qui veut **ré-assembler ensemble des petites pièces disparates**.
+Ce carnet est rédigé par une [développeuse web](https://www.clairezuliani.com) trentenaire qui veut **ré-assembler ensemble des petites pièces disparates**.
 
 Après avoir fait des études et exercé le métier de **cultureuse associative** (et en être revenue), je suis depuis une poignée d'années **tuyauteuse de code** (développeuse principalement back-end, quoi).
 
@@ -17,5 +17,6 @@ Ce carnet, je l'ouvre à un moment où :
 - Je vois à quel point je m'alimente des écrits et partages d'autres personnes, et je me dis (non certainement sans une infime dose de prétention) que ce que je pourrai moi-même rédiger ou partager pourrait aussi nourrir d'autres personnes. C'est une façon de **rendre à la communauté ce que je dois à la communauté**, en somme.
 - J'ai besoin de discuter avec des personnes qui ont des questionnements similaires aux miens, et afficher ces préoccupations publiquement me semble pas le pire des moyens pour **faciliter la rencontre avec des pairs**.
 
-Si vous avez des suggestions à me faire, des questions à réfléchir avec moi, des propositions de lectures, ou des propositions de projets, ou des propositions de missions...\\
+Si vous avez des suggestions à me faire, des questions à réfléchir avec moi, des propositions de lectures, ou des propositions de projets, ou des propositions de missions...
+
 **Proposez donc, je n'attends que ça !**
