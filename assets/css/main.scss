@@ -58,8 +58,13 @@ $brand-primary:         #ef451a;
 $brand-primary-light:   lighten($brand-primary, 5%);
 $brand-primary-dark:    darken($brand-primary, 5%);
 
-
-
+// Custom
+.highlight {
+	margin: 0 0 1rem;
+}
+.highlighter-rouge {
+	font-size: 0.9em;
+}
 // Use media queries like this:
 // @include media-query($on-palm) {
 //     .wrapper {
