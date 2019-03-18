@@ -5,9 +5,9 @@ category: binary_transition
 tags: [dinan, ess, numérique]
 ---
 
-Le 23 janvier 2019, [Thomas Parisot](https://oncletom.io/) et moi proposions à Dinan un atelier "Numérique et Economie Sociale et Solidaire (ESS)", tout à fait expérimental. Le but ? Avoir un rapide aperçu des besoins des acteurs de l'ESS sur mon nouveau territoire.
+Le 23 janvier 2019, [Thomas Parisot](https://oncletom.io/) et moi proposions à Dinan un atelier "Numérique et Economie Sociale et Solidaire (ESS)", tout à fait expérimental. Le but ? Avoir un rapide aperçu des besoins des acteurs de l'ESS sur mon nouveau territoire. Retour sur le déroulement de cet atelier et ce qui en est sorti.
 
-
+<!--more-->
 
 ## Pourquoi cet atelier ?
 
