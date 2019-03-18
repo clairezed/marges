@@ -170,6 +170,7 @@ J'ai donc envie de pousser la logique un peu plus loin et d'héberger le site ai
 - [Page d'entrée de la documentation des gitlab pages][doc generale]
 - [Page de documentation custom domain et SSL][doc domain ssl]
 - [Page de documentation let's encrypt pour gitlab pages](https://docs.gitlab.com/ee/user/project/pages/lets_encrypt_for_gitlab_pages.html)
+- [Automatiser le renouvellement let's encrypt](https://marklapierre.net/letsencrypt-auto-gitlab-ci/)
 
 
 [liste gitlab pages]: https://gitlab.com/pages
